@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Policy — LoomSci</title>
+  <style>
+    
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --hero-bg: #ffffff;
+      --hero-text: #1a1a1a;
+      --hero-accent: #1a1a1a;
+      --body-bg: #ffffff;
+      --card-bg: #fafafa;
+      --card-border: #eeeeee;
+      --card-hover-border: #1a1a1a;
+      --card-shadow: 0 1px 3px rgba(0,0,0,0.03);
+      --text: #1a1a1a;
+      --text-secondary: #666666;
+      --text-muted: #aaaaaa;
+      --accent: #1a1a1a;
+      --tag-bg: #f5f5f5;
+      --tag-text: #777777;
+      --nav-bg: #ffffff;
+      --nav-text: #1a1a1a;
+      --heading-font: "Georgia", "Noto Serif SC", serif;
+      --radius: 8px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                   "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      background: var(--body-bg);
+      color: var(--text);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Nav */
+    .nav {
+      background: var(--nav-bg);
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 32px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      color: var(--nav-text);
+    }
+
+    .nav-name {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 24px;
+    }
+
+    .nav-link {
+      font-size: 0.88rem;
+      color: var(--nav-text);
+      text-decoration: none;
+      opacity: 0.75;
+      transition: opacity 0.2s;
+    }
+
+    .nav-link:hover, .nav-link.active { opacity: 1; }
+
+    /* Footer */
+    .footer {
+      border-top: 1px solid var(--card-border);
+      padding: 28px 0;
+      margin-top: 48px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 32px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .footer-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .footer-sep { opacity: 0.4; }
+
+    .footer-right {
+      display: flex;
+      gap: 20px;
+    }
+
+    .footer-link {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+
+    .footer-link:hover { color: var(--accent); }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .nav-inner { padding: 0 18px; }
+      .nav-name { display: none; }
+      .nav-links { gap: 16px; }
+      .nav-link { font-size: 0.82rem; }
+      .footer-inner { padding: 0 18px; flex-direction: column; align-items: flex-start; }
+    }
+    
+
+    .page {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 56px 32px;
+    }
+
+    .page h1 {
+      font-family: var(--heading-font);
+      font-size: 2.4rem;
+      font-weight: 700;
+      margin-bottom: 32px;
+      letter-spacing: -0.03em;
+    }
+
+    .page h2 {
+      font-family: var(--heading-font);
+      font-size: 1.4rem;
+      font-weight: 600;
+      margin: 36px 0 16px;
+    }
+
+    .page p, .page ul {
+      font-size: 1.05rem;
+      color: var(--text-secondary);
+      line-height: 1.8;
+      margin-bottom: 18px;
+    }
+
+    .page ul { padding-left: 20px; }
+    .page li { margin-bottom: 6px; }
+    .page strong { color: var(--text); }
+
+    @media (max-width: 640px) {
+      .page { padding: 36px 18px; }
+      .page h1 { font-size: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  
+    <nav class="nav">
+      <div class="nav-inner">
+        <a class="nav-brand" href="https://www.loomsci.com/">
+          <span class="nav-name">LoomSci</span>
+        </a>
+        <div class="nav-links"><a class="nav-link" href="https://www.loomsci.com/">Home</a><a class="nav-link" href="https://www.loomsci.com/about.html">About</a><a class="nav-link active" href="https://www.loomsci.com/policy.html">Policy</a></div>
+      </div>
+    </nav>
+
+  <div class="page">
+    <h1>Policies</h1>
+
+    <h2>Content Policy</h2>
+    <p>All content published on LoomSci is generated with the assistance of AI tools and reviewed by human editors. We strive for accuracy and fairness in every article we publish.</p>
+    <ul>
+      <li>We cite original research papers and provide links to source material.</li>
+      <li>AI-generated content is clearly identified as such.</li>
+      <li>We do not publish content that misrepresents scientific findings.</li>
+      <li>Corrections are made promptly when errors are identified.</li>
+    </ul>
+
+    <h2>Privacy Policy</h2>
+    <p>LoomSci respects your privacy. We collect minimal data necessary to operate the site:</p>
+    <ul>
+      <li><strong>Analytics:</strong> We may use privacy-respecting analytics to understand site traffic. No personally identifiable information is collected.</li>
+      <li><strong>Cookies:</strong> We use only essential cookies required for site functionality.</li>
+      <li><strong>Third-party services:</strong> Our site may embed content from external platforms (e.g., Discourse forums). Those services have their own privacy policies.</li>
+    </ul>
+    <p>We do not sell, share, or distribute personal information to third parties.</p>
+
+    <h2>Copyright</h2>
+    <p>Original content on LoomSci is licensed under <strong>Creative Commons Attribution 4.0 International (CC BY 4.0)</strong> unless otherwise noted. You are free to share and adapt our content with attribution.</p>
+    <p>Quoted scientific papers and figures remain the property of their respective authors and publishers.</p>
+
+    <h2>Disclaimer</h2>
+    <p>The content on LoomSci is for informational purposes only. While we strive for accuracy, we make no warranties about the completeness or reliability of the information. Scientific understanding evolves; always consult original sources for critical decisions.</p>
+
+    <h2>Contact</h2>
+    <p>For questions about our policies, email <strong>qiji.list@gmail.com</strong>.</p>
+    <p style="color: var(--text-muted); font-size: 0.85rem;">Last updated: 2026</p>
+  </div>
+
+  
+    <footer class="footer">
+      <div class="footer-inner">
+        <div class="footer-left">
+          <span class="footer-copy">© 2026 LoomSci</span>
+          <span class="footer-sep">·</span>
+          <span class="footer-tagline">Science for everyone</span>
+        </div>
+        <div class="footer-right">
+          <a class="footer-link" href="https://www.loomsci.com/about.html">About</a>
+          <a class="footer-link" href="https://www.loomsci.com/policy.html">Policy</a>
+        </div>
+      </div>
+    </footer>
+</body>
+</html>

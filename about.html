@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — LoomSci</title>
+  <style>
+    
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --hero-bg: #ffffff;
+      --hero-text: #1a1a1a;
+      --hero-accent: #1a1a1a;
+      --body-bg: #ffffff;
+      --card-bg: #fafafa;
+      --card-border: #eeeeee;
+      --card-hover-border: #1a1a1a;
+      --card-shadow: 0 1px 3px rgba(0,0,0,0.03);
+      --text: #1a1a1a;
+      --text-secondary: #666666;
+      --text-muted: #aaaaaa;
+      --accent: #1a1a1a;
+      --tag-bg: #f5f5f5;
+      --tag-text: #777777;
+      --nav-bg: #ffffff;
+      --nav-text: #1a1a1a;
+      --heading-font: "Georgia", "Noto Serif SC", serif;
+      --radius: 8px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                   "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      background: var(--body-bg);
+      color: var(--text);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Nav */
+    .nav {
+      background: var(--nav-bg);
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 32px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      color: var(--nav-text);
+    }
+
+    .nav-name {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 24px;
+    }
+
+    .nav-link {
+      font-size: 0.88rem;
+      color: var(--nav-text);
+      text-decoration: none;
+      opacity: 0.75;
+      transition: opacity 0.2s;
+    }
+
+    .nav-link:hover, .nav-link.active { opacity: 1; }
+
+    /* Footer */
+    .footer {
+      border-top: 1px solid var(--card-border);
+      padding: 28px 0;
+      margin-top: 48px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 32px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .footer-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .footer-sep { opacity: 0.4; }
+
+    .footer-right {
+      display: flex;
+      gap: 20px;
+    }
+
+    .footer-link {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+
+    .footer-link:hover { color: var(--accent); }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .nav-inner { padding: 0 18px; }
+      .nav-name { display: none; }
+      .nav-links { gap: 16px; }
+      .nav-link { font-size: 0.82rem; }
+      .footer-inner { padding: 0 18px; flex-direction: column; align-items: flex-start; }
+    }
+    
+
+    .page {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 56px 32px;
+    }
+
+    .page h1 {
+      font-family: var(--heading-font);
+      font-size: 2.4rem;
+      font-weight: 700;
+      margin-bottom: 32px;
+      letter-spacing: -0.03em;
+    }
+
+    .page h2 {
+      font-family: var(--heading-font);
+      font-size: 1.4rem;
+      font-weight: 600;
+      margin: 36px 0 16px;
+    }
+
+    .page p {
+      font-size: 1.05rem;
+      color: var(--text-secondary);
+      line-height: 1.8;
+      margin-bottom: 18px;
+    }
+
+    .page strong { color: var(--text); }
+
+    @media (max-width: 640px) {
+      .page { padding: 36px 18px; }
+      .page h1 { font-size: 1.8rem; }
+    }
+  </style>
+</head>
+<body>
+  
+    <nav class="nav">
+      <div class="nav-inner">
+        <a class="nav-brand" href="https://www.loomsci.com/">
+          <span class="nav-name">LoomSci</span>
+        </a>
+        <div class="nav-links"><a class="nav-link" href="https://www.loomsci.com/">Home</a><a class="nav-link active" href="https://www.loomsci.com/about.html">About</a><a class="nav-link" href="https://www.loomsci.com/policy.html">Policy</a></div>
+      </div>
+    </nav>
+
+  <div class="page">
+    <h1>About LoomSci</h1>
+
+    <p><strong>LoomSci</strong> is a science communication platform dedicated to making cutting-edge research accessible to everyone. We believe that scientific knowledge should not be locked behind paywalls or buried in jargon — it belongs to all of us.</p>
+
+    <h2>Our Mission</h2>
+
+    <p>We translate complex scientific discoveries into clear, engaging narratives that anyone can understand. From quantum physics to artificial intelligence, from materials science to robotics — if it advances human knowledge, we want to tell that story.</p>
+
+    <h2>AI-Powered Communication</h2>
+
+    <p>We live in an extraordinary moment. Artificial intelligence can now help us read, understand, and explain scientific papers at scale. LoomSci sits at this intersection — using AI not to replace human judgment, but to amplify it. Our pipeline transforms arXiv preprints into polished, accurate science journalism, while human editors ensure every story meets the highest standards.</p>
+
+    <h2>Our Community</h2>
+
+    <p>LoomSci is part of the <a href="https://kscn.discourse.group" style="color: var(--accent);">Know Science CN</a> community, a growing network of science enthusiasts, researchers, and communicators who believe that science literacy is a public good.</p>
+
+    <h2>Contact</h2>
+
+    <p>We'd love to hear from you. Reach us at <strong>qiji.list@gmail.com</strong>.</p>
+  </div>
+
+  
+    <footer class="footer">
+      <div class="footer-inner">
+        <div class="footer-left">
+          <span class="footer-copy">© 2026 LoomSci</span>
+          <span class="footer-sep">·</span>
+          <span class="footer-tagline">Science for everyone</span>
+        </div>
+        <div class="footer-right">
+          <a class="footer-link" href="https://www.loomsci.com/about.html">About</a>
+          <a class="footer-link" href="https://www.loomsci.com/policy.html">Policy</a>
+        </div>
+      </div>
+    </footer>
+</body>
+</html>
