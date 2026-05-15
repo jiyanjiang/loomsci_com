@@ -60,11 +60,7 @@
   <!-- MAIN -->
   
 <div class="article">
-  
-  <img class="article-hero-img" src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_13993.jpg" alt="" />
-  
-
-  <h1>Drawing Algebraic Geometry: A Diagrammatic Language Bridges Polynomials and Quantum Circuits</h1>
+  <h1 class="article-title">Drawing Algebraic Geometry: A Diagrammatic Language Bridges Polynomials and Quantum Circuits</h1>
 
   <div class="article-meta">
     <span>May 15, 2026</span>
@@ -76,15 +72,18 @@
     
   </div>
 
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_13993.jpg" alt="New diagrammatic languages like GAG let mathematicians and quantum computer scientists draw polynomial equations and quantum circuits as pictures, revealing deep structural connections." />
+    
+    <figcaption class="article-hero-caption">New diagrammatic languages like GAG let mathematicians and quantum computer scientists draw polynomial equations and quantum circuits as pictures, revealing deep structural connections.</figcaption>
+    
+  </figure>
+  
+
   <div class="article-body">
-    <h1 id="drawing-algebraic-geometry-a-diagrammatic-language-bridges-polynomials-and-quantum-circuits">Drawing Algebraic Geometry: A Diagrammatic Language Bridges Polynomials and Quantum Circuits</h1>
-<p><em>15 May 2026, Yanjiang</em></p>
-<p><img alt="heading" src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_13993.jpg"></p>
-<blockquote>
-<p>New diagrammatic languages like GAG let mathematicians and quantum computer scientists draw polynomial equations and quantum circuits as pictures, revealing deep structural connections.</p>
-</blockquote>
-<p>Modern algebra is built on symbols: variables, polynomials, and ideals — abstractions that live on the page, manipulated by rules learned in school. But what if you could do algebra by drawing pictures, and those pictures were not merely illustrations, but the mathematics itself? That is the central claim of <strong>Graphical Algebraic Geometry (GAG)</strong>, a new family of diagrammatic languages introduced in a preprint (arXiv:2605.13993) by Dichuan Gao, Razin A. Shaikh, and Aleks Kissinger.</p>
-<p>At its heart, GAG extends the tradition of "graphical calculus" — a way of representing mathematical structures as networks of wires and boxes, where each diagram stands for a composition of operations. The best-known example is <strong>Graphical Linear Algebra (GLA)</strong>, which represents linear maps between vector spaces as diagrams of spiders and cups. GLA has proven remarkably powerful: it is a complete language for linear algebra, meaning every true equation corresponds to a diagram that can be transformed into an equivalent one using a small set of rewrite rules. Now, Gao and colleagues ask: can we do the same for <strong>algebraic geometry</strong> — the study of solutions to polynomial equations?</p>
+    <p>Modern algebra is built on symbols: variables, polynomials, and ideals — abstractions that live on the page, manipulated by rules learned in school. But what if you could do algebra by drawing pictures, and those pictures were not merely illustrations, but the mathematics itself? That is the central claim of <strong>Graphical Algebraic Geometry (GAG)</strong> , a new family of diagrammatic languages introduced in a preprint (arXiv:2605.13993) by Dichuan Gao, Razin A. Shaikh, and Aleks Kissinger.</p>
+<p>At its heart, GAG extends the tradition of "graphical calculus" — a way of representing mathematical structures as networks of wires and boxes, where each diagram stands for a composition of operations. The best-known example is <strong>Graphical Linear Algebra (GLA)</strong> , which represents linear maps between vector spaces as diagrams of spiders and cups. GLA has proven remarkably powerful: it is a complete language for linear algebra, meaning every true equation corresponds to a diagram that can be transformed into an equivalent one using a small set of rewrite rules. Now, Gao and colleagues ask: can we do the same for <strong>algebraic geometry</strong> — the study of solutions to polynomial equations?</p>
 <p>The answer, it turns out, is yes. The team constructs two symmetric monoidal categories: <strong>GCA</strong>, built from cospans of finitely generated commutative algebras, and <strong>GAG</strong>, built from spans of affine varieties. The key result is that these two categories are equivalent, providing a formal bridge between the algebraic perspective (polynomial rings, ideals) and the geometric one (solution sets, varieties). More strikingly, the authors prove a completeness theorem: every true statement in the category can be derived from a finite set of diagrammatic rewrite rules. This is no small feat — it means that algebraic geometry, a field often seen as the pinnacle of abstraction, can be studied by drawing and rewriting pictures.</p>
 <p>Think of it this way: if GLA is a universal diagrammatic language for linear algebra, GAG is its cousin for algebraic geometry. But the analogy runs deeper. Just as GLA is closely related to the <strong>ZX calculus</strong> — a graphical language for quantum computing over qubits — GAG turns out to be intimately connected to the <strong>ZH calculus</strong>, a language designed for qudit-based quantum circuits over finite fields. The team shows that the qudit ZH calculus is precisely an extension of GAG, in the same sense that the ZX calculus is an extension of GLA. This is not a superficial correspondence; the authors provide a rigorous construction showing that computing amplitudes in qudit ZH requires only a constant number of queries to a GAG oracle. The connection is structural and complexity-theoretic, not merely metaphorical.</p>
 <h2 id="from-polynomials-to-p-hard-problems">From Polynomials to #P-Hard Problems</h2>
@@ -100,13 +99,11 @@
 <p>Where does this leave us? The team has built a language that can talk about algebraic geometry, counting problems, and quantum circuits using the same visual grammar. It is a remarkable feat of unification — the kind that mathematicians and computer scientists often dream of but rarely achieve so cleanly. Yet the language is still learning to speak fluently. The completeness proof, while impressive, leaves room for more syntactic control. The connection to physics remains indirect. And the #P-hardness result, while a demonstration of power, is also a warning: complete reasoning in GAG is computationally expensive.</p>
 <p>But perhaps that is exactly the point. The cathedral of mathematical knowledge is not built in a day, and neither are the tools that let us see it clearly. GAG offers a new window into a world where polynomials, varieties, and quantum circuits are all patterns in the same tapestry. The thread that weaves them together is drawn not in symbols alone, but in diagrams — and that is a kind of beauty that speaks directly to the eye.</p>
 <p><em>Yanjiang is an online editor of LoomSci.com</em></p>
-<p><strong>References</strong></p>
-<ul>
-<li>Dichuan Gao <em>et al.</em>, Graphical Algebraic Geometry: From Ideals and Varieties to Quantum Calculi, arXiv:2605.13993</li>
-<li>Bostelmann <em>et al.</em>, Impossible measurements require impossible apparatus, arXiv:2003.04660</li>
-<li>Oxford <em>et al.</em>, The ZX-calculus: A complete graphical calculus for classical circuits using spiders, arXiv:2004.05287</li>
-<li>Group <em>et al.</em>, Tensor Network Rewriting Strategies for Satisfiability and Counting, arXiv:2004.06455</li>
-</ul>
+<p><strong>References</strong>
+- Dichuan Gao <em>et al.</em>, Graphical Algebraic Geometry: From Ideals and Varieties to Quantum Calculi, arXiv:2605.13993
+- Bostelmann <em>et al.</em>, Impossible measurements require impossible apparatus, arXiv:2003.04660
+- Oxford <em>et al.</em>, The ZX-calculus: A complete graphical calculus for classical circuits using spiders, arXiv:2004.05287
+- Group <em>et al.</em>, Tensor Network Rewriting Strategies for Satisfiability and Counting, arXiv:2004.06455</p>
   </div>
 
   <div class="article-copyright">

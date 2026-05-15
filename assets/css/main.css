@@ -371,15 +371,8 @@ body {
   padding: 56px 32px;
 }
 
-.article-hero-img {
-  width: calc(100% + 64px);
-  margin-left: -32px;
-  margin-bottom: 32px;
-  max-height: 400px;
-  object-fit: cover;
-}
-
-.article h1 {
+/* 标题：唯一H1，在题图上方 */
+.article-title {
   font-family: var(--heading-font);
   font-size: 2.4rem;
   font-weight: 700;
@@ -395,6 +388,40 @@ body {
   display: flex;
   gap: 16px;
   flex-wrap: wrap;
+}
+
+/* 题图：figure 语义化 */
+.article-hero {
+  margin: 0 0 40px 0;
+  width: calc(100% + 64px);
+  margin-left: -32px;
+}
+
+.article-hero-img {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  display: block;
+  border-radius: 6px 6px 0 0;
+}
+
+.article-hero-caption {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  padding: 10px 16px;
+  background: var(--tag-bg);
+  border-radius: 0 0 6px 6px;
+  font-style: italic;
+}
+
+/* 安全网：万一去重失败，CSS隐藏重复内容 */
+.article-body h1 {
+  display: none;
+}
+
+.article-body img[alt="heading"] {
+  display: none;
 }
 
 .article-body {
@@ -414,6 +441,18 @@ body {
   display: block;
   margin: 24px auto;
   border-radius: 6px;
+}
+
+/* 正文 blockquote 紧跟 img 时，作为图注样式 */
+.article-body img + blockquote {
+  border-left: none;
+  padding-left: 0;
+  font-style: normal;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  text-align: center;
+  margin: -16px auto 24px;
+  max-width: 90%;
 }
 
 .article-body h2 {
@@ -639,6 +678,12 @@ body {
   .page { padding: 36px 18px; }
   .page h1 { font-size: 1.8rem; }
   .article { padding: 36px 18px; }
-  .article h1 { font-size: 1.8rem; }
-  .article-hero-img { width: calc(100% + 36px); margin-left: -18px; }
+  .article-title { font-size: 1.8rem; }
+  .article-hero {
+    width: calc(100% + 36px);
+    margin-left: -18px;
+  }
+  .article-hero-img {
+    max-height: 280px;
+  }
 }
