@@ -6,3 +6,4 @@ Thumbs.db
 *.py
 **/api-key.txt
 sys/
+backup_*/

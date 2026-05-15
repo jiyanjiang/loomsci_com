@@ -3,630 +3,242 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Science for everyone — Science communication in the age of AI">
+  
+  <meta name="description" content="Science for everyone — LoomSci">
+  
   <title>LoomSci — Science for everyone</title>
-  <style>
-    
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-    :root {
-      --hero-bg: #ffffff;
-      --hero-text: #1a1a1a;
-      --hero-accent: #1a1a1a;
-      --body-bg: #ffffff;
-      --card-bg: #fafafa;
-      --card-border: #eeeeee;
-      --card-hover-border: #1a1a1a;
-      --card-shadow: 0 1px 3px rgba(0,0,0,0.03);
-      --text: #1a1a1a;
-      --text-secondary: #666666;
-      --text-muted: #aaaaaa;
-      --accent: #1a1a1a;
-      --tag-bg: #f5f5f5;
-      --tag-text: #777777;
-      --nav-bg: #ffffff;
-      --nav-text: #1a1a1a;
-      --heading-font: "Georgia", "Noto Serif SC", serif;
-      --radius: 8px;
-    }
-
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
-                   "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-      background: var(--body-bg);
-      color: var(--text);
-      line-height: 1.7;
-      -webkit-font-smoothing: antialiased;
-    }
-
-    /* Nav */
-    .nav {
-      background: var(--nav-bg);
-      border-bottom: 1px solid rgba(255,255,255,0.1);
-      position: sticky;
-      top: 0;
-      z-index: 100;
-    }
-
-    .nav-inner {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0 32px;
-      height: 60px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .nav-brand {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      text-decoration: none;
-      color: var(--nav-text);
-    }
-
-    .nav-name {
-      font-size: 1.15rem;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-    }
-
-    .nav-links {
-      display: flex;
-      gap: 24px;
-    }
-
-    .nav-link {
-      font-size: 0.88rem;
-      color: var(--nav-text);
-      text-decoration: none;
-      opacity: 0.75;
-      transition: opacity 0.2s;
-    }
-
-    .nav-link:hover, .nav-link.active { opacity: 1; }
-
-    /* Footer */
-    .footer {
-      border-top: 1px solid var(--card-border);
-      padding: 28px 0;
-      margin-top: 48px;
-    }
-
-    .footer-inner {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0 32px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 12px;
-    }
-
-    .footer-left {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 0.82rem;
-      color: var(--text-muted);
-    }
-
-    .footer-sep { opacity: 0.4; }
-
-    .footer-right {
-      display: flex;
-      gap: 20px;
-    }
-
-    .footer-link {
-      font-size: 0.82rem;
-      color: var(--text-muted);
-      text-decoration: none;
-    }
-
-    .footer-link:hover { color: var(--accent); }
-
-    /* Responsive */
-    @media (max-width: 768px) {
-      .nav-inner { padding: 0 18px; }
-      .nav-name { display: none; }
-      .nav-links { gap: 16px; }
-      .nav-link { font-size: 0.82rem; }
-      .footer-inner { padding: 0 18px; flex-direction: column; align-items: flex-start; }
-    }
-    
-
-    /* Hero */
-    .hero {
-      background: var(--hero-bg);
-      color: var(--hero-text);
-      padding: 80px 0 64px;
-      text-align: center;
-    }
-
-    .hero-inner {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 0 32px;
-    }
-
-    .hero-name {
-      font-family: var(--heading-font);
-      font-size: 3.8rem;
-      font-weight: 700;
-      letter-spacing: -0.04em;
-      margin-bottom: 16px;
-    }
-
-    .hero-slogan {
-      font-size: 1.4rem;
-      opacity: 0.85;
-      font-weight: 400;
-      margin-bottom: 10px;
-    }
-
-    .hero-positioning {
-      font-size: 1.1rem;
-      opacity: 0.55;
-      font-weight: 300;
-    }
-
-    /* Test Banner */
-    .test-banner {
-      background: #fff8e1;
-      border-bottom: 1px solid #ffe082;
-      text-align: center;
-      padding: 12px 24px;
-      font-size: 0.92rem;
-      color: #6d4c00;
-      letter-spacing: 0.01em;
-    }
-
-    .test-banner strong {
-      color: #e65100;
-    }
-
-    /* Content */
-    .content {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 48px 32px;
-    }
-
-    .section-label {
-      font-size: 0.88rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.1em;
-      color: var(--text-muted);
-      margin-bottom: 28px;
-    }
-
-    /* Cards grid - 3 columns */
-    .cards {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-    }
-
-    .card {
-      display: flex;
-      flex-direction: column;
-      background: var(--card-bg);
-      border: 1px solid var(--card-border);
-      border-radius: var(--radius);
-      overflow: hidden;
-      text-decoration: none;
-      color: inherit;
-      transition: border-color 0.2s, box-shadow 0.2s;
-      box-shadow: var(--card-shadow);
-    }
-
-    .card:hover {
-      border-color: var(--card-hover-border);
-      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-    }
-
-    .card-body { flex: 1; padding: 20px 22px; }
-
-    .card-visual {
-      height: 100px;
-      width: 100%;
-      position: relative;
-      overflow: hidden;
-      background: #1a1a1a;
-    }
-
-    .card-visual img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-
-    .card-title {
-      font-family: var(--heading-font);
-      font-size: 1.15rem;
-      font-weight: 600;
-      line-height: 1.45;
-      margin-bottom: 10px;
-      color: var(--text);
-    }
-
-    .card-desc {
-      font-size: 0.95rem;
-      color: var(--text-secondary);
-      line-height: 1.65;
-    }
-
-    .card-meta {
-      display: flex;
-      gap: 12px;
-      font-size: 0.85rem;
-      color: var(--text-muted);
-      padding: 0 22px 18px;
-    }
-
-    /* Responsive */
-    @media (max-width: 1024px) {
-      .cards { grid-template-columns: repeat(2, 1fr); }
-    }
-
-    @media (max-width: 640px) {
-      .hero { padding: 48px 0 40px; }
-      .hero-name { font-size: 2.4rem; }
-      .hero-slogan { font-size: 1.15rem; }
-      .content { padding: 32px 18px; }
-      .cards { grid-template-columns: 1fr; gap: 14px; }
-      .card { padding: 18px; }
-    }
-  </style>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="https://www.loomsci.com/latest.rss">
+  <link rel="stylesheet" href="https://www.loomsci.com/assets/css/main.css">
+  
 </head>
 <body>
-  
-    <nav class="nav">
-      <div class="nav-inner">
-        <a class="nav-brand" href="https://www.loomsci.com/">
-          <span class="nav-name">LoomSci</span>
-        </a>
-        <div class="nav-links"><a class="nav-link active" href="https://www.loomsci.com/">Home</a><a class="nav-link" href="https://www.loomsci.com/about.html">About</a><a class="nav-link" href="https://www.loomsci.com/policy.html">Policy</a></div>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="https://www.loomsci.com/">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links">
+        
+        <a class="nav-link"
+           href="https://www.loomsci.com/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="https://www.loomsci.com/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="https://www.loomsci.com/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="https://www.loomsci.com/about.html">About</a>
+            <a class="nav-dropdown-item" href="https://www.loomsci.com/policy.html">Policy</a>
+          </div>
+        </div>
+        <a class="nav-rss" href="https://www.loomsci.com/latest.rss" title="RSS Feed">📡</a>
       </div>
-    </nav>
-
-  <div class="test-banner">
-    <strong>Beta:</strong> This is a test page. The official site will be ready within a month.
-  </div>
-
-  <div class="hero">
-    <div class="hero-inner">
-      <h1 class="hero-name">LoomSci</h1>
-      <div class="hero-slogan">Science for everyone</div>
-      <div class="hero-positioning">Science communication in the age of AI</div>
     </div>
-  </div>
+  </nav>
 
-  <div class="content">
-    <div class="section-label">Latest</div>
-    <div class="cards">
-      
-        <a class="card" href="https://kscn.discourse.group/t/learning-a-quantum-systems-rules-at-any-temperature/248" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/a846bd8a14dfec0fe90a07567fd3f075110e54c5_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">Learning a Quantum System&#x27;s Rules at Any Temperature</h3>
-            <p class="card-desc">Learning a Quantum System’s Rules at Any Temperature A flat polynomial approximation enables learning a quantum Hamiltonian from thermal states at any constant…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 12, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-quasars-learn-to-breathe-fire-extreme-outflows-and-the-death-of-galaxies/247" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/eb9b615177a2f219b8ade9f9ddfde494f8098cce_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">When Quasars Learn to Breathe Fire: Extreme Outflows and the Death of Galaxies</h3>
-            <p class="card-desc">Early quasars drive outflows so powerful they can blow away a galaxy’s star-forming gas, halting growth within a billion years of the Big Bang. What kills a gal…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 12, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-a-current-pulse-teaches-a-magnet-to-forget/246" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/adbe0ddf31620a719607b651cad0e91e55f7360f_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">When a Current Pulse Teaches a Magnet to Forget</h3>
-            <p class="card-desc">A current pulse heats a 2D magnet above its Curie temperature, letting a weak magnetic field rewrite its magnetization without lasers. The best way to make a ma…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-entropy-goes-fractional-the-thermodynamic-signature-of-non-abelian-anyons/245" target="_blank" rel="noopener">
-          <div class="card-visual" style="background: linear-gradient(135deg, #222222 0%, #3a3a3a 100%)"></div>
-          <div class="card-body">
-            <h3 class="card-title">When Entropy Goes Fractional: The Thermodynamic Signature of Non-Abelian Anyons</h3>
-            <p class="card-desc">Non-Abelian anyons are the physicist’s unicorn—creatures of theory that promise miraculous powers of topological quantum computing, yet leave frustratingly fain…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/a-thermodynamic-fingerprint-of-non-abelian-anyons-when-entropy-goes-fractional/244" target="_blank" rel="noopener">
-          <div class="card-visual" style="background: linear-gradient(135deg, #1f1f1f 0%, #383838 100%)"></div>
-          <div class="card-body">
-            <h3 class="card-title">A Thermodynamic Fingerprint of Non-Abelian Anyons: When Entropy Goes Fractional</h3>
-            <p class="card-desc">For those who follow the long hunt for topological quantum computing, the past decade has been a peculiar waiting game. The theory is beautiful: there exist exo…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/spins-embrace-a-twisted-path-in-a-kagome-metal/243" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/7999e60d2844abbe04266b62c2a89aff2fbcc902_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">Spins Embrace a Twisted Path in a Kagome Metal</h3>
-            <p class="card-desc">In the kagome metal CrRhAs, chromium spins arrange in a noncollinear spiral pattern, revealing unexpected ferromagnetic coupling between second-nearest neighbor…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/how-light-gives-graphene-a-hidden-edge/242" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/3d29b5f224df08d08ef1e69bdaeb11dce5148768_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">How Light Gives Graphene a Hidden Edge</h3>
-            <p class="card-desc">Shining polarized light at an angle on strained graphene creates corner-bound electrons, a topological phase called a Floquet second-order insulator. Imagine yo…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-nuclei-tell-time-a-new-way-to-calculate-beta-decay-lifetimes/241" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/41491221bbeee6028a721820bcc0c8eb9b1b5df3_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">When Nuclei Tell Time: A New Way to Calculate Beta-Decay Lifetimes</h3>
-            <p class="card-desc">A first-principles calculation of beta-decay lifetimes for neutron-rich N=50 nuclei provides a self-consistent clock for the r-process element formation. Every…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/the-benchmark-that-made-itself-easy-a-simple-graph-heuristic-exposes-shortcuts-in-recommender-ai/240" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/44f3b0aa12990c75db158f42e4d8cafba76d313b_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">The Benchmark That Made Itself Easy: A Simple Graph Heuristic Exposes Shortcuts in Recommender AI</h3>
-            <p class="card-desc">A heuristic using only the last user interaction beats advanced generative recommenders by exploiting benchmark shortcuts. Imagine you are testing how well stud…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/tuning-electrons-between-layers-controlled-charge-transfer-in-moire-superlattices/239" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/558e236e920751f8c618879fd42a5796a08b64af_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">Tuning Electrons Between Layers: Controlled Charge Transfer in Moiré Superlattices</h3>
-            <p class="card-desc">A vertical electric field precisely controls the transfer of electrons between layers in a MoSe₂/WS₂ moiré superlattice. In a cleanroom at the University of Cal…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/the-making-of-a-topological-insulator-from-strained-graphene/238" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/62c0f83b113cfc9c7deb63d0659590bed1754ec7_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">The Making of a Topological Insulator from Strained Graphene</h3>
-            <p class="card-desc">Strained graphene under oblique light hosts robust corner states, forming a second-order topological insulator. Graphene is shown a little too often in physics…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/the-wavy-interfaces-long-drift-to-flatness/237" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/6cf2797b309d018fcb4bbe46ac8bf97e8ca21316_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">The Wavy Interface&#x27;s Long Drift to Flatness</h3>
-            <p class="card-desc">The Wavy Interface’s Long Drift to Flatness Mathematicians prove that a wavy fluid interface in porous media, governed by the Muskat problem with surface tensio…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/a-tunable-dance-of-electrons-in-moire-superlattices/236" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/3d3a40271a53f197686d4fa0f74bbd2c955f7f6a_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">A Tunable Dance of Electrons in Moiré Superlattices</h3>
-            <p class="card-desc">A moiré superlattice of twisted MoSe₂/WS₂ layers allows precise tuning of electron localization and interlayer charge transfer. Imagine taking two sheets of ato…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-a-nucleus-refuses-to-tell-time-the-physics-of-cosmic-clockwork/235" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/44233a2b3b912dd08bfa1b6be72c8e2bce51d98d_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">When a Nucleus Refuses to Tell Time: The Physics of Cosmic Clockwork</h3>
-            <p class="card-desc">First-principles calculations now predict beta-decay rates for neutron-rich waiting-point nuclei, revealing the hidden clockwork that governs cosmic element for…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/learning-topology-from-light-strained-graphenes-new-trick/234" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/4b8430847c007e3c7756fc2b25707d4e008a5d96_2_539x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">Learning Topology from Light: Strained Graphene&#x27;s New Trick</h3>
-            <p class="card-desc">Learning Topology from Light: Strained Graphene’s New Trick Graphene is a flat land. Electrons move through it like cars on an infinite highway — fast, flexible…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-graphene-learns-to-dance-a-floquet-topological-insulator-from-strained-carbon/233" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/a1f7cee56712abab2d241f9e5f625bb88afe34f2_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">When Graphene Learns to Dance: A Floquet Topological Insulator from Strained Carbon</h3>
-            <p class="card-desc">Strained graphene under tilted circularly polarized light becomes a Floquet second-order topological insulator, with electrons trapped at acute corners. Graphen…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/the-silent-magnetism-plaguing-quantum-chips/232" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/bd0761e84254153de71cbddd13eb51589827c43b_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">The Silent Magnetism Plaguing Quantum Chips</h3>
-            <p class="card-desc">Muon spectroscopy reveals static and fluctuating magnetic moments in amorphous niobium and tantalum pentoxide films, a hidden source of qubit decoherence. What…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-a-sheet-is-no-longer-just-a-surface/231" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/cb630ccc40332716ba8aa28a97b23ca1f477082c_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">When a Sheet Is No Longer Just a Surface</h3>
-            <p class="card-desc">Oblique circularly polarized light and uniaxial strain transform graphene into a second-order topological insulator, with corner states localized at the acute v…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-atomic-clocks-feel-gravitys-pull-a-new-path-to-quantum-time/230" target="_blank" rel="noopener">
-          <div class="card-visual" style="background: linear-gradient(135deg, #1a1a1a 0%, #333333 100%)"></div>
-          <div class="card-body">
-            <h3 class="card-title">When Atomic Clocks Feel Gravity&#x27;s Pull: A New Path to Quantum Time</h3>
-            <p class="card-desc">When Atomic Clocks Feel Gravity’s Pull: A New Path to Quantum Time A clock on Earth ticks slower than one in space. This is a well-known effect — gravitational…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/how-to-order-a-magnet-one-spin-at-a-time/229" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/31e5aee14fcfecd8d7256aa32cf83b1f55626e9b_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">How to Order a Magnet, One Spin at a Time</h3>
-            <p class="card-desc">A 2D Ising model with a slight initial bias rapidly coarsens into a uniform plus phase at low temperatures, as proven by Gheissari and Sly. Imagine tossing a tr…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-short-sighted-control-learns-to-see-far/228" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/453756356366b6a5fdab398dd701b96eb30a2699_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">When Short-Sighted Control Learns to See Far</h3>
-            <p class="card-desc">By learning a value function from expert demonstrations, a myopic controller makes far-sighted decisions in real time. I remember the frustration vividly. In a…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/calculating-the-unmeasurable-beta-decay-from-first-principles/227" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/bc51915f6138e9c811ee0e2017da25047ea041cb_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">Calculating the Unmeasurable: Beta Decay from First Principles</h3>
-            <p class="card-desc">First-principles calculations of beta-decay rates now include two-body currents, enabling accurate predictions for neutron-rich nuclei that shape the r-process.…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/learning-to-think-ahead-short-sighted-control-learns-from-experts/226" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/453756356366b6a5fdab398dd701b96eb30a2699_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">Learning to Think Ahead: Short-Sighted Control Learns from Experts</h3>
-            <p class="card-desc">A myopic controller learns an expert’s long-term value function, enabling near-optimal discrete decisions with only a short look-ahead horizon. What makes a goo…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/building-the-bridge-from-fundamental-forces-to-element-formation/225" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/c25d350494d9641e3f954589c934f4b697d1a1c1_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">Building the Bridge from Fundamental Forces to Element Formation</h3>
-            <p class="card-desc">Ab initio calculations of beta-decay lifetimes at the N=50 magic number connect fundamental nuclear forces to the origin of heavy elements. Every atom of gold,…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/electrons-in-a-moire-lattice-tuning-the-dance-of-charge/224" target="_blank" rel="noopener">
-          <div class="card-visual" style="background: linear-gradient(135deg, #1a1a1a 0%, #333333 100%)"></div>
-          <div class="card-body">
-            <h3 class="card-title">Electrons in a Moiré Lattice: Tuning the Dance of Charge</h3>
-            <p class="card-desc">Imagine stacking two sheets of atoms on top of each other. Each sheet is just three atoms thick. The two sheets are almost the same, but not quite. When you lay…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/a-voltage-knob-for-tuning-a-quantum-electron-model/223" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/f65f69043b8d79fdcf0289655e31fb5c855ea80d_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">A Voltage Knob for Tuning a Quantum Electron Model</h3>
-            <p class="card-desc">By applying a voltage across a MoSe₂/WS₂ moiré superlattice, researchers can tune the Hubbard model’s hopping parameter, switching electrons between layers. Som…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/learning-to-play-thinking-like-us-how-large-reasoning-models-align-with-human-brain-activity/222" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/ba51d8634324b84d193138aa0aa9d2bdf32679c2_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">Learning to Play, Thinking Like Us: How Large Reasoning Models Align with Human Brain Activity</h3>
-            <p class="card-desc">Large reasoning models learn to play novel puzzle games, and their internal representations mirror human brain activity during discovery—but the alignment lies…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/when-a-moire-grid-learns-to-rearrange-tunable-charge-states-in-twisted-semiconductors/221" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/f65f69043b8d79fdcf0289655e31fb5c855ea80d_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">When a Moiré Grid Learns to Rearrange: Tunable Charge States in Twisted Semiconductors</h3>
-            <p class="card-desc">Electrons transfer between twisted MoSe₂ and WS₂ layers under a vertical electric field, revealing a clean ladder of charge-transfer states up to integer fillin…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/a-trapped-ion-in-search-of-a-dark-secret/220" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/50f5cc561eabd09879a97e31b760cf86badac979_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">A Trapped Ion in Search of a Dark Secret</h3>
-            <p class="card-desc">A single trapped ion in a quantum superposition searches for the faint magnetic whispers of ultralight dark matter. In a basement lab somewhere, a single ion ho…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-        <a class="card" href="https://kscn.discourse.group/t/counting-the-uncountable-first-principles-nuclear-decay-times/219" target="_blank" rel="noopener">
-          <div class="card-visual"><img src="https://us1.discourse-cdn.com/flex046/uploads/kscn/optimized/1X/673dd5852e2b0405b93b7762468a221633c012a5_2_666x500.jpeg" alt="" loading="lazy" /></div>
-          <div class="card-body">
-            <h3 class="card-title">Counting the Uncountable: First‑Principles Nuclear Decay Times</h3>
-            <p class="card-desc">First-principles calculations now predict beta-decay half-lives for magic-number nuclei, removing guesswork from r-process models. We like to think that every r…</p>
-          </div>
-          <div class="card-meta">
-            <span class="card-date">May 11, 2026</span>
-          </div>
-        </a>
-    </div>
+  
+
+
+
+  <!-- MAIN -->
+  
+<div class="hero">
+  <div class="hero-inner">
+    <h1 class="hero-name">LoomSci</h1>
+    <div class="hero-slogan">Science for everyone</div>
+    <div class="hero-positioning">Science communication in the age of AI</div>
+  </div>
+</div>
+
+<div class="content">
+  
+  <div class="section-label">Featured</div>
+  <div class="cards" style="margin-bottom: 36px;">
+    <a class="card hero-card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2605_11078_when_a_squid_hunts_axions_by_squaring_the_field.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_11078.jpg" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        
+        <h2 class="card-title">When a SQUID Hunts Axions by Squaring the Field</h2>
+        <p class="card-desc">We propose a novel broadband strategy to search for axions by leveraging observables controlled by the axion field squared. We present a practical implementation of this concept for probing the axion-...</p>
+      </div>
+    </a>
+  </div>
+  
+
+  <div class="section-label">
+    <span>Latest</span>
+  </div>
+  <div class="cards">
+    
+    <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2605_13993_drawing_algebraic_geometry_a_diagrammatic_language_bridges_polynomials_and_quant.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_13993.jpg" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        
+        <span class="card-tag" style="background: #7C3AED20; color: #7C3AED;">Quantum Physics</span>
+        
+        <h3 class="card-title">Drawing Algebraic Geometry: A Diagrammatic Language Bridges Polynomials and Quantum Circuits</h3>
+        <p class="card-desc">We introduce Graphical Algebraic Geometry (GAG), a family of diagrammatic languages extending the Graphical Linear Algebra programme. We construct several languages within this family and prove that t...</p>
+      </div>
+      <div class="card-meta">
+        <span>2026-05-15</span>
+      </div>
+    </a>
+    
+    <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14218_when_a_chatbot_s_next_words_could_turn_dangerous.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_14218.jpg" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        
+        <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+        
+        <h3 class="card-title">When a Chatbot’s Next Words Could Turn Dangerous</h3>
+        <p class="card-desc">The key problem facing ChatGPT-like AI's use across society is that its behavior can shift, unnoticed, from desirable to undesirable -- encouraging self-harm, extremist acts, financial losses, or cost...</p>
+      </div>
+      <div class="card-meta">
+        <span>2026-05-15</span>
+      </div>
+    </a>
+    
+    <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14912_agreeing_too_much_why_ai_must_learn_to_disagree.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_14912.jpg" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        
+        <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+        
+        <h3 class="card-title">Agreeing Too Much: Why AI Must Learn to Disagree</h3>
+        <p class="card-desc">Pluralistic alignment is typically operationalised as preference aggregation: producing responses that span (Overton), steer toward (Steerable), or proportionally represent (Distributional) diverse hu...</p>
+      </div>
+      <div class="card-meta">
+        <span>2026-05-15</span>
+      </div>
+    </a>
+    
+    <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2604_22751_when_two_qubits_see_what_one_cannot.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2604_22751.jpg" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        
+        <span class="card-tag" style="background: #7C3AED20; color: #7C3AED;">Quantum Physics</span>
+        
+        <h3 class="card-title">When Two Qubits See What One Cannot</h3>
+        <p class="card-desc">Symmetry-resolved spectroscopies, such as angle-resolved photoemission spectroscopy and polarization-resolved Raman, are central for quantum material characterization, yet remain challenging at nanosc...</p>
+      </div>
+      <div class="card-meta">
+        <span>2026-05-15</span>
+      </div>
+    </a>
+    
+    <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2605_00104_when_a_cut_decides_hidden_phases_on_r_nyi_defects.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_00104.png" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        
+        <h3 class="card-title">When a Cut Decides: Hidden Phases on Rényi Defects</h3>
+        <p class="card-desc">At a quantum critical point, the universal scaling behavior of Rényi entanglement entropy is controlled by the universality class of the codimension-two Rényi (or conical) defects in the infrared theo...</p>
+      </div>
+      <div class="card-meta">
+        <span>2026-05-15</span>
+      </div>
+    </a>
+    
+    <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2510_02246_the_quantum_magnets_that_forgot_how_to_forget.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2510_02246.jpg" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        
+        <span class="card-tag" style="background: #7C3AED20; color: #7C3AED;">Quantum Physics</span>
+        
+        <h3 class="card-title">The Quantum Magnets That Forgot How to Forget</h3>
+        <p class="card-desc">Rydberg-cavity systems are emerging as promising platforms for quantum simulation and quantum information processing. These hybrid architectures combine two complementary interaction mechanisms: cavit...</p>
+      </div>
+      <div class="card-meta">
+        <span>2026-05-15</span>
+      </div>
+    </a>
+    
+    <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2512_23702_when_black_holes_jam_quantum_correlations.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2512_23702.jpg" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        
+        <h3 class="card-title">When Black Holes Jam Quantum Correlations</h3>
+        <p class="card-desc">The study of quantum correlations within relativistic spacetimes, and the consequences of relativistic causality on information processing using such correlations, has gained much attention in recent ...</p>
+      </div>
+      <div class="card-meta">
+        <span>2026-05-15</span>
+      </div>
+    </a>
+    
+    <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2411_06577_reading_the_unwritten_an_ai_maps_the_future_of_physics.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2411_06577.jpg" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        
+        <h3 class="card-title">Reading the Unwritten: An AI Maps the Future of Physics</h3>
+        <p class="card-desc">As the field of quantum physics evolves, researchers naturally form subgroups focusing on specialized problems. While this encourages in-depth exploration, it can limit the exchange of ideas across st...</p>
+      </div>
+      <div class="card-meta">
+        <span>2026-05-15</span>
+      </div>
+    </a>
+    
   </div>
 
   
-    <footer class="footer">
-      <div class="footer-inner">
-        <div class="footer-left">
-          <span class="footer-copy">© 2026 LoomSci</span>
-          <span class="footer-sep">·</span>
-          <span class="footer-tagline">Science for everyone</span>
-        </div>
-        <div class="footer-right">
-          <a class="footer-link" href="https://www.loomsci.com/about.html">About</a>
-          <a class="footer-link" href="https://www.loomsci.com/policy.html">Policy</a>
-        </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Science for everyone</span>
       </div>
-    </footer>
+      <div class="footer-right">
+        <a class="footer-link" href="https://www.loomsci.com/about.html">About</a>
+        <a class="footer-link" href="https://www.loomsci.com/policy.html">Policy</a>
+        <a class="footer-link" href="https://www.loomsci.com/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
 </body>
 </html>
