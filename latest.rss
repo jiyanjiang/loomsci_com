@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>LoomSci - Latest</title>
+    <link>https://www.loomsci.com</link>
+    <description>Latest articles from LoomSci</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 May 2026 09:13:31 GMT</lastBuildDate>
+    <atom:link href="https://www.loomsci.com/latest.rss"
+               rel="self"
+               type="application/rss+xml" />
+    <item>
+      <title>When a SQUID Hunts Axions by Squaring the Field</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_11078_when_a_squid_hunts_axions_by_squaring_the_field.html</link>
+      <description>We propose a novel broadband strategy to search for axions by leveraging observables controlled by the axion field squared. We present a practical implementation of this concept for probing the axion-...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_11078_when_a_squid_hunts_axions_by_squaring_the_field.html</guid>
+      <category>Other Sciences</category>
+    </item>
+    <item>
+      <title>Drawing Algebraic Geometry: A Diagrammatic Language Bridges Polynomials and Quantum Circuits</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_13993_drawing_algebraic_geometry_a_diagrammatic_language_bridges_polynomials_and_quant.html</link>
+      <description>We introduce Graphical Algebraic Geometry (GAG), a family of diagrammatic languages extending the Graphical Linear Algebra programme. We construct several languages within this family and prove that t...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_13993_drawing_algebraic_geometry_a_diagrammatic_language_bridges_polynomials_and_quant.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When a Chatbot’s Next Words Could Turn Dangerous</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14218_when_a_chatbot_s_next_words_could_turn_dangerous.html</link>
+      <description>The key problem facing ChatGPT-like AI's use across society is that its behavior can shift, unnoticed, from desirable to undesirable -- encouraging self-harm, extremist acts, financial losses, or cost...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14218_when_a_chatbot_s_next_words_could_turn_dangerous.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Agreeing Too Much: Why AI Must Learn to Disagree</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14912_agreeing_too_much_why_ai_must_learn_to_disagree.html</link>
+      <description>Pluralistic alignment is typically operationalised as preference aggregation: producing responses that span (Overton), steer toward (Steerable), or proportionally represent (Distributional) diverse hu...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14912_agreeing_too_much_why_ai_must_learn_to_disagree.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>When Two Qubits See What One Cannot</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2604_22751_when_two_qubits_see_what_one_cannot.html</link>
+      <description>Symmetry-resolved spectroscopies, such as angle-resolved photoemission spectroscopy and polarization-resolved Raman, are central for quantum material characterization, yet remain challenging at nanosc...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2604_22751_when_two_qubits_see_what_one_cannot.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When a Cut Decides: Hidden Phases on Rényi Defects</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_00104_when_a_cut_decides_hidden_phases_on_r_nyi_defects.html</link>
+      <description>At a quantum critical point, the universal scaling behavior of Rényi entanglement entropy is controlled by the universality class of the codimension-two Rényi (or conical) defects in the infrared theo...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_00104_when_a_cut_decides_hidden_phases_on_r_nyi_defects.html</guid>
+      <category>Other Sciences</category>
+    </item>
+    <item>
+      <title>The Quantum Magnets That Forgot How to Forget</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2510_02246_the_quantum_magnets_that_forgot_how_to_forget.html</link>
+      <description>Rydberg-cavity systems are emerging as promising platforms for quantum simulation and quantum information processing. These hybrid architectures combine two complementary interaction mechanisms: cavit...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2510_02246_the_quantum_magnets_that_forgot_how_to_forget.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Black Holes Jam Quantum Correlations</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2512_23702_when_black_holes_jam_quantum_correlations.html</link>
+      <description>The study of quantum correlations within relativistic spacetimes, and the consequences of relativistic causality on information processing using such correlations, has gained much attention in recent ...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2512_23702_when_black_holes_jam_quantum_correlations.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Reading the Unwritten: An AI Maps the Future of Physics</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2411_06577_reading_the_unwritten_an_ai_maps_the_future_of_physics.html</link>
+      <description>As the field of quantum physics evolves, researchers naturally form subgroups focusing on specialized problems. While this encourages in-depth exploration, it can limit the exchange of ideas across st...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2411_06577_reading_the_unwritten_an_ai_maps_the_future_of_physics.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+  </channel>
+</rss>

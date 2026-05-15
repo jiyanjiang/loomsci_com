@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>LoomSci - Artificial Intelligence</title>
+    <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
+    <description>Latest Artificial Intelligence articles from LoomSci</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 May 2026 09:13:31 GMT</lastBuildDate>
+    <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
+               rel="self"
+               type="application/rss+xml" />
+    <item>
+      <title>When a Chatbot’s Next Words Could Turn Dangerous</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14218_when_a_chatbot_s_next_words_could_turn_dangerous.html</link>
+      <description>The key problem facing ChatGPT-like AI's use across society is that its behavior can shift, unnoticed, from desirable to undesirable -- encouraging self-harm, extremist acts, financial losses, or cost...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14218_when_a_chatbot_s_next_words_could_turn_dangerous.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Agreeing Too Much: Why AI Must Learn to Disagree</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14912_agreeing_too_much_why_ai_must_learn_to_disagree.html</link>
+      <description>Pluralistic alignment is typically operationalised as preference aggregation: producing responses that span (Overton), steer toward (Steerable), or proportionally represent (Distributional) diverse hu...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14912_agreeing_too_much_why_ai_must_learn_to_disagree.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Reading the Unwritten: An AI Maps the Future of Physics</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2411_06577_reading_the_unwritten_an_ai_maps_the_future_of_physics.html</link>
+      <description>As the field of quantum physics evolves, researchers naturally form subgroups focusing on specialized problems. While this encourages in-depth exploration, it can limit the exchange of ideas across st...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2411_06577_reading_the_unwritten_an_ai_maps_the_future_of_physics.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+  </channel>
+</rss>

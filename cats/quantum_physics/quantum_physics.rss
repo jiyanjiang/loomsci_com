@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>LoomSci - Quantum Physics</title>
+    <link>https://www.loomsci.com/cats/quantum_physics/</link>
+    <description>Latest Quantum Physics articles from LoomSci</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 May 2026 09:13:31 GMT</lastBuildDate>
+    <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
+               rel="self"
+               type="application/rss+xml" />
+    <item>
+      <title>Drawing Algebraic Geometry: A Diagrammatic Language Bridges Polynomials and Quantum Circuits</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_13993_drawing_algebraic_geometry_a_diagrammatic_language_bridges_polynomials_and_quant.html</link>
+      <description>We introduce Graphical Algebraic Geometry (GAG), a family of diagrammatic languages extending the Graphical Linear Algebra programme. We construct several languages within this family and prove that t...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_13993_drawing_algebraic_geometry_a_diagrammatic_language_bridges_polynomials_and_quant.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Two Qubits See What One Cannot</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2604_22751_when_two_qubits_see_what_one_cannot.html</link>
+      <description>Symmetry-resolved spectroscopies, such as angle-resolved photoemission spectroscopy and polarization-resolved Raman, are central for quantum material characterization, yet remain challenging at nanosc...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2604_22751_when_two_qubits_see_what_one_cannot.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>The Quantum Magnets That Forgot How to Forget</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2510_02246_the_quantum_magnets_that_forgot_how_to_forget.html</link>
+      <description>Rydberg-cavity systems are emerging as promising platforms for quantum simulation and quantum information processing. These hybrid architectures combine two complementary interaction mechanisms: cavit...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2510_02246_the_quantum_magnets_that_forgot_how_to_forget.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Black Holes Jam Quantum Correlations</title>
+      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2512_23702_when_black_holes_jam_quantum_correlations.html</link>
+      <description>The study of quantum correlations within relativistic spacetimes, and the consequences of relativistic causality on information processing using such correlations, has gained much attention in recent ...</description>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2512_23702_when_black_holes_jam_quantum_correlations.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+  </channel>
+</rss>
