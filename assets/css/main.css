@@ -318,8 +318,9 @@ body {
 }
 
 .card.hero-card .card-visual {
-  height: 100%;
-  min-height: 280px;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  min-height: 200px;
 }
 
 .card.hero-card .card-body {
