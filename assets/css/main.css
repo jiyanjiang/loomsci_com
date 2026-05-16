@@ -67,7 +67,7 @@ body {
   letter-spacing: -0.02em;
 }
 
-.nav-links {
+.nav-links-desktop {
   display: flex;
   align-items: center;
   gap: 24px;
