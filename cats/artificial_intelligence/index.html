@@ -20,9 +20,16 @@
         <span class="nav-name">LoomSci</span>
       </a>
       <div class="nav-links-desktop">
-        <a class="nav-link" href="https://www.loomsci.com/cats/artificial_intelligence/">AI</a>
-        <a class="nav-link" href="https://www.loomsci.com/cats/quantum_physics/">Quantum</a>
-        <a class="nav-link" href="https://www.loomsci.com/cats/other_sciences/">Other</a>
+        
+        <a class="nav-link active"
+           href="https://www.loomsci.com/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="https://www.loomsci.com/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="https://www.loomsci.com/cats/other_sciences/">Other</a>
+        
         <div class="nav-dropdown">
           <button class="nav-dropdown-toggle">About</button>
           <div class="nav-dropdown-menu">
@@ -40,15 +47,17 @@
       <div class="nav-drawer-overlay"></div>
       <div class="nav-drawer-content">
         <div class="nav-drawer-header">
-          <a class="nav-brand" href="https://www.loomsci.com/">
-            <span class="nav-name">LoomSci</span>
-          </a>
+          <a class="nav-brand" href="https://www.loomsci.com/"><span class="nav-name">LoomSci</span></a>
           <button class="nav-drawer-close" aria-label="Close">✕</button>
         </div>
         <div class="nav-drawer-links">
+          
           <a class="nav-drawer-link" href="https://www.loomsci.com/cats/artificial_intelligence/">AI</a>
+          
           <a class="nav-drawer-link" href="https://www.loomsci.com/cats/quantum_physics/">Quantum</a>
+          
           <a class="nav-drawer-link" href="https://www.loomsci.com/cats/other_sciences/">Other</a>
+          
           <div class="nav-drawer-collapsible">
             <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
             <div class="nav-drawer-collapsible-content">
@@ -79,15 +88,15 @@
   
   <div class="section-label">Featured</div>
   <div class="cards" style="margin-bottom: 36px;">
-    <a class="card hero-card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14218_when_a_chatbot_s_next_words_could_turn_dangerous.html">
+    <a class="card hero-card" href="https://www.loomsci.com/pages/2026/05/16/arxiv_2605_11258_borrowing_brilliance_how_analogy_teaches_llms_to_think_anew.html">
       <div class="card-visual">
         
-        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_14218.jpg" alt="" loading="lazy" />
+        <img src="https://www.loomsci.com/cats/pics/artificial_intelligence.jpg" alt="" loading="lazy" />
         
       </div>
       <div class="card-body">
-        <h2 class="card-title">When a Chatbot’s Next Words Could Turn Dangerous</h2>
-        <p class="card-desc">A single sign change in a vector projection predicts when an AI conversation will tip from safe to harmful, revealing the geometry of danger hidden inside language models.</p>
+        <h2 class="card-title">Borrowing Brilliance: How Analogy Teaches LLMs to Think Anew</h2>
+        <p class="card-desc">Autonomous science promises to augment scientific discovery, particularly in complex fields like biomedicine. However, this requires AI systems that can consistently generate novel and diverse solutio...</p>
       </div>
     </a>
   </div>
@@ -97,6 +106,21 @@
     <span>Latest in Artificial Intelligence</span>
   </div>
   <div class="cards">
+    
+    <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14218_when_a_chatbot_s_next_words_could_turn_dangerous.html">
+      <div class="card-visual">
+        
+        <img src="https://www.loomsci.com/images/2026/05/15/arxiv_2605_14218.jpg" alt="" loading="lazy" />
+        
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">When a Chatbot’s Next Words Could Turn Dangerous</h3>
+        <p class="card-desc">A single sign change in a vector projection predicts when an AI conversation will tip from safe to harmful, revealing the geometry of danger hidden inside language models.</p>
+      </div>
+      <div class="card-meta">
+        <span>2026-05-15</span>
+      </div>
+    </a>
     
     <a class="card" href="https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14912_agreeing_too_much_why_ai_must_learn_to_disagree.html">
       <div class="card-visual">
@@ -151,23 +175,23 @@
   </footer>
 
   
-<script>
-(function(){
-  var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
-  if(!h||!d)return;
-  var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
-      ct=d.querySelector('.nav-drawer-collapsible-toggle'),
-      cc=d.querySelector('.nav-drawer-collapsible');
-  function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
-  function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
-  h.onclick=function(){d.classList.contains('open')?close():open();};
-  if(o)o.onclick=close;
-  if(c)c.onclick=close;
-  d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
-  if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
-  document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});
-  window.matchMedia('(min-width:768px)').addEventListener('change',function(e){if(e.matches)close();});
-})();
-</script>
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
 </body>
 </html>
