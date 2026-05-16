@@ -63,9 +63,11 @@
   <h1 class="article-title">When Two Qubits See What One Cannot</h1>
 
   <div class="article-meta">
-    <span>May 15, 2026</span>
     
-    <span class="card-tag" style="background: #7C3AED20; color: #7C3AED;">Quantum Physics</span>
+    <span>Drafted April 27, 2026 · Published May 15, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4A90D920; color: #4A90D9;">Quantum Physics</span>
     
     
     <span>Source: arXiv:2604.22751</span>
@@ -74,38 +76,39 @@
 
   
   <figure class="article-hero">
-    <img class="article-hero-img" src="https://www.loomsci.com/images/2026/05/15/arxiv_2604_22751.jpg" alt="Two spin qubits can reveal the hidden rotational symmetry of quantum materials through their correlated dephasing." />
-    
-    <figcaption class="article-hero-caption">Two spin qubits can reveal the hidden rotational symmetry of quantum materials through their correlated dephasing.</figcaption>
+    <img class="article-hero-img" src="https://www.loomsci.com/images/2026/05/15/arxiv_2604_22751.jpg" alt="When Two Qubits See What One Cannot" />
     
   </figure>
   
 
   <div class="article-body">
-    <p>Imagine a detective trying to identify a suspect by listening through a single wall. They might hear footsteps, maybe a voice — but they cannot tell whether the person is wearing a striped shirt or a polka-dotted one. The information is simply too coarse.</p>
+    <blockquote>
+<p>Two spin qubits can reveal the hidden rotational symmetry of quantum materials through their correlated dephasing.</p>
+</blockquote>
+<p>Imagine a detective trying to identify a suspect by listening through a single wall. They might hear footsteps, maybe a voice — but they cannot tell whether the person is wearing a striped shirt or a polka-dotted one. The information is simply too coarse.</p>
 <p>For physicists studying quantum materials, this has been a familiar frustration. The standard tools for probing a material's internal structure — techniques like angle-resolved photoemission spectroscopy — work beautifully at high energies and large scales. But at the nanoscale, in the low-frequency regime where many exotic quantum phenomena live, these methods go blind. A single nitrogen-vacancy center in diamond, the workhorse of nanoscale quantum sensing, can detect magnetic noise near a material. But it cannot tell you the symmetry of that noise — whether the material's electronic structure is s-wave, d-wave, or something more exotic.</p>
 <p>Now, a team led by Zubin Jacob at Purdue University has proposed a way around this limitation (arXiv:2604.22751). Their idea is deceptively simple: use two spin qubits instead of one, and measure how their dephasing correlates.</p>
-<p><strong>The problem with one qubit</strong></p>
+<h2 id="the-problem-with-one-qubit">The problem with one qubit</h2>
 <p>To understand why two qubits are better, it helps to first see the limits of one. When a single spin qubit is placed near a material, the magnetic fluctuations in the material cause the qubit to lose its quantum coherence — it "dephases." The rate of this dephasing encodes information about the local magnetic noise. But here's the catch: a single qubit measures noise at a single point. It cannot resolve the spatial structure of that noise — how it varies from place to place, or what rotational symmetry it obeys.</p>
 <p>This matters because the symmetry of a material's electronic response is one of its most fundamental properties. In a superconductor, the pairing symmetry — s-wave, d-wave, g-wave — determines everything from the critical temperature to how the material responds to magnetic fields. Being able to identify that symmetry at the nanoscale, without needing to cool the material to extreme temperatures or apply strong magnetic fields, would be a transformative capability.</p>
-<p><strong>The power of two</strong></p>
+<h2 id="the-power-of-two">The power of two</h2>
 <p>The Purdue team's insight is that two qubits, placed a known distance apart, can access information that a single qubit cannot. The key quantity is not the individual dephasing rates, but the <em>correlated</em> dephasing — how the noise at one qubit's location relates to the noise at the other.</p>
 <p>Think of it this way. A single microphone placed in a concert hall can tell you how loud the music is, but not where the instruments are positioned. Two microphones, however, can triangulate: by comparing the signals, you can reconstruct the spatial distribution of sound sources. The correlated dephasing between two qubits works similarly — it reveals the spatial correlations in the magnetic noise, which in turn encode the rotational symmetry of the material's response.</p>
-<p>The mathematics is elegant. The correlated dephasing function, which the team denotes as Φ_c(β) where β is the orientation of the two-qubit axis, can be decomposed into rotational Fourier components. These components directly map onto the symmetry channels of the material's response function in momentum space. A single qubit, by contrast, can only access the isotropic (s-wave) component — all higher symmetries are hidden.</p>
-<p><strong>Fingerprints of superconductivity</strong></p>
+<p>The mathematics is elegant. The correlated dephasing function, which the team denotes as Φ<sub>c</sub>(β) where β is the orientation of the two-qubit axis, can be decomposed into rotational Fourier components. These components directly map onto the symmetry channels of the material's response function in momentum space. A single qubit, by contrast, can only access the isotropic (s-wave) component — all higher symmetries are hidden.</p>
+<h2 id="fingerprints-of-superconductivity">Fingerprints of superconductivity</h2>
 <p>The team applied their framework to a concrete and important case: identifying the pairing symmetry of two-dimensional superconductors. They considered three possibilities: s-wave, d-wave, and g-wave. For each, they calculated what the correlated dephasing signal would look like.</p>
 <p>The results are striking. A single qubit produces essentially the same dephasing signal for all three symmetries — the curves are nearly indistinguishable. But the correlated dephasing signal shows clear, distinct patterns. For s-wave pairing, the signal is isotropic — it looks the same regardless of the two-qubit orientation. For d-wave, it shows a fourfold pattern. For g-wave, an eightfold pattern. These are not subtle differences; they are qualitative fingerprints that directly reveal the underlying symmetry.</p>
 <p>The team's calculations assume realistic parameters: qubit heights of 8 to 12 nanometers above the material, and qubit separations on the same scale. These are well within the capabilities of current nitrogen-vacancy center technology.</p>
-<p><strong>Beyond superconductors</strong></p>
+<h2 id="beyond-superconductors">Beyond superconductors</h2>
 <p>The framework is not limited to superconductors. The team also applied it to magnetic materials: s-wave antiferromagnets and d-wave altermagnets — a recently discovered class of magnetic materials with alternating spin textures that break time-reversal symmetry in distinctive ways.</p>
 <p>Again, a single qubit cannot distinguish between these two cases. The correlated dephasing signal, however, shows qualitatively different angular signatures. For the d-wave altermagnet, the signal exhibits a clear fourfold symmetry that directly reflects the underlying magnon band structure.</p>
 <p>This generality is perhaps the most powerful aspect of the work. The same two-qubit setup can probe superconductors, antiferromagnets, altermagnets — any material whose low-energy response has a nontrivial rotational symmetry. The team refers to their approach as "correlated quantum dephasometry," and it establishes a new paradigm for symmetry-resolved noise spectroscopy at the nanoscale.</p>
-<p><strong>A practical path forward</strong></p>
+<h2 id="a-practical-path-forward">A practical path forward</h2>
 <p>What makes this proposal particularly compelling is its feasibility. The required experimental setup — two nitrogen-vacancy centers with controlled separation and orientation — already exists in several laboratories worldwide. The measurement protocol is conceptually straightforward: prepare both qubits in a known quantum state, let them interact with the material for a controlled time, and measure the resulting correlated dephasing.</p>
 <p>The team's calculations provide clear predictions for what the signals should look like for different material symmetries. Experimentalists now have a roadmap: place two qubits above a candidate superconductor or altermagnet, measure the correlated dephasing as a function of orientation, and compare the angular pattern to the predicted fingerprints.</p>
 <p>There are, of course, challenges. The signals are weak — the correlated dephasing is a small effect on top of the already small single-qubit dephasing. Achieving the required sensitivity will demand careful engineering and long measurement times. But the basic physics works; the question is one of engineering refinement.</p>
 <p>Perhaps one day, when experimentalists design next-generation quantum sensors for materials characterization, they will routinely use two qubits instead of one. The extra qubit is not a luxury — it is the key that unlocks a door that has remained closed for too long.</p>
-<p><em>Yanjiang is an online editor of Loom Science</em></p>
+<p><em>Yanjiang is an online editor of LoomSci.com</em></p>
 <p><strong>References</strong></p>
 <ul>
 <li>Wenbo Sun <em>et al.</em>, Correlated Quantum Dephasometry: Symmetry-Resolved Noise Spectroscopy of Two-Dimensional Superconductors and Altermagnets, arXiv:2604.22751</li>
