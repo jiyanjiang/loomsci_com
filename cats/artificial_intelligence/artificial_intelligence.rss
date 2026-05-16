@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 15:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 16:56:40 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>A Million Voices, One Culprit: The Invisible Failure of Small-Scale Explanations</title>
+      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_11404_a_million_voices_one_culprit_the_invisible_failure_of_small_scale_explanations.html</link>
+      <description>A million-agent simulation reveals that influence is carried by the invisible many, not the few bright stars visible from afar.</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_11404_a_million_voices_one_culprit_the_invisible_failure_of_small_scale_explanations.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>What Happens When AI Maps the Cracks in Scientific Consensus?</title>
       <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_12835_what_happens_when_ai_maps_the_cracks_in_scientific_consensus.html</link>
