@@ -7,10 +7,50 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 11:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 15:16:26 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Weaving Superconductivity from Frustrated Spin Textures</title>
+      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2506_15661_weaving_superconductivity_from_frustrated_spin_textures.html</link>
+      <description>Frustrated spin textures act as a quantum loom, weaving anisotropic d‑vector order that can generate vortices and diode effects.</description>
+      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2506_15661_weaving_superconductivity_from_frustrated_spin_textures.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Learning to Steer Supercurrents with Frustrated Magnets</title>
+      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2510_25756_learning_to_steer_supercurrents_with_frustrated_magnets.html</link>
+      <description>Frustrated magnetic spins in a Josephson junction create a supercurrent diode, favouring flow in one direction over the other.</description>
+      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2510_25756_learning_to_steer_supercurrents_with_frustrated_magnets.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>How Light Gives Graphene a Hidden Edge</title>
+      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_07190_how_light_gives_graphene_a_hidden_edge.html</link>
+      <description>Shining polarized light at an angle on strained graphene creates corner-bound electrons, a topological phase called a Floquet second-order insulator.</description>
+      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_07190_how_light_gives_graphene_a_hidden_edge.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Electrons Learn to Dance: Steering Attosecond Currents with Light</title>
+      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2507_10252_when_electrons_learn_to_dance_steering_attosecond_currents_with_light.html</link>
+      <description>Scientists steer attosecond electron currents in a scanning tunneling microscope using two-color laser pulses, achieving directional control and sub-femtosecond timing.</description>
+      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2507_10252_when_electrons_learn_to_dance_steering_attosecond_currents_with_light.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Cells That Remember the Curve: Non-Uniform Automata on Hyperbolic Lattices</title>
+      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_13379_cells_that_remember_the_curve_non_uniform_automata_on_hyperbolic_lattices.html</link>
+      <description>A non-uniform cellular automaton on a hyperbolic lattice assigns unique rules to each cell, encoding the curvature and enabling exotic quantum symmetries unseen on flat grids.</description>
+      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_13379_cells_that_remember_the_curve_non_uniform_automata_on_hyperbolic_lattices.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>Drawing Algebraic Geometry: A Diagrammatic Language Bridges Polynomials and Quantum Circuits</title>
       <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_13993_drawing_algebraic_geometry_a_diagrammatic_language_bridges_polynomials_and_quant.html</link>

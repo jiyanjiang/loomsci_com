@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com/cats/other_sciences/</link>
     <description>Latest Other Sciences articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 11:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 15:16:26 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/other_sciences/other_sciences.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Still Accelerating: How Supernovae Withstand a Progenitor Age Challenge</title>
+      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2601_13785_still_accelerating_how_supernovae_withstand_a_progenitor_age_challenge.html</link>
+      <description>Type Ia supernovae remain robust standard candles for cosmology, withstanding challenges from host galaxy age evolution.</description>
+      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2601_13785_still_accelerating_how_supernovae_withstand_a_progenitor_age_challenge.html</guid>
+      <category>Other Sciences</category>
+    </item>
+    <item>
+      <title>When Nuclei Tell Time: A New Way to Calculate Beta-Decay Lifetimes</title>
+      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2509_06812_when_nuclei_tell_time_a_new_way_to_calculate_beta_decay_lifetimes.html</link>
+      <description>A first-principles calculation of beta-decay lifetimes for neutron-rich N=50 nuclei provides a self-consistent clock for the r-process element formation.</description>
+      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2509_06812_when_nuclei_tell_time_a_new_way_to_calculate_beta_decay_lifetimes.html</guid>
+      <category>Other Sciences</category>
+    </item>
+    <item>
+      <title>Ion Trap Revealing Missing Pathway for Space’s Nitrogenated PAHs</title>
+      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_14424_ion_trap_revealing_missing_pathway_for_space_s_nitrogenated_pahs.html</link>
+      <description>Ion trap experiments reveal a barrier-less gas-phase reaction between pyrimidine cations and acetylene, forming an endocyclic nitrogenated PAH under interstellar conditions.</description>
+      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_14424_ion_trap_revealing_missing_pathway_for_space_s_nitrogenated_pahs.html</guid>
+      <category>Other Sciences</category>
+    </item>
+    <item>
+      <title>A Symplectic Operator Learns the Dance of Optimal Control</title>
+      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_14332_a_symplectic_operator_learns_the_dance_of_optimal_control.html</link>
+      <description>A neural network that enforces symplectic geometry learns the entire family of optimal control solutions for swarms, achieving real-time coordination with 10,000-fold speedup.</description>
+      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_14332_a_symplectic_operator_learns_the_dance_of_optimal_control.html</guid>
+      <category>Other Sciences</category>
+    </item>
     <item>
       <title>When a SQUID Hunts Axions by Squaring the Field</title>
       <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_11078_when_a_squid_hunts_axions_by_squaring_the_field.html</link>
