@@ -1,5 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head><meta http-equiv="refresh" content="0;url=https://www.loomsci.com/"></head>
-<body>Redirecting to <a href="https://www.loomsci.com/">LoomSci</a>...</body>
+<body>Redirecting to <a href="https://www.loomsci.com/">LoomSci</a>...<script>
+(function(){
+  var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+  if(!h||!d)return;
+  var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+      ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+      cc=d.querySelector('.nav-drawer-collapsible');
+  function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+  function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+  h.onclick=function(){d.classList.contains('open')?close():open();};
+  if(o)o.onclick=close;
+  if(c)c.onclick=close;
+  d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+  if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});
+  window.matchMedia('(min-width:768px)').addEventListener('change',function(e){if(e.matches)close();});
+})();
+</script>
+</body>
 </html>

@@ -32,17 +32,10 @@
       <a class="nav-brand" href="https://www.loomsci.com/">
         <span class="nav-name">LoomSci</span>
       </a>
-      <div class="nav-links">
-        
-        <a class="nav-link"
-           href="https://www.loomsci.com/cats/artificial_intelligence/">AI</a>
-        
-        <a class="nav-link"
-           href="https://www.loomsci.com/cats/quantum_physics/">Quantum</a>
-        
-        <a class="nav-link"
-           href="https://www.loomsci.com/cats/other_sciences/">Other</a>
-        
+      <div class="nav-links-desktop">
+        <a class="nav-link" href="https://www.loomsci.com/cats/artificial_intelligence/">AI</a>
+        <a class="nav-link" href="https://www.loomsci.com/cats/quantum_physics/">Quantum</a>
+        <a class="nav-link" href="https://www.loomsci.com/cats/other_sciences/">Other</a>
         <div class="nav-dropdown">
           <button class="nav-dropdown-toggle">About</button>
           <div class="nav-dropdown-menu">
@@ -51,6 +44,33 @@
           </div>
         </div>
         <a class="nav-rss" href="https://www.loomsci.com/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="https://www.loomsci.com/">
+            <span class="nav-name">LoomSci</span>
+          </a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          <a class="nav-drawer-link" href="https://www.loomsci.com/cats/artificial_intelligence/">AI</a>
+          <a class="nav-drawer-link" href="https://www.loomsci.com/cats/quantum_physics/">Quantum</a>
+          <a class="nav-drawer-link" href="https://www.loomsci.com/cats/other_sciences/">Other</a>
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://www.loomsci.com/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://www.loomsci.com/policy.html">Policy</a>
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="https://www.loomsci.com/latest.rss">📡 RSS Feed</a>
+        </div>
       </div>
     </div>
   </nav>
@@ -167,5 +187,23 @@
   </footer>
 
   
+<script>
+(function(){
+  var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+  if(!h||!d)return;
+  var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+      ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+      cc=d.querySelector('.nav-drawer-collapsible');
+  function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+  function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+  h.onclick=function(){d.classList.contains('open')?close():open();};
+  if(o)o.onclick=close;
+  if(c)c.onclick=close;
+  d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+  if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});
+  window.matchMedia('(min-width:768px)').addEventListener('change',function(e){if(e.matches)close();});
+})();
+</script>
 </body>
 </html>
