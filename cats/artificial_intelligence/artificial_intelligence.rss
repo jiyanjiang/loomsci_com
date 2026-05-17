@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 01:47:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 12:03:54 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Compress and Reverse: Making AI Behaviors Reversible on Command</title>
+      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_06632_compress_and_reverse_making_ai_behaviors_reversible_on_command.html</link>
+      <description>Supervised fine-tuning (SFT) induces new behaviors in large language models, yet imposes no structural constraint on how these behaviors are distributed within the model. Existing behavior interpretat...</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_06632_compress_and_reverse_making_ai_behaviors_reversible_on_command.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When the Ground Beneath Your Feet Lies: Why Land Surface Temperature Isn't Telling You the Whole Story About Urban Heat</title>
       <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2604_22433_when_the_ground_beneath_your_feet_lies_why_land_surface_temperature_isn_t_tellin.html</link>
@@ -81,14 +89,6 @@
       <description>Large language models must learn to surface genuine value conflicts instead of reflexively agreeing with users.</description>
       <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_14912_agreeing_too_much_why_ai_must_learn_to_disagree.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Reading the Unwritten: An AI Maps the Future of Physics</title>
-      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2411_06577_reading_the_unwritten_an_ai_maps_the_future_of_physics.html</link>
-      <description>A machine learning model predicts future connections between quantum physics concepts by analyzing the dynamics of word embeddings.</description>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2411_06577_reading_the_unwritten_an_ai_maps_the_future_of_physics.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 01:47:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 12:03:54 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Imaginary Distance Bound: When Wormholes Draw a Line</title>
+      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_05336_the_imaginary_distance_bound_when_wormholes_draw_a_line.html</link>
+      <description>Wormholes in quantum gravity impose an imaginary distance bound, limiting how far a theory's parameters can be twisted before consistency breaks down.</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_05336_the_imaginary_distance_bound_when_wormholes_draw_a_line.html</guid>
+      <category>Other Sciences</category>
+    </item>
+    <item>
+      <title>Learning a Quantum System's Rules at Any Temperature</title>
+      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2310_02243_learning_a_quantum_system_s_rules_at_any_temperature.html</link>
+      <description>A flat polynomial approximation enables learning a quantum Hamiltonian from thermal states at any constant temperature.</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2310_02243_learning_a_quantum_system_s_rules_at_any_temperature.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Compress and Reverse: Making AI Behaviors Reversible on Command</title>
+      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_06632_compress_and_reverse_making_ai_behaviors_reversible_on_command.html</link>
+      <description>Supervised fine-tuning (SFT) induces new behaviors in large language models, yet imposes no structural constraint on how these behaviors are distributed within the model. Existing behavior interpretat...</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_06632_compress_and_reverse_making_ai_behaviors_reversible_on_command.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>A Ghost in the Machine: Can Rydberg Atoms Sniff Out Dark Photons?</title>
+      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2507_12860_a_ghost_in_the_machine_can_rydberg_atoms_sniff_out_dark_photons.html</link>
+      <description>A tabletop array of laser-trapped Rydberg atoms could serve as a receiver for the faint electric fields of dark photons.</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2507_12860_a_ghost_in_the_machine_can_rydberg_atoms_sniff_out_dark_photons.html</guid>
+      <category>Other Sciences</category>
+    </item>
     <item>
       <title>The Heartbeat Gauging World Models and Quantum Hardness</title>
       <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_11557_the_heartbeat_gauging_world_models_and_quantum_hardness.html</link>
@@ -218,38 +250,6 @@
       <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2604_22751_when_two_qubits_see_what_one_cannot.html</guid>
       <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When a Cut Decides: Hidden Phases on Rényi Defects</title>
-      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_00104_when_a_cut_decides_hidden_phases_on_r_nyi_defects.html</link>
-      <description>Different entanglement cuts through a quantum critical point can host distinct surface universality classes, with an extraordinary cut developing spontaneous symmetry breaking.</description>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_00104_when_a_cut_decides_hidden_phases_on_r_nyi_defects.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>The Quantum Magnets That Forgot How to Forget</title>
-      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2510_02246_the_quantum_magnets_that_forgot_how_to_forget.html</link>
-      <description>A chain of Rydberg atoms inside an optical cavity exhibits both blockaded ferromagnetism and persistent quantum many-body scars that resist thermalization.</description>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2510_02246_the_quantum_magnets_that_forgot_how_to_forget.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Black Holes Jam Quantum Correlations</title>
-      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2512_23702_when_black_holes_jam_quantum_correlations.html</link>
-      <description>Black holes can jam quantum correlations without violating causality, using the event horizon as a natural jamming filter.</description>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2512_23702_when_black_holes_jam_quantum_correlations.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Reading the Unwritten: An AI Maps the Future of Physics</title>
-      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2411_06577_reading_the_unwritten_an_ai_maps_the_future_of_physics.html</link>
-      <description>A machine learning model predicts future connections between quantum physics concepts by analyzing the dynamics of word embeddings.</description>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2411_06577_reading_the_unwritten_an_ai_maps_the_future_of_physics.html</guid>
-      <category>Artificial Intelligence</category>
     </item>
   </channel>
 </rss>

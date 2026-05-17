@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/other_sciences/</link>
     <description>Latest Other Sciences articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 01:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 12:03:54 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/other_sciences/other_sciences.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Imaginary Distance Bound: When Wormholes Draw a Line</title>
+      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_05336_the_imaginary_distance_bound_when_wormholes_draw_a_line.html</link>
+      <description>Wormholes in quantum gravity impose an imaginary distance bound, limiting how far a theory's parameters can be twisted before consistency breaks down.</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_05336_the_imaginary_distance_bound_when_wormholes_draw_a_line.html</guid>
+      <category>Other Sciences</category>
+    </item>
+    <item>
+      <title>A Ghost in the Machine: Can Rydberg Atoms Sniff Out Dark Photons?</title>
+      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2507_12860_a_ghost_in_the_machine_can_rydberg_atoms_sniff_out_dark_photons.html</link>
+      <description>A tabletop array of laser-trapped Rydberg atoms could serve as a receiver for the faint electric fields of dark photons.</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2507_12860_a_ghost_in_the_machine_can_rydberg_atoms_sniff_out_dark_photons.html</guid>
+      <category>Other Sciences</category>
+    </item>
     <item>
       <title>The Ghost in the Bridge: When Wormholes Learned to Speak Quantum</title>
       <link>https://www.loomsci.com/pages/2026/05/17/arxiv_1306_0533_the_ghost_in_the_bridge_when_wormholes_learned_to_speak_quantum.html</link>
@@ -81,14 +97,6 @@
       <description>A dc SQUID operated at its flux sweet spot detects the zero-frequency component of the squared axion field, enabling a broadband search for dark matter across a vast mass range.</description>
       <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_11078_when_a_squid_hunts_axions_by_squaring_the_field.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>When a Cut Decides: Hidden Phases on Rényi Defects</title>
-      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_00104_when_a_cut_decides_hidden_phases_on_r_nyi_defects.html</link>
-      <description>Different entanglement cuts through a quantum critical point can host distinct surface universality classes, with an extraordinary cut developing spontaneous symmetry breaking.</description>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_00104_when_a_cut_decides_hidden_phases_on_r_nyi_defects.html</guid>
       <category>Other Sciences</category>
     </item>
   </channel>

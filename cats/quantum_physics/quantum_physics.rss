@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 01:47:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 12:03:54 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Learning a Quantum System's Rules at Any Temperature</title>
+      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2310_02243_learning_a_quantum_system_s_rules_at_any_temperature.html</link>
+      <description>A flat polynomial approximation enables learning a quantum Hamiltonian from thermal states at any constant temperature.</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2310_02243_learning_a_quantum_system_s_rules_at_any_temperature.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>The Heartbeat Gauging World Models and Quantum Hardness</title>
       <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_11557_the_heartbeat_gauging_world_models_and_quantum_hardness.html</link>
@@ -73,22 +81,6 @@
       <description>Two spin qubits can reveal the hidden rotational symmetry of quantum materials through their correlated dephasing.</description>
       <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2604_22751_when_two_qubits_see_what_one_cannot.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>The Quantum Magnets That Forgot How to Forget</title>
-      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2510_02246_the_quantum_magnets_that_forgot_how_to_forget.html</link>
-      <description>A chain of Rydberg atoms inside an optical cavity exhibits both blockaded ferromagnetism and persistent quantum many-body scars that resist thermalization.</description>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2510_02246_the_quantum_magnets_that_forgot_how_to_forget.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Black Holes Jam Quantum Correlations</title>
-      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2512_23702_when_black_holes_jam_quantum_correlations.html</link>
-      <description>Black holes can jam quantum correlations without violating causality, using the event horizon as a natural jamming filter.</description>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2512_23702_when_black_holes_jam_quantum_correlations.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>
