@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 15:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 08:54:19 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Learning to Differentiate: The First Theorem for Operators</title>
+      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15285_learning_to_differentiate_the_first_theorem_for_operators.html</link>
+      <description>A neural network learns not only an operator but also its Fréchet derivatives, bridging infinite-dimensional spaces with mathematical guarantees.</description>
+      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15285_learning_to_differentiate_the_first_theorem_for_operators.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>A Differentiable Measure That Sees Groups</title>
+      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2511_23152_a_differentiable_measure_that_sees_groups.html</link>
+      <description>A differentiable loss function detects algebraic group structure: its global minimum exists if and only if the data table is isotopic to a group.</description>
+      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2511_23152_a_differentiable_measure_that_sees_groups.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When the Patient's Words Change the Diagnosis</title>
       <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2604_24700_when_the_patient_s_words_change_the_diagnosis.html</link>
@@ -73,14 +89,6 @@
       <description>A new benchmark reveals that AI trained to mimic ICU doctors repeats their mistakes, but structured memory can improve clinical reasoning.</description>
       <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_13542_when_ai_learns_to_second_guess_the_doctor.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Borrowing Brilliance: How Analogy Teaches LLMs to Think Anew</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_11258_borrowing_brilliance_how_analogy_teaches_llms_to_think_anew.html</link>
-      <description>By importing relational structures from unrelated domains, the analogical reasoning pipeline unlocks creative leaps in large language models, dramatically improving novelty and diversity.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_11258_borrowing_brilliance_how_analogy_teaches_llms_to_think_anew.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

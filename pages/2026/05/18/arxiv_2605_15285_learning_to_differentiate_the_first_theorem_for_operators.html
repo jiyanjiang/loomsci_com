@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="Derivative-Informed Operator Learning (DIOL), i.e. learning a (nonlinear) operator and its derivatives, is an open research frontier at the foundations of the influential field of Operator Learning (O">
+<meta property="og:title" content="Learning to Differentiate: The First Theorem for Operators">
+<meta property="og:description" content="Derivative-Informed Operator Learning (DIOL), i.e. learning a (nonlinear) operator and its derivatives, is an open research frontier at the foundations of the influential field of Operator Learning (O">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15285_learning_to_differentiate_the_first_theorem_for_operators.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/05/18/arxiv_2605_15285.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Learning to Differentiate: The First Theorem for Operators">
+<meta name="twitter:description" content="Derivative-Informed Operator Learning (DIOL), i.e. learning a (nonlinear) operator and its derivatives, is an open research frontier at the foundations of the influential field of Operator Learning (O">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/18/arxiv_2605_15285.jpg">
+
+
+  <title>Learning to Differentiate: The First Theorem for Operators — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="https://www.loomsci.com/latest.rss">
+  <link rel="stylesheet" href="https://www.loomsci.com/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="https://www.loomsci.com/">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="https://www.loomsci.com/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="https://www.loomsci.com/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="https://www.loomsci.com/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="https://www.loomsci.com/about.html">About</a>
+            <a class="nav-dropdown-item" href="https://www.loomsci.com/policy.html">Policy</a>
+          </div>
+        </div>
+        <a class="nav-rss" href="https://www.loomsci.com/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="https://www.loomsci.com/"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="https://www.loomsci.com/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="https://www.loomsci.com/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="https://www.loomsci.com/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://www.loomsci.com/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://www.loomsci.com/policy.html">Policy</a>
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="https://www.loomsci.com/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">Learning to Differentiate: The First Theorem for Operators</h1>
+
+  <div class="article-meta">
+    
+    <span>May 18, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2605.15285</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="https://www.loomsci.com/images/2026/05/18/arxiv_2605_15285.jpg" alt="Learning to Differentiate: The First Theorem for Operators" />
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <blockquote>
+<p>A neural network learns not only an operator but also its Fréchet derivatives, bridging infinite-dimensional spaces with mathematical guarantees.</p>
+</blockquote>
+<p>We have been told, for three decades, that a neural network can learn any function. The 1991 universal approximation theorem—Hornik’s proof that a single hidden layer suffices to represent any continuous map between finite-dimensional spaces, to any desired accuracy—is a foundational pillar of deep learning. It is a quiet promise: give me enough neurons, and I can mimic the relationship between input and output, however intricate. But this promise has a blind spot. It says nothing about derivatives. It tells you that a neural network can learn the elevation of a landscape at any point. It does not tell you whether the network has any idea of the slope under your feet.</p>
+<p>The landscape is not a metaphor. In operations research, fluid dynamics, and optimal control, the operator one wants to learn—the thing that takes a whole function as input and produces another function—is not merely a black box. Its gradient, its Jacobian, its higher-order sensitivities matter enormously. They govern stability, they inform optimization algorithms, and they are the raw material of Newton’s method. If your learned operator does not know its own derivative, using it inside a feedback loop is like navigating a mountain pass in fog with no altimeter: you might reach the valley, but you almost certainly will not take the shortest or safest route.</p>
+<p>In a preprint (arXiv:2605.15285), Filippo de Feo at Technische Universität Berlin has proved the first universal approximation theorems that address this blindness head-on. The result is not merely an extension of Hornik’s classical result to infinite dimensions; it is a careful, almost surgical, demonstration that neural networks can simultaneously learn a nonlinear operator <em>and</em> its derivatives—up to any order—and do so with mathematical guarantees that hold uniformly on compact sets and in weighted Sobolev norms. This is Derivative-Informed Operator Learning made rigorous, and its philosophical implications run deeper than the theorems themselves.</p>
+<h2 id="the-landscape-and-its-slopes">The Landscape and Its Slopes</h2>
+<p>Imagine a mapmaker. A traditional neural network trained to learn an operator is like a cartographer who sketches the contour lines of a mountain range. She can tell you the altitude at any coordinate, but if you ask how steep the northern face is, she shrugs. That information was never part of her training. Now imagine a different cartographer—one who, while drawing the contours, also learns the gradient vector at every point, the curvature of the ridge, the change in slope from one valley to the next. She could guide a climber not just to the summit but along the safest ridge, avoiding avalanche-prone snowfields. This second cartographer is the kind of learner de Feo’s theorems guarantee exists.</p>
+<p>The theoretical architecture is an Encoder-Decoder Architecture (EDA), a broad class that includes DeepONets and PCA-Nets. These are the workhorses of modern operator learning: the encoder compresses an infinite-dimensional input function into a finite set of numbers, a trunk network processes them, and a branch network reconstructs the output function. What de Feo shows is that, if you build the EDA with sufficiently expressive components and train it appropriately, it can approximate not just the operator but its Fréchet derivatives—the natural generalization of gradients to infinite-dimensional spaces—to any desired accuracy.</p>
+<p>But a sharp twist awaits. De Feo found that the most natural topology for such approximation, the one induced by operator norms, is <em>impossible</em> to achieve with EDAs when Fréchet derivatives are involved. The mathematics refuses to cooperate. It’s as if the cartographer’s paper tears whenever she tries to draw gradient arrows at the same scale as the contour lines. This is not a weakness of the architecture but a fundamental geometric obstacle.</p>
+<h2 id="why-derivatives-matter">Why Derivatives Matter</h2>
+<p>Why should anyone outside a mathematics department care about the derivative of an operator? The reply comes from three decades of work on physics-informed neural networks (PINNs) and optimal control. When Shin, Darbon, and Karniadakis proved convergence rates for PINNs applied to linear PDEs, they had to grapple with the fact that the PDE residual involves derivatives of the neural network’s output. The accuracy of the solution hinges on how well the network approximates not just the state but its spatial and temporal gradients. Without a derivative-guarantee theorem, the convergence proofs stand on uncertain ground. The same frail foundation underlies deep reinforcement learning for stochastic PDEs, as studied by Pirmorad and colleagues, where gradient-based policy updates require derivative information that current operator surrogates might not faithfully provide.</p>
+<p>De Feo’s theorems offer a rigorous footing: they assert that, at least in principle, an EDA can be trained to approximate all these derivatives simultaneously, so that a PINN’s residual or a reinforcement learner’s policy gradient is not a dangerous extrapolation but a provably accurate estimation.</p>
+<p>But the real significance reaches beyond engineering. It touches the philosophy of learning itself. To learn an operator without its derivatives is to learn <em>what</em> a system does. To learn the operator with its derivatives is to learn <em>how it responds to perturbations</em>—which is, in a deep sense, to learn something about causation. The slope is the first step toward understanding the physics that generates the output.</p>
+<h2 id="the-bastiani-compromise">The Bastiani Compromise</h2>
+<p>De Feo achieves his results by retreating to a weaker notion of differentiability: Bastiani differentiability, a concept born in functional analysis that demands continuity of the derivative but imposes a less stringent topology than the classical Fréchet one. It is a compromise that makes the universal approximation feasible, and—crucially—de Feo demonstrates that the standard Fréchet topology is simply too rigid for EDAs: the impossibility theorem is not a failure of creativity but a proof that one must change the rules of the game.</p>
+<p>An important question raised by earlier work on operator learning, including the foundational DeepONet paper by Lu and colleagues, is whether this weakened differentiability is physically meaningful. The classical DeepONet universal approximation theorem guaranteed that for any continuous operator, an EDA could approximate it arbitrarily well in the supremum norm. But the theorem was silent on derivatives. Could one simply take the derivative of the network and hope it approximates the derivative of the target? De Feo’s work shows that, in general, the answer is no—not without a careful topological choice. The Bastiani framework is the necessary price of admission.</p>
+<p>Yet a critic will ask: how many operators of practical importance are Bastiani differentiable but not Fréchet differentiable? The paper offers no concrete example. It proves the theory works in the abstract, but the bridge to applications remains a sketched blueprint, not a paved road. This is a limitation worth acknowledging. The mathematician might applaud the elegance; the engineer might wonder whether the machinery will ever run.</p>
+<h2 id="what-the-theorem-does-and-doesnt-say">What the Theorem Does and Doesn’t Say</h2>
+<p>The result is both powerful and bounded. The UAT holds uniformly on compact sets—collections of input functions that are, in a precise sense, limited in extent and variation. It does not guarantee approximation on the entire, unbounded Banach spaces that real-world PDE control problems often demand. That is a genuine gap, and it is one that earlier convergence results for PINNs on unbounded domains also had to navigate, often with additional assumptions. Still, the theorem breaks new ground. It is the first complete generalization of Hornik’s 1991 result to infinite-dimensional operator learning, including derivatives—a statement that, before de Feo’s manuscript, had no proof and many silent assumptions.</p>
+<p>The work also provides weighted Sobolev norms, which allow error control over both the function and its derivatives in a single metric. This is precisely the kind of guarantee that makes numerical analysts sleep better: if you need second-order accuracy for a Hamilton–Jacobi–Bellman PDE in optimal control, the theorem says such a learner exists.</p>
+<p>What this challenges is the quiet assumption that if a neural network can approximate an operator well, its derivatives will follow suit. The impossibility result shatters that assumption. We are forced to confront a more interesting reality: learning with derivatives requires a new architectural and topological sensibility. It is as if the neural network must be taught not just to read the map but to feel the terrain through its own internal representations.</p>
+<h2 id="learning-to-change">Learning to Change</h2>
+<p>There is a philosophical strand here that goes beyond mathematics. The history of science is, in part, the history of calculating derivatives. Newton’s laws are second-order differential equations; the calculus of variations—Fermat’s principle, Hamilton’s principle—expresses physical law in terms of stationary points. Learning the derivatives of an operator is learning the rules by which a system changes. It is learning not just the final state but the laws of transformation. De Feo’s theorem gives us a formal guarantee that such learning is possible—that a sufficiently flexible neural network can internalize not just the data but the sensitivity of the data to every conceivable perturbation.</p>
+<p>The road ahead is clear in outline. The next step is to move from existence proofs to constructive architectures that exploit the Bastiani topology efficiently, and to demonstrate that derivative-informed operator learning yields faster, more stable convergence on realistic PDE-constrained optimization problems. Whether Bastiani differentiability captures the smoothness of, say, turbulent flow fields remains an open empirical question. But we now have a map—and, more importantly, we know that the map can contain contour lines <em>and</em> gradient arrows, together, in a single, rigorous picture.</p>
+<p>Perhaps the deepest lesson is this: learning to differentiate is itself a form of understanding. The operator that knows its own slope is no longer a blind mimic; it has begun to grasp the structure of the world it models. De Feo’s preprint gives us the first proof that such understanding is, in principle, attainable. The hard work of building it now falls to the community. The question is no longer <em>whether</em> we can teach neural networks the calculus of infinite-dimensional change, but <em>how well</em> and <em>how quickly</em> and <em>for which domains.</em> The philosophical implications may outlast any single architecture—because to learn a derivative is to learn the shape of causation itself.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>Editorial Note:</strong> The critical analysis in this article was informed by a structured review of related work cited by the paper’s authors. No independent experts were interviewed.</p>
+<p><strong>References</strong></p>
+<ul>
+<li>Filippo de Feo, Universal Approximation of Nonlinear Operators and Their Derivatives, arXiv:2605.15285</li>
+<li>Lu et al., DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators, arXiv:1910.03193</li>
+<li>Shin et al., On the convergence of physics informed neural networks for linear second-order elliptic and parabolic type PDEs, arXiv:2004.01806</li>
+<li>Pirmorad et al., Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations, arXiv:2110.11265</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Science for everyone</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="https://www.loomsci.com/about.html">About</a>
+        <a class="footer-link" href="https://www.loomsci.com/policy.html">Policy</a>
+        <a class="footer-link" href="https://www.loomsci.com/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

@@ -7,10 +7,66 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 15:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 08:54:19 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Quantum Compressed Sensing: Banishing the Logarithm</title>
+      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15784_quantum_compressed_sensing_banishing_the_logarithm.html</link>
+      <description>A single quantum probe, through domain-alignment evolution, directly maps sparse signal components to measurements, eliminating the logarithmic overhead of classical compressed sensing.</description>
+      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15784_quantum_compressed_sensing_banishing_the_logarithm.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Breaking the Monotony: How Thermodynamic Networks Learn to Compute</title>
+      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15985_breaking_the_monotony_how_thermodynamic_networks_learn_to_compute.html</link>
+      <description>By settling into a steady state, a thermodynamic network computes without clocks or logic gates, using negative differential conductance to break monotonic constraints.</description>
+      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15985_breaking_the_monotony_how_thermodynamic_networks_learn_to_compute.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Is Quantum Chaos Hiding in the Second Moment?</title>
+      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2502_13930_is_quantum_chaos_hiding_in_the_second_moment.html</link>
+      <description>In a many-body spin chain, the variance of entanglement across measurement histories separates chaotic dynamics from integrable ones, unmasking quantum chaos where averages fail.</description>
+      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2502_13930_is_quantum_chaos_hiding_in_the_second_moment.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Learning to Differentiate: The First Theorem for Operators</title>
+      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15285_learning_to_differentiate_the_first_theorem_for_operators.html</link>
+      <description>A neural network learns not only an operator but also its Fréchet derivatives, bridging infinite-dimensional spaces with mathematical guarantees.</description>
+      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15285_learning_to_differentiate_the_first_theorem_for_operators.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>A Differentiable Measure That Sees Groups</title>
+      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2511_23152_a_differentiable_measure_that_sees_groups.html</link>
+      <description>A differentiable loss function detects algebraic group structure: its global minimum exists if and only if the data table is isotopic to a group.</description>
+      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2511_23152_a_differentiable_measure_that_sees_groups.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Proving Transformers Are Inherently Succinct</title>
+      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2510_19315_proving_transformers_are_inherently_succinct.html</link>
+      <description>A compact transformer, no larger than a haiku, can describe patterns that would require a universe-sized recurrent network to match.</description>
+      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2510_19315_proving_transformers_are_inherently_succinct.html</guid>
+      <category>Other Sciences</category>
+    </item>
+    <item>
+      <title>Fluid Dynamics Learns to Intersect: A Geometric Reformulation</title>
+      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2512_25053_fluid_dynamics_learns_to_intersect_a_geometric_reformulation.html</link>
+      <description>Fluid dynamics is revealed as the intersection of a coisotropic submanifold (spacetime constraints) and a Lagrangian submanifold (fluid equation of state) in an infinite-dimensional symplectic geometry.</description>
+      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2512_25053_fluid_dynamics_learns_to_intersect_a_geometric_reformulation.html</guid>
+      <category>Other Sciences</category>
+    </item>
     <item>
       <title>When the Patient's Words Change the Diagnosis</title>
       <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2604_24700_when_the_patient_s_words_change_the_diagnosis.html</link>
@@ -193,62 +249,6 @@
       <description>Type Ia supernovae remain robust standard candles for cosmology, withstanding challenges from host galaxy age evolution.</description>
       <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2601_13785_still_accelerating_how_supernovae_withstand_a_progenitor_age_challenge.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>When Nuclei Tell Time: A New Way to Calculate Beta-Decay Lifetimes</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2509_06812_when_nuclei_tell_time_a_new_way_to_calculate_beta_decay_lifetimes.html</link>
-      <description>A first-principles calculation of beta-decay lifetimes for neutron-rich N=50 nuclei provides a self-consistent clock for the r-process element formation.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2509_06812_when_nuclei_tell_time_a_new_way_to_calculate_beta_decay_lifetimes.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>When Electrons Learn to Dance: Steering Attosecond Currents with Light</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2507_10252_when_electrons_learn_to_dance_steering_attosecond_currents_with_light.html</link>
-      <description>Scientists steer attosecond electron currents in a scanning tunneling microscope using two-color laser pulses, achieving directional control and sub-femtosecond timing.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2507_10252_when_electrons_learn_to_dance_steering_attosecond_currents_with_light.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Borrowing Brilliance: How Analogy Teaches LLMs to Think Anew</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_11258_borrowing_brilliance_how_analogy_teaches_llms_to_think_anew.html</link>
-      <description>By importing relational structures from unrelated domains, the analogical reasoning pipeline unlocks creative leaps in large language models, dramatically improving novelty and diversity.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_11258_borrowing_brilliance_how_analogy_teaches_llms_to_think_anew.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Cells That Remember the Curve: Non-Uniform Automata on Hyperbolic Lattices</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_13379_cells_that_remember_the_curve_non_uniform_automata_on_hyperbolic_lattices.html</link>
-      <description>A non-uniform cellular automaton on a hyperbolic lattice assigns unique rules to each cell, encoding the curvature and enabling exotic quantum symmetries unseen on flat grids.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_13379_cells_that_remember_the_curve_non_uniform_automata_on_hyperbolic_lattices.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Ion Trap Revealing Missing Pathway for Space’s Nitrogenated PAHs</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_14424_ion_trap_revealing_missing_pathway_for_space_s_nitrogenated_pahs.html</link>
-      <description>Ion trap experiments reveal a barrier-less gas-phase reaction between pyrimidine cations and acetylene, forming an endocyclic nitrogenated PAH under interstellar conditions.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_14424_ion_trap_revealing_missing_pathway_for_space_s_nitrogenated_pahs.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>A Symplectic Operator Learns the Dance of Optimal Control</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_14332_a_symplectic_operator_learns_the_dance_of_optimal_control.html</link>
-      <description>A neural network that enforces symplectic geometry learns the entire family of optimal control solutions for swarms, achieving real-time coordination with 10,000-fold speedup.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_14332_a_symplectic_operator_learns_the_dance_of_optimal_control.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>When a SQUID Hunts Axions by Squaring the Field</title>
-      <link>https://www.loomsci.com/pages/2026/05/15/arxiv_2605_11078_when_a_squid_hunts_axions_by_squaring_the_field.html</link>
-      <description>A dc SQUID operated at its flux sweet spot detects the zero-frequency component of the squared axion field, enabling a broadband search for dark matter across a vast mass range.</description>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/15/arxiv_2605_11078_when_a_squid_hunts_axions_by_squaring_the_field.html</guid>
       <category>Other Sciences</category>
     </item>
   </channel>
