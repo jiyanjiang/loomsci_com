@@ -7,88 +7,16 @@
     <link>https://www.loomsci.com/cats/other_sciences/</link>
     <description>Latest Other Sciences articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 08:54:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 16:10:37 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/other_sciences/other_sciences.rss"
                rel="self"
                type="application/rss+xml" />
-    <item>
-      <title>Proving Transformers Are Inherently Succinct</title>
-      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2510_19315_proving_transformers_are_inherently_succinct.html</link>
-      <description>A compact transformer, no larger than a haiku, can describe patterns that would require a universe-sized recurrent network to match.</description>
-      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2510_19315_proving_transformers_are_inherently_succinct.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>Fluid Dynamics Learns to Intersect: A Geometric Reformulation</title>
-      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2512_25053_fluid_dynamics_learns_to_intersect_a_geometric_reformulation.html</link>
-      <description>Fluid dynamics is revealed as the intersection of a coisotropic submanifold (spacetime constraints) and a Lagrangian submanifold (fluid equation of state) in an infinite-dimensional symplectic geometry.</description>
-      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2512_25053_fluid_dynamics_learns_to_intersect_a_geometric_reformulation.html</guid>
-      <category>Other Sciences</category>
-    </item>
     <item>
       <title>When Optimization Becomes a Mountain: A New Way to Climb</title>
       <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2604_25378_when_optimization_becomes_a_mountain_a_new_way_to_climb.html</link>
       <description>A new algorithm climbs the complex, quartic landscape of financial optimization by following the affine-normal direction, not just the gradient.</description>
       <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2604_25378_when_optimization_becomes_a_mountain_a_new_way_to_climb.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>The Imaginary Distance Bound: When Wormholes Draw a Line</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_05336_the_imaginary_distance_bound_when_wormholes_draw_a_line.html</link>
-      <description>Wormholes in quantum gravity impose an imaginary distance bound, limiting how far a theory's parameters can be twisted before consistency breaks down.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_05336_the_imaginary_distance_bound_when_wormholes_draw_a_line.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>A Ghost in the Machine: Can Rydberg Atoms Sniff Out Dark Photons?</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2507_12860_a_ghost_in_the_machine_can_rydberg_atoms_sniff_out_dark_photons.html</link>
-      <description>A tabletop array of laser-trapped Rydberg atoms could serve as a receiver for the faint electric fields of dark photons.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2507_12860_a_ghost_in_the_machine_can_rydberg_atoms_sniff_out_dark_photons.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>The Ghost in the Bridge: When Wormholes Learned to Speak Quantum</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_1306_0533_the_ghost_in_the_bridge_when_wormholes_learned_to_speak_quantum.html</link>
-      <description>In the ER=EPR conjecture, the wormhole connecting two black holes is the geometric expression of their quantum entanglement.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_1306_0533_the_ghost_in_the_bridge_when_wormholes_learned_to_speak_quantum.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>Did a Black Hole's Invisible Cloud Just Whisper?</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2510_17967_did_a_black_hole_s_invisible_cloud_just_whisper.html</link>
-      <description>A faint cloud of ultralight scalar particles around a black hole binary may have left a subtle imprint in gravitational waves, hinting at dark matter.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2510_17967_did_a_black_hole_s_invisible_cloud_just_whisper.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>When a Robot Scales Walls Taller Than Itself</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2602_15827_when_a_robot_scales_walls_taller_than_itself.html</link>
-      <description>A humanoid robot autonomously scales a wall taller than itself using only onboard depth perception and learned parkour skills.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2602_15827_when_a_robot_scales_walls_taller_than_itself.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>When a Black Hole’s Disk Refuses to Shine</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2602_06954_when_a_black_hole_s_disk_refuses_to_shine.html</link>
-      <description>A self-gravitating disk around a quiet black hole glows red at 4000 kelvin, its star-embedded outer layers shining while the inner region stays dark. This disk Hayashi limit explains the Little Red Dots.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2602_06954_when_a_black_hole_s_disk_refuses_to_shine.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>Still Accelerating: How Supernovae Withstand a Progenitor Age Challenge</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2601_13785_still_accelerating_how_supernovae_withstand_a_progenitor_age_challenge.html</link>
-      <description>Type Ia supernovae remain robust standard candles for cosmology, withstanding challenges from host galaxy age evolution.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2601_13785_still_accelerating_how_supernovae_withstand_a_progenitor_age_challenge.html</guid>
       <category>Other Sciences</category>
     </item>
   </channel>
