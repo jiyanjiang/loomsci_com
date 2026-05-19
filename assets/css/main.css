@@ -61,6 +61,13 @@ body {
   color: var(--nav-text);
 }
 
+.nav-logo {
+  width: 24px;
+  height: 24px;
+  image-rendering: pixelated;
+  flex-shrink: 0;
+}
+
 .nav-name {
   font-size: 1.15rem;
   font-weight: 700;
@@ -409,6 +416,17 @@ body {
   padding: 10px 16px;
   background: var(--tag-bg);
   border-radius: 0 0 6px 6px;
+  font-style: italic;
+}
+
+.article-headline {
+  margin: 0 0 32px 0;
+  padding: 16px 20px;
+  border-left: 3px solid var(--accent);
+  background: var(--tag-bg);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
   font-style: italic;
 }
 
