@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 14:23:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:43:21 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
@@ -41,14 +41,6 @@
       <description>Wormholes in quantum gravity impose an imaginary distance bound, limiting how far a theory's parameters can be twisted before consistency breaks down.</description>
       <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_05336_the_imaginary_distance_bound_when_wormholes_draw_a_line.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>A Ghost in the Machine: Can Rydberg Atoms Sniff Out Dark Photons?</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2507_12860_a_ghost_in_the_machine_can_rydberg_atoms_sniff_out_dark_photons.html</link>
-      <description>A tabletop array of laser-trapped Rydberg atoms could serve as a receiver for the faint electric fields of dark photons.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2507_12860_a_ghost_in_the_machine_can_rydberg_atoms_sniff_out_dark_photons.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>
