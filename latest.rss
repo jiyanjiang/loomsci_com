@@ -7,10 +7,130 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 11:27:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 14:23:24 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Nothing Happens Is Actually Something: The Hidden Drama of Trivial Insulators</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2510_15111_when_nothing_happens_is_actually_something_the_hidden_drama_of_trivial_insulator.html</link>
+      <description>Two trivial insulators, each with displaced Wannier centers, host a conformal QED₃ state at their boundary where the energy gap closes.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2510_15111_when_nothing_happens_is_actually_something_the_hidden_drama_of_trivial_insulator.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When Numbers Become Strangers: Three Erdős Conjectures Fall to Probability</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2512_01739_when_numbers_become_strangers_three_erd_s_conjectures_fall_to_probability.html</link>
+      <description>A unified probabilistic method has toppled three of Erdős's long-standing conjectures on the behavior of prime factors in consecutive integers.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2512_01739_when_numbers_become_strangers_three_erd_s_conjectures_fall_to_probability.html</guid>
+      <category>Mathematics</category>
+    </item>
+    <item>
+      <title>Weaving Space from Arrows: The Homotopy of Directed Graphs</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2605_04959_weaving_space_from_arrows_the_homotopy_of_directed_graphs.html</link>
+      <description>Directed graphs, when interpreted through cubical homotopy, encode all topological shapes, from spheres to tori, in their arrow networks.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_04959_weaving_space_from_arrows_the_homotopy_of_directed_graphs.html</guid>
+      <category>Mathematics</category>
+    </item>
+    <item>
+      <title>The Geometry of Shells: How Three Parameters Capture Nature's Spiral</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2604_21988_the_geometry_of_shells_how_three_parameters_capture_nature_s_spiral.html</link>
+      <description>Three parameters—a scalar, a vector, and a curve—mathematically generate the spiral geometry of nearly all molluscan shells.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2604_21988_the_geometry_of_shells_how_three_parameters_capture_nature_s_spiral.html</guid>
+      <category>Biological Science</category>
+    </item>
+    <item>
+      <title>The Singularity That Wasn’t a Black Hole: Penrose’s 1965 Theorem Revisited</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2205_01680_the_singularity_that_wasn_t_a_black_hole_penrose_s_1965_theorem_revisited.html</link>
+      <description>Penrose's 1965 theorem proves geodesic incompleteness, not necessarily black holes; cosmic censorship conjectures are required to bridge the gap.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2205_01680_the_singularity_that_wasn_t_a_black_hole_penrose_s_1965_theorem_revisited.html</guid>
+      <category>People</category>
+    </item>
+    <item>
+      <title>When Noise's Memory Becomes Its Undoing</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2508_08998_when_noise_s_memory_becomes_its_undoing.html</link>
+      <description>In an NMR quantum processor, the Petz recovery map turns noise's own memory into a tailored undo operation, achieving high fidelity when the reference state matches the channel's fixed point.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2508_08998_when_noise_s_memory_becomes_its_undoing.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Swimming Helps You Disappear: How Marine Organisms Mask Their Scent</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2501_00789_when_swimming_helps_you_disappear_how_marine_organisms_mask_their_scent.html</link>
+      <description>By stirring the water as they swim, marine organisms like fish can rapidly dilute their scent, becoming undetectable to distant predators.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2501_00789_when_swimming_helps_you_disappear_how_marine_organisms_mask_their_scent.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>A World That Refuses to Shine: JWST Reveals a Planet’s Blank Face</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2605_00100_a_world_that_refuses_to_shine_jwst_reveals_a_planet_s_blank_face.html</link>
+      <description>JWST’s mid-infrared spectrum of LHS 3844 b reveals a dark, space-weathered basaltic surface and no detectable atmosphere.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_00100_a_world_that_refuses_to_shine_jwst_reveals_a_planet_s_blank_face.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>The Traffic Jam Inside Your Neurons</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2604_22024_the_traffic_jam_inside_your_neurons.html</link>
+      <description>Mitochondrial traffic jams inside axons are caused by spherical mitochondria that tumble and block passage, while elongated ones glide smoothly through.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2604_22024_the_traffic_jam_inside_your_neurons.html</guid>
+      <category>Biological Science</category>
+    </item>
+    <item>
+      <title>When Identical Noise Becomes a Signal</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2409_02086_when_identical_noise_becomes_a_signal.html</link>
+      <description>By forcing identical random number streams across scenarios, common random numbers transform stochastic noise into a precise signal in agent-based simulations.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2409_02086_when_identical_noise_becomes_a_signal.html</guid>
+      <category>Biological Science</category>
+    </item>
+    <item>
+      <title>When Better AI No Longer Means Better Models of Vision</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2504_16940_when_better_ai_no_longer_means_better_models_of_vision.html</link>
+      <description>As artificial vision models surpass human-level accuracy, their internal representations diverge from the primate brain's visual pathways, breaking a decade-long alignment.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2504_16940_when_better_ai_no_longer_means_better_models_of_vision.html</guid>
+      <category>Biological Science</category>
+    </item>
+    <item>
+      <title>When Brain Models See Movies but Miss the Story</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2501_00504_when_brain_models_see_movies_but_miss_the_story.html</link>
+      <description>Brain encoding models predict neural activity from movies, yet fail to grasp the story, revealing the gap between surface patterns and semantic understanding.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2501_00504_when_brain_models_see_movies_but_miss_the_story.html</guid>
+      <category>Biological Science</category>
+    </item>
+    <item>
+      <title>When a Language Model Learns to Derive Gravity</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2605_08212_when_a_language_model_learns_to_derive_gravity.html</link>
+      <description>An AI apprentice carves cosmic perturbation equations into a stone of spacetime, learning gravity through worked examples and algebra.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_08212_when_a_language_model_learns_to_derive_gravity.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Reading Bodies, Missing Minds: AI’s Struggle with Theory of Mind</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2511_15887_reading_bodies_missing_minds_ai_s_struggle_with_theory_of_mind.html</link>
+      <description>AI can recognize a smile but misses the mind behind it, exposing a gap between textbook knowledge and real-time social understanding.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2511_15887_reading_bodies_missing_minds_ai_s_struggle_with_theory_of_mind.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>A Bar Born Where None Should Be</title>
+      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2605_15273_a_bar_born_where_none_should_be.html</link>
+      <description>A stellar bar, over 7 kiloparsecs long, is revealed in the gas-rich galaxy GN20 just 1.5 billion years after the Big Bang, challenging theories of bar formation.</description>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_15273_a_bar_born_where_none_should_be.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>Quantum Compressed Sensing: Banishing the Logarithm</title>
       <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15784_quantum_compressed_sensing_banishing_the_logarithm.html</link>
@@ -129,126 +249,6 @@
       <description>A tabletop array of laser-trapped Rydberg atoms could serve as a receiver for the faint electric fields of dark photons.</description>
       <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2507_12860_a_ghost_in_the_machine_can_rydberg_atoms_sniff_out_dark_photons.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>The Heartbeat Gauging World Models and Quantum Hardness</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_11557_the_heartbeat_gauging_world_models_and_quantum_hardness.html</link>
-      <description>Wavelet variance equipartition in a world model's latent space reveals a quantum hardness boundary, linking turbulence theory to machine learning.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_11557_the_heartbeat_gauging_world_models_and_quantum_hardness.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>The Ghost in the Bridge: When Wormholes Learned to Speak Quantum</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_1306_0533_the_ghost_in_the_bridge_when_wormholes_learned_to_speak_quantum.html</link>
-      <description>In the ER=EPR conjecture, the wormhole connecting two black holes is the geometric expression of their quantum entanglement.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_1306_0533_the_ghost_in_the_bridge_when_wormholes_learned_to_speak_quantum.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Did a Black Hole's Invisible Cloud Just Whisper?</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2510_17967_did_a_black_hole_s_invisible_cloud_just_whisper.html</link>
-      <description>A faint cloud of ultralight scalar particles around a black hole binary may have left a subtle imprint in gravitational waves, hinting at dark matter.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2510_17967_did_a_black_hole_s_invisible_cloud_just_whisper.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When the Ground Beneath Your Feet Lies: Why Land Surface Temperature Isn't Telling You the Whole Story About Urban Heat</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2604_22433_when_the_ground_beneath_your_feet_lies_why_land_surface_temperature_isn_t_tellin.html</link>
-      <description>Land surface temperature from satellites often fails to capture the actual heat stress experienced by people on urban streets.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2604_22433_when_the_ground_beneath_your_feet_lies_why_land_surface_temperature_isn_t_tellin.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Last Human-Written Paper: Preserving Science’s Dead Ends</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2604_24658_the_last_human_written_paper_preserving_science_s_dead_ends.html</link>
-      <description>By preserving the full exploration tree—dead ends included—science can accelerate discovery and avoid repeating mistakes.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2604_24658_the_last_human_written_paper_preserving_science_s_dead_ends.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Emergence of ‘We’: A Causal Theory of Collective Agency</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_00248_the_emergence_of_we_a_causal_theory_of_collective_agency.html</link>
-      <description>Collective agency emerges when a group’s joint behavior can be predicted as a single rational goal-directed entity, as shown by causal abstraction analysis.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_00248_the_emergence_of_we_a_causal_theory_of_collective_agency.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>A Million Voices, One Culprit: The Invisible Failure of Small-Scale Explanations</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2605_11404_a_million_voices_one_culprit_the_invisible_failure_of_small_scale_explanations.html</link>
-      <description>A million-agent simulation reveals that influence is carried by the invisible many, not the few bright stars visible from afar.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2605_11404_a_million_voices_one_culprit_the_invisible_failure_of_small_scale_explanations.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When a Robot Scales Walls Taller Than Itself</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2602_15827_when_a_robot_scales_walls_taller_than_itself.html</link>
-      <description>A humanoid robot autonomously scales a wall taller than itself using only onboard depth perception and learned parkour skills.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2602_15827_when_a_robot_scales_walls_taller_than_itself.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When a Black Hole’s Disk Refuses to Shine</title>
-      <link>https://www.loomsci.com/pages/2026/05/17/arxiv_2602_06954_when_a_black_hole_s_disk_refuses_to_shine.html</link>
-      <description>A self-gravitating disk around a quiet black hole glows red at 4000 kelvin, its star-embedded outer layers shining while the inner region stays dark. This disk Hayashi limit explains the Little Red Dots.</description>
-      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/17/arxiv_2602_06954_when_a_black_hole_s_disk_refuses_to_shine.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>What Happens When AI Maps the Cracks in Scientific Consensus?</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_12835_what_happens_when_ai_maps_the_cracks_in_scientific_consensus.html</link>
-      <description>A sheaf-based atlas reveals where scientific causal claims align and where they fracture, mapping the hidden fault lines beneath published consensus.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_12835_what_happens_when_ai_maps_the_cracks_in_scientific_consensus.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When AI Learns to Second-Guess the Doctor</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_13542_when_ai_learns_to_second_guess_the_doctor.html</link>
-      <description>A new benchmark reveals that AI trained to mimic ICU doctors repeats their mistakes, but structured memory can improve clinical reasoning.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_13542_when_ai_learns_to_second_guess_the_doctor.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Weaving Superconductivity from Frustrated Spin Textures</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2506_15661_weaving_superconductivity_from_frustrated_spin_textures.html</link>
-      <description>Frustrated spin textures act as a quantum loom, weaving anisotropic d‑vector order that can generate vortices and diode effects.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2506_15661_weaving_superconductivity_from_frustrated_spin_textures.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Learning to Steer Supercurrents with Frustrated Magnets</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2510_25756_learning_to_steer_supercurrents_with_frustrated_magnets.html</link>
-      <description>Frustrated magnetic spins in a Josephson junction create a supercurrent diode, favouring flow in one direction over the other.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2510_25756_learning_to_steer_supercurrents_with_frustrated_magnets.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>How Light Gives Graphene a Hidden Edge</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2605_07190_how_light_gives_graphene_a_hidden_edge.html</link>
-      <description>Shining polarized light at an angle on strained graphene creates corner-bound electrons, a topological phase called a Floquet second-order insulator.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2605_07190_how_light_gives_graphene_a_hidden_edge.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Still Accelerating: How Supernovae Withstand a Progenitor Age Challenge</title>
-      <link>https://www.loomsci.com/pages/2026/05/16/arxiv_2601_13785_still_accelerating_how_supernovae_withstand_a_progenitor_age_challenge.html</link>
-      <description>Type Ia supernovae remain robust standard candles for cosmology, withstanding challenges from host galaxy age evolution.</description>
-      <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/16/arxiv_2601_13785_still_accelerating_how_supernovae_withstand_a_progenitor_age_challenge.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>
