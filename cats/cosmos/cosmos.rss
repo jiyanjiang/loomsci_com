@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 03:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:19:02 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
@@ -41,14 +41,6 @@
       <description>A stellar bar, over 7 kiloparsecs long, is revealed in the gas-rich galaxy GN20 just 1.5 billion years after the Big Bang, challenging theories of bar formation.</description>
       <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_15273_a_bar_born_where_none_should_be.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Fluid Dynamics Learns to Intersect: A Geometric Reformulation</title>
-      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2512_25053_fluid_dynamics_learns_to_intersect_a_geometric_reformulation.html</link>
-      <description>Fluid dynamics is revealed as the intersection of a coisotropic submanifold (spacetime constraints) and a Lagrangian submanifold (fluid equation of state) in an infinite-dimensional symplectic geometry.</description>
-      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2512_25053_fluid_dynamics_learns_to_intersect_a_geometric_reformulation.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

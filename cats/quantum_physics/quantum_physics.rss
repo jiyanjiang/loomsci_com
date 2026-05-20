@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 03:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:19:02 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Invisible Dimension that Decides Spin Squeezing</title>
+      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_03032_the_invisible_dimension_that_decides_spin_squeezing.html</link>
+      <description>The spectral dimension of a spin network's connectivity decides whether scalable quantum squeezing can emerge.</description>
+      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_03032_the_invisible_dimension_that_decides_spin_squeezing.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>When Noise's Memory Becomes Its Undoing</title>
       <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2508_08998_when_noise_s_memory_becomes_its_undoing.html</link>
