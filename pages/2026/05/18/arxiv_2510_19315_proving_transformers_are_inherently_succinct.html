@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-<meta name="description" content="We study succinctness as a measure of the expressive power of transformers. Succinctness -- how compactly a formalism can describe a language relative to other formalisms -- is a classical notion in logic and automata theory. We prove that fixed-precision transforme">
+<meta name="description" content="A compact transformer, no larger than a haiku, can describe patterns that would require a universe-sized recurrent network to match.">
 <meta property="og:title" content="Proving Transformers Are Inherently Succinct">
-<meta property="og:description" content="We study succinctness as a measure of the expressive power of transformers. Succinctness -- how compactly a formalism can describe a language relative to other formalisms -- is a classical notion in logic and automata theory. We prove that fixed-precision transforme">
+<meta property="og:description" content="A compact transformer, no larger than a haiku, can describe patterns that would require a universe-sized recurrent network to match.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.loomsci.com/pages/2026/05/18/arxiv_2510_19315_proving_transformers_are_inherently_succinct.html">
 
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="LoomSci">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Proving Transformers Are Inherently Succinct">
-<meta name="twitter:description" content="We study succinctness as a measure of the expressive power of transformers. Succinctness -- how compactly a formalism can describe a language relative to other formalisms -- is a classical notion in logic and automata theory. We prove that fixed-precision transforme">
+<meta name="twitter:description" content="A compact transformer, no larger than a haiku, can describe patterns that would require a universe-sized recurrent network to match.">
 
 <meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/18/arxiv_2510_19315.jpg">
 
@@ -143,10 +143,7 @@
   
 
   <div class="article-body">
-    <blockquote>
-<p>A compact transformer, no larger than a haiku, can describe patterns that would require a universe-sized recurrent network to match.</p>
-</blockquote>
-<p>Imagine you are standing in an immense library, and someone asks you to capture the entire plot of <em>War and Peace</em> in a single sentence. You might say: “It’s about five families and Napoleon.” That sentence is not a summary; it is a compression that discards nearly every detail while retaining the deep logic of the story. It is <em>succinct</em> in a way the original thousand‑page novel is not—and, more importantly, it would be impossible to produce by simply reading the book one page after another without ever stepping back to see the whole design.</p>
+    <p>Imagine you are standing in an immense library, and someone asks you to capture the entire plot of <em>War and Peace</em> in a single sentence. You might say: “It’s about five families and Napoleon.” That sentence is not a summary; it is a compression that discards nearly every detail while retaining the deep logic of the story. It is <em>succinct</em> in a way the original thousand‑page novel is not—and, more importantly, it would be impossible to produce by simply reading the book one page after another without ever stepping back to see the whole design.</p>
 <p>Three computer scientists have now proved that a similar chasm separates two of the most important instruments of modern artificial intelligence. In a preprint released this month, Pascal Bergsträßer, Ryan Cotterell, and Anthony W. Lin (arXiv:2510.19315) show that the transformer architecture—the mechanism that drives large language models like ChatGPT—can describe certain patterns of language with a compactness that a recurrent neural network (RNN) could never hope to match. Moreover, the gap is not merely large; it can be <em>doubly exponential</em>. Where an RNN would need a description so vast that even the particles in the observable universe could not provide enough storage, a clever transformer can do the same job with a handful of parameters. The result is a theorem about pure expressiveness, but its implications hum just beneath the surface of every chatbot and every attempt to understand what these models really understand.</p>
 <h2 id="what-succinctness-means">What Succinctness Means</h2>
 <p>To appreciate the claim, one must first free the word “succinctness” from its everyday association with mere brevity. In the world of formal languages—the mathematical skeletons on which all computer programs hang—succinctness is the measure of how <em>compactly</em> a formalism can encode a given set of strings. Think of describing the set of all well‑balanced parentheses. You could write out every possible sequence of brackets up to some length; that would be a finite automaton, and its description would be enormous. Or you could use a single recursive rule: “every opening parenthesis must eventually be matched by a closing one.” That rule is a linear temporal logic (LTL) formula, and it is vastly shorter than the list of explicit strings.</p>

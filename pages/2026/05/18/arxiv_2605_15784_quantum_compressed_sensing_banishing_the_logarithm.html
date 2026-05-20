@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-<meta name="description" content="How many measurements are fundamentally required to capture a signal. Shannon's information theory established the bedrock of this question in 1948, the Nyquist Shannon theorem set the first answer, and compressed sensing (CS) rewrote it in 2006 by reducing the requ">
+<meta name="description" content="A single quantum probe, through domain-alignment evolution, directly maps sparse signal components to measurements, eliminating the logarithmic overhead of classical compressed sensing.">
 <meta property="og:title" content="Quantum Compressed Sensing: Banishing the Logarithm">
-<meta property="og:description" content="How many measurements are fundamentally required to capture a signal. Shannon's information theory established the bedrock of this question in 1948, the Nyquist Shannon theorem set the first answer, and compressed sensing (CS) rewrote it in 2006 by reducing the requ">
+<meta property="og:description" content="A single quantum probe, through domain-alignment evolution, directly maps sparse signal components to measurements, eliminating the logarithmic overhead of classical compressed sensing.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15784_quantum_compressed_sensing_banishing_the_logarithm.html">
 
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="LoomSci">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Quantum Compressed Sensing: Banishing the Logarithm">
-<meta name="twitter:description" content="How many measurements are fundamentally required to capture a signal. Shannon's information theory established the bedrock of this question in 1948, the Nyquist Shannon theorem set the first answer, and compressed sensing (CS) rewrote it in 2006 by reducing the requ">
+<meta name="twitter:description" content="A single quantum probe, through domain-alignment evolution, directly maps sparse signal components to measurements, eliminating the logarithmic overhead of classical compressed sensing.">
 
 <meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/18/arxiv_2605_15784.jpg">
 
@@ -143,10 +143,7 @@
   
 
   <div class="article-body">
-    <blockquote>
-<p>A single quantum probe, through domain-alignment evolution, directly maps sparse signal components to measurements, eliminating the logarithmic overhead of classical compressed sensing.</p>
-</blockquote>
-<p>In classical signal processing, the price of fidelity is measurement. To faithfully reconstruct a signal, you must sample it at a rate at least twice its highest frequency—the famous Nyquist-Shannon theorem, grounded in Claude Shannon's 1948 theory of information. For decades, that was the rule. Then, in 2006, compressed sensing rewrote it: for a signal that is sparse—mostly silent, with only a few active tones—you don’t need nearly so many measurements. A small number of carefully chosen ones can suffice. The catch? A stubborn logarithmic factor, K log(N/K), still tied the measurement count to the signal’s full dimension. The logarithm was a lingering ghost of Nyquist’s old limit. Now, a team led by Suotang Jia at Shanxi University, with Jianyong Hu as the lead author, reports in a preprint (arXiv:2605.15784) a framework that exorcises that ghost entirely—using a single quantum probe.</p>
+    <p>In classical signal processing, the price of fidelity is measurement. To faithfully reconstruct a signal, you must sample it at a rate at least twice its highest frequency—the famous Nyquist-Shannon theorem, grounded in Claude Shannon's 1948 theory of information. For decades, that was the rule. Then, in 2006, compressed sensing rewrote it: for a signal that is sparse—mostly silent, with only a few active tones—you don’t need nearly so many measurements. A small number of carefully chosen ones can suffice. The catch? A stubborn logarithmic factor, K log(N/K), still tied the measurement count to the signal’s full dimension. The logarithm was a lingering ghost of Nyquist’s old limit. Now, a team led by Suotang Jia at Shanxi University, with Jianyong Hu as the lead author, reports in a preprint (arXiv:2605.15784) a framework that exorcises that ghost entirely—using a single quantum probe.</p>
 <p>For Jia and his colleagues, the question was not how to squeeze the log factor with ever more clever algorithms; it was whether quantum physics could re-encode the whole measurement problem so that the logarithm never appears at all. Their answer is <strong>quantum compressed sensing (QCS)</strong>, a paradigm that shifts the labour of signal recovery from the classical computer to a physical quantum evolution.</p>
 <p>Think of a room full of people whispering in a hundred different languages, but only a handful are actually speaking. A classical sensor must, in effect, ask enough questions to locate those active speakers among the crowd. The Shanxi team’s quantum probe, however, is like a single, exquisitely tuned ear that hears all voices simultaneously. Through a unitary transformation—what they call <strong>domain-alignment evolution</strong>—the probe projects the sparse structure directly onto a set of detectors, each sensitive to exactly one active “voice.” No scanning, no guesswork. This is not mere parallelism; it is a reshaping of the information before a single measurement click. The quantum state encodes the entire high-dimensional signal, and the unitary evolution aligns the sparse basis with the measurement basis. The result: the support set—the list of which components are non-zero—appears at the quantum level, with no measurement trials wasted.</p>
 <p>The key insight, the one that makes the logarithm vanish, is that the evolution is tailored to the domain in which the signal is sparse. If the signal is sparse in frequency, the unitary is a time lens that maps each frequency component to a distinct photon arrival time. If it is sparse in time, the unitary encodes temporal structure into quantum correlations. In both cases, the measurement no longer probes raw signal values but directly reveals the active sparse components. The price per component is one measurement unit, not one scaled by the logarithm of the dimension.</p>

@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-<meta name="description" content="Many real-life applications involve controlling high-dimensional multi-agent systems in real-time. Existing optimal control solvers often suffer from the curse-of-dimensionality and require complete rerunning for each new problem setting. We target nonconvex, nonlin">
+<meta name="description" content="A neural network that enforces symplectic geometry learns the entire family of optimal control solutions for swarms, achieving real-time coordination with 10,000-fold speedup.">
 <meta property="og:title" content="A Symplectic Operator Learns the Dance of Optimal Control">
-<meta property="og:description" content="Many real-life applications involve controlling high-dimensional multi-agent systems in real-time. Existing optimal control solvers often suffer from the curse-of-dimensionality and require complete rerunning for each new problem setting. We target nonconvex, nonlin">
+<meta property="og:description" content="A neural network that enforces symplectic geometry learns the entire family of optimal control solutions for swarms, achieving real-time coordination with 10,000-fold speedup.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.loomsci.com/pages/2026/05/16/arxiv_2605_14332_a_symplectic_operator_learns_the_dance_of_optimal_control.html">
 
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="LoomSci">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="A Symplectic Operator Learns the Dance of Optimal Control">
-<meta name="twitter:description" content="Many real-life applications involve controlling high-dimensional multi-agent systems in real-time. Existing optimal control solvers often suffer from the curse-of-dimensionality and require complete rerunning for each new problem setting. We target nonconvex, nonlin">
+<meta name="twitter:description" content="A neural network that enforces symplectic geometry learns the entire family of optimal control solutions for swarms, achieving real-time coordination with 10,000-fold speedup.">
 
 <meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/16/arxiv_2605_14332.jpg">
 
@@ -143,10 +143,7 @@
   
 
   <div class="article-body">
-    <blockquote>
-<p>A neural network that enforces symplectic geometry learns the entire family of optimal control solutions for swarms, achieving real-time coordination with 10,000-fold speedup.</p>
-</blockquote>
-<p>Picture a murmuration of starlings at dusk — thousands of birds wheeling in synchrony, never colliding, as if guided by a single intelligence. Or a school of fish darting in unison to elude a predator. For decades, engineers have dreamed of commanding swarms of autonomous agents — drones, robots, satellites — with the same effortless grace. The obstacle, however, has been computational: calculating the optimal path for each agent, given the complex interplay of dynamics and constraints, requires solving a high-dimensional optimization problem that can stretch from minutes to hours. Every time the scenario changes — new starting positions, a different obstacle — the entire calculation must be rerun from scratch.</p>
+    <p>Picture a murmuration of starlings at dusk — thousands of birds wheeling in synchrony, never colliding, as if guided by a single intelligence. Or a school of fish darting in unison to elude a predator. For decades, engineers have dreamed of commanding swarms of autonomous agents — drones, robots, satellites — with the same effortless grace. The obstacle, however, has been computational: calculating the optimal path for each agent, given the complex interplay of dynamics and constraints, requires solving a high-dimensional optimization problem that can stretch from minutes to hours. Every time the scenario changes — new starting positions, a different obstacle — the entire calculation must be rerun from scratch.</p>
 <p>Now, a team at Brown University led by George Em Karniadakis, with Alan John Varghese and colleagues — including Paula Chen at the Naval Air Warfare Center Weapons Division in China Lake, California — has shown that a single neural network can learn to do all of this in a fraction of a second. Their work, described in a preprint (arXiv:2605.14332), introduces PI‑SONet — a Physics‑Informed Symplectic Operator Network — that does not solve each control problem anew but instead learns the entire family of solutions, then produces answers with speedups of up to 10,000 times over conventional solvers.</p>
 <p>Optimal control is the mathematical discipline of steering a system from one state to another while minimizing a cost — think fuel, time, or deviation from a desired path. For a single agent, like a robot arm, the problem is manageable. But for a swarm of dozens of agents, each with its own position, velocity, and control input, the dimensionality explodes. The standard approach relies on the Pontryagin Maximum Principle (PMP), which converts the control problem into a set of coupled differential equations that evolve along Hamiltonian trajectories — the same geometric language that governs planetary motion and quantum mechanics. Solving these equations for every new initial condition is brutally expensive, a phenomenon known as the curse of dimensionality.</p>
 <p>This is where the “operator” in PI‑SONet earns its name. An operator is a mathematical object that maps entire functions to other functions — in this case, it maps the problem’s specifications (initial conditions, obstacle geometry, agent sizes) directly to the optimal trajectories, without solving the underlying equations each time. Think of it as the difference between recalculating a symphony note by note for each new performance and learning the conductor’s baton movements that generate the music. PI‑SONet is trained on a family of problems, so that when a new member of the family arrives, it instantly infers the correct choreography.</p>

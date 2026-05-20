@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-<meta name="description" content="We introduce thermodynamic networks, a general framework for autonomous, physics-based computation using non-equilibrium steady states. These networks are modeled as a collection of finite-size reservoirs that exchange conserved quantities--such as electric charge o">
+<meta name="description" content="By settling into a steady state, a thermodynamic network computes without clocks or logic gates, using negative differential conductance to break monotonic constraints.">
 <meta property="og:title" content="Breaking the Monotony: How Thermodynamic Networks Learn to Compute">
-<meta property="og:description" content="We introduce thermodynamic networks, a general framework for autonomous, physics-based computation using non-equilibrium steady states. These networks are modeled as a collection of finite-size reservoirs that exchange conserved quantities--such as electric charge o">
+<meta property="og:description" content="By settling into a steady state, a thermodynamic network computes without clocks or logic gates, using negative differential conductance to break monotonic constraints.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15985_breaking_the_monotony_how_thermodynamic_networks_learn_to_compute.html">
 
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="LoomSci">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Breaking the Monotony: How Thermodynamic Networks Learn to Compute">
-<meta name="twitter:description" content="We introduce thermodynamic networks, a general framework for autonomous, physics-based computation using non-equilibrium steady states. These networks are modeled as a collection of finite-size reservoirs that exchange conserved quantities--such as electric charge o">
+<meta name="twitter:description" content="By settling into a steady state, a thermodynamic network computes without clocks or logic gates, using negative differential conductance to break monotonic constraints.">
 
 <meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/18/arxiv_2605_15985.jpg">
 
@@ -143,10 +143,7 @@
   
 
   <div class="article-body">
-    <blockquote>
-<p>By settling into a steady state, a thermodynamic network computes without clocks or logic gates, using negative differential conductance to break monotonic constraints.</p>
-</blockquote>
-<p>What if a computer could solve a problem not by executing a program, but by settling naturally into a state where the answer simply is? That is the vision a team led by Nicolas Brunner at the University of Geneva, together with Patryk Lipka‑Bartosik and colleagues in Warsaw, Mallorca, and Barcelona, lays out in a preprint (arXiv:2605.15985). They call their creation a <em>thermodynamic network</em>—a collection of finite‑size reservoirs that exchange conserved quantities, like electric charge or molecules, and whose final, non‑equilibrium steady state encodes the solution to a computational task. There are no transistors here, no logic gates, no clock cycles. Only flows and forces settling into a pattern that, if you know how to read it, answers your question.</p>
+    <p>What if a computer could solve a problem not by executing a program, but by settling naturally into a state where the answer simply is? That is the vision a team led by Nicolas Brunner at the University of Geneva, together with Patryk Lipka‑Bartosik and colleagues in Warsaw, Mallorca, and Barcelona, lays out in a preprint (arXiv:2605.15985). They call their creation a <em>thermodynamic network</em>—a collection of finite‑size reservoirs that exchange conserved quantities, like electric charge or molecules, and whose final, non‑equilibrium steady state encodes the solution to a computational task. There are no transistors here, no logic gates, no clock cycles. Only flows and forces settling into a pattern that, if you know how to read it, answers your question.</p>
 <p>The idea turns a traditional assumption inside out. Computing, we imagine, is something we impose on matter from above: a software layer driving a hardware substrate. The thermodynamic network flips the hierarchy. Here, the physics itself does the work; we merely design the conduits that guide its natural relaxation. To understand how, think of a city’s water distribution system. Pipes connect reservoirs sitting at different elevations, and if you open a valve, water rushes downhill until the levels equalise. Now suppose you could design some pipes so that their resistance depends non‑trivially on the pressure difference—so that more pressure sometimes actually <em>suppresses</em> the flow. By choosing the layout and the characteristics of those pipes just so, you could arrange things so that when the whole network finally quiets down, the water levels in certain reservoirs amount to the digits of a sine function, or the classification of a handwritten digit. That is the game: computation through equilibration.</p>
 <p>At the heart of the network’s expressivity lies a physical effect the authors single out as indispensable: negative differential conductance, or NDC. In a normal wire, increasing the voltage drives more current. In a device exhibiting NDC, there are regimes where increasing the voltage <em>reduces</em> the current. The paper proves that this counter‑intuitive behaviour is what breaks the network out of a mathematical straitjacket. Without it, a theorem dating back to the work of Kamke and Müller constrains the steady‑state response to be monotonic: the output can only rise (or fall) smoothly as the input goes up. That might be enough for simple tasks, but it cannot represent anything like a bend or a fold. With NDC present, the constraints shatter, and the network gains the capacity to approximate any continuous function—what the theorists call universal approximation.</p>
 <p><img alt="fig1" src="/images/2026/05/18/arxiv_2605_15985_fig_1.jpg"></p>

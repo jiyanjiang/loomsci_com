@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-<meta name="description" content="Derivative-Informed Operator Learning (DIOL), i.e. learning a (nonlinear) operator and its derivatives, is an open research frontier at the foundations of the influential field of Operator Learning (OL). In particular, Universal Approximation Theorems (UATs) of nonl">
+<meta name="description" content="A neural network learns not only an operator but also its Fréchet derivatives, bridging infinite-dimensional spaces with mathematical guarantees.">
 <meta property="og:title" content="Learning to Differentiate: The First Theorem for Operators">
-<meta property="og:description" content="Derivative-Informed Operator Learning (DIOL), i.e. learning a (nonlinear) operator and its derivatives, is an open research frontier at the foundations of the influential field of Operator Learning (OL). In particular, Universal Approximation Theorems (UATs) of nonl">
+<meta property="og:description" content="A neural network learns not only an operator but also its Fréchet derivatives, bridging infinite-dimensional spaces with mathematical guarantees.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15285_learning_to_differentiate_the_first_theorem_for_operators.html">
 
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="LoomSci">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Learning to Differentiate: The First Theorem for Operators">
-<meta name="twitter:description" content="Derivative-Informed Operator Learning (DIOL), i.e. learning a (nonlinear) operator and its derivatives, is an open research frontier at the foundations of the influential field of Operator Learning (OL). In particular, Universal Approximation Theorems (UATs) of nonl">
+<meta name="twitter:description" content="A neural network learns not only an operator but also its Fréchet derivatives, bridging infinite-dimensional spaces with mathematical guarantees.">
 
 <meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/18/arxiv_2605_15285.jpg">
 
@@ -143,10 +143,7 @@
   
 
   <div class="article-body">
-    <blockquote>
-<p>A neural network learns not only an operator but also its Fréchet derivatives, bridging infinite-dimensional spaces with mathematical guarantees.</p>
-</blockquote>
-<p>We have been told, for three decades, that a neural network can learn any function. The 1991 universal approximation theorem—Hornik’s proof that a single hidden layer suffices to represent any continuous map between finite-dimensional spaces, to any desired accuracy—is a foundational pillar of deep learning. It is a quiet promise: give me enough neurons, and I can mimic the relationship between input and output, however intricate. But this promise has a blind spot. It says nothing about derivatives. It tells you that a neural network can learn the elevation of a landscape at any point. It does not tell you whether the network has any idea of the slope under your feet.</p>
+    <p>We have been told, for three decades, that a neural network can learn any function. The 1991 universal approximation theorem—Hornik’s proof that a single hidden layer suffices to represent any continuous map between finite-dimensional spaces, to any desired accuracy—is a foundational pillar of deep learning. It is a quiet promise: give me enough neurons, and I can mimic the relationship between input and output, however intricate. But this promise has a blind spot. It says nothing about derivatives. It tells you that a neural network can learn the elevation of a landscape at any point. It does not tell you whether the network has any idea of the slope under your feet.</p>
 <p>The landscape is not a metaphor. In operations research, fluid dynamics, and optimal control, the operator one wants to learn—the thing that takes a whole function as input and produces another function—is not merely a black box. Its gradient, its Jacobian, its higher-order sensitivities matter enormously. They govern stability, they inform optimization algorithms, and they are the raw material of Newton’s method. If your learned operator does not know its own derivative, using it inside a feedback loop is like navigating a mountain pass in fog with no altimeter: you might reach the valley, but you almost certainly will not take the shortest or safest route.</p>
 <p>In a preprint (arXiv:2605.15285), Filippo de Feo at Technische Universität Berlin has proved the first universal approximation theorems that address this blindness head-on. The result is not merely an extension of Hornik’s classical result to infinite dimensions; it is a careful, almost surgical, demonstration that neural networks can simultaneously learn a nonlinear operator <em>and</em> its derivatives—up to any order—and do so with mathematical guarantees that hold uniformly on compact sets and in weighted Sobolev norms. This is Derivative-Informed Operator Learning made rigorous, and its philosophical implications run deeper than the theorems themselves.</p>
 <h2 id="the-landscape-and-its-slopes">The Landscape and Its Slopes</h2>

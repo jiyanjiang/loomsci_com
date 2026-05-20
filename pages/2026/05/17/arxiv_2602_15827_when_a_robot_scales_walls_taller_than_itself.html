@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-<meta name="description" content="While recent advances in humanoid locomotion have achieved stable walking on varied terrains, capturing the agility and adaptivity of highly dynamic human motions remains an open challenge. In particular, agile parkour in complex environments demands not only low-le">
+<meta name="description" content="A humanoid robot autonomously scales a wall taller than itself using only onboard depth perception and learned parkour skills.">
 <meta property="og:title" content="When a Robot Scales Walls Taller Than Itself">
-<meta property="og:description" content="While recent advances in humanoid locomotion have achieved stable walking on varied terrains, capturing the agility and adaptivity of highly dynamic human motions remains an open challenge. In particular, agile parkour in complex environments demands not only low-le">
+<meta property="og:description" content="A humanoid robot autonomously scales a wall taller than itself using only onboard depth perception and learned parkour skills.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.loomsci.com/pages/2026/05/17/arxiv_2602_15827_when_a_robot_scales_walls_taller_than_itself.html">
 
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="LoomSci">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="When a Robot Scales Walls Taller Than Itself">
-<meta name="twitter:description" content="While recent advances in humanoid locomotion have achieved stable walking on varied terrains, capturing the agility and adaptivity of highly dynamic human motions remains an open challenge. In particular, agile parkour in complex environments demands not only low-le">
+<meta name="twitter:description" content="A humanoid robot autonomously scales a wall taller than itself using only onboard depth perception and learned parkour skills.">
 
 <meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/17/arxiv_2602_15827.jpg">
 
@@ -143,10 +143,7 @@
   
 
   <div class="article-body">
-    <blockquote>
-<p>A humanoid robot autonomously scales a wall taller than itself using only onboard depth perception and learned parkour skills.</p>
-</blockquote>
-<p>Roboticists have long dreamed of humanoid machines that can navigate obstacle courses with the fluid grace of a parkour athlete — diving, climbing, rolling through complex environments. Now, a team led by C. Karen Liu at Stanford University, together with collaborators at Amazon FAR, UC Berkeley, and CMU, has brought that dream closer than ever. In a preprint (arXiv:2602.15827), they present Perceptive Humanoid Parkour (PHP), a framework that enables a Unitree G1 robot to autonomously scale walls taller than itself, vault over obstacles, and chain together minutes of agile, perception-driven movement — using only its own depth camera.</p>
+    <p>Roboticists have long dreamed of humanoid machines that can navigate obstacle courses with the fluid grace of a parkour athlete — diving, climbing, rolling through complex environments. Now, a team led by C. Karen Liu at Stanford University, together with collaborators at Amazon FAR, UC Berkeley, and CMU, has brought that dream closer than ever. In a preprint (arXiv:2602.15827), they present Perceptive Humanoid Parkour (PHP), a framework that enables a Unitree G1 robot to autonomously scale walls taller than itself, vault over obstacles, and chain together minutes of agile, perception-driven movement — using only its own depth camera.</p>
 <p>The challenge with humanoid parkour is not just raw power or balance. It lies in seamlessness: the ability to flow from a sprint into a vault into a climb, knowing exactly when to place a foot, and how to react if a foothold suddenly vanishes. For years, legged robots either trudged cautiously across uneven ground or executed isolated acrobatic feats — never both in one fluid sequence. A robot that could truly emulate human agility had to somehow blend high-level planning with split‑second reactive control, all while seeing the world through a single camera lens.</p>
 <h2 id="the-choreography-of-motion">The Choreography of Motion</h2>
 <p>The PHP team sidesteps this impasse with a modular architecture that mirrors the way a parkour athlete might plan a run. First, they take a library of atomic human skills — step‑overs, cat vaults, climbs, drop landings — captured via motion capture and retargeted to the robot’s body. They then use motion matching: a nearest‑neighbor search in a feature space that stitches these clips into smooth, dynamically feasible trajectories. Think of it like a DJ expertly blending tracks, where the system aligns joint angles and velocities to produce an unbroken motion sequence. Unlike a DJ, however, the algorithm isn’t listening for a vibe — it’s comparing vectors of joint positions and terrain geometry to find the most natural next pose.</p>

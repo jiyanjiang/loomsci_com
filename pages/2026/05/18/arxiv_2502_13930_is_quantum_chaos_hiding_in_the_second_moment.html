@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-<meta name="description" content="The process tensor provides a general representation of a quantum system evolving under repeated interventions and is fundamental for numerical simulations of local many-body dynamics. In this work, we introduce the projected process ensemble, an ensemble of pure ou">
+<meta name="description" content="In a many-body spin chain, the variance of entanglement across measurement histories separates chaotic dynamics from integrable ones, unmasking quantum chaos where averages fail.">
 <meta property="og:title" content="Is Quantum Chaos Hiding in the Second Moment?">
-<meta property="og:description" content="The process tensor provides a general representation of a quantum system evolving under repeated interventions and is fundamental for numerical simulations of local many-body dynamics. In this work, we introduce the projected process ensemble, an ensemble of pure ou">
+<meta property="og:description" content="In a many-body spin chain, the variance of entanglement across measurement histories separates chaotic dynamics from integrable ones, unmasking quantum chaos where averages fail.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.loomsci.com/pages/2026/05/18/arxiv_2502_13930_is_quantum_chaos_hiding_in_the_second_moment.html">
 
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="LoomSci">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Is Quantum Chaos Hiding in the Second Moment?">
-<meta name="twitter:description" content="The process tensor provides a general representation of a quantum system evolving under repeated interventions and is fundamental for numerical simulations of local many-body dynamics. In this work, we introduce the projected process ensemble, an ensemble of pure ou">
+<meta name="twitter:description" content="In a many-body spin chain, the variance of entanglement across measurement histories separates chaotic dynamics from integrable ones, unmasking quantum chaos where averages fail.">
 
 <meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/18/arxiv_2502_13930.jpg">
 
@@ -143,10 +143,7 @@
   
 
   <div class="article-body">
-    <blockquote>
-<p>In a many-body spin chain, the variance of entanglement across measurement histories separates chaotic dynamics from integrable ones, unmasking quantum chaos where averages fail.</p>
-</blockquote>
-<p>What does it <em>mean</em> for a quantum many-body system to be chaotic? In classical mechanics, the answer is visceral: a butterfly’s wing, a hurricane, a trajectory that writhes away from a neighbour faster than any finite precision can track. But quantum evolution is linear—Schrödinger’s equation never amplifies small differences into anything dramatic. So theorists have built an arsenal of tools that look for chaos not in the divergence of trajectories, but in the way information scatters across space and time. Entropies grow, correlations spread, and the effective number of degrees of freedom explodes. Yet every diagnostic has a blind spot. An integrable system, when prodded just so, can mimic the entropy production of a chaotic one, muddying the very distinction the tools are meant to settle.</p>
+    <p>What does it <em>mean</em> for a quantum many-body system to be chaotic? In classical mechanics, the answer is visceral: a butterfly’s wing, a hurricane, a trajectory that writhes away from a neighbour faster than any finite precision can track. But quantum evolution is linear—Schrödinger’s equation never amplifies small differences into anything dramatic. So theorists have built an arsenal of tools that look for chaos not in the divergence of trajectories, but in the way information scatters across space and time. Entropies grow, correlations spread, and the effective number of degrees of freedom explodes. Yet every diagnostic has a blind spot. An integrable system, when prodded just so, can mimic the entropy production of a chaotic one, muddying the very distinction the tools are meant to settle.</p>
 <p>A preprint (arXiv:2502.13930) from a team led by Peter O’Donovan at Trinity College Dublin, with collaborators in Cologne and Singapore, now argues that the key to unmasking quantum chaos has been hiding not in the <em>average</em> behaviour of these entropies, but in their <em>variance</em>—the scatter of answers the system gives when you ask it slightly different questions. They introduce the projected process ensemble (PPE) and use its higher moments to build a probe that, in extensive numerical simulations, cleaves chaotic from integrable dynamics with a sharpness earlier measures lacked.</p>
 <p>To understand why this matters, we need to step into the mind of an interrogator. Picture a quantum many-body system—a chain of spins, say—as a suspect under repeated questioning. The experimentalist’s interventions are the questions: at regular intervals, you reach in and measure a particular spin along a chosen axis, or perhaps you apply a unitary kick. The system, in between your pokes, evolves according to its own internal logic, the Hamiltonian. The process tensor, a concept that has become central to open quantum dynamics, is the mathematical object that stores <em>all</em> the correlations this sequence of questions and evolutions can generate. It is a memory of cause and effect, written in quantum spatiotemporal form.</p>
 <p>O’Donovan and colleagues now take a crucial step. They define the <strong>projected process ensemble</strong>: fix a basis of local interventions—say, measuring the first spin in the computational basis at every time step—and record the pure quantum state that emerges at the end, after all interventions, for each possible measurement outcome. The result is an <em>ensemble</em> of output states, each corresponding to a different history of measurement results. Think of it as running the same interrogation protocol thousands of times, and collecting a different final wavefunction every time the suspect blinks left instead of right.</p>
