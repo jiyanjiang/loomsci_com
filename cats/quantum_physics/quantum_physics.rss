@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 07:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 04:35:43 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -25,30 +25,6 @@
       <description>In an NMR quantum processor, the Petz recovery map turns noise's own memory into a tailored undo operation, achieving high fidelity when the reference state matches the channel's fixed point.</description>
       <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2508_08998_when_noise_s_memory_becomes_its_undoing.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Quantum Compressed Sensing: Banishing the Logarithm</title>
-      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15784_quantum_compressed_sensing_banishing_the_logarithm.html</link>
-      <description>A single quantum probe, through domain-alignment evolution, directly maps sparse signal components to measurements, eliminating the logarithmic overhead of classical compressed sensing.</description>
-      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15784_quantum_compressed_sensing_banishing_the_logarithm.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Breaking the Monotony: How Thermodynamic Networks Learn to Compute</title>
-      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15985_breaking_the_monotony_how_thermodynamic_networks_learn_to_compute.html</link>
-      <description>By settling into a steady state, a thermodynamic network computes without clocks or logic gates, using negative differential conductance to break monotonic constraints.</description>
-      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15985_breaking_the_monotony_how_thermodynamic_networks_learn_to_compute.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Is Quantum Chaos Hiding in the Second Moment?</title>
-      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2502_13930_is_quantum_chaos_hiding_in_the_second_moment.html</link>
-      <description>In a many-body spin chain, the variance of entanglement across measurement histories separates chaotic dynamics from integrable ones, unmasking quantum chaos where averages fail.</description>
-      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2502_13930_is_quantum_chaos_hiding_in_the_second_moment.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

@@ -7,32 +7,32 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 07:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 04:35:43 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Symmetry Learns to Read the Data</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20440_when_symmetry_learns_to_read_the_data.html</link>
+      <description>A new starG tensor algebra extracts hidden symmetry from molecular data, decomposing properties into irreducible representation channels without prior physical knowledge.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20440_when_symmetry_learns_to_read_the_data.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>When Critics Are Right: Demanding Review Predicts Higher Impact</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2604_14047_when_critics_are_right_demanding_review_predicts_higher_impact.html</link>
+      <description>Papers that withstand the most demanding peer review, with strong, high-quality critiques, later earn significantly higher citations, challenging the view of review as mere gatekeeping.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2604_14047_when_critics_are_right_demanding_review_predicts_higher_impact.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Learning to Hand Off: A Provably Convergent Theory for Multi-Agent Workflows</title>
       <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19140_learning_to_hand_off_a_provably_convergent_theory_for_multi_agent_workflows.html</link>
       <description>Two AI agents coordinate through an interface-constrained handoff, communicating a single learned scalar to guarantee convergent multi-agent workflows.</description>
       <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19140_learning_to_hand_off_a_provably_convergent_theory_for_multi_agent_workflows.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When a Language Model Learns to Derive Gravity</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2605_08212_when_a_language_model_learns_to_derive_gravity.html</link>
-      <description>An AI apprentice carves cosmic perturbation equations into a stone of spacetime, learning gravity through worked examples and algebra.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_08212_when_a_language_model_learns_to_derive_gravity.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Reading Bodies, Missing Minds: AI’s Struggle with Theory of Mind</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2511_15887_reading_bodies_missing_minds_ai_s_struggle_with_theory_of_mind.html</link>
-      <description>AI can recognize a smile but misses the mind behind it, exposing a gap between textbook knowledge and real-time social understanding.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2511_15887_reading_bodies_missing_minds_ai_s_struggle_with_theory_of_mind.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

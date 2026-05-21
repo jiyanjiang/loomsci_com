@@ -7,10 +7,58 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 07:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 04:35:43 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Symmetry Learns to Read the Data</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20440_when_symmetry_learns_to_read_the_data.html</link>
+      <description>A new starG tensor algebra extracts hidden symmetry from molecular data, decomposing properties into irreducible representation channels without prior physical knowledge.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20440_when_symmetry_learns_to_read_the_data.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Chern Hierarchy: Graphene Learns to Count Its Layers</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2601_01087_the_chern_hierarchy_graphene_learns_to_count_its_layers.html</link>
+      <description>In rhombohedral graphene, the topological Chern number equals the number of layers, enabling electrical control of orbital magnetism without magnetic fields.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2601_01087_the_chern_hierarchy_graphene_learns_to_count_its_layers.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>From Flat to Narrow: How a Lattice Remembers and Forgets</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06296_from_flat_to_narrow_how_a_lattice_remembers_and_forgets.html</link>
+      <description>A Lieb lattice’s flat band traps a quantum emitter’s photon in a bound state, but symmetry breaking warps the band, enabling a switch from memory to forgetfulness.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06296_from_flat_to_narrow_how_a_lattice_remembers_and_forgets.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Tuning Electrons Between Layers: Controlled Charge Transfer in Moiré Superlattices</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05571_tuning_electrons_between_layers_controlled_charge_transfer_in_moir_superlattices.html</link>
+      <description>A vertical electric field precisely controls the transfer of electrons between layers in a MoSe₂/WS₂ moiré superlattice.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05571_tuning_electrons_between_layers_controlled_charge_transfer_in_moir_superlattices.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Electrons Learn to Twist: How Zero‑Point Motion Builds a Quasicrystal</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06302_electrons_learn_to_twist_how_zero_point_motion_builds_a_quasicrystal.html</link>
+      <description>Zero‑point motion stabilizes a 30‑degree twisted bilayer quasicrystal of electrons, a new electronic phase in homogeneous quantum wells.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06302_electrons_learn_to_twist_how_zero_point_motion_builds_a_quasicrystal.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When Critics Are Right: Demanding Review Predicts Higher Impact</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2604_14047_when_critics_are_right_demanding_review_predicts_higher_impact.html</link>
+      <description>Papers that withstand the most demanding peer review, with strong, high-quality critiques, later earn significantly higher citations, challenging the view of review as mere gatekeeping.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2604_14047_when_critics_are_right_demanding_review_predicts_higher_impact.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When a Current Pulse Teaches a Magnet to Forget</title>
       <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_06645_when_a_current_pulse_teaches_a_magnet_to_forget.html</link>
@@ -202,54 +250,6 @@
       <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2501_00504_when_brain_models_see_movies_but_miss_the_story.html</guid>
       <category>Biological Science</category>
-    </item>
-    <item>
-      <title>When a Language Model Learns to Derive Gravity</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2605_08212_when_a_language_model_learns_to_derive_gravity.html</link>
-      <description>An AI apprentice carves cosmic perturbation equations into a stone of spacetime, learning gravity through worked examples and algebra.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_08212_when_a_language_model_learns_to_derive_gravity.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Reading Bodies, Missing Minds: AI’s Struggle with Theory of Mind</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2511_15887_reading_bodies_missing_minds_ai_s_struggle_with_theory_of_mind.html</link>
-      <description>AI can recognize a smile but misses the mind behind it, exposing a gap between textbook knowledge and real-time social understanding.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2511_15887_reading_bodies_missing_minds_ai_s_struggle_with_theory_of_mind.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>A Bar Born Where None Should Be</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2605_15273_a_bar_born_where_none_should_be.html</link>
-      <description>A stellar bar, over 7 kiloparsecs long, is revealed in the gas-rich galaxy GN20 just 1.5 billion years after the Big Bang, challenging theories of bar formation.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_15273_a_bar_born_where_none_should_be.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Quantum Compressed Sensing: Banishing the Logarithm</title>
-      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15784_quantum_compressed_sensing_banishing_the_logarithm.html</link>
-      <description>A single quantum probe, through domain-alignment evolution, directly maps sparse signal components to measurements, eliminating the logarithmic overhead of classical compressed sensing.</description>
-      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15784_quantum_compressed_sensing_banishing_the_logarithm.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Breaking the Monotony: How Thermodynamic Networks Learn to Compute</title>
-      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15985_breaking_the_monotony_how_thermodynamic_networks_learn_to_compute.html</link>
-      <description>By settling into a steady state, a thermodynamic network computes without clocks or logic gates, using negative differential conductance to break monotonic constraints.</description>
-      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2605_15985_breaking_the_monotony_how_thermodynamic_networks_learn_to_compute.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Is Quantum Chaos Hiding in the Second Moment?</title>
-      <link>https://www.loomsci.com/pages/2026/05/18/arxiv_2502_13930_is_quantum_chaos_hiding_in_the_second_moment.html</link>
-      <description>In a many-body spin chain, the variance of entanglement across measurement histories separates chaotic dynamics from integrable ones, unmasking quantum chaos where averages fail.</description>
-      <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/18/arxiv_2502_13930_is_quantum_chaos_hiding_in_the_second_moment.html</guid>
-      <category>Quantum Physics</category>
     </item>
   </channel>
 </rss>

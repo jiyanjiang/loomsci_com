@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 07:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 04:35:44 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Chern Hierarchy: Graphene Learns to Count Its Layers</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2601_01087_the_chern_hierarchy_graphene_learns_to_count_its_layers.html</link>
+      <description>In rhombohedral graphene, the topological Chern number equals the number of layers, enabling electrical control of orbital magnetism without magnetic fields.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2601_01087_the_chern_hierarchy_graphene_learns_to_count_its_layers.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>From Flat to Narrow: How a Lattice Remembers and Forgets</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06296_from_flat_to_narrow_how_a_lattice_remembers_and_forgets.html</link>
+      <description>A Lieb lattice’s flat band traps a quantum emitter’s photon in a bound state, but symmetry breaking warps the band, enabling a switch from memory to forgetfulness.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06296_from_flat_to_narrow_how_a_lattice_remembers_and_forgets.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Tuning Electrons Between Layers: Controlled Charge Transfer in Moiré Superlattices</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05571_tuning_electrons_between_layers_controlled_charge_transfer_in_moir_superlattices.html</link>
+      <description>A vertical electric field precisely controls the transfer of electrons between layers in a MoSe₂/WS₂ moiré superlattice.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05571_tuning_electrons_between_layers_controlled_charge_transfer_in_moir_superlattices.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Electrons Learn to Twist: How Zero‑Point Motion Builds a Quasicrystal</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06302_electrons_learn_to_twist_how_zero_point_motion_builds_a_quasicrystal.html</link>
+      <description>Zero‑point motion stabilizes a 30‑degree twisted bilayer quasicrystal of electrons, a new electronic phase in homogeneous quantum wells.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06302_electrons_learn_to_twist_how_zero_point_motion_builds_a_quasicrystal.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>When a Current Pulse Teaches a Magnet to Forget</title>
       <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_06645_when_a_current_pulse_teaches_a_magnet_to_forget.html</link>
