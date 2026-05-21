@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 07:53:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:41:42 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Copper and Oxygen Dance: Building a Quantum Simulator for High-Temperature Superconductivity</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2604_22955_when_copper_and_oxygen_dance_building_a_quantum_simulator_for_high_temperature_s.html</link>
+      <description>A bichromatic optical superlattice traps ultracold atoms to simulate the copper-oxygen interactions in cuprate high-temperature superconductors.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2604_22955_when_copper_and_oxygen_dance_building_a_quantum_simulator_for_high_temperature_s.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>A Shape That Protects: Can Topology Be Independent of Symmetry?</title>
       <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06383_a_shape_that_protects_can_topology_be_independent_of_symmetry.html</link>
@@ -89,14 +97,6 @@
       <description>Two trivial insulators, each with displaced Wannier centers, host a conformal QED₃ state at their boundary where the energy gap closes.</description>
       <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2510_15111_when_nothing_happens_is_actually_something_the_hidden_drama_of_trivial_insulator.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Swimming Helps You Disappear: How Marine Organisms Mask Their Scent</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2501_00789_when_swimming_helps_you_disappear_how_marine_organisms_mask_their_scent.html</link>
-      <description>By stirring the water as they swim, marine organisms like fish can rapidly dilute their scent, becoming undetectable to distant predators.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2501_00789_when_swimming_helps_you_disappear_how_marine_organisms_mask_their_scent.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
