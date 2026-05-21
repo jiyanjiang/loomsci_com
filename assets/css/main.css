@@ -442,7 +442,7 @@ body {
 .article-body {
   font-size: 1.08rem;
   line-height: 1.85;
-  color: var(--text-secondary);
+  color: #333333;            /* P0: #666666 → #333333, 对比度5.5:1→11.3:1 (AAA) */
 }
 
 .article-body p {
