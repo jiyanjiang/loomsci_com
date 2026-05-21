@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 10:34:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:47:39 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Radio Glow That Shouldn’t Have Survived: MeerKAT’s Peek into the Early Universe</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2506_08853_the_radio_glow_that_shouldn_t_have_survived_meerkat_s_peek_into_the_early_univer.html</link>
+      <description>MeerKAT's L-band observations reveal luminous radio halos in merging galaxy clusters at redshift &gt;1, challenging models of cosmic microwave background energy losses.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2506_08853_the_radio_glow_that_shouldn_t_have_survived_meerkat_s_peek_into_the_early_univer.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>When an Electron’s Recoil Becomes a Quantum Computer</title>
       <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</link>
@@ -242,14 +250,6 @@
       <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2604_21988_the_geometry_of_shells_how_three_parameters_capture_nature_s_spiral.html</guid>
       <category>Biological Science</category>
-    </item>
-    <item>
-      <title>The Singularity That Wasn’t a Black Hole: Penrose’s 1965 Theorem Revisited</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2205_01680_the_singularity_that_wasn_t_a_black_hole_penrose_s_1965_theorem_revisited.html</link>
-      <description>Penrose's 1965 theorem proves geodesic incompleteness, not necessarily black holes; cosmic censorship conjectures are required to bridge the gap.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2205_01680_the_singularity_that_wasn_t_a_black_hole_penrose_s_1965_theorem_revisited.html</guid>
-      <category>People</category>
     </item>
   </channel>
 </rss>
