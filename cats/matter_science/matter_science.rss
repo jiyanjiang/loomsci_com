@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 10:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 14:48:08 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>EUV Holography Learns to Print Curved Patterns at 40 nm</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_21430_euv_holography_learns_to_print_curved_patterns_at_40_nm.html</link>
+      <description>A lensless EUV holography system prints arbitrary curvilinear patterns at 40 nm resolution, surpassing the periodic limit of interference lithography.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_21430_euv_holography_learns_to_print_curved_patterns_at_40_nm.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>When Copper and Oxygen Dance: Building a Quantum Simulator for High-Temperature Superconductivity</title>
       <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2604_22955_when_copper_and_oxygen_dance_building_a_quantum_simulator_for_high_temperature_s.html</link>

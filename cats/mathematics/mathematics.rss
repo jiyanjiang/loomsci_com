@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 10:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 14:48:08 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -41,14 +41,6 @@
       <description>A unified probabilistic method has toppled three of Erdős's long-standing conjectures on the behavior of prime factors in consecutive integers.</description>
       <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2512_01739_when_numbers_become_strangers_three_erd_s_conjectures_fall_to_probability.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>Weaving Space from Arrows: The Homotopy of Directed Graphs</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2605_04959_weaving_space_from_arrows_the_homotopy_of_directed_graphs.html</link>
-      <description>Directed graphs, when interpreted through cubical homotopy, encode all topological shapes, from spheres to tori, in their arrow networks.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_04959_weaving_space_from_arrows_the_homotopy_of_directed_graphs.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>
