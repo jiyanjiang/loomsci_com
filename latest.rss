@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 09:41:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:34:24 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When an Electron’s Recoil Becomes a Quantum Computer</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</link>
+      <description>An electron's discrete recoil upon absorbing photons creates a programmable quantum ladder, enabling universal quantum computation and black hole simulation.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>Taming Rydberg Decay: A Smarter Way to Protect Quantum Information</title>
       <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2411_04664_taming_rydberg_decay_a_smarter_way_to_protect_quantum_information.html</link>
@@ -242,14 +250,6 @@
       <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2205_01680_the_singularity_that_wasn_t_a_black_hole_penrose_s_1965_theorem_revisited.html</guid>
       <category>People</category>
-    </item>
-    <item>
-      <title>When Noise's Memory Becomes Its Undoing</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2508_08998_when_noise_s_memory_becomes_its_undoing.html</link>
-      <description>In an NMR quantum processor, the Petz recovery map turns noise's own memory into a tailored undo operation, achieving high fidelity when the reference state matches the channel's fixed point.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2508_08998_when_noise_s_memory_becomes_its_undoing.html</guid>
-      <category>Quantum Physics</category>
     </item>
   </channel>
 </rss>
