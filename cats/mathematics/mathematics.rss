@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 10:47:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:51:33 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Climbing the Spin Glass with the Hessian’s Whisper</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2408_02360_climbing_the_spin_glass_with_the_hessian_s_whisper.html</link>
+      <description>A new algorithm, Potential Hessian Ascent, uses free probability to listen to the curvature of the spin-glass landscape and reach the Parisi ground state.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2408_02360_climbing_the_spin_glass_with_the_hessian_s_whisper.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>When Transformers Become Partial Differential Equations</title>
       <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_17660_when_transformers_become_partial_differential_equations.html</link>

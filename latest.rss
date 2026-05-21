@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 10:47:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:51:33 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Climbing the Spin Glass with the Hessian’s Whisper</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2408_02360_climbing_the_spin_glass_with_the_hessian_s_whisper.html</link>
+      <description>A new algorithm, Potential Hessian Ascent, uses free probability to listen to the curvature of the spin-glass landscape and reach the Parisi ground state.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2408_02360_climbing_the_spin_glass_with_the_hessian_s_whisper.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>The Radio Glow That Shouldn’t Have Survived: MeerKAT’s Peek into the Early Universe</title>
       <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2506_08853_the_radio_glow_that_shouldn_t_have_survived_meerkat_s_peek_into_the_early_univer.html</link>
@@ -242,14 +250,6 @@
       <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2605_04959_weaving_space_from_arrows_the_homotopy_of_directed_graphs.html</guid>
       <category>Mathematics</category>
-    </item>
-    <item>
-      <title>The Geometry of Shells: How Three Parameters Capture Nature's Spiral</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2604_21988_the_geometry_of_shells_how_three_parameters_capture_nature_s_spiral.html</link>
-      <description>Three parameters—a scalar, a vector, and a curve—mathematically generate the spiral geometry of nearly all molluscan shells.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2604_21988_the_geometry_of_shells_how_three_parameters_capture_nature_s_spiral.html</guid>
-      <category>Biological Science</category>
     </item>
   </channel>
 </rss>
