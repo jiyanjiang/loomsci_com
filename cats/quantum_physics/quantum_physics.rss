@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 04:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:53:51 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Quantum Adapter That Learned to Improve Language</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05914_the_quantum_adapter_that_learned_to_improve_language.html</link>
+      <description>A quantum circuit adapter improves language model performance by inserting two-qubit unitary blocks into frozen transformer layers.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05914_the_quantum_adapter_that_learned_to_improve_language.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>How a 2D Code Learned Magic</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2511_02900_how_a_2d_code_learned_magic.html</link>
+      <description>A two-dimensional stabilizer code reaches beyond its dimensional ceiling, using cup products to weave a transversal T-gate directly into the fabric.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2511_02900_how_a_2d_code_learned_magic.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>The Invisible Dimension that Decides Spin Squeezing</title>
       <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_03032_the_invisible_dimension_that_decides_spin_squeezing.html</link>

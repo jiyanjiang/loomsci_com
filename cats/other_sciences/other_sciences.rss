@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/other_sciences/</link>
     <description>Latest Other Sciences articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 04:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:53:51 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/other_sciences/other_sciences.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Market That Eats Its Own Tail: Synthetic Data's Economic Trap</title>
+      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20279_the_market_that_eats_its_own_tail_synthetic_data_s_economic_trap.html</link>
+      <description>A self-consuming data serpent symbolizes the market failure where synthetic training data degrades model quality, creating an economic equilibrium of contamination.</description>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20279_the_market_that_eats_its_own_tail_synthetic_data_s_economic_trap.html</guid>
+      <category>Other Sciences</category>
+    </item>
     <item>
       <title>When Market Friction Learns to Hedge</title>
       <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2511_23295_when_market_friction_learns_to_hedge.html</link>
