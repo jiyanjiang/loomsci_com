@@ -7,32 +7,40 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 14:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:50:02 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Watching Entanglement Forget: The Crosscap Quench</title>
+      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2412_18610_watching_entanglement_forget_the_crosscap_quench.html</link>
+      <description>In a crosscap quench, a topologically entangled system forgets its antipodal pairing as entanglement entropy grows linearly, transforming its quantum memory.</description>
+      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2412_18610_watching_entanglement_forget_the_crosscap_quench.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>Light Hides a One‑Way Surface Channel</title>
+      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21577_light_hides_a_one_way_surface_channel.html</link>
+      <description>A single topological twist in the vacuum traps light as a one-way surface wave, even though the material on both sides is empty space.</description>
+      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21577_light_hides_a_one_way_surface_channel.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>A Fireball’s Portrait: How Magnetars Paint with Curved Spacetime</title>
+      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22323_a_fireball_s_portrait_how_magnetars_paint_with_curved_spacetime.html</link>
+      <description>A computational model decodes how magnetar fireballs imprint curved spacetime and quantum vacuum birefringence onto polarized X-ray bursts, linking stellar mass to light geometry.</description>
+      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22323_a_fireball_s_portrait_how_magnetars_paint_with_curved_spacetime.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>The Radio Glow That Shouldn’t Have Survived: MeerKAT’s Peek into the Early Universe</title>
       <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2506_08853_the_radio_glow_that_shouldn_t_have_survived_meerkat_s_peek_into_the_early_univer.html</link>
       <description>MeerKAT's L-band observations reveal luminous radio halos in merging galaxy clusters at redshift &gt;1, challenging models of cosmic microwave background energy losses.</description>
       <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2506_08853_the_radio_glow_that_shouldn_t_have_survived_meerkat_s_peek_into_the_early_univer.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Venus's Thick CO₂ Atmosphere: A Cosmic Mystery That Refuses to Be Solved</title>
-      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2604_25810_venus_s_thick_co_atmosphere_a_cosmic_mystery_that_refuses_to_be_solved.html</link>
-      <description>Three different planetary histories can each produce Venus's thick CO₂ atmosphere, challenging the idea that it once had oceans.</description>
-      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2604_25810_venus_s_thick_co_atmosphere_a_cosmic_mystery_that_refuses_to_be_solved.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>The Mirror That Connects: Electric-Magnetic Duality and the Geometric Langlands Program</title>
-      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_hep_th_0604151_the_mirror_that_connects_electric_magnetic_duality_and_the_geometric_langlands_p.html</link>
-      <description>Electric-magnetic duality in supersymmetric gauge theory maps onto the geometric Langlands program, revealing that fundamental symmetries of number theory arise naturally from quantum fields.</description>
-      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_hep_th_0604151_the_mirror_that_connects_electric_magnetic_duality_and_the_geometric_langlands_p.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

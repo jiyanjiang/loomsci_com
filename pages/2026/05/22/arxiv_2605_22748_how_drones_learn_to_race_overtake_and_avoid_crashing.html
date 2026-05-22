@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="Drones trained with league-based multi-agent reinforcement learning learn to overtake and avoid crashes, outperforming human champions in high-speed races.">
+<meta property="og:title" content="How Drones Learn to Race, Overtake, and Avoid Crashing">
+<meta property="og:description" content="Drones trained with league-based multi-agent reinforcement learning learn to overtake and avoid crashes, outperforming human champions in high-speed races.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22748_how_drones_learn_to_race_overtake_and_avoid_crashing.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/05/22/arxiv_2605_22748.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How Drones Learn to Race, Overtake, and Avoid Crashing">
+<meta name="twitter:description" content="Drones trained with league-based multi-agent reinforcement learning learn to overtake and avoid crashes, outperforming human champions in high-speed races.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/22/arxiv_2605_22748.jpg">
+
+
+  <title>How Drones Learn to Race, Overtake, and Avoid Crashing — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">How Drones Learn to Race, Overtake, and Avoid Crashing</h1>
+
+  <div class="article-meta">
+    
+    <span>May 22, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2605.22748</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/05/22/arxiv_2605_22748.jpg" alt="Drones trained with league-based multi-agent reinforcement learning learn to overtake and avoid crashes, outperforming human champions in high-speed races." />
+    
+    <figcaption class="article-hero-caption">Drones trained with league-based multi-agent reinforcement learning learn to overtake and avoid crashes, outperforming human champions in high-speed races.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>Picture a darkened hall where four quadrotors buzz like angry hornets, weaving through gates at 22 meters per second — faster than a city bus. The pilots are not human. They are algorithms. And one of them is about to do something no machine has reliably done before: overtake a champion-level human racer <em>without</em> crashing into anything.</p>
+<p><img alt="fig1" src="/images/2026/05/22/arxiv_2605_22748_fig_1.jpg"></p>
+<blockquote>
+<p>League-play agents finish more races at top speeds while avoiding crashes. This balanced performance brings autonomous racing closer to real-world competition. (Source: arXiv:2605.22748)</p>
+</blockquote>
+<p>This is not a scene from a drone-race livestream. It is a real-world experiment conducted by a team led by Davide Scaramuzza at the University of Zurich, and the findings, reported in a preprint (arXiv:2605.22748), suggest that the road to robust robotic co‑existence runs not through tidy isolation but through the messy, demanding crucible of multi‑agent competition — the kind where your opponent’s wake turbulence can flip you out of the sky.</p>
+<p>The problem the researchers set out to solve is as old as robotics itself: machines that excel in solitude often become brittle the moment you put them near other moving things. A self-driving car that treats pedestrians as static obstacles will eventually treat them as accidents waiting to happen. A warehouse robot that ignores its neighbours will cause gridlock, or worse. For decades, the dominant paradigm has been to train each agent as if the rest of the world were mere environmental noise — a strategy that works beautifully until the noise starts doing unpredictable things at 80 kilometres per hour.</p>
+<p>The Zurich team chose quadrotor racing as their testbed precisely because it magnifies these failures into something visceral. In a high‑speed race, a drone that treats opponents as passive clutter will, the instant the starting buzzer sounds, fly straight toward the first gate and collide with the other machines that had exactly the same idea. The team quantified this: in simulated four‑player races, standard single‑agent policies crashed into each other 85% of the time at the very first gate. You do not need a podium finish to lose that badly.</p>
+<p>The antidote, they argue, is <strong>multi‑agent reinforcement learning</strong> — a framework in which agents are not trained in a vacuum but in a shifting ecology of other learners. Instead of a fixed curriculum, the agents play against a <em>league</em> of opponents that continually co‑evolve, each generation forced to handle strategies the previous generation invented to exploit the last one’s weaknesses. This is not a gentle classroom; it is an arms race with a curriculum that writes itself.</p>
+<p>The most important technical move inside this framework is something called <strong>league‑based self‑play</strong>. In plain self‑play, an agent trains against copies of itself — a mirror game that can produce brilliant tactics but also brittle ones, because the agent only ever sees one kind of opponent. League‑based play smashes that mirror. The training pool is stocked with a diverse roster of adversaries, including past versions of the agent and specialised opponents designed to exploit particular flaws. Against this motley crowd, an agent cannot get away with a single trick. It must learn to anticipate genuinely unexpected moves — to slow down and slip behind an opponent before a sharp turn, to feeling the aerodynamic downwash from a nearby propeller and compensate before it becomes a tumble. These are not programmed safety constraints. They are emergent behaviours, born from the pressure of having to survive in a world that is actively trying to outmanoeuvre you.</p>
+<p>The results put hard numbers behind that intuition. The team's league‑play agents not only out‑raced a champion‑level human pilot in real‑world four‑player races, but did so while crashing 50% less often than even the best single‑agent baselines — as measured in the same large‑scale simulation campaign. In a large‑scale simulation campaign spanning over 64,000 four‑player races, the league‑play policy finished dead last in fewer than one in ten races, while the solo‑trained policies were left behind nearly a third of the time. The data reveal a system that is not merely fast, but <em>socially competent</em> — aware of its neighbours in a way that keeps the whole race, not just its own lap time, intact.</p>
+<table>
+<thead>
+<tr>
+<th>Configuration</th>
+<th>Pilot</th>
+<th>Avg. Race Completion [%]</th>
+<th>Best time-to-finish [s]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time Trial</td>
+<td>LP (ours)</td>
+<td>100.00</td>
+<td><strong>16.065</strong></td>
+</tr>
+<tr>
+<td>Time Trial</td>
+<td>M. Schaepper</td>
+<td>100.00</td>
+<td>17.109</td>
+</tr>
+<tr>
+<td>AI Only (4 agents)</td>
+<td>LP (ours)</td>
+<td>90.87</td>
+<td>16.811</td>
+</tr>
+<tr>
+<td>AI vs Human (1v1)</td>
+<td>LP (ours)</td>
+<td><strong>100.00</strong></td>
+<td><strong>16.280</strong></td>
+</tr>
+<tr>
+<td>AI vs Human (1v1)</td>
+<td>M. Schaepper</td>
+<td>53.33</td>
+<td>17.087</td>
+</tr>
+<tr>
+<td>AI vs Human (3v1)</td>
+<td>LP (ours)</td>
+<td><strong>91.67</strong></td>
+<td><strong>16.639</strong></td>
+</tr>
+<tr>
+<td>AI vs Human (3v1)</td>
+<td>M. Schaepper</td>
+<td>58.33</td>
+<td>25.776</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>A drone racing AI completed more gates than the five-time Swiss champion in real-world three-lap races. This demonstrates that multi-agent reinforcement learning can achieve superhuman performance in fast, collision-sensitive tasks. (Source: arXiv:2605.22748)</p>
+</blockquote>
+<p>Perhaps the most striking finding has nothing to do with fellow machines. When the researchers placed their league‑trained agent into races with a human pilot — someone who had never appeared in the training data — the drone generalised immediately. It did not freeze. It did not treat the human as a static obstacle. It flew around her with the same proactive collision‑avoidance it had learned against thousands of artificial opponents. The term for this is <strong>zero‑shot generalisation</strong>, and the finding is striking: training with synthetic diversity produces a kind of robustness that transfers to the messy, unpredictable sensorimotor style of a real person.</p>
+<p>None of this came for free. To make the simulations realistic enough that behaviour learned inside them survived the crossing into physical hardware, the team built an aerodynamic interaction model into their training environment — a simplified but physically motivated simulation of the turbulent downwash that a quadrotor leaves in its wake. Without that model, an agent might learn a perfect overtaking line in simulation only to discover, in the real world, that it had just flown through a column of churning air with the aerodynamic grace of a frisbee. The fact that the same policy worked in simulation and in a real, high‑speed race with actual, tumbling-air physics speaks to the quality of the domain randomisation the team baked into their pipeline.</p>
+<p>But here is where an allegory like “the drone is a social being” reaches its limit. A quadrotor racing through a gate at 22 meters per second is not pondering its opponent’s intentions. It is not weighing ethical trade-offs or experiencing anything remotely like the cognitive load a human pilot feels when she glances over her shoulder mid-corner. It is a bundle of optimisation loops that, having been subjected to the right kind of adversarial training, happens to output trajectories that look intelligent. This is not consciousness; it is an engineering artefact of a world in which the only way to win is to not hit things.</p>
+<p>And yet, the spectacle — four blurring machines, darting and feinting around one another, anticipating moves that have not yet happened — forces a question. What does it take for a physical agent to earn the right to move among us? The Zurich team’s work suggests an answer that runs counter to the usual playbook. The path to safety is not to wrap each robot in ever-thicker layers of hand‑coded constraints, but to expose them, from birth, to the full, chaotic, competitive pressure of other agents. Safety, in this view, is not a feature you bolt on after the fact. It is what emerges when an agent learns, through thousands of near‑misses and millions of simulated races, that the cost of selfishness is not a penalty point — it is a heap of carbon fibre on the track.</p>
+<p>What this means for robots that share our roads, our warehouses, perhaps our sidewalks, is a question the paper does not answer. But the shape of the answer is beginning to emerge. If you want a machine to behave safely around humans, you first need to teach it to behave safely around other machines — and that teaching cannot be done by a single mind, only by a population.</p>
+<p>In the coming years, as autonomous systems become more common outside the lab, the real test may not be whether a lone drone can set a lap record. It will be whether a swarm of them can race, jostle, and overtake without leaving debris on the floor. The Zurich team has shown that, at speeds that would earn a human driver a speeding ticket, the answer is already yes.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Ismail Geles <em>et al.</em>, Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning, arXiv:2605.22748</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

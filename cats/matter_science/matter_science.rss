@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 14:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:50:03 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Nesting Carbon: Netsene and the Hidden Nodal-Surface Semimetal</title>
+      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22141_nesting_carbon_netsene_and_the_hidden_nodal_surface_semimetal.html</link>
+      <description>Extending the Dirac physics of two-dimensional (2D) graphene into three dimensions (3D) carbon allotropes with higher-dimensional band degeneracies remains a central challenge in topological materials science. Here, we propose a general symmetry-engineering principl...</description>
+      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22141_nesting_carbon_netsene_and_the_hidden_nodal_surface_semimetal.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>EUV Holography Learns to Print Curved Patterns at 40 nm</title>
       <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_21430_euv_holography_learns_to_print_curved_patterns_at_40_nm.html</link>
@@ -97,14 +105,6 @@
       <description>A single shift in particle number flips the holonomy on the Krylov graph, determining whether the energy spectrum remains real or becomes complex.</description>
       <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19740_how_holonomy_decides_when_a_spectrum_stays_real.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Nothing Happens Is Actually Something: The Hidden Drama of Trivial Insulators</title>
-      <link>https://www.loomsci.com/pages/2026/05/19/arxiv_2510_15111_when_nothing_happens_is_actually_something_the_hidden_drama_of_trivial_insulator.html</link>
-      <description>Two trivial insulators, each with displaced Wannier centers, host a conformal QED₃ state at their boundary where the energy gap closes.</description>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/19/arxiv_2510_15111_when_nothing_happens_is_actually_something_the_hidden_drama_of_trivial_insulator.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
