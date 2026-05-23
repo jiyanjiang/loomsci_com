@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 00:26:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 13:29:24 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>How Gene Networks Learn to Talk: A Language Game for Non-Human Intelligence</title>
+      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_16321_how_gene_networks_learn_to_talk_a_language_game_for_non_human_intelligence.html</link>
+      <description>A gene network learns to communicate through a shared game, turning its molecular dynamics into meaningful conversation without words.</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_16321_how_gene_networks_learn_to_talk_a_language_game_for_non_human_intelligence.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Learning to Prefer: The Human Whisper in Autonomous Microscopy</title>
       <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_21820_learning_to_prefer_the_human_whisper_in_autonomous_microscopy.html</link>
@@ -241,14 +249,6 @@
       <description>A current pulse heats a 2D magnet above its Curie temperature, letting a weak magnetic field rewrite its magnetization without lasers.</description>
       <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_06645_when_a_current_pulse_teaches_a_magnet_to_forget.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Wolf That Wasn’t? Quantum Spin Ice on a Superconducting Chip</title>
-      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2603_28125_the_wolf_that_wasn_t_quantum_spin_ice_on_a_superconducting_chip.html</link>
-      <description>Magnetic monopoles in artificial spin ice on a superconducting qubit array display super-diffusive motion, hinting at quantum coherence beyond classical diffusion.</description>
-      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2603_28125_the_wolf_that_wasn_t_quantum_spin_ice_on_a_superconducting_chip.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
