@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 08:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 00:26:49 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Learning to Prefer: The Human Whisper in Autonomous Microscopy</title>
+      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_21820_learning_to_prefer_the_human_whisper_in_autonomous_microscopy.html</link>
+      <description>A human expert’s pairwise image comparisons teach an autonomous microscope which ferroelectric domain walls are scientifically most promising.</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_21820_learning_to_prefer_the_human_whisper_in_autonomous_microscopy.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Medical Map That Learned to Remember Time</title>
+      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22734_the_medical_map_that_learned_to_remember_time.html</link>
+      <description>A temporal biomedical knowledge graph encodes when symptoms emerge along disease trajectories, enabling machines and clinicians to grasp the story of illness over time.</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22734_the_medical_map_that_learned_to_remember_time.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>The Impossibility That Turns Explanations into a Coin Toss</title>
       <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21492_the_impossibility_that_turns_explanations_into_a_coin_toss.html</link>

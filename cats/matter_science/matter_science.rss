@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 08:50:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 00:26:49 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Ghost Imaging Learns to See in the Mid-Infrared</title>
+      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22298_ghost_imaging_learns_to_see_in_the_mid_infrared.html</link>
+      <description>Mid-infrared temporal ghost imaging is achieved at room temperature by using two-photon absorption in a silicon photodiode as an optoelectronic mixer.</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22298_ghost_imaging_learns_to_see_in_the_mid_infrared.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Nesting Carbon: Netsene and the Hidden Nodal-Surface Semimetal</title>
       <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22141_nesting_carbon_netsene_and_the_hidden_nodal_surface_semimetal.html</link>
@@ -89,22 +97,6 @@
       <description>Magnetic monopoles in artificial spin ice on a superconducting qubit array display super-diffusive motion, hinting at quantum coherence beyond classical diffusion.</description>
       <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2603_28125_the_wolf_that_wasn_t_quantum_spin_ice_on_a_superconducting_chip.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>How Prebiotic Magnets Made Life Choose a Hand</title>
-      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19387_how_prebiotic_magnets_made_life_choose_a_hand.html</link>
-      <description>Prebiotic magnetite crystals with swirling vortex magnetic domains could have amplified chiral bias via spin-selective electron transfer, steering life toward homochirality.</description>
-      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19387_how_prebiotic_magnets_made_life_choose_a_hand.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>How Holonomy Decides When a Spectrum Stays Real</title>
-      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19740_how_holonomy_decides_when_a_spectrum_stays_real.html</link>
-      <description>A single shift in particle number flips the holonomy on the Krylov graph, determining whether the energy spectrum remains real or becomes complex.</description>
-      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19740_how_holonomy_decides_when_a_spectrum_stays_real.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

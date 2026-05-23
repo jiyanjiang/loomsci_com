@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 08:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 00:26:49 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Learning to Prefer: The Human Whisper in Autonomous Microscopy</title>
+      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_21820_learning_to_prefer_the_human_whisper_in_autonomous_microscopy.html</link>
+      <description>A human expert’s pairwise image comparisons teach an autonomous microscope which ferroelectric domain walls are scientifically most promising.</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_21820_learning_to_prefer_the_human_whisper_in_autonomous_microscopy.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Medical Map That Learned to Remember Time</title>
+      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22734_the_medical_map_that_learned_to_remember_time.html</link>
+      <description>A temporal biomedical knowledge graph encodes when symptoms emerge along disease trajectories, enabling machines and clinicians to grasp the story of illness over time.</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22734_the_medical_map_that_learned_to_remember_time.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Ghost Imaging Learns to See in the Mid-Infrared</title>
+      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22298_ghost_imaging_learns_to_see_in_the_mid_infrared.html</link>
+      <description>Mid-infrared temporal ghost imaging is achieved at room temperature by using two-photon absorption in a silicon photodiode as an optoelectronic mixer.</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22298_ghost_imaging_learns_to_see_in_the_mid_infrared.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>The Algebra That Self-Tests Quantum Embezzlement</title>
       <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22713_the_algebra_that_self_tests_quantum_embezzlement.html</link>
@@ -225,30 +249,6 @@
       <description>Magnetic monopoles in artificial spin ice on a superconducting qubit array display super-diffusive motion, hinting at quantum coherence beyond classical diffusion.</description>
       <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2603_28125_the_wolf_that_wasn_t_quantum_spin_ice_on_a_superconducting_chip.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>How Prebiotic Magnets Made Life Choose a Hand</title>
-      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19387_how_prebiotic_magnets_made_life_choose_a_hand.html</link>
-      <description>Prebiotic magnetite crystals with swirling vortex magnetic domains could have amplified chiral bias via spin-selective electron transfer, steering life toward homochirality.</description>
-      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19387_how_prebiotic_magnets_made_life_choose_a_hand.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Invisible Dimension that Decides Spin Squeezing</title>
-      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_03032_the_invisible_dimension_that_decides_spin_squeezing.html</link>
-      <description>The spectral dimension of a spin network's connectivity decides whether scalable quantum squeezing can emerge.</description>
-      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_03032_the_invisible_dimension_that_decides_spin_squeezing.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>How Holonomy Decides When a Spectrum Stays Real</title>
-      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19740_how_holonomy_decides_when_a_spectrum_stays_real.html</link>
-      <description>A single shift in particle number flips the holonomy on the Krylov graph, determining whether the energy spectrum remains real or becomes complex.</description>
-      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_19740_how_holonomy_decides_when_a_spectrum_stays_real.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
