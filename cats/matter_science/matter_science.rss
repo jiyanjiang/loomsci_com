@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 11:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 15:11:53 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>A Single Impurity Teaches Kagome Electrons to Dance</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2503_07015_a_single_impurity_teaches_kagome_electrons_to_dance.html</link>
+      <description>A single impurity in a kagome superconductor breaks mirror symmetry, triggering chiral quasiparticle interference that spirals clockwise or anticlockwise.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2503_07015_a_single_impurity_teaches_kagome_electrons_to_dance.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>The Hidden Geometry That Whispers "Order Here"</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2504_03882_the_hidden_geometry_that_whispers_order_here.html</link>
+      <description>Geometric nesting of Bloch vectors in a flat band predicts ordered phases without a Fermi surface.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2504_03882_the_hidden_geometry_that_whispers_order_here.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>When a Quantum Boundary Knows Where It's Been</title>
       <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2509_02044_when_a_quantum_boundary_knows_where_it_s_been.html</link>
@@ -49,14 +65,6 @@
       <description>Extending the Dirac physics of two-dimensional (2D) graphene into three dimensions (3D) carbon allotropes with higher-dimensional band degeneracies remains a central challenge in topological materials science. Here, we propose a general symmetry-engineering principl...</description>
       <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22141_nesting_carbon_netsene_and_the_hidden_nodal_surface_semimetal.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>EUV Holography Learns to Print Curved Patterns at 40 nm</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_21430_euv_holography_learns_to_print_curved_patterns_at_40_nm.html</link>
-      <description>A lensless EUV holography system prints arbitrary curvilinear patterns at 40 nm resolution, surpassing the periodic limit of interference lithography.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_21430_euv_holography_learns_to_print_curved_patterns_at_40_nm.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

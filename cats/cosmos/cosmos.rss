@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 11:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 15:11:53 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
@@ -49,14 +49,6 @@
       <description>A single topological twist in the vacuum traps light as a one-way surface wave, even though the material on both sides is empty space.</description>
       <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21577_light_hides_a_one_way_surface_channel.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>A Fireball’s Portrait: How Magnetars Paint with Curved Spacetime</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22323_a_fireball_s_portrait_how_magnetars_paint_with_curved_spacetime.html</link>
-      <description>A computational model decodes how magnetar fireballs imprint curved spacetime and quantum vacuum birefringence onto polarized X-ray bursts, linking stellar mass to light geometry.</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22323_a_fireball_s_portrait_how_magnetars_paint_with_curved_spacetime.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>
