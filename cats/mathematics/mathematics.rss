@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 05:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 11:43:29 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -25,14 +25,6 @@
       <description>A new theorem proves that hyperuniform point sets retain their suppressed fluctuations under gentle transport, enabling efficient generation of isotropic patterns with extreme order.</description>
       <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22803_transporting_fluctuations_a_new_theorem_preserves_hyperuniformity.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>Climbing the Spin Glass with the Hessian’s Whisper</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2408_02360_climbing_the_spin_glass_with_the_hessian_s_whisper.html</link>
-      <description>A new algorithm, Potential Hessian Ascent, uses free probability to listen to the curvature of the spin-glass landscape and reach the Parisi ground state.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2408_02360_climbing_the_spin_glass_with_the_hessian_s_whisper.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>

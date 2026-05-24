@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 05:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 11:43:29 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -41,14 +41,6 @@
       <description>A wide-spectrum testbench reveals hidden vulnerabilities in quantum key distribution systems, closing the Trojan-horse loophole.</description>
       <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2508_15136_when_quantum_keys_meet_a_sweeping_searchlight.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When an Electron’s Recoil Becomes a Quantum Computer</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</link>
-      <description>An electron's discrete recoil upon absorbing photons creates a programmable quantum ladder, enabling universal quantum computation and black hole simulation.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

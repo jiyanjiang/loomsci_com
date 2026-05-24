@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 05:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 11:43:29 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When the Universe Changed Its Mind</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2402_07716_when_the_universe_changed_its_mind.html</link>
+      <description>A mirror transition in the cosmological constant at redshift 1.8 may have flipped the universe from contraction to expansion.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2402_07716_when_the_universe_changed_its_mind.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>When AI’s Certainty Hides Its Doubt</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2510_21523_when_ai_s_certainty_hides_its_doubt.html</link>
+      <description>Polynomial chaos expansion acts as a prism, splitting AI's hidden epistemic doubt into a colored spectrum of decision vulnerabilities in molecular design.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2510_21523_when_ai_s_certainty_hides_its_doubt.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>How Many Weather Radars Are Hiding in Your Pocket?</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2603_19153_how_many_weather_radars_are_hiding_in_your_pocket.html</link>
+      <description>Cellular base stations can be reprogrammed to detect rain by analyzing the backscatter of their own radio signals, offering street-level rainfall maps that outperform traditional weather radar in cities.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2603_19153_how_many_weather_radars_are_hiding_in_your_pocket.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>The Cosmic Dipole That Refuses to Fit</title>
       <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2509_18689_the_cosmic_dipole_that_refuses_to_fit.html</link>
@@ -226,30 +250,6 @@
       <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_21430_euv_holography_learns_to_print_curved_patterns_at_40_nm.html</guid>
       <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Climbing the Spin Glass with the Hessian’s Whisper</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2408_02360_climbing_the_spin_glass_with_the_hessian_s_whisper.html</link>
-      <description>A new algorithm, Potential Hessian Ascent, uses free probability to listen to the curvature of the spin-glass landscape and reach the Parisi ground state.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2408_02360_climbing_the_spin_glass_with_the_hessian_s_whisper.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>The Radio Glow That Shouldn’t Have Survived: MeerKAT’s Peek into the Early Universe</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2506_08853_the_radio_glow_that_shouldn_t_have_survived_meerkat_s_peek_into_the_early_univer.html</link>
-      <description>MeerKAT's L-band observations reveal luminous radio halos in merging galaxy clusters at redshift &gt;1, challenging models of cosmic microwave background energy losses.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2506_08853_the_radio_glow_that_shouldn_t_have_survived_meerkat_s_peek_into_the_early_univer.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When an Electron’s Recoil Becomes a Quantum Computer</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</link>
-      <description>An electron's discrete recoil upon absorbing photons creates a programmable quantum ladder, enabling universal quantum computation and black hole simulation.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</guid>
-      <category>Quantum Physics</category>
     </item>
   </channel>
 </rss>

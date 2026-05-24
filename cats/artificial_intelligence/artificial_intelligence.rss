@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 05:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 11:43:29 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When AI’s Certainty Hides Its Doubt</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2510_21523_when_ai_s_certainty_hides_its_doubt.html</link>
+      <description>Polynomial chaos expansion acts as a prism, splitting AI's hidden epistemic doubt into a colored spectrum of decision vulnerabilities in molecular design.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2510_21523_when_ai_s_certainty_hides_its_doubt.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>How Many Weather Radars Are Hiding in Your Pocket?</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2603_19153_how_many_weather_radars_are_hiding_in_your_pocket.html</link>
+      <description>Cellular base stations can be reprogrammed to detect rain by analyzing the backscatter of their own radio signals, offering street-level rainfall maps that outperform traditional weather radar in cities.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2603_19153_how_many_weather_radars_are_hiding_in_your_pocket.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When Bias Tests Need a Baseline to Find Themselves</title>
       <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01048_when_bias_tests_need_a_baseline_to_find_themselves.html</link>
