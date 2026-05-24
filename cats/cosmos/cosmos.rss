@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 13:29:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 05:03:33 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Cosmic Dipole That Refuses to Fit</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2509_18689_the_cosmic_dipole_that_refuses_to_fit.html</link>
+      <description>The cosmic dipole measured from infrared and radio surveys consistently disagrees with the CMB’s kinematic dipole, hinting at a fundamental asymmetry in the universe.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2509_18689_the_cosmic_dipole_that_refuses_to_fit.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>Lighting the Fuse: Turbulence-Driven Supernova Detonations</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_21575_lighting_the_fuse_turbulence_driven_supernova_detonations.html</link>
+      <description>Turbulence acts as a universal tuning fork, forcing diverse white dwarf ignitions into identical detonations that power uniform Type Ia supernovae.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_21575_lighting_the_fuse_turbulence_driven_supernova_detonations.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>Watching Entanglement Forget: The Crosscap Quench</title>
       <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2412_18610_watching_entanglement_forget_the_crosscap_quench.html</link>

@@ -7,40 +7,48 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 13:29:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 05:03:33 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Chaos Hides Order: The Secret Life of Quantum Entanglement</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_04540_when_chaos_hides_order_the_secret_life_of_quantum_entanglement.html</link>
+      <description>Quantum chaos in many-body systems hides a hierarchical entanglement structure, where only a tiny Schmidt sector carries the response to a local quench.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_04540_when_chaos_hides_order_the_secret_life_of_quantum_entanglement.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Quantum Error Correction Learns to Delegate</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_03180_when_quantum_error_correction_learns_to_delegate.html</link>
+      <description>Automated predecoders triage quantum error syndromes, handling over 90% of faults before they reach the main decoder, enabling scalable fault-tolerant quantum computing.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_03180_when_quantum_error_correction_learns_to_delegate.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When a Quantum Simulator Decides to Freeze</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2505_21255_when_a_quantum_simulator_decides_to_freeze.html</link>
+      <description>By steering a quantum simulator into the many-body localized phase, researchers transform random walks into disciplined searches for optimal solutions.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2505_21255_when_a_quantum_simulator_decides_to_freeze.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Quantum Keys Meet a Sweeping Searchlight</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2508_15136_when_quantum_keys_meet_a_sweeping_searchlight.html</link>
+      <description>A wide-spectrum testbench reveals hidden vulnerabilities in quantum key distribution systems, closing the Trojan-horse loophole.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2508_15136_when_quantum_keys_meet_a_sweeping_searchlight.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>When an Electron’s Recoil Becomes a Quantum Computer</title>
       <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</link>
       <description>An electron's discrete recoil upon absorbing photons creates a programmable quantum ladder, enabling universal quantum computation and black hole simulation.</description>
       <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Taming Rydberg Decay: A Smarter Way to Protect Quantum Information</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2411_04664_taming_rydberg_decay_a_smarter_way_to_protect_quantum_information.html</link>
-      <description>Rydberg decay errors in neutral atom qubits are located and corrected using the final measurement pattern in a topological cluster state.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2411_04664_taming_rydberg_decay_a_smarter_way_to_protect_quantum_information.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>The Quantum Adapter That Learned to Improve Language</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05914_the_quantum_adapter_that_learned_to_improve_language.html</link>
-      <description>A quantum circuit adapter improves language model performance by inserting two-qubit unitary blocks into frozen transformer layers.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05914_the_quantum_adapter_that_learned_to_improve_language.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>How a 2D Code Learned Magic</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2511_02900_how_a_2d_code_learned_magic.html</link>
-      <description>A two-dimensional stabilizer code reaches beyond its dimensional ceiling, using cup products to weave a transversal T-gate directly into the fabric.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2511_02900_how_a_2d_code_learned_magic.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

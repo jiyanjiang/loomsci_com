@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="AdaGraph discovers clusters in high-dimensional data by analyzing neighbor connections, not Euclidean distances, revealing hidden structure in genomic and other datasets.">
+<meta property="og:title" content="Forgetting Distance: How AdaGraph Clusters in 5000 Dimensions">
+<meta property="og:description" content="AdaGraph discovers clusters in high-dimensional data by analyzing neighbor connections, not Euclidean distances, revealing hidden structure in genomic and other datasets.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/05/24/arxiv_2605_16320_forgetting_distance_how_adagraph_clusters_in_5000_dimensions.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/05/24/arxiv_2605_16320.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Forgetting Distance: How AdaGraph Clusters in 5000 Dimensions">
+<meta name="twitter:description" content="AdaGraph discovers clusters in high-dimensional data by analyzing neighbor connections, not Euclidean distances, revealing hidden structure in genomic and other datasets.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/24/arxiv_2605_16320.jpg">
+
+
+  <title>Forgetting Distance: How AdaGraph Clusters in 5000 Dimensions — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">Forgetting Distance: How AdaGraph Clusters in 5000 Dimensions</h1>
+
+  <div class="article-meta">
+    
+    <span>Drafted May 19, 2026 · Published May 24, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2605.16320</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/05/24/arxiv_2605_16320.jpg" alt="AdaGraph discovers clusters in high-dimensional data by analyzing neighbor connections, not Euclidean distances, revealing hidden structure in genomic and other datasets." />
+    
+    <figcaption class="article-hero-caption">AdaGraph discovers clusters in high-dimensional data by analyzing neighbor connections, not Euclidean distances, revealing hidden structure in genomic and other datasets.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>Imagine a cartographer dropped into a world where the fog is so thick you cannot see beyond your fingertips. He tries to measure distances with a ruler, but every reading is a guess. Soon he realises that the distances are meaningless; what really matters is which landmarks are visible from which others. The real map is not a grid of coordinates but a web of sightings—a map of connections, not of steps.</p>
+<p>Now you know the predicament of data scientists trapped in high dimensions. For decades we have been measuring Euclidean distances between points, trusting that “closer” means “more similar.” But in dimensions beyond a few hundred, every pair of points looks equally far apart. The curse of dimensionality turns geometry into noise, and distance‑based clustering—k‑means, DBSCAN, even sophisticated density‑based methods—starts to fall apart.</p>
+<p>A preprint (arXiv:2605.16320) by independent researcher Ahmed Elmahdi proposes a radical exit. Stop using the ruler. Work with the web of neighbour relations directly. Elmahdi calls this idea Structure‑Centric Machine Learning (SC‑ML), and its latest embodiment is AdaGraph: a graph‑native clustering algorithm that can find communities in data with thousands of dimensions without ever measuring a single Euclidean distance inside the clustering engine.</p>
+<h2 id="the-shape-of-data-without-distance">The shape of data without distance</h2>
+<p>Traditional clustering is geometry‑centric: you compute a centroid, a radius, a silhouette score—all geometric quantities that depend on differences in coordinates. In high dimensions those quantities become unreliable because the volume of space inflates so fast that almost every point is a near‑equidistant stranger. The SC‑ML paradigm flips the problem. Instead of starting with coordinates, you first build a k‑nearest‑neighbour (kNN) graph—a sparse network where each data point is linked to a handful of its most immediate neighbours. That graph captures the relational skeleton of the data without requiring meaningful distances. From then on, AdaGraph operates natively on the graph: it identifies dense regions using adaptive box clustering (AdaBox), then arranges them on a grid through spectral embedding for refinement. Crucially, AdaGraph does not need to be told how many clusters exist; it discovers that number by itself.</p>
+<p>Think of it as using a social network to find communities: you do not need to know everyone’s exact GPS coordinates; you just need to know who talks to whom. The graph provides a topological scaffold that preserves community structure even when absolute distances are fuzzy. This is not a metaphor; it is a design principle. AdaGraph “refuses” to compute distances—not out of stubbornness, but because the mathematics of graph connectivity offers a more reliable foothold in high‑dimensional fog.</p>
+<p>Equally important is AdaGraph’s companion, <strong>Graph‑SCOPE</strong>: a cluster validity index that judges partition quality by topological coherence rather than by centroid compactness. It asks a simple question: does each cluster form a tight‑knit subgraph? Traditional indices like Silhouette or Davies‑Bouldin collapse in high dimensions because they rely on Euclidean distances; Graph‑SCOPE thrives because it measures structure. On synthetic benchmarks spanning 10 to 5,000 dimensions, Graph‑SCOPE achieved a mean adjusted Rand index of 0.900 and correctly identified the true number of clusters in nine out of ten datasets, while Silhouette’s correlation with ground truth dropped to a Kendall tau of about 0.46. The old compass cracks; the new one holds true.</p>
+<p><img alt="fig1" src="/images/2026/05/24/arxiv_2605_16320_fig_1.png"></p>
+<blockquote>
+<p>As dimensionality increases from 2 to 5000, only Graph-SCOPE reliably measures clustering quality. This consistency makes it possible to discover true patterns in high-dimensional scientific data that fool other methods. (Source: arXiv:2605.16320)</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>CVI</th>
+<th>Mean SCOPE</th>
+<th>Mean ARI</th>
+<th>SCOPE Wins</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Graph-SCOPE</strong> (SC-ML)</td>
+<td><strong>0.953</strong></td>
+<td><strong>0.900</strong></td>
+<td><strong>9/10</strong></td>
+</tr>
+<tr>
+<td>Silhouette</td>
+<td>0.922</td>
+<td>0.837</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>Davies-Bouldin</td>
+<td>0.915</td>
+<td>0.835</td>
+<td>7/10</td>
+</tr>
+<tr>
+<td>Calinski-Harabasz</td>
+<td>0.616</td>
+<td>0.450</td>
+<td>2/10</td>
+</tr>
+<tr>
+<td>Oracle (true k)</td>
+<td>0.963</td>
+<td>0.902</td>
+<td>---</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Graph-SCOPE consistently picks the best cluster count, matching the ideal oracle even in high dimensions. This shows the algorithm reliably uncovers hidden structure where traditional methods fail. (Source: arXiv:2605.16320)</p>
+</blockquote>
+<h2 id="the-skeptics-question-and-a-subtle-tension">The skeptic’s question, and a subtle tension</h2>
+<p>But a skeptic might interrupt: does not building the kNN graph itself require a distance metric? Yes, and in the most extreme dimensional regime even nearest‑neighbour distances can become unstable. If the fog is thick enough, even “nearest” loses its meaning. However, AdaGraph’s strength lies in shifting the dependency: once the graph is constructed, all subsequent operations—cluster detection, merging, validation—work on edges and adjacency, not on the original coordinate values. The graph serves as a scaffolding that is far more forgiving of measurement noise than a direct distance computation. The curse is not exorcised; its teeth are pulled.</p>
+<p>A more precise tension emerges from the relationship between AdaGraph and Elmahdi’s earlier adaptive box‑clustering work (AdaBox, arXiv:2603.13339). An important question raised by that precursor is whether AdaGraph merely wraps AdaBox or introduces genuinely new graph‑native operations. The design shows that AdaGraph extends the framework with novel spectral‑grid partitioning steps. But that very step is where a subtle wrinkle appears: spectral embedding projects the graph into a low‑dimensional Euclidean grid to refine clusters, which could, in principle, reintroduce some sensitivity to the same dimensionality the method seeks to escape. While the empirical results demonstrate robust performance, the absence of formal guarantees about parameter transfer across datasets leaves the door open for future failure modes. Science is healthiest when such tensions remain visible; they are not reasons to dismiss a method, but invitations to sharpen it.</p>
+<h2 id="three-realworld-discoveries-one-graphnative-engine">Three real‑world discoveries, one graph‑native engine</h2>
+<p>The true test of any clustering algorithm is not synthetic benchmarks but actual scientific data. AdaGraph has been put through three strikingly different experiments.</p>
+<p>In liver cancer genomics, the dataset GSE14520 holds expression levels of 10,000 genes across 488 patients—a 488‑dimensional space containing 10,000 gene points. Standard methods like WGCNA, ICA, or NMF usually demand dimensionality reduction to function. AdaGraph, working in the full raw space without any reduction, found a gene module (Cluster 2) specifically enriched in tumours that did not recur, a signal entirely missed by the other methods. It was as if the algorithm picked up a whisper that everyone else had dismissed as static.</p>
+<p>In text clustering, the task was simpler: sort news articles from the 20 Newsgroups corpus into six categories. AdaGraph scored an adjusted Rand index of 0.751, a 62% relative improvement over HDBSCAN’s 0.464. The gain came not from tweaking parameters but from a fundamentally different way of seeing the data: a graph where documents with shared terms and contexts form tight communities, undisturbed by the babel of high word‑count dimensions.</p>
+<p>But the most tantalising result may lie in materials science. AdaGraph‑GS clustered 8,000 superconductors from the SuperCon database, each material described by 145 compositional (Magpie) features. The resulting groups showed critical‑temperature (Tc) distributions that mirrored known superconductor families—cuprates clustering around 135 K, others near 77 K. Crucially, the algorithm also identified noise points: grey‑coloured outliers that did not fit any cluster, standing alone as anomalies in compositional space. These are not errors; they are the most scientifically exciting points—candidates for novel superconductor families whose chemical fingerprints have no known analogue. AdaGraph did not just organise; it pointed to where the unknown might be hiding.</p>
+<h2 id="beyond-the-euclidean-spell">Beyond the Euclidean spell</h2>
+<p>What AdaGraph offers is not merely an algorithm but a shift in perspective. For a century, machine learning has been built on the idea that similarity is a measure of closeness in a coordinate system. But perhaps similarity is better captured by who your neighbours are, not by how far away they stand. This is not a technical tweak; it is a challenge to the Euclidean orthodoxy that underpins everything from k‑means to the embedding layers of deep neural networks.</p>
+<p>The success of AdaGraph—in cancer genomics, text analysis, and superconductor discovery—suggests that many high‑dimensional problems may yield to a structure‑first approach, not by fighting the curse of dimensionality but by refusing to play its game. The grey noise points, those lonely materials with no known analogues, are a reminder that the most valuable discoveries do not always sit inside the clusters; sometimes they lurk at the edges, waiting for a method that can see them.</p>
+<p>We are left with a question that extends far beyond this preprint: what other corners of science are still trapped in the Euclidean illusion, and what might we find when we finally put down the ruler and pick up the graph?</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Ahmed Elmahdi, AdaGraph: A Graph‑Native Clustering Algorithm That Overcomes the Curse of Dimensionality and Enables Scientific Discovery, arXiv:2605.16320</li>
+<li>Ahmed Elmahdi, AdaBox: Adaptive Density‑Based Box Clustering with Parameter Generalization, arXiv:2603.13339</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

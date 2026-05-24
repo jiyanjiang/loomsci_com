@@ -7,10 +7,114 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 13:29:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 05:03:33 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Cosmic Dipole That Refuses to Fit</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2509_18689_the_cosmic_dipole_that_refuses_to_fit.html</link>
+      <description>The cosmic dipole measured from infrared and radio surveys consistently disagrees with the CMB’s kinematic dipole, hinting at a fundamental asymmetry in the universe.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2509_18689_the_cosmic_dipole_that_refuses_to_fit.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>When Bias Tests Need a Baseline to Find Themselves</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01048_when_bias_tests_need_a_baseline_to_find_themselves.html</link>
+      <description>A gender swap and a harmless rephrase cause nearly identical answer flips in an AI diagnostic model, revealing that apparent bias may be universal jitteriness.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01048_when_bias_tests_need_a_baseline_to_find_themselves.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Peril of Being Almost Right: Tightening AI's Injection Defenses</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01462_the_peril_of_being_almost_right_tightening_ai_s_injection_defenses.html</link>
+      <description>LocalAlign defends language models by training against near-correct prompt injections, tightening the boundary to stop attacks that barely miss.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01462_the_peril_of_being_almost_right_tightening_ai_s_injection_defenses.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>When Chaos Hides Order: The Secret Life of Quantum Entanglement</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_04540_when_chaos_hides_order_the_secret_life_of_quantum_entanglement.html</link>
+      <description>Quantum chaos in many-body systems hides a hierarchical entanglement structure, where only a tiny Schmidt sector carries the response to a local quench.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_04540_when_chaos_hides_order_the_secret_life_of_quantum_entanglement.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When a Quantum Boundary Knows Where It's Been</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2509_02044_when_a_quantum_boundary_knows_where_it_s_been.html</link>
+      <description>The universal constant gamma in entanglement entropy flows monotonically downward across a quantum boundary, revealing a hidden thermodynamic arrow in (2+1)-dimensional critical theories.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2509_02044_when_a_quantum_boundary_knows_where_it_s_been.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When Quantum Error Correction Learns to Delegate</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_03180_when_quantum_error_correction_learns_to_delegate.html</link>
+      <description>Automated predecoders triage quantum error syndromes, handling over 90% of faults before they reach the main decoder, enabling scalable fault-tolerant quantum computing.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_03180_when_quantum_error_correction_learns_to_delegate.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When a Quantum Simulator Decides to Freeze</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2505_21255_when_a_quantum_simulator_decides_to_freeze.html</link>
+      <description>By steering a quantum simulator into the many-body localized phase, researchers transform random walks into disciplined searches for optimal solutions.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2505_21255_when_a_quantum_simulator_decides_to_freeze.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>The Brain That Thinks While Listening: Why Your Next AI Assistant Won’t Need to Pause</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2603_17837_the_brain_that_thinks_while_listening_why_your_next_ai_assistant_won_t_need_to_p.html</link>
+      <description>FLAIR enables AI to reason in latent embeddings while listening, removing the conversational pause between speaking and thinking.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2603_17837_the_brain_that_thinks_while_listening_why_your_next_ai_assistant_won_t_need_to_p.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Lighting the Fuse: Turbulence-Driven Supernova Detonations</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_21575_lighting_the_fuse_turbulence_driven_supernova_detonations.html</link>
+      <description>Turbulence acts as a universal tuning fork, forcing diverse white dwarf ignitions into identical detonations that power uniform Type Ia supernovae.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_21575_lighting_the_fuse_turbulence_driven_supernova_detonations.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>Symmetry's Unyielding Demand for Fermi Surfaces</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2512_04150_symmetry_s_unyielding_demand_for_fermi_surfaces.html</link>
+      <description>A symmetry group combining particle-number conservation and Majorana translation forces a Fermi surface in any lattice fermion model.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2512_04150_symmetry_s_unyielding_demand_for_fermi_surfaces.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When Quantum Keys Meet a Sweeping Searchlight</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2508_15136_when_quantum_keys_meet_a_sweeping_searchlight.html</link>
+      <description>A wide-spectrum testbench reveals hidden vulnerabilities in quantum key distribution systems, closing the Trojan-horse loophole.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2508_15136_when_quantum_keys_meet_a_sweeping_searchlight.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Forgetting Distance: How AdaGraph Clusters in 5000 Dimensions</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_16320_forgetting_distance_how_adagraph_clusters_in_5000_dimensions.html</link>
+      <description>AdaGraph discovers clusters in high-dimensional data by analyzing neighbor connections, not Euclidean distances, revealing hidden structure in genomic and other datasets.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_16320_forgetting_distance_how_adagraph_clusters_in_5000_dimensions.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Flipping the Script: Magnetic Crystals Redefine Photocurrents</title>
+      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_22518_flipping_the_script_magnetic_crystals_redefine_photocurrents.html</link>
+      <description>In an antiferromagnetic crystal, circularly polarized light generates a shift current while linear polarization drives an injection current, reversing conventional optoelectronic rules.</description>
+      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_22518_flipping_the_script_magnetic_crystals_redefine_photocurrents.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>How Gene Networks Learn to Talk: A Language Game for Non-Human Intelligence</title>
       <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_16321_how_gene_networks_learn_to_talk_a_language_game_for_non_human_intelligence.html</link>
@@ -146,110 +250,6 @@
       <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2405_06560_when_an_electron_s_recoil_becomes_a_quantum_computer.html</guid>
       <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Taming Rydberg Decay: A Smarter Way to Protect Quantum Information</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2411_04664_taming_rydberg_decay_a_smarter_way_to_protect_quantum_information.html</link>
-      <description>Rydberg decay errors in neutral atom qubits are located and corrected using the final measurement pattern in a topological cluster state.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2411_04664_taming_rydberg_decay_a_smarter_way_to_protect_quantum_information.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Copper and Oxygen Dance: Building a Quantum Simulator for High-Temperature Superconductivity</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2604_22955_when_copper_and_oxygen_dance_building_a_quantum_simulator_for_high_temperature_s.html</link>
-      <description>A bichromatic optical superlattice traps ultracold atoms to simulate the copper-oxygen interactions in cuprate high-temperature superconductors.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2604_22955_when_copper_and_oxygen_dance_building_a_quantum_simulator_for_high_temperature_s.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Quantum Adapter That Learned to Improve Language</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05914_the_quantum_adapter_that_learned_to_improve_language.html</link>
-      <description>A quantum circuit adapter improves language model performance by inserting two-qubit unitary blocks into frozen transformer layers.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05914_the_quantum_adapter_that_learned_to_improve_language.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>A Shape That Protects: Can Topology Be Independent of Symmetry?</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06383_a_shape_that_protects_can_topology_be_independent_of_symmetry.html</link>
-      <description>Higher-order topological phases (HOTPs) feature protected gapless modes on boundaries of higher codimension, such as the corners or hinges of a crystal. They are understood as being protected by lattice symmetries: If the latter are broken, it becomes possible to re...</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06383_a_shape_that_protects_can_topology_be_independent_of_symmetry.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>How a 2D Code Learned Magic</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2511_02900_how_a_2d_code_learned_magic.html</link>
-      <description>A two-dimensional stabilizer code reaches beyond its dimensional ceiling, using cup products to weave a transversal T-gate directly into the fabric.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2511_02900_how_a_2d_code_learned_magic.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>The Market That Eats Its Own Tail: Synthetic Data's Economic Trap</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20279_the_market_that_eats_its_own_tail_synthetic_data_s_economic_trap.html</link>
-      <description>A self-consuming data serpent symbolizes the market failure where synthetic training data degrades model quality, creating an economic equilibrium of contamination.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20279_the_market_that_eats_its_own_tail_synthetic_data_s_economic_trap.html</guid>
-      <category>Other Sciences</category>
-    </item>
-    <item>
-      <title>When Symmetry Learns to Read the Data</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20440_when_symmetry_learns_to_read_the_data.html</link>
-      <description>A new starG tensor algebra extracts hidden symmetry from molecular data, decomposing properties into irreducible representation channels without prior physical knowledge.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_20440_when_symmetry_learns_to_read_the_data.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Chern Hierarchy: Graphene Learns to Count Its Layers</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2601_01087_the_chern_hierarchy_graphene_learns_to_count_its_layers.html</link>
-      <description>In rhombohedral graphene, the topological Chern number equals the number of layers, enabling electrical control of orbital magnetism without magnetic fields.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2601_01087_the_chern_hierarchy_graphene_learns_to_count_its_layers.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>From Flat to Narrow: How a Lattice Remembers and Forgets</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06296_from_flat_to_narrow_how_a_lattice_remembers_and_forgets.html</link>
-      <description>A Lieb lattice’s flat band traps a quantum emitter’s photon in a bound state, but symmetry breaking warps the band, enabling a switch from memory to forgetfulness.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06296_from_flat_to_narrow_how_a_lattice_remembers_and_forgets.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Tuning Electrons Between Layers: Controlled Charge Transfer in Moiré Superlattices</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05571_tuning_electrons_between_layers_controlled_charge_transfer_in_moir_superlattices.html</link>
-      <description>A vertical electric field precisely controls the transfer of electrons between layers in a MoSe₂/WS₂ moiré superlattice.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_05571_tuning_electrons_between_layers_controlled_charge_transfer_in_moir_superlattices.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Electrons Learn to Twist: How Zero‑Point Motion Builds a Quasicrystal</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06302_electrons_learn_to_twist_how_zero_point_motion_builds_a_quasicrystal.html</link>
-      <description>Zero‑point motion stabilizes a 30‑degree twisted bilayer quasicrystal of electrons, a new electronic phase in homogeneous quantum wells.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2605_06302_electrons_learn_to_twist_how_zero_point_motion_builds_a_quasicrystal.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Critics Are Right: Demanding Review Predicts Higher Impact</title>
-      <link>https://www.loomsci.com/pages/2026/05/21/arxiv_2604_14047_when_critics_are_right_demanding_review_predicts_higher_impact.html</link>
-      <description>Papers that withstand the most demanding peer review, with strong, high-quality critiques, later earn significantly higher citations, challenging the view of review as mere gatekeeping.</description>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/21/arxiv_2604_14047_when_critics_are_right_demanding_review_predicts_higher_impact.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When a Current Pulse Teaches a Magnet to Forget</title>
-      <link>https://www.loomsci.com/pages/2026/05/20/arxiv_2605_06645_when_a_current_pulse_teaches_a_magnet_to_forget.html</link>
-      <description>A current pulse heats a 2D magnet above its Curie temperature, letting a weak magnetic field rewrite its magnetization without lasers.</description>
-      <pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/20/arxiv_2605_06645_when_a_current_pulse_teaches_a_magnet_to_forget.html</guid>
-      <category>Matter Science</category>
     </item>
   </channel>
 </rss>
