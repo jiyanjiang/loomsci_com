@@ -7,10 +7,58 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 15:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:04:07 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Orbitals Learn to Absorb: Cutting Quantum Correlations Down to Size</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22977_when_orbitals_learn_to_absorb_cutting_quantum_correlations_down_to_size.html</link>
+      <description>By co-optimizing orbitals with a sparse configuration interaction wavefunction, quantum chemists compress an astronomically large determinant space into a compact set, dramatically accelerating convergence.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22977_when_orbitals_learn_to_absorb_cutting_quantum_correlations_down_to_size.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Size Doesn't Matter: The Hunt for Universality in Any-Dimensional Networks</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23156_when_size_doesn_t_matter_the_hunt_for_universality_in_any_dimensional_networks.html</link>
+      <description>A neural network that handles inputs of any size learns to operate on an infinite limit space, where permutation invariance and universality converge.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23156_when_size_doesn_t_matter_the_hunt_for_universality_in_any_dimensional_networks.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Emulator That Turns Crop Models Into Discovery Engines</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22848_the_emulator_that_turns_crop_models_into_discovery_engines.html</link>
+      <description>A neural network emulator accelerates crop simulations by orders of magnitude, enabling exhaustive discovery of climate-resilient phenotypes across thousands of weather scenarios.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22848_the_emulator_that_turns_crop_models_into_discovery_engines.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Ghost That Reveals Hidden Electronic Coherence</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23639_the_ghost_that_reveals_hidden_electronic_coherence.html</link>
+      <description>Entangled photon pairs uncouple time and energy resolution, revealing electronic coherence in molecular aggregates that classical spectroscopy cannot see.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23639_the_ghost_that_reveals_hidden_electronic_coherence.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>How Scale Invariance Governs Quantum Memory</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22919_how_scale_invariance_governs_quantum_memory.html</link>
+      <description>A single scaling dimension governs thermalization and decoherence transitions in scale-invariant quantum environments, protecting coherence beyond a critical threshold.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22919_how_scale_invariance_governs_quantum_memory.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>A 3,000-Qubit System Learns to Refuel Itself</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2506_20660_a_3_000_qubit_system_learns_to_refuel_itself.html</link>
+      <description>Optical conveyor belts reload fresh qubits into a 3,000-atom array every fraction of a second, enabling continuous quantum computation without stopping.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2506_20660_a_3_000_qubit_system_learns_to_refuel_itself.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>A Single Impurity Teaches Kagome Electrons to Dance</title>
       <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2503_07015_a_single_impurity_teaches_kagome_electrons_to_dance.html</link>
@@ -202,54 +250,6 @@
       <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22713_the_algebra_that_self_tests_quantum_embezzlement.html</guid>
       <category>Mathematics</category>
-    </item>
-    <item>
-      <title>Watching Entanglement Forget: The Crosscap Quench</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2412_18610_watching_entanglement_forget_the_crosscap_quench.html</link>
-      <description>In a crosscap quench, a topologically entangled system forgets its antipodal pairing as entanglement entropy grows linearly, transforming its quantum memory.</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2412_18610_watching_entanglement_forget_the_crosscap_quench.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Nesting Carbon: Netsene and the Hidden Nodal-Surface Semimetal</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22141_nesting_carbon_netsene_and_the_hidden_nodal_surface_semimetal.html</link>
-      <description>Extending the Dirac physics of two-dimensional (2D) graphene into three dimensions (3D) carbon allotropes with higher-dimensional band degeneracies remains a central challenge in topological materials science. Here, we propose a general symmetry-engineering principl...</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22141_nesting_carbon_netsene_and_the_hidden_nodal_surface_semimetal.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Light Hides a One‑Way Surface Channel</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21577_light_hides_a_one_way_surface_channel.html</link>
-      <description>A single topological twist in the vacuum traps light as a one-way surface wave, even though the material on both sides is empty space.</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21577_light_hides_a_one_way_surface_channel.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Transporting Fluctuations: A New Theorem Preserves Hyperuniformity</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22803_transporting_fluctuations_a_new_theorem_preserves_hyperuniformity.html</link>
-      <description>A new theorem proves that hyperuniform point sets retain their suppressed fluctuations under gentle transport, enabling efficient generation of isotropic patterns with extreme order.</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22803_transporting_fluctuations_a_new_theorem_preserves_hyperuniformity.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>The Impossibility That Turns Explanations into a Coin Toss</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21492_the_impossibility_that_turns_explanations_into_a_coin_toss.html</link>
-      <description>A mathematical coin toss emerges when correlated features in machine learning models defy stable explanation, as proven by a new impossibility theorem.</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21492_the_impossibility_that_turns_explanations_into_a_coin_toss.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>How Drones Learn to Race, Overtake, and Avoid Crashing</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22748_how_drones_learn_to_race_overtake_and_avoid_crashing.html</link>
-      <description>Drones trained with league-based multi-agent reinforcement learning learn to overtake and avoid crashes, outperforming human champions in high-speed races.</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22748_how_drones_learn_to_race_overtake_and_avoid_crashing.html</guid>
-      <category>Artificial Intelligence</category>
     </item>
   </channel>
 </rss>

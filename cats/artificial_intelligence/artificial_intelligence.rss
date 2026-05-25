@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 15:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:04:07 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Size Doesn't Matter: The Hunt for Universality in Any-Dimensional Networks</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23156_when_size_doesn_t_matter_the_hunt_for_universality_in_any_dimensional_networks.html</link>
+      <description>A neural network that handles inputs of any size learns to operate on an infinite limit space, where permutation invariance and universality converge.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23156_when_size_doesn_t_matter_the_hunt_for_universality_in_any_dimensional_networks.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Emulator That Turns Crop Models Into Discovery Engines</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22848_the_emulator_that_turns_crop_models_into_discovery_engines.html</link>
+      <description>A neural network emulator accelerates crop simulations by orders of magnitude, enabling exhaustive discovery of climate-resilient phenotypes across thousands of weather scenarios.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22848_the_emulator_that_turns_crop_models_into_discovery_engines.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When AI’s Certainty Hides Its Doubt</title>
       <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2510_21523_when_ai_s_certainty_hides_its_doubt.html</link>
@@ -81,22 +97,6 @@
       <description>A temporal biomedical knowledge graph encodes when symptoms emerge along disease trajectories, enabling machines and clinicians to grasp the story of illness over time.</description>
       <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22734_the_medical_map_that_learned_to_remember_time.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Impossibility That Turns Explanations into a Coin Toss</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21492_the_impossibility_that_turns_explanations_into_a_coin_toss.html</link>
-      <description>A mathematical coin toss emerges when correlated features in machine learning models defy stable explanation, as proven by a new impossibility theorem.</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_21492_the_impossibility_that_turns_explanations_into_a_coin_toss.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>How Drones Learn to Race, Overtake, and Avoid Crashing</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22748_how_drones_learn_to_race_overtake_and_avoid_crashing.html</link>
-      <description>Drones trained with league-based multi-agent reinforcement learning learn to overtake and avoid crashes, outperforming human champions in high-speed races.</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22748_how_drones_learn_to_race_overtake_and_avoid_crashing.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

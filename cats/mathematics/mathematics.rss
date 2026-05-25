@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 15:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:04:07 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -17,14 +17,6 @@
       <description>Exact entanglement embezzlement is a self-test for a pair of Cuntz algebras and a quasi-free state, revealing a unique type III factor.</description>
       <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22713_the_algebra_that_self_tests_quantum_embezzlement.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>Transporting Fluctuations: A New Theorem Preserves Hyperuniformity</title>
-      <link>https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22803_transporting_fluctuations_a_new_theorem_preserves_hyperuniformity.html</link>
-      <description>A new theorem proves that hyperuniform point sets retain their suppressed fluctuations under gentle transport, enabling efficient generation of isotropic patterns with extreme order.</description>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/22/arxiv_2605_22803_transporting_fluctuations_a_new_theorem_preserves_hyperuniformity.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>

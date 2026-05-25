@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 15:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:04:07 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Orbitals Learn to Absorb: Cutting Quantum Correlations Down to Size</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22977_when_orbitals_learn_to_absorb_cutting_quantum_correlations_down_to_size.html</link>
+      <description>By co-optimizing orbitals with a sparse configuration interaction wavefunction, quantum chemists compress an astronomically large determinant space into a compact set, dramatically accelerating convergence.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22977_when_orbitals_learn_to_absorb_cutting_quantum_correlations_down_to_size.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>The Ghost That Reveals Hidden Electronic Coherence</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23639_the_ghost_that_reveals_hidden_electronic_coherence.html</link>
+      <description>Entangled photon pairs uncouple time and energy resolution, revealing electronic coherence in molecular aggregates that classical spectroscopy cannot see.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23639_the_ghost_that_reveals_hidden_electronic_coherence.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>A 3,000-Qubit System Learns to Refuel Itself</title>
+      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2506_20660_a_3_000_qubit_system_learns_to_refuel_itself.html</link>
+      <description>Optical conveyor belts reload fresh qubits into a 3,000-atom array every fraction of a second, enabling continuous quantum computation without stopping.</description>
+      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2506_20660_a_3_000_qubit_system_learns_to_refuel_itself.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>When Chaos Hides Order: The Secret Life of Quantum Entanglement</title>
       <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_04540_when_chaos_hides_order_the_secret_life_of_quantum_entanglement.html</link>
