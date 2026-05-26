@@ -42,7 +42,7 @@ Indigo — one of the oldest pigments known to civilization, traded along the Si
 
 | Contents | Numbers |
 |---|---|
-| Papers indexed | 39,356 |
+| Papers indexed | 48,092 |
 | Articles generated | 311 |
 | Articles published on LoomSci.com | 45 |
 | Deep review sessions | 968 |
