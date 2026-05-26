@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/people/</link>
     <description>Latest People articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 10:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:39:20 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/people/people.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When AI Whispered to Thousands of Papers</title>
+      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24180_when_ai_whispered_to_thousands_of_papers.html</link>
+      <description>A randomized experiment with over 31,000 preprints found that AI feedback increased revision rates by 12.55%, especially benefiting researchers from underrepresented regions and early-career scientists.</description>
+      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24180_when_ai_whispered_to_thousands_of_papers.html</guid>
+      <category>People</category>
+    </item>
     <item>
       <title>When Breakthroughs Learn to Wait: The Universal Law of Innovation</title>
       <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_16719_when_breakthroughs_learn_to_wait_the_universal_law_of_innovation.html</link>

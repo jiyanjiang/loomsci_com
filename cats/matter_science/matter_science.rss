@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 10:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:39:20 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
@@ -41,22 +41,6 @@
       <description>A symmetry group combining particle-number conservation and Majorana translation forces a Fermi surface in any lattice fermion model.</description>
       <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2512_04150_symmetry_s_unyielding_demand_for_fermi_surfaces.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Flipping the Script: Magnetic Crystals Redefine Photocurrents</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_22518_flipping_the_script_magnetic_crystals_redefine_photocurrents.html</link>
-      <description>In an antiferromagnetic crystal, circularly polarized light generates a shift current while linear polarization drives an injection current, reversing conventional optoelectronic rules.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_22518_flipping_the_script_magnetic_crystals_redefine_photocurrents.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Ghost Imaging Learns to See in the Mid-Infrared</title>
-      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22298_ghost_imaging_learns_to_see_in_the_mid_infrared.html</link>
-      <description>Mid-infrared temporal ghost imaging is achieved at room temperature by using two-photon absorption in a silicon photodiode as an optoelectronic mixer.</description>
-      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22298_ghost_imaging_learns_to_see_in_the_mid_infrared.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

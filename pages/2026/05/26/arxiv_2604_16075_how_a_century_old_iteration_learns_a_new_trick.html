@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="By measuring backward error instead of forward error, a century-old iteration gains a universal convergence guarantee, independent of condition number.">
+<meta property="og:title" content="How a Century-Old Iteration Learns a New Trick">
+<meta property="og:description" content="By measuring backward error instead of forward error, a century-old iteration gains a universal convergence guarantee, independent of condition number.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/05/26/arxiv_2604_16075_how_a_century_old_iteration_learns_a_new_trick.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/05/26/arxiv_2604_16075.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How a Century-Old Iteration Learns a New Trick">
+<meta name="twitter:description" content="By measuring backward error instead of forward error, a century-old iteration gains a universal convergence guarantee, independent of condition number.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/26/arxiv_2604_16075.jpg">
+
+
+  <title>How a Century-Old Iteration Learns a New Trick — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">How a Century-Old Iteration Learns a New Trick</h1>
+
+  <div class="article-meta">
+    
+    <span>May 26, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #DC262620; color: #DC2626;">Mathematics</span>
+    
+    
+    <span>Source: arXiv:2604.16075</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/05/26/arxiv_2604_16075.jpg" alt="By measuring backward error instead of forward error, a century-old iteration gains a universal convergence guarantee, independent of condition number." />
+    
+    <figcaption class="article-hero-caption">By measuring backward error instead of forward error, a century-old iteration gains a universal convergence guarantee, independent of condition number.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>When you ask a computer to solve a linear system — the kind of problem that underpins everything from weather forecasting to protein folding — you are effectively handing it a map and asking, “Find the shortest path from here to there.” The machine sets off, stepping over variables, bending through constraints, and after thousands of iterations, it returns with an answer. But how do you know it has arrived? That question is older than electronic computers, and it turns out that for nearly a century, we may have been asking it in a way that makes the journey look harder than it needs to be. A new preprint (arXiv:2604.16075) by Michał Dereziński at the University of Michigan, Yuji Nakatsukasa of the University of Oxford, and Elizaveta Rebrova at Princeton University suggests that by swapping one measure of error for another, a classical algorithm from 1910 suddenly acquires a universal, condition‑independent guarantee — and that this shift of perspective opens a faster route for an entire family of solvers.</p>
+<p>The result is, in one sense, a masterclass in asking better questions. The typical way to judge a linear solver is to measure forward error: how far, in some geometric sense, the final approximation lies from the true solution. If the true answer is a particular point in a high‑dimensional space, forward error is the straight‑line distance between that point and the one the algorithm delivered. The trouble is that this distance depends exquisitely on the condition number of the problem — a measure of how “stiff” the system is, how much a tiny perturbation of the input can amplify into a huge swing in the output. A badly conditioned system is like a landscape of invisible ridges: a mis‑step of millimetres can put you kilometres off course, and forward error faithfully records every one of those kilometres. For decades, algorithm designers have wrestled with this dependence, knowing that conquering it for forward error is, in the worst case, a battle against an unbeatable lower bound: any algorithm that accesses the matrix only through matrix‑vector products must pay a cost that scales with the condition number. It is a sobering fact, proven in earlier work by these same authors.</p>
+<p>But here is where the map and the fog become distinct. Imagine you’ve been hiking and, after a long day, you stop and declare, “I am exactly where I intended to be.” If a sceptic measures your distance from the target peak, that’s forward error. But if the sceptic instead asks, “How far would I need to move the peak for your position to be exactly right?” — that is backward error. Backward error is not a measure of how far you still have to go; it asks how much the problem itself must be deformed to make your answer perfect. A solver can be “accurate” in the backward sense even when it hasn’t perfectly hit the original target, as long as it has hit the bullseye of a problem that is only subtly different. In numerical analysis, backward error has long been championed as the more practically relevant concept — because a solution that exactly satisfies a slightly perturbed version of the original equations is often perfectly usable. The surprise, as Dereziński, Nakatsukasa, and Rebrova show, is that this distinction is not merely philosophical; it unlocks convergence rates that are entirely independent of the condition number.</p>
+<p>The protagonist of their story is the Richardson iteration, a procedure so simple it can be described in a single line. Take the current guess for the solution, multiply it by the matrix, compare the result with the right‑hand side, and nudge the guess in the direction of the difference. Repeat. Invented by Lewis Fry Richardson while he was organizing ambulance transport in the First World War and trying to predict the weather by hand, the method has always been known to converge — but only if you take a small enough step, and the speed of convergence, as measured by forward error, is throttled by the condition number. The team’s first finding is that if you stop measuring forward error and measure backward error instead, the Richardson iteration guarantees that no matter how ill‑conditioned the system, after k steps the backward error is at most 1/k. Not “roughly,” not “with high probability,” not “if the matrix behaves well.” At most 1/k, universally, for every positive semidefinite system. It is as if the hiker, after a certain number of strides, can always claim to be standing on the summit of a peak that is merely 1/k mountain‑heights away from the real one — and this guarantee never fails, regardless of how many invisible ridges the landscape holds.</p>
+<p>This is the point where a careful reader should pause, because the guarantee also carries a quiet ambiguity, one that the authors themselves flag and that earlier work on the complexity of solving Ax=b brings into sharp focus. The backward error is defined with a scaling factor: it compares the residual to the product of the matrix norm and the norm of the current approximate solution. If that solution’s length grows quickly — if, in the hiking metaphor, the climber’s altitude itself is swelling — then the backward error can shrink even if the residual, the raw mis‑match of the equations, is not improving much. The denominator can do part of the work. This is not a flaw that undoes the theory, but it is a reminder that the new universal guarantee does not automatically imply a new fast route to a forward‑error guarantee. An important question, sharpened by the team’s own earlier investigation into the intrinsic cost of matrix‑vector queries, is whether one can bound the growth of the solution vector during these iterations, or whether the backward error can, in pathological cases, become a tautology — a number that decreases only because the algorithm is outputting ever‑larger vectors. The paper does not settle this, and that openness keeps the result from being a fairy tale. It is, rather, a tantalising invitation to reason about what backward error really buys you.</p>
+<p>The story deepens when the authors move beyond Richardson. They then examine Krylov subspace methods, which build successive approximations by searching within an expanding, carefully chosen subspace that remembers all past directions. By recasting those methods through the lens of backward error, the team proves that MINRES, the minimal‑residual Krylov solver, inherits a similar condition‑number‑free rate — a linear reduction, in fact — and that by directly minimizing the backward error functional over the Krylov subspace, they can coax out a quadratic convergence rate: the error shrinks with the inverse square of the number of iterations. This is not a marginal acceleration. It is the difference between crawling and gliding. And they go further, wrapping this idea into an algorithm they call MINBERR, which achieves that quadratic rate with an overall computational cost that, to reach a backward error of epsilon, scales with n²/√epsilon.</p>
+<p><img alt="fig2" src="/images/2026/05/26/arxiv_2604_16075_fig_2.jpg"></p>
+<blockquote>
+<p>Comparing MINRES with MINBERR on the Small-Outlier(2000,kappa,sigman₋₁) synthetic task, while varying kappa and sigman₋₁. MINBERR is denoted by solid lines, while MINRES is shown using dotted lines. (Source: arXiv:2604.16075)</p>
+</blockquote>
+<p>This arc — starting from a century‑old iteration, passing through a family of Krylov methods, and ending on a quadratic, quasi‑optimal algorithm — is the spine of the paper. But what lingers after the formulas fade is the deeper act of reframing that made it possible. The field of numerical linear algebra has, for generations, been haunted by the quest for an algorithm that solves a general n×n linear system with computational work that grows roughly as the number of unknowns squared — a kind of holy grail of complexity theory. Most attempts at the grail have been measured against forward error, and that is where the lower bounds bite: the condition number appears as a multiplicative penalty that, in the worst case, makes the goal appear unreachable. The present work suggests that if one is willing to accept backward error as the metric of success — that is, to accept slightly perturbed problems as equivalent to the original — then the complexity landscape softens dramatically.</p>
+<p>There is a philosophical echo here that deserves to be named. In many scientific contexts, the question being asked pre‑defines the difficulty of the answer. A biologist who insists on predicting the exact trajectory of every molecule in a cell will find the problem impossible; one who asks only for the statistical distribution of certain protein shapes finds it tractable. A physicist who demands that a quantum simulation return the exact many‑body wavefunction is doomed; one who accepts expectation values of local observables has a fighting chance. The lesson of this paper, applied to the most elemental building block of scientific computing, is that the choice of error norm is itself a theoretical instrument — one that can redraw the map of what is possible. Backward error, far from being a technical footnote, becomes a gateway to universality: a way of saying that the problem you thought was impossibly stiff may, in a precisely defined sense, be just as cooperative as the easiest instance in its class.</p>
+<p>That is not to say that the paper has closed the book on the quest for fast linear solvers. The issue of denominator growth remains an uncomfortable splinter, and the largest open question is whether the quadratic backward‑error rate of MINBERR can be paired with a corresponding forward‑error bound without sacrificing the condition‑number‑free guarantee. The team, to their credit, does not oversell; the numerical experiments they report on fluid dynamics matrices and synthetic benchmarks show strong performance, but the hardest cases — those where the solution vector balloons — are left for future work. The algorithm is not, yet, a recipe for universal deployment; it is more like a newly drawn compass that reliably points in a promising direction, but whose exact destination remains to be charted.</p>
+<p>Perhaps that is the most honest posture a theoretical advance can take. In an era that often conflates a preprint with a product, this work returns us to the older rhythm of science: a striking insight, a rigorous proof, a frank acknowledgment of where the edges blur, and then the invitation for others to push the boundary farther. The Richardson iteration was born in the trenches of 1916, on the back of an envelope, while its inventor was also dreaming of a “forecast factory” staffed by thousands of human computers calculating the weather in real time. It is a peculiar and beautiful thing that the same iterative idea, examined with fresh eyes and a different ruler, still has new tricks to teach.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Dereziński <em>et al.</em>, Towards Universal Convergence of Backward Error in Linear System Solvers, arXiv:2604.16075</li>
+<li>Dereziński <em>et al.</em>, The matrix-vector complexity of Ax=b, arXiv:2602.04842</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

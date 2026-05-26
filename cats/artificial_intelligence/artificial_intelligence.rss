@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 10:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:39:20 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Impossibility Becomes a Blueprint for Trustworthy AI</title>
+      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_23024_when_impossibility_becomes_a_blueprint_for_trustworthy_ai.html</link>
+      <description>The deterministic horizon of transformer architectures defines an information-theoretic ceiling for reasoning depth, turning an impossibility into a constructive design constraint for trustworthy AI.</description>
+      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_23024_when_impossibility_becomes_a_blueprint_for_trustworthy_ai.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Database That Assembles Itself: The Bold Claim of Just-in-Time Systems</title>
+      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24096_the_database_that_assembles_itself_the_bold_claim_of_just_in_time_systems.html</link>
+      <description>AI assembles a custom database on demand, challenging the centuries-old orthodoxy of pre-built software architectures with a fleeting, specialized tent.</description>
+      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24096_the_database_that_assembles_itself_the_bold_claim_of_just_in_time_systems.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When Size Doesn't Matter: The Hunt for Universality in Any-Dimensional Networks</title>
       <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23156_when_size_doesn_t_matter_the_hunt_for_universality_in_any_dimensional_networks.html</link>
@@ -65,38 +81,6 @@
       <description>FLAIR enables AI to reason in latent embeddings while listening, removing the conversational pause between speaking and thinking.</description>
       <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2603_17837_the_brain_that_thinks_while_listening_why_your_next_ai_assistant_won_t_need_to_p.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Forgetting Distance: How AdaGraph Clusters in 5000 Dimensions</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_16320_forgetting_distance_how_adagraph_clusters_in_5000_dimensions.html</link>
-      <description>AdaGraph discovers clusters in high-dimensional data by analyzing neighbor connections, not Euclidean distances, revealing hidden structure in genomic and other datasets.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_16320_forgetting_distance_how_adagraph_clusters_in_5000_dimensions.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>How Gene Networks Learn to Talk: A Language Game for Non-Human Intelligence</title>
-      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_16321_how_gene_networks_learn_to_talk_a_language_game_for_non_human_intelligence.html</link>
-      <description>A gene network learns to communicate through a shared game, turning its molecular dynamics into meaningful conversation without words.</description>
-      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_16321_how_gene_networks_learn_to_talk_a_language_game_for_non_human_intelligence.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Learning to Prefer: The Human Whisper in Autonomous Microscopy</title>
-      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_21820_learning_to_prefer_the_human_whisper_in_autonomous_microscopy.html</link>
-      <description>A human expert’s pairwise image comparisons teach an autonomous microscope which ferroelectric domain walls are scientifically most promising.</description>
-      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_21820_learning_to_prefer_the_human_whisper_in_autonomous_microscopy.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Medical Map That Learned to Remember Time</title>
-      <link>https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22734_the_medical_map_that_learned_to_remember_time.html</link>
-      <description>A temporal biomedical knowledge graph encodes when symptoms emerge along disease trajectories, enabling machines and clinicians to grasp the story of illness over time.</description>
-      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/23/arxiv_2605_22734_the_medical_map_that_learned_to_remember_time.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>
