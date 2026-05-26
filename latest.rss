@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 10:39:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:49:32 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>How Excitons Learn to Dance in Unison: Valley Splitting Enables True Bose Condensation</title>
+      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_03162_how_excitons_learn_to_dance_in_unison_valley_splitting_enables_true_bose_condens.html</link>
+      <description>A periodic electrostatic potential lifts valley degeneracy and linearizes exciton dispersion, enabling true Bose-Einstein condensation in two dimensions.</description>
+      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_03162_how_excitons_learn_to_dance_in_unison_valley_splitting_enables_true_bose_condens.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>When Impossibility Becomes a Blueprint for Trustworthy AI</title>
       <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_23024_when_impossibility_becomes_a_blueprint_for_trustworthy_ai.html</link>
@@ -242,14 +250,6 @@
       <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_21575_lighting_the_fuse_turbulence_driven_supernova_detonations.html</guid>
       <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Symmetry's Unyielding Demand for Fermi Surfaces</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2512_04150_symmetry_s_unyielding_demand_for_fermi_surfaces.html</link>
-      <description>A symmetry group combining particle-number conservation and Majorana translation forces a Fermi surface in any lattice fermion model.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2512_04150_symmetry_s_unyielding_demand_for_fermi_surfaces.html</guid>
-      <category>Matter Science</category>
     </item>
   </channel>
 </rss>
