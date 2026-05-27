@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="Training a neural network to predict words far into the future causes its internal representations to spontaneously organize into grammatical categories like nouns, verbs, and adjectives.">
+<meta property="og:title" content="The Network That Taught Itself Grammar">
+<meta property="og:description" content="Training a neural network to predict words far into the future causes its internal representations to spontaneously organize into grammatical categories like nouns, verbs, and adjectives.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24585_the_network_that_taught_itself_grammar.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/05/27/arxiv_2605_24585.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Network That Taught Itself Grammar">
+<meta name="twitter:description" content="Training a neural network to predict words far into the future causes its internal representations to spontaneously organize into grammatical categories like nouns, verbs, and adjectives.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/27/arxiv_2605_24585.jpg">
+
+
+  <title>The Network That Taught Itself Grammar — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">The Network That Taught Itself Grammar</h1>
+
+  <div class="article-meta">
+    
+    <span>May 27, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2605.24585</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/05/27/arxiv_2605_24585.jpg" alt="Training a neural network to predict words far into the future causes its internal representations to spontaneously organize into grammatical categories like nouns, verbs, and adjectives." />
+    
+    <figcaption class="article-hero-caption">Training a neural network to predict words far into the future causes its internal representations to spontaneously organize into grammatical categories like nouns, verbs, and adjectives.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>What if the invisible grid that gives every sentence its shape—the distinction between a noun, a verb, an adjective—was never a rule handed down by grammarians or hardwired by evolution, but simply fell out of the act of predicting what comes next? This is the unsettling possibility raised by a new preprint (arXiv:2605.24585) from Immertreu and colleagues, who trained a deep neural network not to guess the next word, but to paint a landscape of words likely to appear many steps ahead. They did not teach it about syntax, parts of speech, or even the concept of a “word category.” They simply asked it to predict the future. What emerged was grammar.</p>
+<p>The experiment draws on a framework from reinforcement learning called <strong>successor representations</strong>. In the classic setting, an agent navigating a maze learns not just which room it will enter next, but the expected future occupancy of all rooms, weighted by how soon they will be visited. Translate “rooms” to “words,” and you have a new way to read text. Instead of training a model to maximize the probability of the immediate next token—the standard recipe behind large language models—Immertreu and colleagues trained it to produce a probability distribution over all possible future words, summed across multiple horizons and discounted by distance. Think of it as the difference between a tourist who only looks at the next street sign, and one who carries a mental map of the entire neighborhood, with the upcoming café looming larger than the park ten blocks away.</p>
+<p>The team embedded a 20,000-word vocabulary into a deep residual network and trained it on 103 million tokens of English text from WikiText-103. Three separate prediction heads looked ahead with different decay rates, capturing structure at short, medium, and long temporal scales. The network’s single task was to minimize the mismatch between these multi-horizon predictions and the actual future word distributions—no linguistic labels, no grammatical supervision. It was, in effect, learning to forecast the linguistic weather.</p>
+<p><img alt="fig2" src="/images/2026/05/27/arxiv_2605_24585_fig_2.jpg"></p>
+<blockquote>
+<p>Input words flow into three separate prediction streams, each tuned to a different time horizon. This design helps the model discover word categories like nouns and verbs from the patterns of surrounding words. (Source: arXiv:2605.24585)</p>
+</blockquote>
+<p>Then came the surprise. After training, the team examined the geometry of the network’s internal representations using dimensionality reduction and unsupervised clustering. Before training, the word embeddings formed a structureless cloud, points scattered without rhyme or reason. After training, they had spontaneously organized themselves according to part-of-speech categories. Nouns, verbs, and adjectives separated into three visibly distinct regions. At higher resolution, subcategories bloomed within each cluster—animate nouns settling near other animate nouns, action verbs near other action verbs. The network had not merely learned to predict; it had, as a byproduct, carved the grammar of English into its own representational space.</p>
+<p><img alt="fig4" src="/images/2026/05/27/arxiv_2605_24585_fig_4.jpg"></p>
+<blockquote>
+<p>After training, words naturally cluster by part of speech—nouns, verbs, and adjectives form distinct groups. This shows that a simple learning rule can spontaneously organize language's grammatical structure without explicit instruction. (Source: arXiv:2605.24585)</p>
+</blockquote>
+<p>An important question arises here, one that echoes through decades of debate in linguistics and cognitive science: is this merely statistical co-occurrence masquerading as understanding? After all, nouns tend to follow determiners, verbs tend to follow nouns, and adjectives often precede nouns. Perhaps the network simply learned these shallow correlations. The researchers anticipated this objection and tested a revealing diagnostic: the temporal horizon, the parameter gamma that controls how far into the future the network looks. When gamma was set small—when the network gazed only a few words ahead—the syntactic clustering was sharpest. When gamma was set large—when it tried to anticipate distant future words—the categories began to blur, integrating broader contextual information and semantic associations. Short-term prediction sharpened syntax; long-term prediction softened it. If the network were merely memorizing local co-occurrence statistics, the horizon would not matter. Its systematic dependence suggests that something deeper is going on.</p>
+<p>Here the allegory shifts from weather maps to the growth of an unplanned city. If you watch the accumulated footsteps of thousands of citizens moving between homes, markets, and temples, paths emerge in the dirt. No one decreed a street grid, but the paths form along the lines of maximal utility, the geometry of desire. Words, too, are shaped by the pressure of predictive utility. A verb that must anticipate its object finds itself pulled toward the region of space occupied by objects; a noun that must anticipate a verb becomes a natural source of predictions, its embedding acquiring a different gravitational signature. The resulting “neighborhoods” in the representational landscape are not assigned by a planner—they are worn into existence by the ceaseless forward-looking pressure of the language stream.</p>
+<p>This sits in an interesting dialogue with earlier work on distributional semantics, which showed that words with similar meanings cluster together because they appear in similar contexts. The new twist is that successor representations are not merely retrospective—they are fundamentally prospective. They answer not “what contexts did this word appear in?” but “what words will appear next, and next, and next?” The syntax that emerges is thus not a static map of co-occurrence but a dynamic map of anticipatory structure. It is grammar as a prediction engine.</p>
+<p>The philosophical upshot is difficult to ignore. For decades, linguists debated whether the brain possesses an innate “language organ” pre-loaded with syntactic categories, or whether those categories are acquired through experience. This work offers a third perspective: perhaps syntax is not built in <em>or</em> explicitly learned, but self-organises as an inevitable consequence of trying to predict the temporal flow of language. The network does not need to know what a “noun” is; the concept of noun-ness precipitates out of the optimisation landscape, much as snowflakes form when water vapour is driven toward equilibrium. There is no instruction, only pressure.</p>
+<p>That said, the limitations are plain. The model was trained on a relatively small corpus—a 103-million-token slice of an encyclopedic dataset—and the vocabulary was pruned to 20,000 words. The clean clustering observed for nouns, verbs, and adjectives becomes messier when extended to the full 13-category part-of-speech set, where most categories huddle in a dense central region while a few—numerals, notably—project as isolated strands. Whether the same spontaneous geometry would arise in a model trained on truly massive, noisy, multilingual data is an open question. The team themselves note that they have only begun to map this representational space.</p>
+<p>Yet the direction is clear. If prediction alone can carve syntactic joints, then perhaps the entire edifice of language—its morphology, its phrase structure, its capacity for recursion—may be understood not as a set of innate constraints, but as the frozen form of a forward-looking dynamical system. This resonates with the emerging framework of <strong>predictive processing</strong> in neuroscience, which casts the brain as a prediction engine that constructs a model of the world by constantly trying to anticipate sensory input. Language, in this view, is not a separate faculty but a particularly elegant playground for the brain’s core computational strategy.</p>
+<p>We are left, then, not with a tidy resolution but with a sharper question. If the structure of language can emerge from the simple mandate to predict, what other structures—concepts, categories, perhaps even the architecture of conscious thought itself—might arise from the same pressure? The successors in the model’s name may turn out to be not just distributions over words, but the hidden architects of cognition. We are only beginning to see what prediction builds when we let it run long enough.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Mathis Immertreu <em>et al.</em>, Word Class Representations Spontaneously Emerge from Successor Representations Trained on Natural Language, arXiv:2605.24585</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

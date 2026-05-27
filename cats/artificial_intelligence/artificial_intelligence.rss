@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 10:49:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:57:32 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Seeing Without Sight: The Emergent Imagery of Language Models</title>
+      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2509_23108_seeing_without_sight_the_emergent_imagery_of_language_models.html</link>
+      <description>Large language models trained only on text can outperform humans at spatial mental imagery tasks, suggesting language alone may enable a form of artificial phantasia.</description>
+      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2509_23108_seeing_without_sight_the_emergent_imagery_of_language_models.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Network That Learned to Tell Stories</title>
+      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24611_the_network_that_learned_to_tell_stories.html</link>
+      <description>By breaking symmetry in Hopfield networks, scientists achieve superpolynomial sequence memory, allowing neural nets to store vast libraries of long, robust story-like cycles.</description>
+      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24611_the_network_that_learned_to_tell_stories.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Network That Taught Itself Grammar</title>
+      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24585_the_network_that_taught_itself_grammar.html</link>
+      <description>Training a neural network to predict words far into the future causes its internal representations to spontaneously organize into grammatical categories like nouns, verbs, and adjectives.</description>
+      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24585_the_network_that_taught_itself_grammar.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When Impossibility Becomes a Blueprint for Trustworthy AI</title>
       <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_23024_when_impossibility_becomes_a_blueprint_for_trustworthy_ai.html</link>
@@ -73,14 +97,6 @@
       <description>LocalAlign defends language models by training against near-correct prompt injections, tightening the boundary to stop attacks that barely miss.</description>
       <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01462_the_peril_of_being_almost_right_tightening_ai_s_injection_defenses.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Brain That Thinks While Listening: Why Your Next AI Assistant Won’t Need to Pause</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2603_17837_the_brain_that_thinks_while_listening_why_your_next_ai_assistant_won_t_need_to_p.html</link>
-      <description>FLAIR enables AI to reason in latent embeddings while listening, removing the conversational pause between speaking and thinking.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2603_17837_the_brain_that_thinks_while_listening_why_your_next_ai_assistant_won_t_need_to_p.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

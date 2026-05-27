@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 10:49:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:57:32 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When an Insulator Learns to Modulate</title>
+      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24153_when_an_insulator_learns_to_modulate.html</link>
+      <description>A charge density wave emerges in a band insulator at cryogenic temperatures, challenging textbook models of quantum order in condensed matter.</description>
+      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24153_when_an_insulator_learns_to_modulate.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Vacuum Fluctuations Sculpt a Triplet Superconductor</title>
+      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24439_vacuum_fluctuations_sculpt_a_triplet_superconductor.html</link>
+      <description>Vacuum fluctuations polarized diagonally inside an optical cavity reshape the Fermi surface of an organic superconductor, suppressing d-wave singlet pairing and enabling a switch to p-wave triplet superconductivity.</description>
+      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24439_vacuum_fluctuations_sculpt_a_triplet_superconductor.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Turning Spin into Flow</title>
+      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_25387_turning_spin_into_flow.html</link>
+      <description>Spin injection into liquid gallium via platinum contacts creates a microfluidic flow through the Einstein–de Haas torque, enabling a contactless pump with no moving parts.</description>
+      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_25387_turning_spin_into_flow.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>How Excitons Learn to Dance in Unison: Valley Splitting Enables True Bose Condensation</title>
       <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_03162_how_excitons_learn_to_dance_in_unison_valley_splitting_enables_true_bose_condens.html</link>
@@ -33,14 +57,6 @@
       <description>Geometric nesting of Bloch vectors in a flat band predicts ordered phases without a Fermi surface.</description>
       <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2504_03882_the_hidden_geometry_that_whispers_order_here.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When a Quantum Boundary Knows Where It's Been</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2509_02044_when_a_quantum_boundary_knows_where_it_s_been.html</link>
-      <description>The universal constant gamma in entanglement entropy flows monotonically downward across a quantum boundary, revealing a hidden thermodynamic arrow in (2+1)-dimensional critical theories.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2509_02044_when_a_quantum_boundary_knows_where_it_s_been.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
