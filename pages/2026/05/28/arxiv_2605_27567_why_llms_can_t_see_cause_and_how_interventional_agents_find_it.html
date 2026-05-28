@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="Large language models mathematically cannot infer causation from passive data, but interventional agents using Bayesian optimization can discover causal structure from active queries.">
+<meta property="og:title" content="Why LLMs Can’t See Cause—and How Interventional Agents Find It">
+<meta property="og:description" content="Large language models mathematically cannot infer causation from passive data, but interventional agents using Bayesian optimization can discover causal structure from active queries.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/05/28/arxiv_2605_27567.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Why LLMs Can’t See Cause—and How Interventional Agents Find It">
+<meta name="twitter:description" content="Large language models mathematically cannot infer causation from passive data, but interventional agents using Bayesian optimization can discover causal structure from active queries.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/28/arxiv_2605_27567.jpg">
+
+
+  <title>Why LLMs Can’t See Cause—and How Interventional Agents Find It — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">Why LLMs Can’t See Cause—and How Interventional Agents Find It</h1>
+
+  <div class="article-meta">
+    
+    <span>May 28, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2605.27567</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/05/28/arxiv_2605_27567.jpg" alt="Large language models mathematically cannot infer causation from passive data, but interventional agents using Bayesian optimization can discover causal structure from active queries." />
+    
+    <figcaption class="article-hero-caption">Large language models mathematically cannot infer causation from passive data, but interventional agents using Bayesian optimization can discover causal structure from active queries.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>What if the most brilliant AI system we’ve ever built—one that passes bar exams, writes poetry, and debugs code—is <strong>fundamentally incapable of answering the simplest question in science</strong>? Not “What is the meaning of life?” but something far more elementary: “Does A cause B, or does B cause A?”</p>
+<p>That is the uncomfortable possibility raised by a new preprint (arXiv:2605.27567) from a team led by Sonali Parbhoo at Imperial College London, with Amartya Roy at IIT Delhi and Bosch. Their conclusion is stark: even the most advanced language models, when trained through any of the current standard recipes, carry a <strong>mathematical blindness</strong> to causation. It is not a matter of more data, bigger models, or cleverer prompting. It is a theorem.</p>
+<p>The paper proves a <em>kernel obstruction theorem</em>: any scoring rule that predicts causal structure from purely observational data—exactly what supervised fine-tuning, preference optimization, and in‑context learning all do—cannot distinguish between two causal graphs that generate the same pattern of correlations. You could feed the model every statistical pattern that nature has ever produced, and it would still be unable to tell whether the rooster’s crow causes the sun to rise or the other way around.</p>
+<p>This is not a metaphor; it is a precise mathematical statement. The obstruction is wired into the geometry of the learning space. Think of a detective who receives a complete police log of every crime ever committed—times, places, suspect descriptions—but is <strong>never allowed to interview anyone, touch a piece of evidence, or run a controlled experiment</strong>. She will see that a certain tattoo appears suspiciously often in the vicinity of a certain type of crime, but she will never know whether the tattoo attracts criminals or criminals seek out the tattoo. For a detective bound to passive observation, the two stories are indistinguishable. The theorem tells us that language models are just such detectives.</p>
+<h2 id="the-inescapable-logic-of-observational-equivalence">The Inescapable Logic of Observational Equivalence</h2>
+<p>The kernel obstruction theorem formalises a deep tension that has haunted machine learning for years. When a model learns by minimising a loss over static data, its internal representation—under the so‑called lazy or neural tangent kernel (NTK) regime—becomes a fixed function of the training inputs. If two causal graphs produce precisely the same joint distribution over the observed variables, that function cannot assign them different scores. No amount of gradient descent can break the tie. The model arrives at the truth only when the data already contain a fingerprint of the true causal direction, and that fingerprint vanishes in any purely correlational description.</p>
+<p>An important question raised by earlier work on embodied AI (Gupta et al.) is whether physical interaction with the world can teach a model causation in a way that static text cannot. The current paper sharpens that intuition into something far stronger: even if the environment were entirely textual, the <strong>absence of interventional data</strong> creates an impassable mathematical wall. You could take every scientific paper ever written, strip out every explicit mention of an experiment, and feed it to a language model; it would become a vast encyclopedia of correlations, but it would never allow the model to climb the first rung of Judea Pearl’s causal ladder.</p>
+<p>But here the dialectic twists. A careful reader, and indeed the literature on training dynamics, might say: “Wait—this theorem was proved only in the NTK regime, where the model’s features do not change much. Real large models often enter the rich regime, where representations reorganise themselves drastically during training. Could that richer evolution shatter the obstruction?”</p>
+<p>The paper’s authors anticipate this. Karkada’s taxonomy of lazy versus µP regimes reminds us that the kernel obstruction is a creature of the lazy corner. Yet the fundamental symmetry does not depend on the representational engine; it depends on the <strong>information the model receives</strong>. If the training objective never distinguishes between “A causes B” and “B causes A” because the data themselves contain no such distinction, then a model that perfectly fits the data will treat both possibilities as equally plausible. The obstruction is not about the complexity of the representation; it is about the <strong>ordinal poverty of the signal</strong>. ## How to Ask a Question You Cannot Answer</p>
+<p>The paper does not leave us with a mere impossibility result. That would be a philosophical essay, and this is a work of AI engineering. The escape the team charts is both elegant and paradoxical: <strong>keep the language model frozen, strip it of its ambition to discover causality, and use it only as an interventional oracle</strong>.</p>
+<p>Here is how it works. Instead of asking the model “What is the true causal graph?”, you ask it a sequence of concrete, hypothetical questions: “If I force variable X to take a specific value—i.e., I <em>intervene</em>—what happens to Y?” The model, with its vast store of linguistic patterns, often provides an answer that is better than random, even if it has never been explicitly trained to do so. It is as though the model, despite being blind to causation as a global structure, has a residual intuition about how things behave when you prod them.</p>
+<p>Crucially, <strong>the model itself never learns</strong>. Its weights stay frozen. An external Bayesian loop—Agentic Causal Bayesian Optimisation, or A‑CBO—collects these noisy answers and uses them to prune the space of possible causal graphs. Each intervention answer is a tiny morsel of causal evidence; the Bayesian machinery aggregates them across logarithmically many rounds, concentrating probability around the true graph. Because the decision process operates outside the space where the kernel obstruction applies, it <strong>converges provably</strong>. The model remains unchanged, yet causal discovery becomes possible.</p>
+<p>Think of it like a courtroom. You have a witness who is unreliable—sometimes perceptive, sometimes confused. You never ask the witness to deliver a verdict. Instead, you ask a series of tightly controlled hypothetical questions: “If the defendant had been in the parked car at midnight, would the tire tracks have been deeper?” The jury—here, the Bayesian optimiser—weighs each answer, cross‑references it with prior beliefs, and eventually reaches a conclusion. The witness never understands the case; the jury never understands linguistics. Together, they understand causation.</p>
+<h2 id="from-benchmarks-to-boundaries">From Benchmarks to Boundaries</h2>
+<p>The results are striking. On the existing Corr2Cause benchmark, A‑CBO <strong>matches fine‑tuned baselines without a single gradient step of training</strong>. On the larger Extended Corr2Cause benchmark—scaling up to twenty‑four variables with eighteen thousand test samples—it significantly outperforms both fine‑tuning and preference optimisation, with the advantage growing as the causal graphs become more complex. The best models converge in only eight to twelve intervention rounds, well within the experimental budget. Even modest open‑source models, when used as oracles in this framework, outperform specialised causal reasoning models trained in the traditional way.</p>
+<p><img alt="fig1" src="/images/2026/05/28/arxiv_2605_27567_fig_1.png"></p>
+<blockquote>
+<p>Better models reach accurate causal conclusions after just 8–12 intervention rounds, well before the 20-round limit. This efficiency shows that interventional agents can overcome the causal discovery failures seen in passive LLMs. (Source: arXiv:2605.27567)</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th><strong>Method</strong></th>
+<th><strong>Training-free</strong></th>
+<th><strong>Near-miss separation</strong></th>
+<th><strong>Scales to d=24</strong></th>
+<th><strong>Convergence guarantee</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Zero-shot (GPT-4)</td>
+<td>✓</td>
+<td>✗</td>
+<td>✗</td>
+<td>✗</td>
+</tr>
+<tr>
+<td>ICL / Prompting</td>
+<td>✓</td>
+<td>✗</td>
+<td>✗</td>
+<td>✗</td>
+</tr>
+<tr>
+<td>SFT</td>
+<td>✗</td>
+<td>✗</td>
+<td>✗</td>
+<td>✗</td>
+</tr>
+<tr>
+<td>DPO</td>
+<td>✗</td>
+<td>✗</td>
+<td>✗</td>
+<td>✗</td>
+</tr>
+<tr>
+<td><strong>A-CBO (ours)</strong></td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>A-CBO is the only method that meets all four essential criteria for trustworthy causal discovery. This breakthrough allows interventional agents to succeed where standard LLMs fail at identifying true cause-effect relationships. (Source: arXiv:2605.27567)</p>
+</blockquote>
+<p>Yet a careful scientist will also ask: how far does the theorem’s shadow fall? The kernel obstruction is proven for a specific input format—textual correlation statements—and under the lazy regime. Sun and colleagues have shown that transformer feed‑forward layers can implement non‑linear in‑context learning algorithms that go beyond simple pattern matching. An open question remains whether models that actively re‑compose their internal representations through in‑context operations could, in principle, extract causal asymmetries that are invisible to a static kernel. The current paper does not settle this; it shows that the obstruction holds for the dominant training paradigms as they are practised today. Whether future architectures will pierce the barrier by building an implicit intervention engine inside the model itself is a question that belongs to the next chapter of research.</p>
+<p>What the work forces us to confront, however, is not just a technical curiosity about AI. It is a mirror held up to the nature of scientific reasoning itself. We like to believe that intelligence can deduce cause from correlation—that a sufficiently brilliant mind, given enough passive data, could work out the laws of the universe. The kernel obstruction theorem suggests otherwise. <strong>Causation, in any learner, requires the ability to act, to intervene, to ask “What if?”</strong> The most important thing we can teach a machine, it turns out, may not be the answer to “Why?” but the courage—and the architecture—to ask.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Amartya Roy and Sonali Parbhoo, Why LLMs Fail at Causal Discovery and How Interventional Agents Escape, arXiv:2605.27567</li>
+<li>Gupta <em>et al.</em>, The Essential Role of Causality in Foundation World Models for Embodied AI, arXiv:2402.06665</li>
+<li>Karkada, The lazy (NTK) and rich (muP) regimes: a gentle tutorial, arXiv:2404.19719</li>
+<li>Sun <em>et al.</em>, On the Role of Transformer Feed-Forward Layers in Nonlinear In-Context Learning, arXiv:2501.18187</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

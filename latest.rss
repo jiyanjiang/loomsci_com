@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 05:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:28:44 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Photons Learn to Tell a Quantum Story</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28623_when_photons_learn_to_tell_a_quantum_story.html</link>
+      <description>Photon correlation microscopy reveals many-body exciton interactions by measuring whether emitted photons bunch together or arrive in orderly single-file streams.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28623_when_photons_learn_to_tell_a_quantum_story.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Why LLMs Can’t See Cause—and How Interventional Agents Find It</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html</link>
+      <description>Large language models mathematically cannot infer causation from passive data, but interventional agents using Bayesian optimization can discover causal structure from active queries.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Squeezing Light's Quantum Hush to a Record 18 dB</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27607_squeezing_light_s_quantum_hush_to_a_record_18_db.html</link>
+      <description>A lithium niobate waveguide reshapes the quantum vacuum, outputting one perfectly still quadrature while its partner roils with redistributed uncertainty.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27607_squeezing_light_s_quantum_hush_to_a_record_18_db.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Teaching Machines the Echoes Between Atoms: Topology for Polymer Design</title>
       <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</link>
@@ -226,30 +250,6 @@
       <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22848_the_emulator_that_turns_crop_models_into_discovery_engines.html</guid>
       <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Ghost That Reveals Hidden Electronic Coherence</title>
-      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23639_the_ghost_that_reveals_hidden_electronic_coherence.html</link>
-      <description>Entangled photon pairs uncouple time and energy resolution, revealing electronic coherence in molecular aggregates that classical spectroscopy cannot see.</description>
-      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23639_the_ghost_that_reveals_hidden_electronic_coherence.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>How Scale Invariance Governs Quantum Memory</title>
-      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22919_how_scale_invariance_governs_quantum_memory.html</link>
-      <description>A single scaling dimension governs thermalization and decoherence transitions in scale-invariant quantum environments, protecting coherence beyond a critical threshold.</description>
-      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22919_how_scale_invariance_governs_quantum_memory.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>A 3,000-Qubit System Learns to Refuel Itself</title>
-      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2506_20660_a_3_000_qubit_system_learns_to_refuel_itself.html</link>
-      <description>Optical conveyor belts reload fresh qubits into a 3,000-atom array every fraction of a second, enabling continuous quantum computation without stopping.</description>
-      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2506_20660_a_3_000_qubit_system_learns_to_refuel_itself.html</guid>
-      <category>Quantum Physics</category>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 05:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:28:44 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Why LLMs Can’t See Cause—and How Interventional Agents Find It</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html</link>
+      <description>Large language models mathematically cannot infer causation from passive data, but interventional agents using Bayesian optimization can discover causal structure from active queries.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Teaching Machines the Echoes Between Atoms: Topology for Polymer Design</title>
       <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</link>
