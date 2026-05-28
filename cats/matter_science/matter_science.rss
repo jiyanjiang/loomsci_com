@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 03:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 05:56:26 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Laser That Learned to Listen to Its Own Silence</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26708_the_laser_that_learned_to_listen_to_its_own_silence.html</link>
+      <description>A hybrid laser combines a cryogenic cavity’s deep silence with a chip-scale Brillouin filter, achieving record-low noise for next-generation atomic clocks.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26708_the_laser_that_learned_to_listen_to_its_own_silence.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>The Magnetic Phase That Light Wasn’t Supposed to Feel</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</link>
+      <description>Circularly polarized microwaves separate by handedness as they propagate through a photonic crystal engineered to exhibit altermagnetic spin splitting without net magnetization.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>When an Insulator Learns to Modulate</title>
       <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24153_when_an_insulator_learns_to_modulate.html</link>
@@ -41,22 +57,6 @@
       <description>A periodic electrostatic potential lifts valley degeneracy and linearizes exciton dispersion, enabling true Bose-Einstein condensation in two dimensions.</description>
       <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_03162_how_excitons_learn_to_dance_in_unison_valley_splitting_enables_true_bose_condens.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>A Single Impurity Teaches Kagome Electrons to Dance</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2503_07015_a_single_impurity_teaches_kagome_electrons_to_dance.html</link>
-      <description>A single impurity in a kagome superconductor breaks mirror symmetry, triggering chiral quasiparticle interference that spirals clockwise or anticlockwise.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2503_07015_a_single_impurity_teaches_kagome_electrons_to_dance.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Hidden Geometry That Whispers "Order Here"</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2504_03882_the_hidden_geometry_that_whispers_order_here.html</link>
-      <description>Geometric nesting of Bloch vectors in a flat band predicts ordered phases without a Fermi surface.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2504_03882_the_hidden_geometry_that_whispers_order_here.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

@@ -2,93 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.loomsci.com/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/2.html</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/3.html</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/4.html</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/5.html</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/quantum_physics/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/artificial_intelligence/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/bioscience/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/cosmos/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/mathematics/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/matter_science/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/people/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/other_sciences/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/about.html</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/policy.html</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27228_solving_semidefinite_programs_with_thermal_bosons.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/05/28/arxiv_2510_08446_unlocking_quantum_gibbs_states_the_code_swendsen_wang_breakthrough.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26708_the_laser_that_learned_to_listen_to_its_own_silence.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27530_conformal_floquet_dynamics_come_to_life_on_a_quantum_processor.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28038_when_an_atom_forgets_its_own_recoil.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/05/28/arxiv_2507_22112_when_fermionic_doublons_dance_a_geometric_gate.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/05/28/arxiv_2604_15097_learning_to_evolve_strategy_genes_outperform_skills.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/pages/2026/05/27/arxiv_2509_23108_seeing_without_sight_the_emergent_imagery_of_language_models.html</loc>

@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 03:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 05:56:26 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Teaching Machines the Echoes Between Atoms: Topology for Polymer Design</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</link>
+      <description>Polymers underpin applications across energy, healthcare, and materials science, yet their vast chemical space makes systematic discovery challenging. Most machine learning approaches represent polymers as molecular graphs of a single repeating unit, thereby missing...</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Learning to Evolve: Strategy Genes Outperform Skills</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2604_15097_learning_to_evolve_strategy_genes_outperform_skills.html</link>
+      <description>Compact, gene-like memory guides AI agents to outperform verbose skill packages in scientific coding, revealing that representation structure matters more than raw information.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2604_15097_learning_to_evolve_strategy_genes_outperform_skills.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Seeing Without Sight: The Emergent Imagery of Language Models</title>
       <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2509_23108_seeing_without_sight_the_emergent_imagery_of_language_models.html</link>
@@ -65,38 +81,6 @@
       <description>A neural network emulator accelerates crop simulations by orders of magnitude, enabling exhaustive discovery of climate-resilient phenotypes across thousands of weather scenarios.</description>
       <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22848_the_emulator_that_turns_crop_models_into_discovery_engines.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When AI’s Certainty Hides Its Doubt</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2510_21523_when_ai_s_certainty_hides_its_doubt.html</link>
-      <description>Polynomial chaos expansion acts as a prism, splitting AI's hidden epistemic doubt into a colored spectrum of decision vulnerabilities in molecular design.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2510_21523_when_ai_s_certainty_hides_its_doubt.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>How Many Weather Radars Are Hiding in Your Pocket?</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2603_19153_how_many_weather_radars_are_hiding_in_your_pocket.html</link>
-      <description>Cellular base stations can be reprogrammed to detect rain by analyzing the backscatter of their own radio signals, offering street-level rainfall maps that outperform traditional weather radar in cities.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2603_19153_how_many_weather_radars_are_hiding_in_your_pocket.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Bias Tests Need a Baseline to Find Themselves</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01048_when_bias_tests_need_a_baseline_to_find_themselves.html</link>
-      <description>A gender swap and a harmless rephrase cause nearly identical answer flips in an AI diagnostic model, revealing that apparent bias may be universal jitteriness.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01048_when_bias_tests_need_a_baseline_to_find_themselves.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Peril of Being Almost Right: Tightening AI's Injection Defenses</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01462_the_peril_of_being_almost_right_tightening_ai_s_injection_defenses.html</link>
-      <description>LocalAlign defends language models by training against near-correct prompt injections, tightening the boundary to stop attacks that barely miss.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01462_the_peril_of_being_almost_right_tightening_ai_s_injection_defenses.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

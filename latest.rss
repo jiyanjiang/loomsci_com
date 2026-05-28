@@ -7,10 +7,82 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 03:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 05:56:26 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Teaching Machines the Echoes Between Atoms: Topology for Polymer Design</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</link>
+      <description>Polymers underpin applications across energy, healthcare, and materials science, yet their vast chemical space makes systematic discovery challenging. Most machine learning approaches represent polymers as molecular graphs of a single repeating unit, thereby missing...</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Solving Semidefinite Programs with Thermal Bosons</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27228_solving_semidefinite_programs_with_thermal_bosons.html</link>
+      <description>Thermal bosons minimize their free energy, providing a physical blueprint for solving semidefinite programs through a Bose-Einstein regularisation.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27228_solving_semidefinite_programs_with_thermal_bosons.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Unlocking Quantum Gibbs States: The Code Swendsen-Wang Breakthrough</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2510_08446_unlocking_quantum_gibbs_states_the_code_swendsen_wang_breakthrough.html</link>
+      <description>Code Swendsen-Wang dynamics lifts whole clusters across the free-energy barriers of quantum code Hamiltonians, enabling rapid sampling near phase transitions.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2510_08446_unlocking_quantum_gibbs_states_the_code_swendsen_wang_breakthrough.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>The Laser That Learned to Listen to Its Own Silence</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26708_the_laser_that_learned_to_listen_to_its_own_silence.html</link>
+      <description>A hybrid laser combines a cryogenic cavity’s deep silence with a chip-scale Brillouin filter, achieving record-low noise for next-generation atomic clocks.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26708_the_laser_that_learned_to_listen_to_its_own_silence.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Conformal Floquet Dynamics Come to Life on a Quantum Processor</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27530_conformal_floquet_dynamics_come_to_life_on_a_quantum_processor.html</link>
+      <description>A quantum processor reveals hidden conformal symmetry in the periodic driving of a critical many-body system, marking a leap from theory to hardware.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27530_conformal_floquet_dynamics_come_to_life_on_a_quantum_processor.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When an Atom Forgets Its Own Recoil</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28038_when_an_atom_forgets_its_own_recoil.html</link>
+      <description>By squeezing the atomic wavefunction in an optical tweezer, researchers erased which-path information, shattering the standard quantum limit for a recoiling-slit interferometer with visibility 0.938.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28038_when_an_atom_forgets_its_own_recoil.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Fermionic Doublons Dance a Geometric Gate</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2507_22112_when_fermionic_doublons_dance_a_geometric_gate.html</link>
+      <description>Fermionic doublons orchestrate a geometric SWAP gate, protected by fundamental symmetries, achieving 99.91% fidelity in an optical lattice.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2507_22112_when_fermionic_doublons_dance_a_geometric_gate.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>The Magnetic Phase That Light Wasn’t Supposed to Feel</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</link>
+      <description>Circularly polarized microwaves separate by handedness as they propagate through a photonic crystal engineered to exhibit altermagnetic spin splitting without net magnetization.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Learning to Evolve: Strategy Genes Outperform Skills</title>
+      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2604_15097_learning_to_evolve_strategy_genes_outperform_skills.html</link>
+      <description>Compact, gene-like memory guides AI agents to outperform verbose skill packages in scientific coding, revealing that representation structure matters more than raw information.</description>
+      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2604_15097_learning_to_evolve_strategy_genes_outperform_skills.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Seeing Without Sight: The Emergent Imagery of Language Models</title>
       <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2509_23108_seeing_without_sight_the_emergent_imagery_of_language_models.html</link>
@@ -178,78 +250,6 @@
       <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2506_20660_a_3_000_qubit_system_learns_to_refuel_itself.html</guid>
       <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>A Single Impurity Teaches Kagome Electrons to Dance</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2503_07015_a_single_impurity_teaches_kagome_electrons_to_dance.html</link>
-      <description>A single impurity in a kagome superconductor breaks mirror symmetry, triggering chiral quasiparticle interference that spirals clockwise or anticlockwise.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2503_07015_a_single_impurity_teaches_kagome_electrons_to_dance.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Hidden Geometry That Whispers "Order Here"</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2504_03882_the_hidden_geometry_that_whispers_order_here.html</link>
-      <description>Geometric nesting of Bloch vectors in a flat band predicts ordered phases without a Fermi surface.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2504_03882_the_hidden_geometry_that_whispers_order_here.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Breakthroughs Learn to Wait: The Universal Law of Innovation</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_16719_when_breakthroughs_learn_to_wait_the_universal_law_of_innovation.html</link>
-      <description>Across science, engineering, and sports, progress follows a universal rhythm: long stasis punctuated by sudden radical breakthroughs that reshape the frontier.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_16719_when_breakthroughs_learn_to_wait_the_universal_law_of_innovation.html</guid>
-      <category>People</category>
-    </item>
-    <item>
-      <title>When the Universe Changed Its Mind</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2402_07716_when_the_universe_changed_its_mind.html</link>
-      <description>A mirror transition in the cosmological constant at redshift 1.8 may have flipped the universe from contraction to expansion.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2402_07716_when_the_universe_changed_its_mind.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When AI’s Certainty Hides Its Doubt</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2510_21523_when_ai_s_certainty_hides_its_doubt.html</link>
-      <description>Polynomial chaos expansion acts as a prism, splitting AI's hidden epistemic doubt into a colored spectrum of decision vulnerabilities in molecular design.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2510_21523_when_ai_s_certainty_hides_its_doubt.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>How Many Weather Radars Are Hiding in Your Pocket?</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2603_19153_how_many_weather_radars_are_hiding_in_your_pocket.html</link>
-      <description>Cellular base stations can be reprogrammed to detect rain by analyzing the backscatter of their own radio signals, offering street-level rainfall maps that outperform traditional weather radar in cities.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2603_19153_how_many_weather_radars_are_hiding_in_your_pocket.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Cosmic Dipole That Refuses to Fit</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2509_18689_the_cosmic_dipole_that_refuses_to_fit.html</link>
-      <description>The cosmic dipole measured from infrared and radio surveys consistently disagrees with the CMB’s kinematic dipole, hinting at a fundamental asymmetry in the universe.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2509_18689_the_cosmic_dipole_that_refuses_to_fit.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Bias Tests Need a Baseline to Find Themselves</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01048_when_bias_tests_need_a_baseline_to_find_themselves.html</link>
-      <description>A gender swap and a harmless rephrase cause nearly identical answer flips in an AI diagnostic model, revealing that apparent bias may be universal jitteriness.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01048_when_bias_tests_need_a_baseline_to_find_themselves.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Peril of Being Almost Right: Tightening AI's Injection Defenses</title>
-      <link>https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01462_the_peril_of_being_almost_right_tightening_ai_s_injection_defenses.html</link>
-      <description>LocalAlign defends language models by training against near-correct prompt injections, tightening the boundary to stop attacks that barely miss.</description>
-      <pubDate>Sat, 23 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/24/arxiv_2605_01462_the_peril_of_being_almost_right_tightening_ai_s_injection_defenses.html</guid>
-      <category>Artificial Intelligence</category>
     </item>
   </channel>
 </rss>
