@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 10:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 10:29:43 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -57,30 +57,6 @@
       <description>Quantum Fisher Information eigenstructure reveals which directions most threaten privacy, guiding noise precisely where it matters.</description>
       <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24166_geometry_learns_to_protect_privacy_a_quantum_fisher_information_approach.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>The Quantum Battery That Waits a Hundred Thousand Years</title>
-      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24935_the_quantum_battery_that_waits_a_hundred_thousand_years.html</link>
-      <description>A nuclear isomer quantum battery stores energy for up to a hundred thousand years, releasing it on demand via X-ray laser pulses.</description>
-      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24935_the_quantum_battery_that_waits_a_hundred_thousand_years.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Remembering Forever: A Local Automaton for Topological Quantum Memory</title>
-      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2412_19803_remembering_forever_a_local_automaton_for_topological_quantum_memory.html</link>
-      <description>A hierarchical local automaton of qubits on a torus corrects errors using only nearest-neighbor operations, protecting a logical quantum memory for exponentially long times.</description>
-      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2412_19803_remembering_forever_a_local_automaton_for_topological_quantum_memory.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Orbitals Learn to Absorb: Cutting Quantum Correlations Down to Size</title>
-      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22977_when_orbitals_learn_to_absorb_cutting_quantum_correlations_down_to_size.html</link>
-      <description>By co-optimizing orbitals with a sparse configuration interaction wavefunction, quantum chemists compress an astronomically large determinant space into a compact set, dramatically accelerating convergence.</description>
-      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22977_when_orbitals_learn_to_absorb_cutting_quantum_correlations_down_to_size.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

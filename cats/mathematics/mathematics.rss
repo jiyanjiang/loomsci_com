@@ -7,24 +7,16 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 10:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 10:29:43 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
     <item>
-      <title>When Measurement Becomes Geometry: A Kernel Revolution in Quantum Tomography</title>
-      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_25146_when_measurement_becomes_geometry_a_kernel_revolution_in_quantum_tomography.html</link>
-      <description>Quantum state tomography is reframed as kernel regression, where random unitary designs create an optimal geometric embedding for measurement.</description>
-      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_25146_when_measurement_becomes_geometry_a_kernel_revolution_in_quantum_tomography.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>How a Century-Old Iteration Learns a New Trick</title>
-      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2604_16075_how_a_century_old_iteration_learns_a_new_trick.html</link>
-      <description>By measuring backward error instead of forward error, a century-old iteration gains a universal convergence guarantee, independent of condition number.</description>
-      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2604_16075_how_a_century_old_iteration_learns_a_new_trick.html</guid>
+      <title>When Imaginary Time Becomes Real: A Partial Construction of Timelike Liouville</title>
+      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29203_when_imaginary_time_becomes_real_a_partial_construction_of_timelike_liouville.html</link>
+      <description>A cylinder geometry bridges Euclidean and Lorentzian quantum gravity through analytic continuation of timelike Liouville field theory.</description>
+      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29203_when_imaginary_time_becomes_real_a_partial_construction_of_timelike_liouville.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>

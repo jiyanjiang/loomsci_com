@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 10:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 10:29:43 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
@@ -65,30 +65,6 @@
       <description>The deterministic horizon of transformer architectures defines an information-theoretic ceiling for reasoning depth, turning an impossibility into a constructive design constraint for trustworthy AI.</description>
       <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_23024_when_impossibility_becomes_a_blueprint_for_trustworthy_ai.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Database That Assembles Itself: The Bold Claim of Just-in-Time Systems</title>
-      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24096_the_database_that_assembles_itself_the_bold_claim_of_just_in_time_systems.html</link>
-      <description>AI assembles a custom database on demand, challenging the centuries-old orthodoxy of pre-built software architectures with a fleeting, specialized tent.</description>
-      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24096_the_database_that_assembles_itself_the_bold_claim_of_just_in_time_systems.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Size Doesn't Matter: The Hunt for Universality in Any-Dimensional Networks</title>
-      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23156_when_size_doesn_t_matter_the_hunt_for_universality_in_any_dimensional_networks.html</link>
-      <description>A neural network that handles inputs of any size learns to operate on an infinite limit space, where permutation invariance and universality converge.</description>
-      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_23156_when_size_doesn_t_matter_the_hunt_for_universality_in_any_dimensional_networks.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Emulator That Turns Crop Models Into Discovery Engines</title>
-      <link>https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22848_the_emulator_that_turns_crop_models_into_discovery_engines.html</link>
-      <description>A neural network emulator accelerates crop simulations by orders of magnitude, enabling exhaustive discovery of climate-resilient phenotypes across thousands of weather scenarios.</description>
-      <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/25/arxiv_2605_22848_the_emulator_that_turns_crop_models_into_discovery_engines.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>
