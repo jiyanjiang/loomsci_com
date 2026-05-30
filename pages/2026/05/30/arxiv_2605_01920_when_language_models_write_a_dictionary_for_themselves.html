@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="A new formal language, ACDL, precisely specifies how an LLM agent's prompt structure evolves across interaction turns.">
+<meta property="og:title" content="When Language Models Write a Dictionary for Themselves">
+<meta property="og:description" content="A new formal language, ACDL, precisely specifies how an LLM agent's prompt structure evolves across interaction turns.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/05/30/arxiv_2605_01920_when_language_models_write_a_dictionary_for_themselves.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/05/30/arxiv_2605_01920.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="When Language Models Write a Dictionary for Themselves">
+<meta name="twitter:description" content="A new formal language, ACDL, precisely specifies how an LLM agent's prompt structure evolves across interaction turns.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/05/30/arxiv_2605_01920.jpg">
+
+
+  <title>When Language Models Write a Dictionary for Themselves — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">When Language Models Write a Dictionary for Themselves</h1>
+
+  <div class="article-meta">
+    
+    <span>Drafted May 05, 2026 · Published May 30, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2605.01920</span>
+    
+  </div>
+
+  
+  <blockquote class="article-headline">A new formal language, ACDL, precisely specifies how an LLM agent's prompt structure evolves across interaction turns.</blockquote>
+  
+
+  <div class="article-body">
+    <p>We have a problem. Large language models are increasingly deployed as autonomous agents — systems that make a sequence of LLM calls, each feeding the model a mix of instructions, observations, and interaction history. The design of this input, and how it evolves turn by turn, determines whether the agent succeeds or fails. Yet describing that design is a mess: informal prose, ad hoc diagrams, or requiring someone to read through source code.</p>
+<p>None of these capture precisely how a prompt evolves across interaction steps. None make it easy to compare two different context-construction strategies. And none are standardised enough to be used in a research paper without pages of prose.</p>
+<p>Now, a team led by Noga Peleg Pelc at the Department of Computer Science and AI — working with Gal A. Kaminka and Yoav Goldberg — has proposed a remedy. Their preprint introduces the Agentic Context Description Language (arXiv:2605.01920), a formal language for specifying exactly how an LLM agent's context is structured and how it changes over time.</p>
+<h2 id="the-engineering-frontier-you-never-knew-existed">The engineering frontier you never knew existed</h2>
+<p>Most people who use ChatGPT or Claude think of prompting as a one-shot affair: you type a question, the model answers. But when you build an agent — a system that decides which tool to call, reflects on its own outputs, and loops through multiple reasoning steps — the prompt is no longer static. It grows. New observations get appended. Old reasoning traces are pruned or retained. Tools are injected at different positions in the message sequence. The order in which information appears fundamentally changes what the model does next.</p>
+<p>This is what the researchers call <em>context engineering</em>, and it is a surprisingly subtle craft. Consider a simple ReAct loop — an agent that alternates between reasoning and tool use. Should the tool descriptions appear at the start of each turn, or only on the first turn? Should previous reasoning traces be included in full, or only the final answer? These design choices, invisible to the end user, can make the difference between an agent that solves a task reliably and one that spins its wheels.</p>
+<p>ACDL makes these choices explicit. The language provides constructs for describing role message sequences, dynamic content that changes between turns, time-indexed references to previous interactions, and conditional or iterative structures within the prompt. The language can be written formally and then rendered into diagrams — diagrams that are precise enough to be checked against an implementation and clear enough to be sketched on a whiteboard.</p>
+<h2 id="a-grammar-for-agent-minds">A grammar for agent minds</h2>
+<p>The core intuition behind ACDL is simple: an LLM context is not a flat string. It has structure. There are multiple roles (user, assistant, tool). There are turns. There are blocks of content that repeat or change. ACDL defines a small set of primitives to capture this structure.</p>
+<p>Think of it like a blueprint. Just as architects use standard symbols for walls, doors, and windows rather than describing each one in prose, ACDL gives researchers a standard notation for saying "the tool description appears here, the system prompt is static across all turns, and the interaction history includes only the last three reasoning steps." Unlike prose, this notation is precise enough that two researchers reading it will agree on what the agent does. Unlike code, it is readable without execution.</p>
+<p>The preprint demonstrates ACDL by documenting several existing systems and their variants. One example contrasts three simple ReAct loop designs: a base implementation, one that omits reasoning traces from the action history, and one where tool descriptions appear at the last message rather than the first. The differences, which would require paragraphs of prose to describe, are immediately visible in the ACDL diagrams. The language also handles more complex systems: multi-turn multi-step agents, hierarchical tool calls, and systems with sub-agents that have their own contexts.</p>
+<p>The team has released documentation and tooling at an associated website, so the community can start experimenting with ACDL immediately.</p>
+<h2 id="what-gets-measured-gets-described">What gets measured gets described</h2>
+<p>Why does this matter? Because the field of LLM agents is growing explosively, and much of the progress depends on small engineering decisions that are currently communicated poorly. A paper might describe its agent as using "a standard ReAct loop" — but standard for whom? Different implementations differ in exactly the ways that ACDL captures. A result that works with one context structure may fail with another, and without a shared description language, researchers cannot meaningfully compare approaches.</p>
+<p>ACDL does not solve the hard problems of agent design — it does not tell you which context structure is best for which task. But it provides something more fundamental: a way to be precise about what you are doing. In a field where papers increasingly depend on complex prompt engineering, that precision is a prerequisite for progress.</p>
+<h2 id="a-standard-waiting-to-grow">A standard waiting to grow</h2>
+<p>The preprint positions ACDL as a proposal for community adoption. The authors encourage its use both in day-to-day communication among researchers and in formal publications. Whether it catches on remains to be seen — standards in computer science have a mixed track record. But the need it addresses is real. As LLM agents proliferate, the lack of a shared vocabulary for describing their contexts will become an increasingly costly bottleneck.</p>
+<p>Perhaps the most telling detail in the preprint is that the authors, having built ACDL, used it to describe systems they did not build themselves. They applied it to the DeepSeek agent, to OpenClaw, to OpenCode. This is not a language designed to make one specific system look good. It is a language designed to describe the design space itself.</p>
+<p>For now, ACDL exists as a preprint and a set of tools. The question is whether the community picks it up — and whether it becomes, in time, as natural as describing a transformer architecture or a training dataset. A standard is not born. It is adopted.</p>
+<p>This is a promising step toward that adoption.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Noga Peleg Pelc <em>et al.</em>, A Language for Describing Agentic LLM Contexts, arXiv:2605.01920</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

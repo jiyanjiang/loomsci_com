@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 10:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:44:28 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Language Models Write a Dictionary for Themselves</title>
+      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2605_01920_when_language_models_write_a_dictionary_for_themselves.html</link>
+      <description>A new formal language, ACDL, precisely specifies how an LLM agent's prompt structure evolves across interaction turns.</description>
+      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_01920_when_language_models_write_a_dictionary_for_themselves.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>When AI Authors a Paper for $15, What’s Missing?</title>
+      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2605_18661_when_ai_authors_a_paper_for_15_what_s_missing.html</link>
+      <description>AI research pipelines can generate manuscripts, but genuine scientific judgment remains an empty space no algorithm can fill.</description>
+      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_18661_when_ai_authors_a_paper_for_15_what_s_missing.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Why LLMs Can’t See Cause—and How Interventional Agents Find It</title>
       <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html</link>
@@ -49,22 +65,6 @@
       <description>By breaking symmetry in Hopfield networks, scientists achieve superpolynomial sequence memory, allowing neural nets to store vast libraries of long, robust story-like cycles.</description>
       <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24611_the_network_that_learned_to_tell_stories.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Network That Taught Itself Grammar</title>
-      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24585_the_network_that_taught_itself_grammar.html</link>
-      <description>Training a neural network to predict words far into the future causes its internal representations to spontaneously organize into grammatical categories like nouns, verbs, and adjectives.</description>
-      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24585_the_network_that_taught_itself_grammar.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Impossibility Becomes a Blueprint for Trustworthy AI</title>
-      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_23024_when_impossibility_becomes_a_blueprint_for_trustworthy_ai.html</link>
-      <description>The deterministic horizon of transformer architectures defines an information-theoretic ceiling for reasoning depth, turning an impossibility into a constructive design constraint for trustworthy AI.</description>
-      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_23024_when_impossibility_becomes_a_blueprint_for_trustworthy_ai.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

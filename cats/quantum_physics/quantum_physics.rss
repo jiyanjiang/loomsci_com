@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 10:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:44:27 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Top Quarks Climb the Quantum Ladder</title>
+      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2602_15115_when_top_quarks_climb_the_quantum_ladder.html</link>
+      <description>Recent results from the Large Hadron Collider have demonstrated quantum entanglement of top quark-antiquark pairs using the spin degrees of freedom. Based on the doubly differential measurement of the spin density matrix of the top quark and antiquark performed by t...</description>
+      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2602_15115_when_top_quarks_climb_the_quantum_ladder.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>Solving Semidefinite Programs with Thermal Bosons</title>
       <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27228_solving_semidefinite_programs_with_thermal_bosons.html</link>
@@ -49,14 +57,6 @@
       <description>Fermionic doublons orchestrate a geometric SWAP gate, protected by fundamental symmetries, achieving 99.91% fidelity in an optical lattice.</description>
       <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2507_22112_when_fermionic_doublons_dance_a_geometric_gate.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Geometry Learns to Protect Privacy: A Quantum Fisher Information Approach</title>
-      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24166_geometry_learns_to_protect_privacy_a_quantum_fisher_information_approach.html</link>
-      <description>Quantum Fisher Information eigenstructure reveals which directions most threaten privacy, guiding noise precisely where it matters.</description>
-      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_24166_geometry_learns_to_protect_privacy_a_quantum_fisher_information_approach.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

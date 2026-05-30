@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 10:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:44:29 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
@@ -97,14 +97,6 @@
       <description>Spin injection into liquid gallium via platinum contacts creates a microfluidic flow through the Einstein–de Haas torque, enabling a contactless pump with no moving parts.</description>
       <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_25387_turning_spin_into_flow.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>How Excitons Learn to Dance in Unison: Valley Splitting Enables True Bose Condensation</title>
-      <link>https://www.loomsci.com/pages/2026/05/26/arxiv_2605_03162_how_excitons_learn_to_dance_in_unison_valley_splitting_enables_true_bose_condens.html</link>
-      <description>A periodic electrostatic potential lifts valley degeneracy and linearizes exciton dispersion, enabling true Bose-Einstein condensation in two dimensions.</description>
-      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/26/arxiv_2605_03162_how_excitons_learn_to_dance_in_unison_valley_splitting_enables_true_bose_condens.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

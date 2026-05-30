@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 10:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:44:28 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Charting the Weather of Mars with a Single AI Model</title>
+      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2605_28851_charting_the_weather_of_mars_with_a_single_ai_model.html</link>
+      <description>A unified AI foundation model could forecast Martian dust storms, map low-level jets, and fill satellite data gaps across the Red Planet's atmosphere.</description>
+      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_28851_charting_the_weather_of_mars_with_a_single_ai_model.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>When a Pebble Learns to Shout</title>
       <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29150_when_a_pebble_learns_to_shout.html</link>
