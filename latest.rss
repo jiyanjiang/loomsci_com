@@ -7,10 +7,58 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 12:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 15:37:54 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Hunting the Invisible at Close Range: A Beam-Dump Experiment Challenges Cosmic Silence</title>
+      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2604_28133_hunting_the_invisible_at_close_range_a_beam_dump_experiment_challenges_cosmic_si.html</link>
+      <description>By placing a detector mere meters from the beam target, DAMSA aims to catch short-lived dark sector particles decaying into detectable photons.</description>
+      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2604_28133_hunting_the_invisible_at_close_range_a_beam_dump_experiment_challenges_cosmic_si.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>When Your AI Assistant Becomes a Spy: The Game Theory of Trustworthy Knowledge</title>
+      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2604_23413_when_your_ai_assistant_becomes_a_spy_the_game_theory_of_trustworthy_knowledge.html</link>
+      <description>Game theory transforms the privacy-utility trade-off in AI into a strategic game where users can outwit attackers.</description>
+      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2604_23413_when_your_ai_assistant_becomes_a_spy_the_game_theory_of_trustworthy_knowledge.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Photon's Time-Box: How Two Particles Meeting at a Mirror Could Transform Quantum Communication</title>
+      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2404_16106_the_photon_s_time_box_how_two_particles_meeting_at_a_mirror_could_transform_quan.html</link>
+      <description>Hong-Ou-Mandel interference at a beam splitter enables robust measurement of time-bin encoded quantum states, bypassing fragile interferometers.</description>
+      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2404_16106_the_photon_s_time_box_how_two_particles_meeting_at_a_mirror_could_transform_quan.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Neural Networks Learn the Language of Physics: A Differentiable Journey into Latent Spaces</title>
+      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2510_00233_when_neural_networks_learn_the_language_of_physics_a_differentiable_journey_into.html</link>
+      <description>DIANO learns a coarse-grid latent space where fluid flows evolve through differentiable physics, enabling interpretable machine learning.</description>
+      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2510_00233_when_neural_networks_learn_the_language_of_physics_a_differentiable_journey_into.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>When Watching Is Learning: How Minutes of Human Video Teach Robots</title>
+      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2605_24934_when_watching_is_learning_how_minutes_of_human_video_teach_robots.html</link>
+      <description>A robot learns to pour coffee by watching an egocentric human video, translating hand-object interactions into abstract geometric tokens for zero-shot transfer.</description>
+      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2605_24934_when_watching_is_learning_how_minutes_of_human_video_teach_robots.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Hunting for the Magnet That Splits Nothing</title>
+      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2605_27888_hunting_for_the_magnet_that_splits_nothing.html</link>
+      <description>In the altermagnet RbMn₂Te₂O, spin-up and spin-down electrons are split by nearly two electronvolts, while the crystal itself casts no stray magnetic field.</description>
+      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2605_27888_hunting_for_the_magnet_that_splits_nothing.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Charting the Weather of Mars with a Single AI Model</title>
       <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2605_28851_charting_the_weather_of_mars_with_a_single_ai_model.html</link>
@@ -202,54 +250,6 @@
       <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</guid>
       <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Learning to Evolve: Strategy Genes Outperform Skills</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2604_15097_learning_to_evolve_strategy_genes_outperform_skills.html</link>
-      <description>Compact, gene-like memory guides AI agents to outperform verbose skill packages in scientific coding, revealing that representation structure matters more than raw information.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2604_15097_learning_to_evolve_strategy_genes_outperform_skills.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Seeing Without Sight: The Emergent Imagery of Language Models</title>
-      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2509_23108_seeing_without_sight_the_emergent_imagery_of_language_models.html</link>
-      <description>Large language models trained only on text can outperform humans at spatial mental imagery tasks, suggesting language alone may enable a form of artificial phantasia.</description>
-      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2509_23108_seeing_without_sight_the_emergent_imagery_of_language_models.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When an Insulator Learns to Modulate</title>
-      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24153_when_an_insulator_learns_to_modulate.html</link>
-      <description>A charge density wave emerges in a band insulator at cryogenic temperatures, challenging textbook models of quantum order in condensed matter.</description>
-      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24153_when_an_insulator_learns_to_modulate.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Vacuum Fluctuations Sculpt a Triplet Superconductor</title>
-      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24439_vacuum_fluctuations_sculpt_a_triplet_superconductor.html</link>
-      <description>Vacuum fluctuations polarized diagonally inside an optical cavity reshape the Fermi surface of an organic superconductor, suppressing d-wave singlet pairing and enabling a switch to p-wave triplet superconductivity.</description>
-      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24439_vacuum_fluctuations_sculpt_a_triplet_superconductor.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Turning Spin into Flow</title>
-      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_25387_turning_spin_into_flow.html</link>
-      <description>Spin injection into liquid gallium via platinum contacts creates a microfluidic flow through the Einstein–de Haas torque, enabling a contactless pump with no moving parts.</description>
-      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_25387_turning_spin_into_flow.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Network That Learned to Tell Stories</title>
-      <link>https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24611_the_network_that_learned_to_tell_stories.html</link>
-      <description>By breaking symmetry in Hopfield networks, scientists achieve superpolynomial sequence memory, allowing neural nets to store vast libraries of long, robust story-like cycles.</description>
-      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/27/arxiv_2605_24611_the_network_that_learned_to_tell_stories.html</guid>
-      <category>Artificial Intelligence</category>
     </item>
   </channel>
 </rss>

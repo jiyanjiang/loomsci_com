@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 12:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 15:37:54 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Photon's Time-Box: How Two Particles Meeting at a Mirror Could Transform Quantum Communication</title>
+      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2404_16106_the_photon_s_time_box_how_two_particles_meeting_at_a_mirror_could_transform_quan.html</link>
+      <description>Hong-Ou-Mandel interference at a beam splitter enables robust measurement of time-bin encoded quantum states, bypassing fragile interferometers.</description>
+      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2404_16106_the_photon_s_time_box_how_two_particles_meeting_at_a_mirror_could_transform_quan.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>When Top Quarks Climb the Quantum Ladder</title>
       <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2602_15115_when_top_quarks_climb_the_quantum_ladder.html</link>
