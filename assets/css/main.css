@@ -638,29 +638,31 @@ body {
 /* === PAGINATION === */
 .pagination {
   display: flex;
-  gap: 8px;
+  gap: 12px;
   justify-content: center;
+  align-items: center;
   margin-top: 40px;
 }
 
-.pagination a, .pagination span {
-  padding: 8px 14px;
+.pagination .pagination-nav {
+  padding: 8px 16px;
   border: 1px solid var(--card-border);
   border-radius: var(--radius);
   font-size: 0.88rem;
   text-decoration: none;
   color: var(--text-secondary);
   transition: border-color 0.2s;
+  white-space: nowrap;
 }
 
-.pagination a:hover {
+.pagination .pagination-nav:hover {
   border-color: var(--card-hover-border);
 }
 
-.pagination .current {
-  background: var(--accent);
-  color: #fff;
-  border-color: var(--accent);
+.pagination .pagination-info {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  white-space: nowrap;
 }
 
 /* === 404 === */

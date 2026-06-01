@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 15:37:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:59:20 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
@@ -73,14 +73,6 @@
       <description>A hybrid laser combines a cryogenic cavity’s deep silence with a chip-scale Brillouin filter, achieving record-low noise for next-generation atomic clocks.</description>
       <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26708_the_laser_that_learned_to_listen_to_its_own_silence.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Magnetic Phase That Light Wasn’t Supposed to Feel</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</link>
-      <description>Circularly polarized microwaves separate by handedness as they propagate through a photonic crystal engineered to exhibit altermagnetic spin splitting without net magnetization.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

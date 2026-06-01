@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 15:37:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:59:20 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Harvesting Precision from the Exponential Sea: Engineered Randomness in Quantum Metrology</title>
+      <link>https://www.loomsci.com/pages/2026/06/01/arxiv_2605_31442_harvesting_precision_from_the_exponential_sea_engineered_randomness_in_quantum_m.html</link>
+      <description>By tilting randomness with a single parameter, scientists harvest Heisenberg-limited precision from the exponential sea of quantum states, turning barren wilderness into a treasure trove.</description>
+      <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_2605_31442_harvesting_precision_from_the_exponential_sea_engineered_randomness_in_quantum_m.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>The Photon's Time-Box: How Two Particles Meeting at a Mirror Could Transform Quantum Communication</title>
       <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2404_16106_the_photon_s_time_box_how_two_particles_meeting_at_a_mirror_could_transform_quan.html</link>
@@ -49,22 +57,6 @@
       <description>A quantum processor reveals hidden conformal symmetry in the periodic driving of a critical many-body system, marking a leap from theory to hardware.</description>
       <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27530_conformal_floquet_dynamics_come_to_life_on_a_quantum_processor.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When an Atom Forgets Its Own Recoil</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28038_when_an_atom_forgets_its_own_recoil.html</link>
-      <description>By squeezing the atomic wavefunction in an optical tweezer, researchers erased which-path information, shattering the standard quantum limit for a recoiling-slit interferometer with visibility 0.938.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28038_when_an_atom_forgets_its_own_recoil.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Fermionic Doublons Dance a Geometric Gate</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2507_22112_when_fermionic_doublons_dance_a_geometric_gate.html</link>
-      <description>Fermionic doublons orchestrate a geometric SWAP gate, protected by fundamental symmetries, achieving 99.91% fidelity in an optical lattice.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2507_22112_when_fermionic_doublons_dance_a_geometric_gate.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

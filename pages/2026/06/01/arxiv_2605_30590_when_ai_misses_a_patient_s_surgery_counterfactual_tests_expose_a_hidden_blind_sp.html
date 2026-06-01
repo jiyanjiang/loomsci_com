@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="A counterfactual test shows clinical AI models often ignore surgery updates, remaining dangerously rigid despite high benchmark scores.">
+<meta property="og:title" content="When AI Misses a Patient's Surgery: Counterfactual Tests Expose a Hidden Blind Spot">
+<meta property="og:description" content="A counterfactual test shows clinical AI models often ignore surgery updates, remaining dangerously rigid despite high benchmark scores.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/06/01/arxiv_2605_30590_when_ai_misses_a_patient_s_surgery_counterfactual_tests_expose_a_hidden_blind_sp.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/06/01/arxiv_2605_30590.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="When AI Misses a Patient's Surgery: Counterfactual Tests Expose a Hidden Blind Spot">
+<meta name="twitter:description" content="A counterfactual test shows clinical AI models often ignore surgery updates, remaining dangerously rigid despite high benchmark scores.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/06/01/arxiv_2605_30590.jpg">
+
+
+  <title>When AI Misses a Patient's Surgery: Counterfactual Tests Expose a Hidden Blind Spot — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">When AI Misses a Patient's Surgery: Counterfactual Tests Expose a Hidden Blind Spot</h1>
+
+  <div class="article-meta">
+    
+    <span>June 01, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2605.30590</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/06/01/arxiv_2605_30590.jpg" alt="A counterfactual test shows clinical AI models often ignore surgery updates, remaining dangerously rigid despite high benchmark scores." />
+    
+    <figcaption class="article-hero-caption">A counterfactual test shows clinical AI models often ignore surgery updates, remaining dangerously rigid despite high benchmark scores.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>Imagine an AI-powered clinical decision system reviewing a tumor‑board case. It recommends a course of treatment. A few hours later, the patient’s record is updated: she has just had surgery. The system re‑checks the file and—still the same recommendation. As if the surgery never happened.</p>
+<p>This scenario is precisely the kind of rigidity that a new preprint (arXiv:2605.30590) from Matt Turk at Protege Data Lab, New York City, sets out to expose. Turk introduces what he calls the Causal Sensitivity Score (CSS), a method for probing whether clinical AI models actually notice when the medical facts beneath them shift. In his study of six frontier large language models (LLMs) tested on 224 oncology cases, the answer is unsettling: high scores on standard benchmarks can coexist with near‑total deafness to surgically altered circumstances.</p>
+<p>The problem starts with the way we usually judge clinical AI. The dominant metric is something like the Consensus Match Score (CMS), a coverage‑based recall that measures how much of a model’s output agrees with a panel of expert oncologists. A model that mentions the right drugs, dosages, and follow‑up steps scores well. But, Turk argues, CMS captures only what the model says in a single static snapshot; it says nothing about whether the model would change its mind if the patient’s condition changed.</p>
+<p>To fill that gap, Turk and his collaborators designed the CSS as a counterfactual stress test. They took real tumor‑board cases and systematically mutated them along five clinically meaningful dimensions: flipping biomarker status, adding prior‑treatment failures, removing biomarkers, changing whether a surgery had occurred, and perturbing the cancer stage. For each mutation, they checked whether the model updated its recommendation in the pre‑registered correct direction, awarding 1.0 for a fully correct update, 0.5 for a partially correct one, and 0.0 for no change or a wrong one. As the paper itself states, the CSS is “a pre‑registered interventional metric that mutates oncology tumor‑board cases along five clinically meaningful dimensions … and scores whether each model updates its recommendations in the pre‑registered correct direction using a {0, 0.5, 1.0} scale.”</p>
+<p>When they ran six frontier models—spanning GPT‑5, Claude Opus 4, Grok‑4.20‑Reasoning, and others from three different labs—through both CMS and CSS, the picture shattered the usual hierarchy. The model that looked worst on coverage (Grok‑4.20‑Reasoning) turned out to be the most responsive, topping the CSS leaderboard. Meanwhile, GPT‑5, the CMS champion, slid all the way to fourth place. Every single model swapped its rank between the two metrics. A chart of the scores reveals a near-inverse relationship between the two metrics: if you only looked at coverage, you would have bet on entirely the wrong horse.</p>
+<p><img alt="fig1" src="/images/2026/06/01/arxiv_2605_30590_fig_1.png"></p>
+<blockquote>
+<p>A model’s performance ranking flips entirely depending on which metric is used. This shows that single-score evaluations can hide critical weaknesses and misrepresent real-world ability. (Source: arXiv:2605.30590)</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>CMS</th>
+<th>CSS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>gpt-5</td>
+<td><strong>0.610</strong> (1)</td>
+<td>0.427 (4)</td>
+</tr>
+<tr>
+<td>claude-opus-4–7</td>
+<td>0.595 (2)</td>
+<td>0.432 (3)</td>
+</tr>
+<tr>
+<td>claude-sonnet-4–6</td>
+<td>0.575 (3)</td>
+<td>0.394 (5)</td>
+</tr>
+<tr>
+<td>gpt-5.4</td>
+<td>0.575 (4)</td>
+<td><strong>0.309 (6)</strong></td>
+</tr>
+<tr>
+<td>gpt-5.4-mini</td>
+<td>0.548 (5)</td>
+<td>0.439 (2)</td>
+</tr>
+<tr>
+<td>grok-4.20-reasoning</td>
+<td><strong>0.480 (6)</strong></td>
+<td><strong>0.473 (1)</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Two different evaluation benchmarks rank leading AI models in opposite order. This reveals that standard tests can hide a model's true strengths and weaknesses. (Source: arXiv:2605.30590)</p>
+</blockquote>
+<p>The most alarming finding emerged from a single intervention family. When the change was simply whether the patient had undergone surgery—Family D in the paper—all six models failed catastrophically. The best of them achieved a CSS of just 17.2%, meaning even the “responsive” models rarely adjusted their advice correctly when a surgery note appeared or disappeared. A model that ignores a recent mastectomy or lobectomy could, in a real clinical setting, continue to recommend a therapy that is now obsolete or even harmful. Yet CMS would never flag this because the model’s answer in the static case might still match expert consensus.</p>
+<p>The study then tested whether giving the models access to a patient‑chart tool—the kind of “agent” setups increasingly used in practice—would repair the surgery blind spot. In a ReAct‑style experiment, five of the six models saw their CSS on Family D rise, some by as much as 20 percentage points. But GPT‑5.4 remained essentially unchanged, its CSS moving from a meagre 0.05 to … 0.05. The paper’s analysis ruled out a simple retrieval deficit: all six models called the chart tool about the same number of times, querying the sections where surgery history lives with similar frequency. They retrieved roughly the same information. GPT‑5.4 simply didn’t use that information to change its mind. As the paper notes, this points to a structural responsiveness deficit—a stubbornness that even better information access cannot fix.</p>
+<p>This result puts an interesting lens on earlier work on expert‑level medical question answering, such as the Med‑PaLM 2 study (arXiv:2305.09617), which found that strong performance requires reasoning consistent with clinical evidence—not just factual recall. The CSS metric exposes a concrete case where strong coverage scores can paper over a model’s inability to reason about a changed situation.</p>
+<p>There is, however, an important nuance. The pre‑registered {0, 0.5, 1.0} scoring rule used for CSS cannot distinguish between a model that correctly refuses to alter its recommendation (a safe behaviour) and one that incorrectly fails to update (a dangerous one). A model that stays put because it is uncertain, or because the mutation does not genuinely warrant a change, gets the same zero as a model that blindly ignores the surgery. Turk’s team acknowledges this limitation and suggests that future versions could incorporate a refusal‑detection layer, turning the metric into an even finer safety instrument. Until then, the zero‑score bucket lumps together prudence and peril, which could penalize the very conservatism we want in high‑stakes clinical AI.</p>
+<p>Still, the practical takeaway for hospitals and regulators is clear. If you deploy a clinical LLM only after checking its CMS, you might be putting an excellent‑looking score in front of a model that is, in effect, sleepwalking through surgical updates. A tool that refuses to see a change in the patient’s story cannot be trusted in the flow of real care. The CSS offers a tangible way to screen for that blindness before a model ever touches a real patient’s record.</p>
+<p>Looking ahead, Turk’s framework suggests a dense reward signal for future reinforcement‑learning systems that aim to improve clinical agents. If a training algorithm can reward a model not just for being correct once, but for updating correctly when the evidence shifts, it might produce AI that behaves more like an attentive clinician—one who reads the chart changes and lets the new facts reshape the plan. The method is not a replacement for coverage‑based evaluation; it is a companion that asks the question the old metrics never did: when the facts change, does the model change with them?</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Matt Turk, Counterfactual Evaluation Reveals Hidden Capability Profiles in Clinical LLMs and Agents, arXiv:2605.30590</li>
+<li>Singhal <em>et al.</em>, Towards Expert-Level Medical Question Answering with Large Language Models, arXiv:2305.09617</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

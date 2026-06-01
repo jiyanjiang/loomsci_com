@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 15:37:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:59:20 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When AI Misses a Patient's Surgery: Counterfactual Tests Expose a Hidden Blind Spot</title>
+      <link>https://www.loomsci.com/pages/2026/06/01/arxiv_2605_30590_when_ai_misses_a_patient_s_surgery_counterfactual_tests_expose_a_hidden_blind_sp.html</link>
+      <description>A counterfactual test shows clinical AI models often ignore surgery updates, remaining dangerously rigid despite high benchmark scores.</description>
+      <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_2605_30590_when_ai_misses_a_patient_s_surgery_counterfactual_tests_expose_a_hidden_blind_sp.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Bridging Two Worlds: How Preprojective Algebras Unlock Weyl Group Lattices</title>
+      <link>https://www.loomsci.com/pages/2026/06/01/arxiv_1604_08401_bridging_two_worlds_how_preprojective_algebras_unlock_weyl_group_lattices.html</link>
+      <description>A new bridge of lattices connects Weyl group symmetries to preprojective algebra modules, revealing their deep structural unity.</description>
+      <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_1604_08401_bridging_two_worlds_how_preprojective_algebras_unlock_weyl_group_lattices.html</guid>
+      <category>Mathematics</category>
+    </item>
+    <item>
+      <title>Harvesting Precision from the Exponential Sea: Engineered Randomness in Quantum Metrology</title>
+      <link>https://www.loomsci.com/pages/2026/06/01/arxiv_2605_31442_harvesting_precision_from_the_exponential_sea_engineered_randomness_in_quantum_m.html</link>
+      <description>By tilting randomness with a single parameter, scientists harvest Heisenberg-limited precision from the exponential sea of quantum states, turning barren wilderness into a treasure trove.</description>
+      <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_2605_31442_harvesting_precision_from_the_exponential_sea_engineered_randomness_in_quantum_m.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>Hunting the Invisible at Close Range: A Beam-Dump Experiment Challenges Cosmic Silence</title>
       <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2604_28133_hunting_the_invisible_at_close_range_a_beam_dump_experiment_challenges_cosmic_si.html</link>
@@ -226,30 +250,6 @@
       <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27530_conformal_floquet_dynamics_come_to_life_on_a_quantum_processor.html</guid>
       <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When an Atom Forgets Its Own Recoil</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28038_when_an_atom_forgets_its_own_recoil.html</link>
-      <description>By squeezing the atomic wavefunction in an optical tweezer, researchers erased which-path information, shattering the standard quantum limit for a recoiling-slit interferometer with visibility 0.938.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28038_when_an_atom_forgets_its_own_recoil.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Fermionic Doublons Dance a Geometric Gate</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2507_22112_when_fermionic_doublons_dance_a_geometric_gate.html</link>
-      <description>Fermionic doublons orchestrate a geometric SWAP gate, protected by fundamental symmetries, achieving 99.91% fidelity in an optical lattice.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2507_22112_when_fermionic_doublons_dance_a_geometric_gate.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>The Magnetic Phase That Light Wasn’t Supposed to Feel</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</link>
-      <description>Circularly polarized microwaves separate by handedness as they propagate through a photonic crystal engineered to exhibit altermagnetic spin splitting without net magnetization.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28656_the_magnetic_phase_that_light_wasn_t_supposed_to_feel.html</guid>
-      <category>Matter Science</category>
     </item>
   </channel>
 </rss>
