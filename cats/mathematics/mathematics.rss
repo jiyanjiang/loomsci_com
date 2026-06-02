@@ -7,24 +7,24 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 13:59:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Quantum Worlds Learn to Forget: A Topos for Decoherence</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02269_when_quantum_worlds_learn_to_forget_a_topos_for_decoherence.html</link>
+      <description>A cohesive ∞-topos with a quantum comonad transforms quantum superpositions into classical fixed points, formalizing decoherence as a logical operation.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02269_when_quantum_worlds_learn_to_forget_a_topos_for_decoherence.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>Bridging Two Worlds: How Preprojective Algebras Unlock Weyl Group Lattices</title>
       <link>https://www.loomsci.com/pages/2026/06/01/arxiv_1604_08401_bridging_two_worlds_how_preprojective_algebras_unlock_weyl_group_lattices.html</link>
       <description>A new bridge of lattices connects Weyl group symmetries to preprojective algebra modules, revealing their deep structural unity.</description>
       <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_1604_08401_bridging_two_worlds_how_preprojective_algebras_unlock_weyl_group_lattices.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>When Imaginary Time Becomes Real: A Partial Construction of Timelike Liouville</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29203_when_imaginary_time_becomes_real_a_partial_construction_of_timelike_liouville.html</link>
-      <description>A cylinder geometry bridges Euclidean and Lorentzian quantum gravity through analytic continuation of timelike Liouville field theory.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29203_when_imaginary_time_becomes_real_a_partial_construction_of_timelike_liouville.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>

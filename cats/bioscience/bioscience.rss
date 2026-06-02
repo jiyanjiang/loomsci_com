@@ -7,17 +7,9 @@
     <link>https://www.loomsci.com/cats/bioscience/</link>
     <description>Latest Biological Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 13:59:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/bioscience/bioscience.rss"
                rel="self"
                type="application/rss+xml" />
-    <item>
-      <title>Beyond Murray: How Vessel Walls Break a Universal Branching Rule</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2603_13687_beyond_murray_how_vessel_walls_break_a_universal_branching_rule.html</link>
-      <description>Vessel walls add a metabolic cost that scales incommensurately with blood volume, breaking Murray's universal cubic rule and making the branching exponent flow-dependent.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2603_13687_beyond_murray_how_vessel_walls_break_a_universal_branching_rule.html</guid>
-      <category>Biological Science</category>
-    </item>
   </channel>
 </rss>

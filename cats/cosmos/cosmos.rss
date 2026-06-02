@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 13:59:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Hearing Dark Matter through Quantum Interference</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</link>
+      <description>Atom interferometers can detect dark matter through phase shifts and decoherence, with quantum statistics distinguishing bosonic from fermionic dark matter without violent collisions.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>Hunting the Invisible at Close Range: A Beam-Dump Experiment Challenges Cosmic Silence</title>
       <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2604_28133_hunting_the_invisible_at_close_range_a_beam_dump_experiment_challenges_cosmic_si.html</link>
@@ -33,22 +41,6 @@
       <description>A 45-gram porous meteoroid outgassed volatiles to form a vapor cocoon, enabling a sustained shock wave in the rarefied thermosphere at 92 km altitude.</description>
       <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29150_when_a_pebble_learns_to_shout.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>The Geometry That Survives Every Translation</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2412_08928_the_geometry_that_survives_every_translation.html</link>
-      <description>The essential regularity of a connection marks the highest smoothness attainable through coordinate changes, distinguishing genuine singularities from mere artifacts of a bad map.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2412_08928_the_geometry_that_survives_every_translation.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Topology Answers: Why Matter Comes in Threes</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2605_26202_when_topology_answers_why_matter_comes_in_threes.html</link>
-      <description>Topological anomaly cancellation forces matter to appear in exactly three families, as a unique symmetry extension from Z₃ to Z₉ restores quantum consistency without sterile neutrinos.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_26202_when_topology_answers_why_matter_comes_in_threes.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

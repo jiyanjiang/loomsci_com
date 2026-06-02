@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 13:59:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -33,30 +33,6 @@
       <description>Recent results from the Large Hadron Collider have demonstrated quantum entanglement of top quark-antiquark pairs using the spin degrees of freedom. Based on the doubly differential measurement of the spin density matrix of the top quark and antiquark performed by t...</description>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2602_15115_when_top_quarks_climb_the_quantum_ladder.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Solving Semidefinite Programs with Thermal Bosons</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27228_solving_semidefinite_programs_with_thermal_bosons.html</link>
-      <description>Thermal bosons minimize their free energy, providing a physical blueprint for solving semidefinite programs through a Bose-Einstein regularisation.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27228_solving_semidefinite_programs_with_thermal_bosons.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Unlocking Quantum Gibbs States: The Code Swendsen-Wang Breakthrough</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2510_08446_unlocking_quantum_gibbs_states_the_code_swendsen_wang_breakthrough.html</link>
-      <description>Code Swendsen-Wang dynamics lifts whole clusters across the free-energy barriers of quantum code Hamiltonians, enabling rapid sampling near phase transitions.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2510_08446_unlocking_quantum_gibbs_states_the_code_swendsen_wang_breakthrough.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Conformal Floquet Dynamics Come to Life on a Quantum Processor</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27530_conformal_floquet_dynamics_come_to_life_on_a_quantum_processor.html</link>
-      <description>A quantum processor reveals hidden conformal symmetry in the periodic driving of a critical many-body system, marking a leap from theory to hardware.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27530_conformal_floquet_dynamics_come_to_life_on_a_quantum_processor.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

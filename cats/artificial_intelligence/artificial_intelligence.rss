@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 13:59:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Proving Safe Action: AI’s New Logical Straitjacket</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29251_proving_safe_action_ai_s_new_logical_straitjacket.html</link>
+      <description>Logical constraints bind an AI agent's actions, forcing every impulse into a provably safe formal proof before execution.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29251_proving_safe_action_ai_s_new_logical_straitjacket.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Shape of Capability: Why a Spherical Robot Learns to Do Everything</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29254_the_shape_of_capability_why_a_spherical_robot_learns_to_do_everything.html</link>
+      <description>A spherical robot achieves dynamic isotropy, accelerating equally in any direction, simplifying control and enabling robust locomotion across uneven terrain.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29254_the_shape_of_capability_why_a_spherical_robot_learns_to_do_everything.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Algorithm That Unifies Decision‑Making — From Games to Economics — Under One Mathematical Roof</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_30694_the_algorithm_that_unifies_decision_making_from_games_to_economics_under_one_mat.html</link>
+      <description>Two universal Kan extensions, left and right, unify all decision algorithms from games to economics by extending local knowledge into coherent global behavior.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_30694_the_algorithm_that_unifies_decision_making_from_games_to_economics_under_one_mat.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Crystallizing Algebra: A Quantum Transformer’s Perfect Generalization</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00045_crystallizing_algebra_a_quantum_transformer_s_perfect_generalization.html</link>
+      <description>A five-qubit quantum transformer achieves zero-variance generalization, crystallizing algebraic rules through unitary interference on a superconducting processor.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00045_crystallizing_algebra_a_quantum_transformer_s_perfect_generalization.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When AI Misses a Patient's Surgery: Counterfactual Tests Expose a Hidden Blind Spot</title>
       <link>https://www.loomsci.com/pages/2026/06/01/arxiv_2605_30590_when_ai_misses_a_patient_s_surgery_counterfactual_tests_expose_a_hidden_blind_sp.html</link>
@@ -57,22 +89,6 @@
       <description>AI research pipelines can generate manuscripts, but genuine scientific judgment remains an empty space no algorithm can fill.</description>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_18661_when_ai_authors_a_paper_for_15_what_s_missing.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Why LLMs Can’t See Cause—and How Interventional Agents Find It</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html</link>
-      <description>Large language models mathematically cannot infer causation from passive data, but interventional agents using Bayesian optimization can discover causal structure from active queries.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Teaching Machines the Echoes Between Atoms: Topology for Polymer Design</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</link>
-      <description>Polymers underpin applications across energy, healthcare, and materials science, yet their vast chemical space makes systematic discovery challenging. Most machine learning approaches represent polymers as molecular graphs of a single repeating unit, thereby missing...</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

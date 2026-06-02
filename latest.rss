@@ -7,10 +7,106 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 13:59:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Proving Safe Action: AI’s New Logical Straitjacket</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29251_proving_safe_action_ai_s_new_logical_straitjacket.html</link>
+      <description>Logical constraints bind an AI agent's actions, forcing every impulse into a provably safe formal proof before execution.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29251_proving_safe_action_ai_s_new_logical_straitjacket.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Shape of Capability: Why a Spherical Robot Learns to Do Everything</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29254_the_shape_of_capability_why_a_spherical_robot_learns_to_do_everything.html</link>
+      <description>A spherical robot achieves dynamic isotropy, accelerating equally in any direction, simplifying control and enabling robust locomotion across uneven terrain.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29254_the_shape_of_capability_why_a_spherical_robot_learns_to_do_everything.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>When Direction Becomes a Choice: Superconductors That Refuse to Go Both Ways</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2301_13564_when_direction_becomes_a_choice_superconductors_that_refuse_to_go_both_ways.html</link>
+      <description>Superconducting diode effect, in analogy to the nonreciprocal resistive charge transport in semiconducting diode, is a nonreciprocity of dissipationless supercurrent. Such an exotic phenomenon originates from intertwining between symmetry-constrained supercurrent tr...</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2301_13564_when_direction_becomes_a_choice_superconductors_that_refuse_to_go_both_ways.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>A Simple Rotation Bridges the Magnetic Divide</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31203_a_simple_rotation_bridges_the_magnetic_divide.html</link>
+      <description>A universal SU(2) rotation transforms collinear density functionals into noncollinear ones, bridging a decades-old divide in magnetic theory.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31203_a_simple_rotation_bridges_the_magnetic_divide.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Twin Phases: A Phase Transition That Breaks No Symmetry</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31601_twin_phases_a_phase_transition_that_breaks_no_symmetry.html</link>
+      <description>Twin phases are distinct quantum states that transform into each other without breaking any symmetry, only rearranging internal symmetry labels.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31601_twin_phases_a_phase_transition_that_breaks_no_symmetry.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Hearing Dark Matter through Quantum Interference</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</link>
+      <description>Atom interferometers can detect dark matter through phase shifts and decoherence, with quantum statistics distinguishing bosonic from fermionic dark matter without violent collisions.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>When Molecules Learn to Squeeze Their Spins</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02500_when_molecules_learn_to_squeeze_their_spins.html</link>
+      <description>For the first time, researchers have squeezed molecular spins using polar calcium monofluoride in optical tweezers, enabling quantum correlations that surpass classical measurement limits.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02500_when_molecules_learn_to_squeeze_their_spins.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Coherent Chemistry: Doubling the Phase of Matter Waves</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2505_20581_coherent_chemistry_doubling_the_phase_of_matter_waves.html</link>
+      <description>When ultracold cesium atoms merge into molecules, the molecular matter wave maintains a precise phase twice that of the atoms, revealing coherent wave-based chemistry.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2505_20581_coherent_chemistry_doubling_the_phase_of_matter_waves.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Cools Both Ways: A Quantum Junction at Carnot’s Edge</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2604_02123_cools_both_ways_a_quantum_junction_at_carnot_s_edge.html</link>
+      <description>A superconductor-insulator-2DEG tunnel junction acts as a Carnot-edge heat engine and bidirectional refrigerator, routing heat on demand with near-unity efficiency.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2604_02123_cools_both_ways_a_quantum_junction_at_carnot_s_edge.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When Quantum Worlds Learn to Forget: A Topos for Decoherence</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02269_when_quantum_worlds_learn_to_forget_a_topos_for_decoherence.html</link>
+      <description>A cohesive ∞-topos with a quantum comonad transforms quantum superpositions into classical fixed points, formalizing decoherence as a logical operation.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02269_when_quantum_worlds_learn_to_forget_a_topos_for_decoherence.html</guid>
+      <category>Mathematics</category>
+    </item>
+    <item>
+      <title>The Algorithm That Unifies Decision‑Making — From Games to Economics — Under One Mathematical Roof</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_30694_the_algorithm_that_unifies_decision_making_from_games_to_economics_under_one_mat.html</link>
+      <description>Two universal Kan extensions, left and right, unify all decision algorithms from games to economics by extending local knowledge into coherent global behavior.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_30694_the_algorithm_that_unifies_decision_making_from_games_to_economics_under_one_mat.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Crystallizing Algebra: A Quantum Transformer’s Perfect Generalization</title>
+      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00045_crystallizing_algebra_a_quantum_transformer_s_perfect_generalization.html</link>
+      <description>A five-qubit quantum transformer achieves zero-variance generalization, crystallizing algebraic rules through unitary interference on a superconducting processor.</description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00045_crystallizing_algebra_a_quantum_transformer_s_perfect_generalization.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When AI Misses a Patient's Surgery: Counterfactual Tests Expose a Hidden Blind Spot</title>
       <link>https://www.loomsci.com/pages/2026/06/01/arxiv_2605_30590_when_ai_misses_a_patient_s_surgery_counterfactual_tests_expose_a_hidden_blind_sp.html</link>
@@ -154,102 +250,6 @@
       <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29150_when_a_pebble_learns_to_shout.html</guid>
       <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Imaginary Time Becomes Real: A Partial Construction of Timelike Liouville</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29203_when_imaginary_time_becomes_real_a_partial_construction_of_timelike_liouville.html</link>
-      <description>A cylinder geometry bridges Euclidean and Lorentzian quantum gravity through analytic continuation of timelike Liouville field theory.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29203_when_imaginary_time_becomes_real_a_partial_construction_of_timelike_liouville.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>The Geometry That Survives Every Translation</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2412_08928_the_geometry_that_survives_every_translation.html</link>
-      <description>The essential regularity of a connection marks the highest smoothness attainable through coordinate changes, distinguishing genuine singularities from mere artifacts of a bad map.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2412_08928_the_geometry_that_survives_every_translation.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Beyond Murray: How Vessel Walls Break a Universal Branching Rule</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2603_13687_beyond_murray_how_vessel_walls_break_a_universal_branching_rule.html</link>
-      <description>Vessel walls add a metabolic cost that scales incommensurately with blood volume, breaking Murray's universal cubic rule and making the branching exponent flow-dependent.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2603_13687_beyond_murray_how_vessel_walls_break_a_universal_branching_rule.html</guid>
-      <category>Biological Science</category>
-    </item>
-    <item>
-      <title>When Topology Answers: Why Matter Comes in Threes</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2605_26202_when_topology_answers_why_matter_comes_in_threes.html</link>
-      <description>Topological anomaly cancellation forces matter to appear in exactly three families, as a unique symmetry extension from Z₃ to Z₉ restores quantum consistency without sterile neutrinos.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_26202_when_topology_answers_why_matter_comes_in_threes.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Photons Learn to Tell a Quantum Story</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28623_when_photons_learn_to_tell_a_quantum_story.html</link>
-      <description>Photon correlation microscopy reveals many-body exciton interactions by measuring whether emitted photons bunch together or arrive in orderly single-file streams.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_28623_when_photons_learn_to_tell_a_quantum_story.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Why LLMs Can’t See Cause—and How Interventional Agents Find It</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html</link>
-      <description>Large language models mathematically cannot infer causation from passive data, but interventional agents using Bayesian optimization can discover causal structure from active queries.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27567_why_llms_can_t_see_cause_and_how_interventional_agents_find_it.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Squeezing Light's Quantum Hush to a Record 18 dB</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27607_squeezing_light_s_quantum_hush_to_a_record_18_db.html</link>
-      <description>A lithium niobate waveguide reshapes the quantum vacuum, outputting one perfectly still quadrature while its partner roils with redistributed uncertainty.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27607_squeezing_light_s_quantum_hush_to_a_record_18_db.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Teaching Machines the Echoes Between Atoms: Topology for Polymer Design</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</link>
-      <description>Polymers underpin applications across energy, healthcare, and materials science, yet their vast chemical space makes systematic discovery challenging. Most machine learning approaches represent polymers as molecular graphs of a single repeating unit, thereby missing...</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26833_teaching_machines_the_echoes_between_atoms_topology_for_polymer_design.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Solving Semidefinite Programs with Thermal Bosons</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27228_solving_semidefinite_programs_with_thermal_bosons.html</link>
-      <description>Thermal bosons minimize their free energy, providing a physical blueprint for solving semidefinite programs through a Bose-Einstein regularisation.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27228_solving_semidefinite_programs_with_thermal_bosons.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Unlocking Quantum Gibbs States: The Code Swendsen-Wang Breakthrough</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2510_08446_unlocking_quantum_gibbs_states_the_code_swendsen_wang_breakthrough.html</link>
-      <description>Code Swendsen-Wang dynamics lifts whole clusters across the free-energy barriers of quantum code Hamiltonians, enabling rapid sampling near phase transitions.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2510_08446_unlocking_quantum_gibbs_states_the_code_swendsen_wang_breakthrough.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>The Laser That Learned to Listen to Its Own Silence</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26708_the_laser_that_learned_to_listen_to_its_own_silence.html</link>
-      <description>A hybrid laser combines a cryogenic cavity’s deep silence with a chip-scale Brillouin filter, achieving record-low noise for next-generation atomic clocks.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_26708_the_laser_that_learned_to_listen_to_its_own_silence.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Conformal Floquet Dynamics Come to Life on a Quantum Processor</title>
-      <link>https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27530_conformal_floquet_dynamics_come_to_life_on_a_quantum_processor.html</link>
-      <description>A quantum processor reveals hidden conformal symmetry in the periodic driving of a critical many-body system, marking a leap from theory to hardware.</description>
-      <pubDate>Wed, 27 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/28/arxiv_2605_27530_conformal_floquet_dynamics_come_to_life_on_a_quantum_processor.html</guid>
-      <category>Quantum Physics</category>
     </item>
   </channel>
 </rss>
