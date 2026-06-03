@@ -7,10 +7,58 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 07:04:25 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Traitor Within: Hydrogen’s Atomic Rebellion Against the Metal That Holds It</title>
+      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03298_the_traitor_within_hydrogen_s_atomic_rebellion_against_the_metal_that_holds_it.html</link>
+      <description>Trapped hydrogen atoms at dislocation cores act as atomic bombs, triggering sudden crack nucleation and explosive cavity growth in metals, redefining the century-old puzzle of hydrogen embrittlement.</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03298_the_traitor_within_hydrogen_s_atomic_rebellion_against_the_metal_that_holds_it.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>The Pen That Writes Superconductivity</title>
+      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03710_the_pen_that_writes_superconductivity.html</link>
+      <description>An atomic force microscope tip writes superconducting Pd₇MoTe₂ nanowires by mechanically driving palladium into MoTe₂ at near‑room temperature.</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03710_the_pen_that_writes_superconductivity.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When One Transit Is Enough: A Quiet Coup in the Search for Other Worlds</title>
+      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02778_when_one_transit_is_enough_a_quiet_coup_in_the_search_for_other_worlds.html</link>
+      <description>A Transformer-based model learns a star's normal variability, then detects planets that transit only once — worlds invisible to traditional surveys.</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02778_when_one_transit_is_enough_a_quiet_coup_in_the_search_for_other_worlds.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>The Sugar That Fell from the Stars</title>
+      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03313_the_sugar_that_fell_from_the_stars.html</link>
+      <description>Astronomers discovered the sugar molecule erythrulose in the interstellar medium, providing a plausible chemical pathway from icy dust grains to the building blocks of life.</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03313_the_sugar_that_fell_from_the_stars.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>When Cells Superpose: A Physics of Organismal Coherence</title>
+      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02801_when_cells_superpose_a_physics_of_organismal_coherence.html</link>
+      <description>A Dictyostelium slug embodies classical superposition, its many cellular states coexisting until a measurement—like viral infection—collapses them into one outcome.</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02801_when_cells_superpose_a_physics_of_organismal_coherence.html</guid>
+      <category>Biological Science</category>
+    </item>
+    <item>
+      <title>How Neural Networks Discover the Irreducible Grammar of Symmetry</title>
+      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02993_how_neural_networks_discover_the_irreducible_grammar_of_symmetry.html</link>
+      <description>Neural networks trained to multiply group elements spontaneously learn irreducible representations, decomposing symmetry into independent spectral voices.</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02993_how_neural_networks_discover_the_irreducible_grammar_of_symmetry.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Proving Safe Action: AI’s New Logical Straitjacket</title>
       <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29251_proving_safe_action_ai_s_new_logical_straitjacket.html</link>
@@ -202,54 +250,6 @@
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_18661_when_ai_authors_a_paper_for_15_what_s_missing.html</guid>
       <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Top Quarks Climb the Quantum Ladder</title>
-      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2602_15115_when_top_quarks_climb_the_quantum_ladder.html</link>
-      <description>Recent results from the Large Hadron Collider have demonstrated quantum entanglement of top quark-antiquark pairs using the spin degrees of freedom. Based on the doubly differential measurement of the spin density matrix of the top quark and antiquark performed by t...</description>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2602_15115_when_top_quarks_climb_the_quantum_ladder.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Seeing Wave and Particle Together: A Quantum Microscope’s First Image</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2605_28987_seeing_wave_and_particle_together_a_quantum_microscope_s_first_image.html</link>
-      <description>A quantum-light microscope images a single polariton’s self-interference fringes in MoS₂, directly visualizing wave-particle duality at the nanoscale for the first time.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_28987_seeing_wave_and_particle_together_a_quantum_microscope_s_first_image.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Magnetism That Learns to Dance on Forbidden Tiles</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2507_18408_the_magnetism_that_learns_to_dance_on_forbidden_tiles.html</link>
-      <description>A quasicrystal's never-repeating tiling hosts altermagnetic spin order with exotic eightfold symmetry, merging magnetic and geometric impossibilities.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2507_18408_the_magnetism_that_learns_to_dance_on_forbidden_tiles.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>A Neural Network Stumbles Into Topological Order</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2512_01863_a_neural_network_stumbles_into_topological_order.html</link>
-      <description>An attention-based neural network spontaneously discovers topological order in a fractional Chern insulator, revealing nearly degenerate ground states and fractional quasiparticles without prior knowledge.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2512_01863_a_neural_network_stumbles_into_topological_order.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Unshackling Weyl Points: How Periodic Driving Breaks Nature’s Pairing Rule</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2602_11935_unshackling_weyl_points_how_periodic_driving_breaks_nature_s_pairing_rule.html</link>
-      <description>Periodic driving of an optical Raman lattice creates unpaired Weyl points, enabling a tunable chiral magnetic effect in ultracold atoms.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2602_11935_unshackling_weyl_points_how_periodic_driving_breaks_nature_s_pairing_rule.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When a Pebble Learns to Shout</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29150_when_a_pebble_learns_to_shout.html</link>
-      <description>A 45-gram porous meteoroid outgassed volatiles to form a vapor cocoon, enabling a sustained shock wave in the rarefied thermosphere at 92 km altitude.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29150_when_a_pebble_learns_to_shout.html</guid>
-      <category>Cosmos</category>
     </item>
   </channel>
 </rss>

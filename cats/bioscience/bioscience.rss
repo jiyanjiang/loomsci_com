@@ -7,9 +7,17 @@
     <link>https://www.loomsci.com/cats/bioscience/</link>
     <description>Latest Biological Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 07:04:25 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/bioscience/bioscience.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Cells Superpose: A Physics of Organismal Coherence</title>
+      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02801_when_cells_superpose_a_physics_of_organismal_coherence.html</link>
+      <description>A Dictyostelium slug embodies classical superposition, its many cellular states coexisting until a measurement—like viral infection—collapses them into one outcome.</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02801_when_cells_superpose_a_physics_of_organismal_coherence.html</guid>
+      <category>Biological Science</category>
+    </item>
   </channel>
 </rss>

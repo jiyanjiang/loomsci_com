@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 07:04:25 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When One Transit Is Enough: A Quiet Coup in the Search for Other Worlds</title>
+      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02778_when_one_transit_is_enough_a_quiet_coup_in_the_search_for_other_worlds.html</link>
+      <description>A Transformer-based model learns a star's normal variability, then detects planets that transit only once — worlds invisible to traditional surveys.</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02778_when_one_transit_is_enough_a_quiet_coup_in_the_search_for_other_worlds.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>The Sugar That Fell from the Stars</title>
+      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03313_the_sugar_that_fell_from_the_stars.html</link>
+      <description>Astronomers discovered the sugar molecule erythrulose in the interstellar medium, providing a plausible chemical pathway from icy dust grains to the building blocks of life.</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03313_the_sugar_that_fell_from_the_stars.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>Hearing Dark Matter through Quantum Interference</title>
       <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</link>
@@ -33,14 +49,6 @@
       <description>A unified AI foundation model could forecast Martian dust storms, map low-level jets, and fill satellite data gaps across the Red Planet's atmosphere.</description>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_28851_charting_the_weather_of_mars_with_a_single_ai_model.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When a Pebble Learns to Shout</title>
-      <link>https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29150_when_a_pebble_learns_to_shout.html</link>
-      <description>A 45-gram porous meteoroid outgassed volatiles to form a vapor cocoon, enabling a sustained shock wave in the rarefied thermosphere at 92 km altitude.</description>
-      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/29/arxiv_2605_29150_when_a_pebble_learns_to_shout.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

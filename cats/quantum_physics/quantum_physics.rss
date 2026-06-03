@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:45:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 07:04:25 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -25,14 +25,6 @@
       <description>Hong-Ou-Mandel interference at a beam splitter enables robust measurement of time-bin encoded quantum states, bypassing fragile interferometers.</description>
       <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2404_16106_the_photon_s_time_box_how_two_particles_meeting_at_a_mirror_could_transform_quan.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Top Quarks Climb the Quantum Ladder</title>
-      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2602_15115_when_top_quarks_climb_the_quantum_ladder.html</link>
-      <description>Recent results from the Large Hadron Collider have demonstrated quantum entanglement of top quark-antiquark pairs using the spin degrees of freedom. Based on the doubly differential measurement of the spin density matrix of the top quark and antiquark performed by t...</description>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2602_15115_when_top_quarks_climb_the_quantum_ladder.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>
