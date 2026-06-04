@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 04:00:58 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
@@ -33,14 +33,6 @@
       <description>Atom interferometers can detect dark matter through phase shifts and decoherence, with quantum statistics distinguishing bosonic from fermionic dark matter without violent collisions.</description>
       <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Hunting the Invisible at Close Range: A Beam-Dump Experiment Challenges Cosmic Silence</title>
-      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2604_28133_hunting_the_invisible_at_close_range_a_beam_dump_experiment_challenges_cosmic_si.html</link>
-      <description>By placing a detector mere meters from the beam target, DAMSA aims to catch short-lived dark sector particles decaying into detectable photons.</description>
-      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2604_28133_hunting_the_invisible_at_close_range_a_beam_dump_experiment_challenges_cosmic_si.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

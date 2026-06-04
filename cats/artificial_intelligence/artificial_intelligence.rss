@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 04:00:58 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Breaking the Exponential Barrier: Clustering Non-Spherical Gaussians in Polynomial Time</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2411_12438_breaking_the_exponential_barrier_clustering_non_spherical_gaussians_in_polynomia.html</link>
+      <description>A polynomial-time sum-of-squares projection separates overlapping non-spherical Gaussian clusters by compressing them into a cleanly separable low-dimensional space.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2411_12438_breaking_the_exponential_barrier_clustering_non_spherical_gaussians_in_polynomia.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>How Neural Networks Discover the Irreducible Grammar of Symmetry</title>
       <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02993_how_neural_networks_discover_the_irreducible_grammar_of_symmetry.html</link>
@@ -57,14 +65,6 @@
       <description>A counterfactual test shows clinical AI models often ignore surgery updates, remaining dangerously rigid despite high benchmark scores.</description>
       <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_2605_30590_when_ai_misses_a_patient_s_surgery_counterfactual_tests_expose_a_hidden_blind_sp.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Your AI Assistant Becomes a Spy: The Game Theory of Trustworthy Knowledge</title>
-      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2604_23413_when_your_ai_assistant_becomes_a_spy_the_game_theory_of_trustworthy_knowledge.html</link>
-      <description>Game theory transforms the privacy-utility trade-off in AI into a strategic game where users can outwit attackers.</description>
-      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2604_23413_when_your_ai_assistant_becomes_a_spy_the_game_theory_of_trustworthy_knowledge.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

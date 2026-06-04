@@ -7,9 +7,17 @@
     <link>https://www.loomsci.com/cats/people/</link>
     <description>Latest People articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 04:00:59 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/people/people.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Why the Best Networks Are Born from Constraints</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2603_09197_why_the_best_networks_are_born_from_constraints.html</link>
+      <description>A sparse, bipartite network emerges from gradient descent optimization under a tight coupling budget, enabling perfect synchronization of diverse oscillators.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2603_09197_why_the_best_networks_are_born_from_constraints.html</guid>
+      <category>People</category>
+    </item>
   </channel>
 </rss>
