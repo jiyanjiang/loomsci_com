@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 00:49:00 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Proving That Spacetime Must Split: Bartnik's Conjecture Resolved</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03873_proving_that_spacetime_must_split_bartnik_s_conjecture_resolved.html</link>
+      <description>The proof of Bartnik's conjecture shows that a singularity-free, attractive spacetime must split into a static space and a time line, confirming a forty-year-old mathematical insight.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03873_proving_that_spacetime_must_split_bartnik_s_conjecture_resolved.html</guid>
+      <category>Mathematics</category>
+    </item>
+    <item>
+      <title>Bridging the Two Sides of Local Langlands</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_02799_bridging_the_two_sides_of_local_langlands.html</link>
+      <description>A single functor called pitch bridges the sheaf and D-module sides of the local Langlands correspondence, unifying two arithmetic realms.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_02799_bridging_the_two_sides_of_local_langlands.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>When Quantum Worlds Learn to Forget: A Topos for Decoherence</title>
       <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02269_when_quantum_worlds_learn_to_forget_a_topos_for_decoherence.html</link>

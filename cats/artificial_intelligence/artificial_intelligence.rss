@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 00:49:00 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
@@ -65,38 +65,6 @@
       <description>Game theory transforms the privacy-utility trade-off in AI into a strategic game where users can outwit attackers.</description>
       <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2604_23413_when_your_ai_assistant_becomes_a_spy_the_game_theory_of_trustworthy_knowledge.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Neural Networks Learn the Language of Physics: A Differentiable Journey into Latent Spaces</title>
-      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2510_00233_when_neural_networks_learn_the_language_of_physics_a_differentiable_journey_into.html</link>
-      <description>DIANO learns a coarse-grid latent space where fluid flows evolve through differentiable physics, enabling interpretable machine learning.</description>
-      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2510_00233_when_neural_networks_learn_the_language_of_physics_a_differentiable_journey_into.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Watching Is Learning: How Minutes of Human Video Teach Robots</title>
-      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2605_24934_when_watching_is_learning_how_minutes_of_human_video_teach_robots.html</link>
-      <description>A robot learns to pour coffee by watching an egocentric human video, translating hand-object interactions into abstract geometric tokens for zero-shot transfer.</description>
-      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2605_24934_when_watching_is_learning_how_minutes_of_human_video_teach_robots.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Language Models Write a Dictionary for Themselves</title>
-      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2605_01920_when_language_models_write_a_dictionary_for_themselves.html</link>
-      <description>A new formal language, ACDL, precisely specifies how an LLM agent's prompt structure evolves across interaction turns.</description>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_01920_when_language_models_write_a_dictionary_for_themselves.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When AI Authors a Paper for $15, What’s Missing?</title>
-      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2605_18661_when_ai_authors_a_paper_for_15_what_s_missing.html</link>
-      <description>AI research pipelines can generate manuscripts, but genuine scientific judgment remains an empty space no algorithm can fill.</description>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_18661_when_ai_authors_a_paper_for_15_what_s_missing.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

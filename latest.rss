@@ -7,10 +7,58 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 00:49:00 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Quantum Neural Networks Learn on Real Hardware</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03517_when_quantum_neural_networks_learn_on_real_hardware.html</link>
+      <description>By exploiting commuting generators in layered Butterfly circuits, this framework cuts gradient calculations to logarithmic scaling, enabling on-hardware quantum neural network training on clinical data.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03517_when_quantum_neural_networks_learn_on_real_hardware.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>The Power Law Measuring Quantum Frustration</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_02794_the_power_law_measuring_quantum_frustration.html</link>
+      <description>A transformer's computational cost to approximate a quantum state follows a clean power law, whose exponent reveals the strength of geometric frustration in spin systems.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_02794_the_power_law_measuring_quantum_frustration.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>How a Lattice Learned to Weave Non‑Abelian Loops</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2512_21148_how_a_lattice_learned_to_weave_non_abelian_loops.html</link>
+      <description>A lattice of qubit-like spins gives rise to non-Abelian loops whose braiding and fusion mirror a continuum field theory.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2512_21148_how_a_lattice_learned_to_weave_non_abelian_loops.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When a Vibration Learns to Spin</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03908_when_a_vibration_learns_to_spin.html</link>
+      <description>Lattice vibrations in metallic strontium titanate develop chirality and couple to electron spins, creating a hybrid mode with a magnetic personality.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03908_when_a_vibration_learns_to_spin.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Proving That Spacetime Must Split: Bartnik's Conjecture Resolved</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03873_proving_that_spacetime_must_split_bartnik_s_conjecture_resolved.html</link>
+      <description>The proof of Bartnik's conjecture shows that a singularity-free, attractive spacetime must split into a static space and a time line, confirming a forty-year-old mathematical insight.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03873_proving_that_spacetime_must_split_bartnik_s_conjecture_resolved.html</guid>
+      <category>Mathematics</category>
+    </item>
+    <item>
+      <title>Bridging the Two Sides of Local Langlands</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_02799_bridging_the_two_sides_of_local_langlands.html</link>
+      <description>A single functor called pitch bridges the sheaf and D-module sides of the local Langlands correspondence, unifying two arithmetic realms.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_02799_bridging_the_two_sides_of_local_langlands.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>The Traitor Within: Hydrogen’s Atomic Rebellion Against the Metal That Holds It</title>
       <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03298_the_traitor_within_hydrogen_s_atomic_rebellion_against_the_metal_that_holds_it.html</link>
@@ -202,54 +250,6 @@
       <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2404_16106_the_photon_s_time_box_how_two_particles_meeting_at_a_mirror_could_transform_quan.html</guid>
       <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Neural Networks Learn the Language of Physics: A Differentiable Journey into Latent Spaces</title>
-      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2510_00233_when_neural_networks_learn_the_language_of_physics_a_differentiable_journey_into.html</link>
-      <description>DIANO learns a coarse-grid latent space where fluid flows evolve through differentiable physics, enabling interpretable machine learning.</description>
-      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2510_00233_when_neural_networks_learn_the_language_of_physics_a_differentiable_journey_into.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Watching Is Learning: How Minutes of Human Video Teach Robots</title>
-      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2605_24934_when_watching_is_learning_how_minutes_of_human_video_teach_robots.html</link>
-      <description>A robot learns to pour coffee by watching an egocentric human video, translating hand-object interactions into abstract geometric tokens for zero-shot transfer.</description>
-      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2605_24934_when_watching_is_learning_how_minutes_of_human_video_teach_robots.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Hunting for the Magnet That Splits Nothing</title>
-      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2605_27888_hunting_for_the_magnet_that_splits_nothing.html</link>
-      <description>In the altermagnet RbMn₂Te₂O, spin-up and spin-down electrons are split by nearly two electronvolts, while the crystal itself casts no stray magnetic field.</description>
-      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2605_27888_hunting_for_the_magnet_that_splits_nothing.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Charting the Weather of Mars with a Single AI Model</title>
-      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2605_28851_charting_the_weather_of_mars_with_a_single_ai_model.html</link>
-      <description>A unified AI foundation model could forecast Martian dust storms, map low-level jets, and fill satellite data gaps across the Red Planet's atmosphere.</description>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_28851_charting_the_weather_of_mars_with_a_single_ai_model.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Language Models Write a Dictionary for Themselves</title>
-      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2605_01920_when_language_models_write_a_dictionary_for_themselves.html</link>
-      <description>A new formal language, ACDL, precisely specifies how an LLM agent's prompt structure evolves across interaction turns.</description>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_01920_when_language_models_write_a_dictionary_for_themselves.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When AI Authors a Paper for $15, What’s Missing?</title>
-      <link>https://www.loomsci.com/pages/2026/05/30/arxiv_2605_18661_when_ai_authors_a_paper_for_15_what_s_missing.html</link>
-      <description>AI research pipelines can generate manuscripts, but genuine scientific judgment remains an empty space no algorithm can fill.</description>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/30/arxiv_2605_18661_when_ai_authors_a_paper_for_15_what_s_missing.html</guid>
-      <category>Artificial Intelligence</category>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 00:49:00 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Power Law Measuring Quantum Frustration</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_02794_the_power_law_measuring_quantum_frustration.html</link>
+      <description>A transformer's computational cost to approximate a quantum state follows a clean power law, whose exponent reveals the strength of geometric frustration in spin systems.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_02794_the_power_law_measuring_quantum_frustration.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>How a Lattice Learned to Weave Non‑Abelian Loops</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2512_21148_how_a_lattice_learned_to_weave_non_abelian_loops.html</link>
+      <description>A lattice of qubit-like spins gives rise to non-Abelian loops whose braiding and fusion mirror a continuum field theory.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2512_21148_how_a_lattice_learned_to_weave_non_abelian_loops.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When a Vibration Learns to Spin</title>
+      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03908_when_a_vibration_learns_to_spin.html</link>
+      <description>Lattice vibrations in metallic strontium titanate develop chirality and couple to electron spins, creating a hybrid mode with a magnetic personality.</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03908_when_a_vibration_learns_to_spin.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>The Traitor Within: Hydrogen’s Atomic Rebellion Against the Metal That Holds It</title>
       <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03298_the_traitor_within_hydrogen_s_atomic_rebellion_against_the_metal_that_holds_it.html</link>
@@ -73,14 +97,6 @@
       <description>A superconductor-insulator-2DEG tunnel junction acts as a Carnot-edge heat engine and bidirectional refrigerator, routing heat on demand with near-unity efficiency.</description>
       <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2604_02123_cools_both_ways_a_quantum_junction_at_carnot_s_edge.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Hunting for the Magnet That Splits Nothing</title>
-      <link>https://www.loomsci.com/pages/2026/05/31/arxiv_2605_27888_hunting_for_the_magnet_that_splits_nothing.html</link>
-      <description>In the altermagnet RbMn₂Te₂O, spin-up and spin-down electrons are split by nearly two electronvolts, while the crystal itself casts no stray magnetic field.</description>
-      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/05/31/arxiv_2605_27888_hunting_for_the_magnet_that_splits_nothing.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
