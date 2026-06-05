@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 04:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 11:16:50 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Entanglement Unlocks Exponential Capacity Growth in Communications</title>
+      <link>https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05412_entanglement_unlocks_exponential_capacity_growth_in_communications.html</link>
+      <description>Quantum entanglement allows distributed transmitters to coordinate in real time, turning chaotic interference into exponential capacity gains for classical communication networks.</description>
+      <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05412_entanglement_unlocks_exponential_capacity_growth_in_communications.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Hidden Courtyard Where Electrons Turn into Molecules</title>
+      <link>https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05653_the_hidden_courtyard_where_electrons_turn_into_molecules.html</link>
+      <description>Inside a four-layer cuprate, pristine inner copper-oxygen planes shield electrons from disorder, enabling them to pair so strongly they behave as bosonic molecules, driving a BCS-to-BEC crossover.</description>
+      <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05653_the_hidden_courtyard_where_electrons_turn_into_molecules.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Finding the Quantum Compass of Diffusion Models</title>
+      <link>https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05217_finding_the_quantum_compass_of_diffusion_models.html</link>
+      <description>Diffusion models perform adiabatic quantum transport, where denoising follows the ground state of a score Hamiltonian as noise fades.</description>
+      <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05217_finding_the_quantum_compass_of_diffusion_models.html</guid>
+      <category>Mathematics</category>
+    </item>
+    <item>
+      <title>When AI Safety Withholds the Cure</title>
+      <link>https://www.loomsci.com/pages/2026/06/05/arxiv_2604_07709_when_ai_safety_withholds_the_cure.html</link>
+      <description>When AI safety gates life-saving medical advice, only doctors receive the full answer; patients face withheld knowledge and silent refusal.</description>
+      <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/05/arxiv_2604_07709_when_ai_safety_withholds_the_cure.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Breaking the Exponential Barrier: Clustering Non-Spherical Gaussians in Polynomial Time</title>
       <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2411_12438_breaking_the_exponential_barrier_clustering_non_spherical_gaussians_in_polynomia.html</link>
@@ -218,38 +250,6 @@
       <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_30694_the_algorithm_that_unifies_decision_making_from_games_to_economics_under_one_mat.html</guid>
       <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Crystallizing Algebra: A Quantum Transformer’s Perfect Generalization</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00045_crystallizing_algebra_a_quantum_transformer_s_perfect_generalization.html</link>
-      <description>A five-qubit quantum transformer achieves zero-variance generalization, crystallizing algebraic rules through unitary interference on a superconducting processor.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00045_crystallizing_algebra_a_quantum_transformer_s_perfect_generalization.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When AI Misses a Patient's Surgery: Counterfactual Tests Expose a Hidden Blind Spot</title>
-      <link>https://www.loomsci.com/pages/2026/06/01/arxiv_2605_30590_when_ai_misses_a_patient_s_surgery_counterfactual_tests_expose_a_hidden_blind_sp.html</link>
-      <description>A counterfactual test shows clinical AI models often ignore surgery updates, remaining dangerously rigid despite high benchmark scores.</description>
-      <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_2605_30590_when_ai_misses_a_patient_s_surgery_counterfactual_tests_expose_a_hidden_blind_sp.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Bridging Two Worlds: How Preprojective Algebras Unlock Weyl Group Lattices</title>
-      <link>https://www.loomsci.com/pages/2026/06/01/arxiv_1604_08401_bridging_two_worlds_how_preprojective_algebras_unlock_weyl_group_lattices.html</link>
-      <description>A new bridge of lattices connects Weyl group symmetries to preprojective algebra modules, revealing their deep structural unity.</description>
-      <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_1604_08401_bridging_two_worlds_how_preprojective_algebras_unlock_weyl_group_lattices.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>Harvesting Precision from the Exponential Sea: Engineered Randomness in Quantum Metrology</title>
-      <link>https://www.loomsci.com/pages/2026/06/01/arxiv_2605_31442_harvesting_precision_from_the_exponential_sea_engineered_randomness_in_quantum_m.html</link>
-      <description>By tilting randomness with a single parameter, scientists harvest Heisenberg-limited precision from the exponential sea of quantum states, turning barren wilderness into a treasure trove.</description>
-      <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_2605_31442_harvesting_precision_from_the_exponential_sea_engineered_randomness_in_quantum_m.html</guid>
-      <category>Quantum Physics</category>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 04:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 11:16:50 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -17,14 +17,6 @@
       <description>By exploiting commuting generators in layered Butterfly circuits, this framework cuts gradient calculations to logarithmic scaling, enabling on-hardware quantum neural network training on clinical data.</description>
       <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03517_when_quantum_neural_networks_learn_on_real_hardware.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Harvesting Precision from the Exponential Sea: Engineered Randomness in Quantum Metrology</title>
-      <link>https://www.loomsci.com/pages/2026/06/01/arxiv_2605_31442_harvesting_precision_from_the_exponential_sea_engineered_randomness_in_quantum_m.html</link>
-      <description>By tilting randomness with a single parameter, scientists harvest Heisenberg-limited precision from the exponential sea of quantum states, turning barren wilderness into a treasure trove.</description>
-      <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/01/arxiv_2605_31442_harvesting_precision_from_the_exponential_sea_engineered_randomness_in_quantum_m.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>
