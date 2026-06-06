@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="A transformer-based neural network learns to simulate fluid dynamics, shock waves, and thermal convection directly from data, without any governing equations.">
+<meta property="og:title" content="What If a Neural Network Could Simulate Physics Without Equations?">
+<meta property="og:description" content="A transformer-based neural network learns to simulate fluid dynamics, shock waves, and thermal convection directly from data, without any governing equations.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/06/06/arxiv_2509_13805_what_if_a_neural_network_could_simulate_physics_without_equations.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/06/06/arxiv_2509_13805.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="What If a Neural Network Could Simulate Physics Without Equations?">
+<meta name="twitter:description" content="A transformer-based neural network learns to simulate fluid dynamics, shock waves, and thermal convection directly from data, without any governing equations.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/06/06/arxiv_2509_13805.jpg">
+
+
+  <title>What If a Neural Network Could Simulate Physics Without Equations? — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">What If a Neural Network Could Simulate Physics Without Equations?</h1>
+
+  <div class="article-meta">
+    
+    <span>Drafted June 02, 2026 · Published June 06, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2509.13805</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/06/06/arxiv_2509_13805.jpg" alt="A transformer-based neural network learns to simulate fluid dynamics, shock waves, and thermal convection directly from data, without any governing equations." />
+    
+    <figcaption class="article-hero-caption">A transformer-based neural network learns to simulate fluid dynamics, shock waves, and thermal convection directly from data, without any governing equations.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>Imagine a curious apprentice who spends years in a darkened theater, watching reel after reel of water swirling around obstacles, shock waves tearing through air, and heat rising in intricate cells. Each film is a different physics problem, each with its own invisible rules that the apprentice is never told. The only task: predict what the next frame will show. After millions of such viewings, the apprentice begins to notice that certain patterns recur—the way momentum carves a vortex, the way temperature gradients drive a rising plume. Without ever seeing an equation, the apprentice learns to anticipate the next moment better than experts who have spent decades studying the underlying mathematics. That, in essence, is what the General Physics Transformer (GPhyT) has achieved. In a preprint (arXiv:2509.13805) posted last month, a team led by Stephen Baek at the University of Virginia, together with researchers at RWTH Aachen University, has demonstrated that a single neural network can simulate fluid‑solid interactions, shock waves, thermal convection, and multi‑phase dynamics—all without being handed the governing partial differential equations.</p>
+<p>Training GPhyT is like throwing that apprentice into an endless sequence of physics escape rooms. A 4D stack of physical quantities—time, height, width, and field variables—is fed into a spatiotemporal transformer, which digests numerical derivatives alongside the raw data. The network then predicts how each field will change over the next instant, a numerical integrator rolls forward in time, and the whole process repeats. After ingesting 1.8 terabytes of diverse simulation data, GPhyT emerged able to simulate the evolution of multiple physical systems with an error lower than any specialized model. Across a suite of fluid dynamics and heat‑transfer test cases, it outperformed existing architectures by more than seven times. It maintained this accuracy not just for a single time step, but for rollouts 24 steps into the future—a horizon where most competitors accumulated errors that progressively degraded their predictions.</p>
+<p>So, a transformer can simulate multiple physics from data alone—but here is the rub. Is the model truly <em>inferring</em> the governing principles, or has it simply memorized enough visual templates to make clever guesses? The paper’s central claim is that GPhyT exhibits in‑context learning: given a few frames of a new system, it can deduce the underlying dynamics without ever being told the Navier‑Stokes equations or the Rayleigh‑Bénard convection relation. The phrase is borrowed from the language‑model world, where networks like GPT‑4 adapt to novel tasks after seeing just a few examples in a prompt. But, as a recent survey of large language models (arXiv:2402.06196) painstakingly documents, what passes for in‑context learning in NLP often turns out to be sophisticated extrapolation within a distribution the model has already internalized during training. The same concern haunts GPhyT: when the network encounters a supersonic shock wave impinging on a cylinder—a system it never saw during training—are we witnessing genuine inference of aerodynamics, or merely interpolation in a learned manifold of PDEs that happens to include something close enough?</p>
+<p>Wiesner and his colleagues are refreshingly candid about this boundary. They tested GPhyT on only two entirely novel physical systems: the supersonic flow just mentioned, and a turbulent radiative layer where hot and cold gas move in opposite directions. The model performed well on both, capturing the shock structure and the radiative mixing with a fidelity that no other multi‑physics model achieved. Yet the team notes that two test cases cannot establish broad generalization. “While we observe signs of zero‑shot generalization,” they write, “the limited number of novel physical systems makes it difficult to disentangle memorization‑driven interpolation from true in‑context learning.” This is not a retreat; it is the self‑scrutiny that separates a careful proof of concept from hype.</p>
+<p>Speaking of proof of concept, other groups have taken a more pragmatic route. The Cosmos World Foundation Model platform (arXiv:2501.03575), for instance, builds massive generative models trained on enormous quantities of video and simulation data, aiming to create a multi‑purpose “physical AI” that can predict everything from robotic movement to weather. Cosmos scales aggressively, but it is content to be a black‑box emulator. GPhyT’s gamble is subtler: it hopes to tease out the very structure of physical law from the patterns that such emulators exploit. The difference is the difference between a flight simulator and a pilot who has learned, from within the simulator, the aerodynamic principles that keep an aircraft aloft. One is a tool; the other is—potentially—a mind, albeit a very narrow one.</p>
+<p>GPhyT’s long‑horizon stability offers a glimpse of what that deeper extraction might yield. When the team compared the model’s rollout for a pressure field against the ground truth, the predicted wavefronts remained crisp and correctly positioned even after 24 time steps, while competing models produced blurred or physically impossible patterns. This resistance to the usual compounding of errors hints that the network has latched onto something like a conservation law—that it has, in a loose sense, learned to enforce the inviolable symmetries that govern the flow of mass, momentum, and energy. If true, that would be far more than memorization; it would be the tacit absorption of the principles that constrain all physical motion.</p>
+<p>And yet. Suppose GPhyT has indeed internalized an approximate version of the laws of motion. Does it <em>understand</em> physics? This is not a question from a philosophy seminar. It is the challenge that will determine whether a Physics Foundation Model transforms computational science or becomes a tool whose failures we cannot anticipate. A model that gets the right answer for the wrong reason may silently fail when presented with a scenario just outside its training envelope. Distinguishing genuine in‑context inference from smooth interpolation will require testing on radically different regimes—systems governed by entirely different symmetries, or parameter ranges where the dynamics change character. The current preprint, appropriately for a proof of concept, tests only two entirely novel systems; broader stress‑testing remains future work.</p>
+<p>What hangs in the balance is more than engineering convenience. Since the time of Newton, physics has proceeded by distilling experience into compact mathematical laws. GPhyT suggests that a sufficiently powerful pattern‑recognizer can approximate the output of those laws without ever seeing them written down. But approximation is not understanding. The dream of a universal physics engine is not just to simulate, but to know—to provide not only a forecast but a why. And <em>knowing</em>, it turns out, is a word that even the most sophisticated neural network cannot yet parse. That, perhaps, is where the real work begins.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Florian Wiesner <em>et al.</em>, Towards a Physics Foundation Model, arXiv:2509.13805</li>
+<li>Anil <em>et al.</em>, PaLM 2 Technical Report, arXiv:2305.10403</li>
+<li>Minaee <em>et al.</em>, Large Language Models: A Survey, arXiv:2402.06196</li>
+<li>NVIDIA <em>et al.</em>, Cosmos World Foundation Model Platform for Physical AI, arXiv:2501.03575</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

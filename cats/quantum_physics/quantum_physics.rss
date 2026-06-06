@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:23:47 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Baking Quantum Bounds: A Layer Cake Approach to Error Exponents</title>
+      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2507_06232_baking_quantum_bounds_a_layer_cake_approach_to_error_exponents.html</link>
+      <description>The operator layer cake theorem proves that the pretty-good measurement is a randomized version of the optimal Holevo–Helstrom test, achieving near-optimal error exponents.</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2507_06232_baking_quantum_bounds_a_layer_cake_approach_to_error_exponents.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>When Quantum Neural Networks Learn on Real Hardware</title>
       <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03517_when_quantum_neural_networks_learn_on_real_hardware.html</link>

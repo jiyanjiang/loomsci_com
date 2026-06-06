@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:23:47 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Connecting Localization and Gravity: The Hidden Transition in Rotated Space</title>
+      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2601_20931_connecting_localization_and_gravity_the_hidden_transition_in_rotated_space.html</link>
+      <description>A simple rotation of quantum operators reveals a hidden localization transition, where wavefunctions become multifractal and the lattice mirrors a curved spacetime.</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2601_20931_connecting_localization_and_gravity_the_hidden_transition_in_rotated_space.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>The Hidden Courtyard Where Electrons Turn into Molecules</title>
       <link>https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05653_the_hidden_courtyard_where_electrons_turn_into_molecules.html</link>
@@ -81,38 +89,6 @@
       <description>A universal SU(2) rotation transforms collinear density functionals into noncollinear ones, bridging a decades-old divide in magnetic theory.</description>
       <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31203_a_simple_rotation_bridges_the_magnetic_divide.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Twin Phases: A Phase Transition That Breaks No Symmetry</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31601_twin_phases_a_phase_transition_that_breaks_no_symmetry.html</link>
-      <description>Twin phases are distinct quantum states that transform into each other without breaking any symmetry, only rearranging internal symmetry labels.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31601_twin_phases_a_phase_transition_that_breaks_no_symmetry.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Molecules Learn to Squeeze Their Spins</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02500_when_molecules_learn_to_squeeze_their_spins.html</link>
-      <description>For the first time, researchers have squeezed molecular spins using polar calcium monofluoride in optical tweezers, enabling quantum correlations that surpass classical measurement limits.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02500_when_molecules_learn_to_squeeze_their_spins.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Coherent Chemistry: Doubling the Phase of Matter Waves</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2505_20581_coherent_chemistry_doubling_the_phase_of_matter_waves.html</link>
-      <description>When ultracold cesium atoms merge into molecules, the molecular matter wave maintains a precise phase twice that of the atoms, revealing coherent wave-based chemistry.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2505_20581_coherent_chemistry_doubling_the_phase_of_matter_waves.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Cools Both Ways: A Quantum Junction at Carnot’s Edge</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2604_02123_cools_both_ways_a_quantum_junction_at_carnot_s_edge.html</link>
-      <description>A superconductor-insulator-2DEG tunnel junction acts as a Carnot-edge heat engine and bidirectional refrigerator, routing heat on demand with near-unity efficiency.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2604_02123_cools_both_ways_a_quantum_junction_at_carnot_s_edge.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

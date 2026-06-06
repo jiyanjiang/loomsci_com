@@ -7,10 +7,66 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:23:47 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Connecting Localization and Gravity: The Hidden Transition in Rotated Space</title>
+      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2601_20931_connecting_localization_and_gravity_the_hidden_transition_in_rotated_space.html</link>
+      <description>A simple rotation of quantum operators reveals a hidden localization transition, where wavefunctions become multifractal and the lattice mirrors a curved spacetime.</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2601_20931_connecting_localization_and_gravity_the_hidden_transition_in_rotated_space.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>What If a Neural Network Could Simulate Physics Without Equations?</title>
+      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2509_13805_what_if_a_neural_network_could_simulate_physics_without_equations.html</link>
+      <description>A transformer-based neural network learns to simulate fluid dynamics, shock waves, and thermal convection directly from data, without any governing equations.</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2509_13805_what_if_a_neural_network_could_simulate_physics_without_equations.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>When a Neural Network Learns to Respect the Shape of Space</title>
+      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00937_when_a_neural_network_learns_to_respect_the_shape_of_space.html</link>
+      <description>By integrating the cell complex's incidence structure directly into neural message passing, the cellular sheaf neural operator ensures that magnetic fields remain divergence-free by construction.</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00937_when_a_neural_network_learns_to_respect_the_shape_of_space.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Baking Quantum Bounds: A Layer Cake Approach to Error Exponents</title>
+      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2507_06232_baking_quantum_bounds_a_layer_cake_approach_to_error_exponents.html</link>
+      <description>The operator layer cake theorem proves that the pretty-good measurement is a randomized version of the optimal Holevo–Helstrom test, achieving near-optimal error exponents.</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2507_06232_baking_quantum_bounds_a_layer_cake_approach_to_error_exponents.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Shielding Robots from Their Own Language: A Passivity Protocol</title>
+      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00515_shielding_robots_from_their_own_language_a_passivity_protocol.html</link>
+      <description>A passivity shield and energy tank decouple a VLA robot's semantic commands from its physical authority, ensuring safe contact-rich manipulation.</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00515_shielding_robots_from_their_own_language_a_passivity_protocol.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>When Coordinates Learn the Product Rule</title>
+      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2606_05131_when_coordinates_learn_the_product_rule.html</link>
+      <description>DeepMDMD learns coordinates that form a closed algebra, preserving the product rule and turning nonlinear dynamics into linear eigenfunctions.</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2606_05131_when_coordinates_learn_the_product_rule.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>When AI Outruns Blame: The Accountability Horizon</title>
+      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2604_07778_when_ai_outruns_blame_the_accountability_horizon.html</link>
+      <description>The Accountability Horizon marks a phase transition where causal chains from human decisions to AI outcomes become logically impossible to assign, reshaping governance.</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2604_07778_when_ai_outruns_blame_the_accountability_horizon.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Entanglement Unlocks Exponential Capacity Growth in Communications</title>
       <link>https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05412_entanglement_unlocks_exponential_capacity_growth_in_communications.html</link>
@@ -194,62 +250,6 @@
       <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31203_a_simple_rotation_bridges_the_magnetic_divide.html</guid>
       <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Twin Phases: A Phase Transition That Breaks No Symmetry</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31601_twin_phases_a_phase_transition_that_breaks_no_symmetry.html</link>
-      <description>Twin phases are distinct quantum states that transform into each other without breaking any symmetry, only rearranging internal symmetry labels.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31601_twin_phases_a_phase_transition_that_breaks_no_symmetry.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Hearing Dark Matter through Quantum Interference</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</link>
-      <description>Atom interferometers can detect dark matter through phase shifts and decoherence, with quantum statistics distinguishing bosonic from fermionic dark matter without violent collisions.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Molecules Learn to Squeeze Their Spins</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02500_when_molecules_learn_to_squeeze_their_spins.html</link>
-      <description>For the first time, researchers have squeezed molecular spins using polar calcium monofluoride in optical tweezers, enabling quantum correlations that surpass classical measurement limits.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02500_when_molecules_learn_to_squeeze_their_spins.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Coherent Chemistry: Doubling the Phase of Matter Waves</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2505_20581_coherent_chemistry_doubling_the_phase_of_matter_waves.html</link>
-      <description>When ultracold cesium atoms merge into molecules, the molecular matter wave maintains a precise phase twice that of the atoms, revealing coherent wave-based chemistry.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2505_20581_coherent_chemistry_doubling_the_phase_of_matter_waves.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Cools Both Ways: A Quantum Junction at Carnot’s Edge</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2604_02123_cools_both_ways_a_quantum_junction_at_carnot_s_edge.html</link>
-      <description>A superconductor-insulator-2DEG tunnel junction acts as a Carnot-edge heat engine and bidirectional refrigerator, routing heat on demand with near-unity efficiency.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2604_02123_cools_both_ways_a_quantum_junction_at_carnot_s_edge.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Quantum Worlds Learn to Forget: A Topos for Decoherence</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02269_when_quantum_worlds_learn_to_forget_a_topos_for_decoherence.html</link>
-      <description>A cohesive ∞-topos with a quantum comonad transforms quantum superpositions into classical fixed points, formalizing decoherence as a logical operation.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02269_when_quantum_worlds_learn_to_forget_a_topos_for_decoherence.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>The Algorithm That Unifies Decision‑Making — From Games to Economics — Under One Mathematical Roof</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_30694_the_algorithm_that_unifies_decision_making_from_games_to_economics_under_one_mat.html</link>
-      <description>Two universal Kan extensions, left and right, unify all decision algorithms from games to economics by extending local knowledge into coherent global behavior.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_30694_the_algorithm_that_unifies_decision_making_from_games_to_economics_under_one_mat.html</guid>
-      <category>Artificial Intelligence</category>
     </item>
   </channel>
 </rss>

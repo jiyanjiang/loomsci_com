@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:23:47 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -33,14 +33,6 @@
       <description>A single functor called pitch bridges the sheaf and D-module sides of the local Langlands correspondence, unifying two arithmetic realms.</description>
       <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_02799_bridging_the_two_sides_of_local_langlands.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>When Quantum Worlds Learn to Forget: A Topos for Decoherence</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02269_when_quantum_worlds_learn_to_forget_a_topos_for_decoherence.html</link>
-      <description>A cohesive ∞-topos with a quantum comonad transforms quantum superpositions into classical fixed points, formalizing decoherence as a logical operation.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_02269_when_quantum_worlds_learn_to_forget_a_topos_for_decoherence.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>

@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:23:47 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
@@ -25,14 +25,6 @@
       <description>Astronomers discovered the sugar molecule erythrulose in the interstellar medium, providing a plausible chemical pathway from icy dust grains to the building blocks of life.</description>
       <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03313_the_sugar_that_fell_from_the_stars.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Hearing Dark Matter through Quantum Interference</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</link>
-      <description>Atom interferometers can detect dark matter through phase shifts and decoherence, with quantum statistics distinguishing bosonic from fermionic dark matter without violent collisions.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2606_00237_hearing_dark_matter_through_quantum_interference.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>
