@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 13:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 05:55:48 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Turbulence Learns to Speak the Language of Quarks</title>
+      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2511_02165_when_turbulence_learns_to_speak_the_language_of_quarks.html</link>
+      <description>A universal loop-space diffusion equation unites the chaotic swirl of turbulence with the quantum confinement of quarks, bridging two great mysteries of physics.</description>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2511_02165_when_turbulence_learns_to_speak_the_language_of_quarks.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Connecting Localization and Gravity: The Hidden Transition in Rotated Space</title>
       <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2601_20931_connecting_localization_and_gravity_the_hidden_transition_in_rotated_space.html</link>
@@ -73,22 +81,6 @@
       <description>An atomic force microscope tip writes superconducting Pd₇MoTe₂ nanowires by mechanically driving palladium into MoTe₂ at near‑room temperature.</description>
       <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03710_the_pen_that_writes_superconductivity.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Direction Becomes a Choice: Superconductors That Refuse to Go Both Ways</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2301_13564_when_direction_becomes_a_choice_superconductors_that_refuse_to_go_both_ways.html</link>
-      <description>Superconducting diode effect, in analogy to the nonreciprocal resistive charge transport in semiconducting diode, is a nonreciprocity of dissipationless supercurrent. Such an exotic phenomenon originates from intertwining between symmetry-constrained supercurrent tr...</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2301_13564_when_direction_becomes_a_choice_superconductors_that_refuse_to_go_both_ways.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>A Simple Rotation Bridges the Magnetic Divide</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31203_a_simple_rotation_bridges_the_magnetic_divide.html</link>
-      <description>A universal SU(2) rotation transforms collinear density functionals into noncollinear ones, bridging a decades-old divide in magnetic theory.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31203_a_simple_rotation_bridges_the_magnetic_divide.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

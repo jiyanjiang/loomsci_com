@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="High-dimensional expanders defeat the intuition that low average correlation forces large separated clusters, refuting a decade-old conjecture by Steurer.">
+<meta property="og:title" content="Sparsity Defeats Separation: High-Dimensional Expanders Refute Steurer’s Conjecture">
+<meta property="og:description" content="High-dimensional expanders defeat the intuition that low average correlation forces large separated clusters, refuting a decade-old conjecture by Steurer.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/06/07/arxiv_2606_00292.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sparsity Defeats Separation: High-Dimensional Expanders Refute Steurer’s Conjecture">
+<meta name="twitter:description" content="High-dimensional expanders defeat the intuition that low average correlation forces large separated clusters, refuting a decade-old conjecture by Steurer.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/06/07/arxiv_2606_00292.jpg">
+
+
+  <title>Sparsity Defeats Separation: High-Dimensional Expanders Refute Steurer’s Conjecture — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">Sparsity Defeats Separation: High-Dimensional Expanders Refute Steurer’s Conjecture</h1>
+
+  <div class="article-meta">
+    
+    <span>Drafted June 02, 2026 · Published June 07, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2606.00292</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/06/07/arxiv_2606_00292.jpg" alt="High-dimensional expanders defeat the intuition that low average correlation forces large separated clusters, refuting a decade-old conjecture by Steurer." />
+    
+    <figcaption class="article-hero-caption">High-dimensional expanders defeat the intuition that low average correlation forces large separated clusters, refuting a decade-old conjecture by Steurer.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>Imagine you gather millions of people, each asked to point in some arbitrary direction along an extended spectrum of opinion. You measure the average alignment and find it’s vanishingly small — almost everyone is pointing randomly relative to everyone else. Naively, that disorder should force the crowd to splinter into at least two large, sharply defined camps, each clustered around opposing extremes. If the overall correlation is minuscule, some sizable faction must be shouting one thing while another shouts the opposite.</p>
+<p>That intuition, formalized with precision and a decade of standing, has just collapsed. A new preprint (arXiv:2606.00292) by Farzam Ebrahimnejad at the Voleon Group and Shayan Oveis Gharan at the University of Washington shows that you can have vectors with almost no correlation whatsoever, yet any large subset remains stubbornly, uniformly ambiguous — never splitting into clearly separated clusters. The work doesn’t just tweak a parameter; it dismantles a conjecture that had become a quiet pillar of how we think about geometry, algorithms, and randomness.</p>
+<p>To understand what has fallen, we need to inhabit the conjecture’s simple, seductive world. Take <em>n</em> unit-norm vectors in some high-dimensional space. Compute the average of the absolute inner products between all pairs: if that average is polynomially small — something like 1/<em>n</em> raised to a positive power — then, Steurer posited in 2010, you will inevitably find a large subset, containing a constant fraction of the vectors, where any two members have an inner product bounded safely away from 1. In geometric terms, that subset is “constant‑separated”: no two arrows within it point in too similar a direction. It’s as though low average correlation acts like a weak repulsive force that, over the whole collection, drives the formation of at least one macro‑camp of mutual disagreement.</p>
+<p>The conjecture mattered far beyond its clean statement. It sat at the intersection of the sparsest cut problem in approximation algorithms, spectral graph theory, and the study of high‑dimensional expanders. If true, it would guarantee that certain random‑walk methods on graphs could be speeded up, and it offered a way to extract large, well‑structured sub‑configurations from noisy data. For theorists hunting for hidden order, Steurer’s guess felt like a comforting law of large numbers: tiny pairwise affinity must push the whole system into large‑scale pattern.</p>
+<p>The paper by Ebrahimnejad and Oveis Gharan overturns that vision in a strong sense. They construct families of unit vectors — explicitly, from the machinery of sparse high‑dimensional expanders — whose average correlation is indeed tiny, decaying as a negative power of <em>n</em>. Yet any subset that includes a constant fraction of the vectors cannot achieve a separation larger than about</p>
+<p>(log n)<sup>-1/4</sup></p>
+<p>Where the exponent is essentially one‑fourth, up to a factor that tends to zero with <em>n</em>. That is: even the best‑separated large subset has an inner‑product bound that creeps ever closer to 1 as <em>n</em> grows, preventing the emergence of any genuinely well‑separated camp. The vectors, despite their mass‑scale indifference, never force a macro‑scale opposition; they remain a fog of almost‑agreement, no matter how many you sample.</p>
+<p>The construction that delivers this refutation is a beautiful assault on geometric intuition. It starts with a high‑dimensional expander — think of a hypergraph whose local neighborhoods are exceptionally well‑connected, a kind of combinatorial web that resists fragmentation. The authors borrow a recent breakthrough—the explicit construction of sparse high‑dimensional expanders by Hopkins and Ray, which provides an efficient template for building simplicial complexes with extraordinary spectral gaps. From these complexes, Ebrahimnejad and Oveis Gharan craft vectors that, on average, barely overlap, yet the expander’s structure forces any large collection to contain some pairs that are alarmingly close — close enough that the separation bound collapses. It is as if the expander acts like a freezing front in a porous material that, as it solidifies, draws in surrounding liquid and prevents clear boundaries from forming. The network of mutual adjacency “draws in” proximity, so that every large subset is polluted by near‑coincident directions.</p>
+<p>The consequences immediately spill into the theory of random walks. It had been known that families of vertex expanders on <em>n</em> vertices possess the property that a simple random walk, even when reweighted optimally, may require at least logarithmic time to mix. The new work sharpens this dramatically: there exist expanders for which <em>any</em> reweighted simple random walk needs at least</p>
+<p>(log n)<sup>5/4</sup></p>
+<p>Steps to approach the uniform distribution, where the exponent is five‑fourths (again up to a microscopically vanishing tail). In other words, there is an intrinsic, provable slowness in how these expanders shuffle information, rooted in the same geometric fact that keeps their vectors from separating.</p>
+<p>At this point an attentive reader might feel a dialectical itch. Low correlation forced no clusters — but is the particular exponent of one‑fourth for the separation bound a fluke of the specific expander blueprint, or an unbreakable barrier? The paper does not claim optimality. The authors use Ray’s coboundary expanders with certain parameter choices that yield the fourth‑root decay; a different tuning or an improved expander could, in principle, push the separation even closer to zero — say, down to the inverse square‑root of the logarithm. That possibility would deliver an even stronger repudiation of Steurer’s conjecture. An important question sharpened by the very tools that enabled this refutation is whether one can engineer high‑dimensional expanders that force the largest separated subset to be effectively indistinguishable from random, producing a separation that vanishes at a faster rate. The dialogue between the present work and the expanding literature on coboundary expanders — a dialogue that, tellingly, convinced a priori skeptics of the construction’s power — suggests that the current bound is not the last word, but rather the opening shot in a campaign to erase any lingering hope of constant‑separated structure from low‑correlation vector families.</p>
+<p>This relentlessness raises a deeper point. The refutation of Steurer’s conjecture does not simply kill a plausible principle; it exposes how tightly geometry, combinatorics, and algorithmic efficiency are interwoven. The fact that random walks on expanders cannot be sped up beyond a certain logarithmic threshold means that some problems — notably the sparsest cut problem, which seeks to partition a graph while cutting few edges — resist being solved simply by a clever weighting of random steps. The impossibility flows directly from the refusal of vectors to cooperate in the way we expected. It’s a striking instance of what could be called “productive obstruction”: a proof that something cannot be simple.</p>
+<p>I find myself thinking of Scott Aaronson’s habit of cataloguing the ways our intuition about large collections fails. He once used the metaphor of wolf sightings for quantum computational speedups that never seem to materialize. Here, the wolf never arrives, but not because the forest is empty — rather because we misunderstood what low correlation really forbids. Steurer’s conjecture was a statement about the necessary emergence of large‑scale order from microscopic randomness. The new work tells us that the randomness can be far more perverse: it can sustain a polite, almost‑agreement among all vectors without ever coalescing into the drama of opposed factions. This is not will, but a consequence of how high‑dimensional expanders weave geometry — a deconstruction that leaves the original intuition looking naive rather than logical.</p>
+<p>The paper is a monument to the power of explicit construction over probabilistic existence arguments. Had the conjecture been true, its proof would likely have relied on pigeonhole or averaging arguments. The refutation instead required building a concrete counterexample, a family of vectors with precisely controlled inner‑product distributions that live inside the strange world of sparse expanders. This mode of doing mathematics — wielding constructions that are not merely “most objects” but carefully crafted counterexamples — is what drives sciences like cryptography and error‑correcting codes. It is, now, demolishing what we thought we knew about clustering in high dimensions.</p>
+<p>Yet the philosophical residue extends further. The conjecture’s failure invites a reconsideration of how we detect structure in large datasets. If low correlation doesn’t guarantee large, well‑separated groups, then any algorithm that relies on that promise — say, for clustering or community detection — might be looking for a mirage. The vectors in the counterexample are not pathological; they arise from a natural and celebrated class of expanders, suggesting that similar behaviour could appear in data derived from networks with strong connectivity properties. The boundary between noise and structure becomes fuzzier than we had imagined.</p>
+<p>The story from Steurer’s conjecture to its refutation also illuminates a temporal arc common in science: a plausible belief, born of a handful of examples, stands for a decade as a working hypothesis, quietly shaping research agendas and intuitions, until a new mathematical tool — here, high‑dimensional expanders of a kind that hadn’t been constructed in 2010 — arrives from an apparently distant branch of combinatorics and delivers a decisive blow. It’s a reminder that conjectures are scaffolding, not foundations; their value lies as much in the structures they provoke as in the truths they might contain. When the scaffolding falls, we are left to build anew.</p>
+<p>What we take from this episode, as writers and readers of science, is not just a technical result but a poetic truth about the universe of ideas. Sometimes, a collection of entities can be almost perfectly uncorrelated, yet still refuse to assemble into the decisive oppositions our minds crave. Patterns we assume must emerge from disorder are not guaranteed. The vectors that broke Steurer’s conjecture never polarize; they remain a permanent fog of approximate indifference, proving that sparsity can defeat separation, and that even mathematics can teach us the lesson that the absence of strong bonds does not imply the presence of clear divisions.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Farzam Ebrahimnejad and Shayan Oveis Gharan, High-Dimensional Expanders, the Sparsest Cut Problem, and Steurer’s Conjecture, arXiv:2606.00292</li>
+<li>Ray <em>et al.</em>, A Simple Sub-Polynomial Degree Coboundary Expander, arXiv:2605.22173</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

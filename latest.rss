@@ -7,10 +7,58 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 13:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 05:55:48 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Turbulence Learns to Speak the Language of Quarks</title>
+      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2511_02165_when_turbulence_learns_to_speak_the_language_of_quarks.html</link>
+      <description>A universal loop-space diffusion equation unites the chaotic swirl of turbulence with the quantum confinement of quarks, bridging two great mysteries of physics.</description>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2511_02165_when_turbulence_learns_to_speak_the_language_of_quarks.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When Gravity's Subregions Insist on Purity</title>
+      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2606_03977_when_gravity_s_subregions_insist_on_purity.html</link>
+      <description>A frozen spacetime region in the gravitational path integral yields a pure quantum state, challenging the assumption that subregions must be mixed.</description>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2606_03977_when_gravity_s_subregions_insist_on_purity.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>When Entropy Dares to Be Negative</title>
+      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2509_15295_when_entropy_dares_to_be_negative.html</link>
+      <description>Negative entropy in two-sided black hole calculations is rescued by non-perturbative instanton saddles, restoring positivity and consistency with quantum mechanics.</description>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2509_15295_when_entropy_dares_to_be_negative.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>Squeezing Light from Semiconductor Vibrations</title>
+      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2408_09323_squeezing_light_from_semiconductor_vibrations.html</link>
+      <description>Phonon vibrations in a semiconductor microcavity squeeze light below the quantum noise limit, enabling chip-scale squeezed light sources.</description>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2408_09323_squeezing_light_from_semiconductor_vibrations.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Quasars Learn to Breathe Fire: Extreme Outflows and the Death of Galaxies</title>
+      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2509_08793_when_quasars_learn_to_breathe_fire_extreme_outflows_and_the_death_of_galaxies.html</link>
+      <description>Early quasars drive outflows so powerful they can blow away a galaxy's star-forming gas, halting growth within a billion years of the Big Bang.</description>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2509_08793_when_quasars_learn_to_breathe_fire_extreme_outflows_and_the_death_of_galaxies.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>Sparsity Defeats Separation: High-Dimensional Expanders Refute Steurer’s Conjecture</title>
+      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html</link>
+      <description>High-dimensional expanders defeat the intuition that low average correlation forces large separated clusters, refuting a decade-old conjecture by Steurer.</description>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Connecting Localization and Gravity: The Hidden Transition in Rotated Space</title>
       <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2601_20931_connecting_localization_and_gravity_the_hidden_transition_in_rotated_space.html</link>
@@ -202,54 +250,6 @@
       <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03313_the_sugar_that_fell_from_the_stars.html</guid>
       <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Cells Superpose: A Physics of Organismal Coherence</title>
-      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02801_when_cells_superpose_a_physics_of_organismal_coherence.html</link>
-      <description>A Dictyostelium slug embodies classical superposition, its many cellular states coexisting until a measurement—like viral infection—collapses them into one outcome.</description>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02801_when_cells_superpose_a_physics_of_organismal_coherence.html</guid>
-      <category>Biological Science</category>
-    </item>
-    <item>
-      <title>How Neural Networks Discover the Irreducible Grammar of Symmetry</title>
-      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02993_how_neural_networks_discover_the_irreducible_grammar_of_symmetry.html</link>
-      <description>Neural networks trained to multiply group elements spontaneously learn irreducible representations, decomposing symmetry into independent spectral voices.</description>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02993_how_neural_networks_discover_the_irreducible_grammar_of_symmetry.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Proving Safe Action: AI’s New Logical Straitjacket</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29251_proving_safe_action_ai_s_new_logical_straitjacket.html</link>
-      <description>Logical constraints bind an AI agent's actions, forcing every impulse into a provably safe formal proof before execution.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29251_proving_safe_action_ai_s_new_logical_straitjacket.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Shape of Capability: Why a Spherical Robot Learns to Do Everything</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29254_the_shape_of_capability_why_a_spherical_robot_learns_to_do_everything.html</link>
-      <description>A spherical robot achieves dynamic isotropy, accelerating equally in any direction, simplifying control and enabling robust locomotion across uneven terrain.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29254_the_shape_of_capability_why_a_spherical_robot_learns_to_do_everything.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Direction Becomes a Choice: Superconductors That Refuse to Go Both Ways</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2301_13564_when_direction_becomes_a_choice_superconductors_that_refuse_to_go_both_ways.html</link>
-      <description>Superconducting diode effect, in analogy to the nonreciprocal resistive charge transport in semiconducting diode, is a nonreciprocity of dissipationless supercurrent. Such an exotic phenomenon originates from intertwining between symmetry-constrained supercurrent tr...</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2301_13564_when_direction_becomes_a_choice_superconductors_that_refuse_to_go_both_ways.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>A Simple Rotation Bridges the Magnetic Divide</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31203_a_simple_rotation_bridges_the_magnetic_divide.html</link>
-      <description>A universal SU(2) rotation transforms collinear density functionals into noncollinear ones, bridging a decades-old divide in magnetic theory.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_31203_a_simple_rotation_bridges_the_magnetic_divide.html</guid>
-      <category>Matter Science</category>
     </item>
   </channel>
 </rss>

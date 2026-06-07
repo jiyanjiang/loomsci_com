@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 13:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 05:55:48 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Sparsity Defeats Separation: High-Dimensional Expanders Refute Steurer’s Conjecture</title>
+      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html</link>
+      <description>High-dimensional expanders defeat the intuition that low average correlation forces large separated clusters, refuting a decade-old conjecture by Steurer.</description>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>What If a Neural Network Could Simulate Physics Without Equations?</title>
       <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2509_13805_what_if_a_neural_network_could_simulate_physics_without_equations.html</link>
@@ -73,30 +81,6 @@
       <description>A polynomial-time sum-of-squares projection separates overlapping non-spherical Gaussian clusters by compressing them into a cleanly separable low-dimensional space.</description>
       <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2411_12438_breaking_the_exponential_barrier_clustering_non_spherical_gaussians_in_polynomia.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>How Neural Networks Discover the Irreducible Grammar of Symmetry</title>
-      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02993_how_neural_networks_discover_the_irreducible_grammar_of_symmetry.html</link>
-      <description>Neural networks trained to multiply group elements spontaneously learn irreducible representations, decomposing symmetry into independent spectral voices.</description>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02993_how_neural_networks_discover_the_irreducible_grammar_of_symmetry.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Proving Safe Action: AI’s New Logical Straitjacket</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29251_proving_safe_action_ai_s_new_logical_straitjacket.html</link>
-      <description>Logical constraints bind an AI agent's actions, forcing every impulse into a provably safe formal proof before execution.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29251_proving_safe_action_ai_s_new_logical_straitjacket.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Shape of Capability: Why a Spherical Robot Learns to Do Everything</title>
-      <link>https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29254_the_shape_of_capability_why_a_spherical_robot_learns_to_do_everything.html</link>
-      <description>A spherical robot achieves dynamic isotropy, accelerating equally in any direction, simplifying control and enabling robust locomotion across uneven terrain.</description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/02/arxiv_2605_29254_the_shape_of_capability_why_a_spherical_robot_learns_to_do_everything.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>
