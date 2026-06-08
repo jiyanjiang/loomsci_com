@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 05:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 08:12:11 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
@@ -33,22 +33,6 @@
       <description>Early quasars drive outflows so powerful they can blow away a galaxy's star-forming gas, halting growth within a billion years of the Big Bang.</description>
       <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2509_08793_when_quasars_learn_to_breathe_fire_extreme_outflows_and_the_death_of_galaxies.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When One Transit Is Enough: A Quiet Coup in the Search for Other Worlds</title>
-      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02778_when_one_transit_is_enough_a_quiet_coup_in_the_search_for_other_worlds.html</link>
-      <description>A Transformer-based model learns a star's normal variability, then detects planets that transit only once — worlds invisible to traditional surveys.</description>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_02778_when_one_transit_is_enough_a_quiet_coup_in_the_search_for_other_worlds.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>The Sugar That Fell from the Stars</title>
-      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03313_the_sugar_that_fell_from_the_stars.html</link>
-      <description>Astronomers discovered the sugar molecule erythrulose in the interstellar medium, providing a plausible chemical pathway from icy dust grains to the building blocks of life.</description>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03313_the_sugar_that_fell_from_the_stars.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

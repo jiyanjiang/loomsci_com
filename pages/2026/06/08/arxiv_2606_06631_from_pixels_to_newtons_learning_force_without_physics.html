@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="A transformer predicts three-dimensional hip and knee contact forces from a single monocular video, matching physics-based models without modeling muscles or Newton's laws.">
+<meta property="og:title" content="From Pixels to Newtons: Learning Force Without Physics">
+<meta property="og:description" content="A transformer predicts three-dimensional hip and knee contact forces from a single monocular video, matching physics-based models without modeling muscles or Newton's laws.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06631_from_pixels_to_newtons_learning_force_without_physics.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/06/08/arxiv_2606_06631.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="From Pixels to Newtons: Learning Force Without Physics">
+<meta name="twitter:description" content="A transformer predicts three-dimensional hip and knee contact forces from a single monocular video, matching physics-based models without modeling muscles or Newton's laws.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/06/08/arxiv_2606_06631.jpg">
+
+
+  <title>From Pixels to Newtons: Learning Force Without Physics — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">From Pixels to Newtons: Learning Force Without Physics</h1>
+
+  <div class="article-meta">
+    
+    <span>June 08, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2606.06631</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/06/08/arxiv_2606_06631.jpg" alt="A transformer predicts three-dimensional hip and knee contact forces from a single monocular video, matching physics-based models without modeling muscles or Newton's laws." />
+    
+    <figcaption class="article-hero-caption">A transformer predicts three-dimensional hip and knee contact forces from a single monocular video, matching physics-based models without modeling muscles or Newton's laws.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>Picture an oracle who has never read a physics textbook. She cannot describe gravity, but by staring at the night sky she can tell you exactly when the tides will rise. She has learned, over a lifetime, to map patterns in the heavens to patterns in the water—and she is never wrong. Now imagine an oracle for the human body, one that watches a video of you walking and declares, with startling precision, the forces grinding inside your hip. That oracle is not a metaphor. It is a machine‑learning pipeline, published in a preprint (arXiv:2606.06631) by Jessy Lauer, that predicts the three‑dimensional contact forces inside hip and knee joints from a single, uncalibrated monocular video—without modelling a single muscle, bone, or Newton’s law.</p>
+<p>The problem Lauer tackles is both intimate and invisible. Inside every joint, the cartilage endures a perpetual mechanical conversation: forces that shape who develops osteoarthritis, who heals well after a joint replacement, and who benefits from rehabilitation. These forces are hidden, measurable only through surgically implanted telemetric implants in a few dozen volunteers. To estimate them for anyone else, biomechanists have long relied on a cathedral of equipment: motion‑capture markers, force plates, electromyography, subject‑specific imaging, and elaborate musculoskeletal simulations that solve the equations of motion. The entire edifice is anchored in physics. Lauer asks: <em>what if you simply watch the person move, and let a neural network do the rest?</em></p>
+<p>The pipeline is at once elegant and audacious. From each video frame, a parametric body mesh is recovered, its pose distilled into a 430‑dimensional motion feature vector. Static conditioning—body shape, which joint is being targeted, the activity label encoded as a sentence—joins the stream. Then a transformer, whose pose stream is adaptively modulated at every layer by those conditioning tokens, decodes the motion into per‑frame force components, normalised by body weight. Self‑supervised video tokens from a frozen V‑JEPA 2 encoder are later fused in through gated cross‑attention, but the network begins as a pure pose‑to‑force mapper. It is, in the literal sense of the word, a “physics‑free” pipeline.</p>
+<p><img alt="fig1" src="/images/2026/06/08/arxiv_2606_06631_fig_1.jpg"></p>
+<blockquote>
+<p>A single video camera can predict the forces inside a joint during movement without any implanted sensors. This makes it possible to measure joint loads safely and widely, helping doctors and athletes prevent injuries. (Source: arXiv:2606.06631)</p>
+</blockquote>
+<p>The numbers are disarming. Under leave‑one‑subject‑out cross‑validation across 26 patients and 25 activity categories—walking, stairs, sit‑to‑stand, cycling, even aerobics—the prediction error lands at 0.32 body weights for the hip and 0.23 for the knee. That is not just good; it matches the accuracy of subject‑specific musculoskeletal simulations, the very models that require force plates and full‑body inverse dynamics. The pipeline also resolves peak force changes smaller than those reported for gait retraining and osteoarthritis progression. Applied zero‑shot to an independent cohort of instrumented knee implants—the Grand Challenge datasets—it rivals or outperforms prior published methods. A generative motion prior even allows the predictor to hunt for subtle kinematic tweaks that reduce peak loading, rediscovering strategies from the predictive simulation literature without ever solving a differential equation.</p>
+<p>What makes these results so arresting is not the accuracy itself. It is the whiplash of a single contradiction: every rule we thought was necessary—contact models, joint‑reaction force balances, ground‑reaction inversion—has been quietly brushed aside by a transformer that has never heard of torque. If physics is the language of biomechanics, Lauer has built a translator who bypasses grammar and syntax, absorbing millions of sentence pairs and spitting out fluent prose without understanding a single verb.</p>
+<p><img alt="fig6" src="/images/2026/06/08/arxiv_2606_06631_fig_6.jpg"></p>
+<blockquote>
+<p>Small motion adjustments in sit-to-stand and stair climbing dramatically reduce joint forces, while other activities barely respond. This identifies the most promising movements for clinical retraining to ease joint stress. (Source: arXiv:2606.06631)</p>
+</blockquote>
+<p>But that very fluency hides a dangerous question. An important question raised by earlier work on video‑based pose estimation—for instance, the OpenCap Monocular system, which still couples kinematics to a physics‑based musculoskeletal backbone—is whether the features a network learns encode genuine biomechanical causality or merely correlate with the activity label itself. When a person walks, the hip contact force oscillates in a characteristic double‑hump. A network that has learned to classify “walking” and then output the average walking force curve will post low error; it need never attend to the subtleties of joint angle or acceleration that a Newtonian model treats as essential. The ablation studies that might settle this question—disentangling the contributions of static conditioning, video tokens, and raw kinematics—are absent from the preprint. Work on flow matching and self‑supervised video models, cited in Lauer’s own references, teaches us that what a network finds useful for one task may be less about physics than about convenience of representation.</p>
+<p>There is another ghost in the machine. The temporal smoothing applied to the recovered body meshes is bidirectional: it looks forward and backward along the sequence. For a system that ultimately aims to predict instantaneous forces, any future‑leak could inflate apparent accuracy, especially on stereotyped activities where the body’s trajectory is highly constrained. This is not a fatal flaw—the same criticism can be levelled at many video‑based pipelines—but it cuts against the claim of a purely causal, frame‑by‑frame oracle.</p>
+<p>The road from a convincing proof‑of‑concept to a clinical tool therefore winds through uncomfortable territory. What happens when the ground is uneven, when the subject carries a load, when a limp changes the whole physics of ground reaction? The network sees only the motion, not the reason behind it. A physics‑based model, for all its complexity, can reason about external forces explicitly; Lauer’s transformer knows only the shadows on the wall.</p>
+<p>And yet. The possibility that every archived clinical gait video—perhaps millions of hours of footage—could be mined retroactively for joint loading, without a single force plate, is a thought that should make any biomechanist’s pulse quicken. The same retrospectivity could enable primary‑care screening or at‑home rehabilitation tracking, scenarios where the physics‑heavy apparatus is simply impossible to deploy. Lauer’s own words capture the stakes: the work “establishes uncalibrated monocular video as a viable modality for estimating joint loading, opening a path toward retrospective analysis of archived clinical recordings.”</p>
+<p>So we are left with a choice, and with a question. The choice is whether to celebrate a statistical surrogate that works on the data we have, or to hold out for a causal model that explains the data in a language we already speak. The question—perhaps the most unsettling one this preprint raises—is whether, in the age of large‑scale pattern recognition, our insistence on physics is a scientific virtue or merely a sentimental attachment. If an oracle can tell you the tide with perfect fidelity, do you still need to know why the moon pulls the sea? Biomechanics is now staring into that abyss, and for the first time, the abyss is staring back.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>J. Lauer, From Pixels to Newtons: Predicting In Vivo Joint Contact Forces from Monocular Video, arXiv:2606.06631</li>
+<li>Lipman <em>et al.</em>, Flow Matching for Generative Modeling, arXiv:2210.02747</li>
+<li>Assran <em>et al.</em>, V‑JEPA 2: Self‑Supervised Video Models Enable Understanding, Prediction and Planning, arXiv:2506.09985</li>
+<li>Gilon <em>et al.</em>, OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video, arXiv:2603.24733</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 05:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 08:12:11 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Speed of Light's Shadow: Measuring Laser Beams at 100 MHz</title>
+      <link>https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06862_the_speed_of_light_s_shadow_measuring_laser_beams_at_100_mhz.html</link>
+      <description>By transforming laser beam spatial profiles into high-speed temporal signals, FLASH achieves beam quality measurement at 100 million frames per second.</description>
+      <pubDate>Sun, 07 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06862_the_speed_of_light_s_shadow_measuring_laser_beams_at_100_mhz.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>When Turbulence Learns to Speak the Language of Quarks</title>
       <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2511_02165_when_turbulence_learns_to_speak_the_language_of_quarks.html</link>
@@ -65,22 +73,6 @@
       <description>Lattice vibrations in metallic strontium titanate develop chirality and couple to electron spins, creating a hybrid mode with a magnetic personality.</description>
       <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2606_03908_when_a_vibration_learns_to_spin.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Traitor Within: Hydrogen’s Atomic Rebellion Against the Metal That Holds It</title>
-      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03298_the_traitor_within_hydrogen_s_atomic_rebellion_against_the_metal_that_holds_it.html</link>
-      <description>Trapped hydrogen atoms at dislocation cores act as atomic bombs, triggering sudden crack nucleation and explosive cavity growth in metals, redefining the century-old puzzle of hydrogen embrittlement.</description>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03298_the_traitor_within_hydrogen_s_atomic_rebellion_against_the_metal_that_holds_it.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Pen That Writes Superconductivity</title>
-      <link>https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03710_the_pen_that_writes_superconductivity.html</link>
-      <description>An atomic force microscope tip writes superconducting Pd₇MoTe₂ nanowires by mechanically driving palladium into MoTe₂ at near‑room temperature.</description>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/03/arxiv_2606_03710_the_pen_that_writes_superconductivity.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

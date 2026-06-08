@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 05:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 08:12:10 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>From Pixels to Newtons: Learning Force Without Physics</title>
+      <link>https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06631_from_pixels_to_newtons_learning_force_without_physics.html</link>
+      <description>A transformer predicts three-dimensional hip and knee contact forces from a single monocular video, matching physics-based models without modeling muscles or Newton's laws.</description>
+      <pubDate>Sun, 07 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06631_from_pixels_to_newtons_learning_force_without_physics.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Reading Genomes as Documents: An OCR Approach to DNA Understanding</title>
+      <link>https://www.loomsci.com/pages/2026/06/08/arxiv_2602_02014_reading_genomes_as_documents_an_ocr_approach_to_dna_understanding.html</link>
+      <description>A vision-language model reads DNA as an OCR-processed document, compressing genomic information into visual tokens for efficient, layout-aware analysis.</description>
+      <pubDate>Sun, 07 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/08/arxiv_2602_02014_reading_genomes_as_documents_an_ocr_approach_to_dna_understanding.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Learning to Trust a Crowd of Almost-Right Models</title>
+      <link>https://www.loomsci.com/pages/2026/06/08/arxiv_2404_02141_learning_to_trust_a_crowd_of_almost_right_models.html</link>
+      <description>In Rashomon Partition Sets, the data support a crowd of almost-right models, forcing researchers to confront what is robust and what is fragile.</description>
+      <pubDate>Sun, 07 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/08/arxiv_2404_02141_learning_to_trust_a_crowd_of_almost_right_models.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Sparsity Defeats Separation: High-Dimensional Expanders Refute Steurer’s Conjecture</title>
       <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html</link>
