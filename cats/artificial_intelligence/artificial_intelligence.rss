@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:48:32 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When FP8 Storms the Holy Grail of Precision</title>
+      <link>https://www.loomsci.com/pages/2026/06/09/arxiv_2606_06510_when_fp8_storms_the_holy_grail_of_precision.html</link>
+      <description>A position paper demonstrates that FP8 tensor cores, with a mathematical trick based on the Chinese Remainder Theorem, can fully emulate double-precision accuracy for HPC simulations.</description>
+      <pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/09/arxiv_2606_06510_when_fp8_storms_the_holy_grail_of_precision.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Agents in the Labyrinth: Unlocking a Faster Nuclear Future</title>
+      <link>https://www.loomsci.com/pages/2026/06/09/arxiv_2606_07866_agents_in_the_labyrinth_unlocking_a_faster_nuclear_future.html</link>
+      <description>AI agents navigate a regulatory labyrinth of paperwork, cutting nuclear reactor licensing from years to months while preserving safety oversight.</description>
+      <pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/09/arxiv_2606_07866_agents_in_the_labyrinth_unlocking_a_faster_nuclear_future.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>From Pixels to Newtons: Learning Force Without Physics</title>
       <link>https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06631_from_pixels_to_newtons_learning_force_without_physics.html</link>

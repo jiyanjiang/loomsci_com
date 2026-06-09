@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="A position paper demonstrates that FP8 tensor cores, with a mathematical trick based on the Chinese Remainder Theorem, can fully emulate double-precision accuracy for HPC simulations.">
+<meta property="og:title" content="When FP8 Storms the Holy Grail of Precision">
+<meta property="og:description" content="A position paper demonstrates that FP8 tensor cores, with a mathematical trick based on the Chinese Remainder Theorem, can fully emulate double-precision accuracy for HPC simulations.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/06/09/arxiv_2606_06510_when_fp8_storms_the_holy_grail_of_precision.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/06/09/arxiv_2606_06510.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="When FP8 Storms the Holy Grail of Precision">
+<meta name="twitter:description" content="A position paper demonstrates that FP8 tensor cores, with a mathematical trick based on the Chinese Remainder Theorem, can fully emulate double-precision accuracy for HPC simulations.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/06/09/arxiv_2606_06510.jpg">
+
+
+  <title>When FP8 Storms the Holy Grail of Precision — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">When FP8 Storms the Holy Grail of Precision</h1>
+
+  <div class="article-meta">
+    
+    <span>Drafted June 08, 2026 · Published June 09, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2606.06510</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/06/09/arxiv_2606_06510.jpg" alt="A position paper demonstrates that FP8 tensor cores, with a mathematical trick based on the Chinese Remainder Theorem, can fully emulate double-precision accuracy for HPC simulations." />
+    
+    <figcaption class="article-hero-caption">A position paper demonstrates that FP8 tensor cores, with a mathematical trick based on the Chinese Remainder Theorem, can fully emulate double-precision accuracy for HPC simulations.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>What if the most sacred assumption in high-performance computing—that hardware double‑precision floating‑point is the irreducible minimum, the holy grail without which no serious simulation can stand—turns out to be a comfortable illusion? That is the question raised by a provocative position paper from Satoshi Matsuoka, Director of the RIKEN Center for Computational Science in Kobe. The manuscript, appearing on arXiv (arXiv:2606.06510), argues that the era of native 64‑bit arithmetic as the unassailable foundation of HPC is already over, and that the low‑precision tensor cores designed for AI can, with a clever mathematical trick, take its place—delivering full accuracy at velocities that make the old silicon look like a ghost limb.</p>
+<p>Think of the HPC community as a medieval guild of cathedral builders. For generations, they have insisted that the central arch must be hewn from a single flawless block of marble. The marble is native 64‑bit floating‑point—an arithmetic that guarantees every digit’s truth. Then a heretic arrives carrying a blueprint that uses small, interlocking limestone tiles: the 8‑bit tensor cores found in modern GPUs. Arranged in a pattern based on the Chinese Remainder Theorem, these tiles reproduce the strength and beauty of the marble arch exactly. The guild elders scoff: limestone is for peasants’ cottages, not cathedrals. But the heretic points out that the marble quarries are running dry. Chip foundries, driven by the insatiable appetite of artificial intelligence, are ceasing to carve the old stone. NVIDIA’s forthcoming Blackwell Ultra (B300), for instance, collapses native high‑precision throughput to a tiny fraction of what it was a generation ago—a 31‑fold regression that transforms even memory‑bound workloads into compute‑starved prisoners.</p>
+<p>Since the earliest days of vector supercomputers, the HPC community has treated 64‑bit arithmetic as a given—the non‑negotiable substrate on which climate models, fluid dynamics, and quantum chemistry are built. But while this reverence is understandable, it has become a dogma that may now be holding the field back. The hardware wizards have already moved on; the question is whether the software can follow.</p>
+<p>Matsuoka’s paper answers with a systematic audit. It walks through the canonical HPC kernel spectrum—sparse matrix-vector multiply, stencil operations, FFTs, and dense linear algebra—and shows that, for every class, an emulation scheme called the Ozaki Scheme II can reconstruct full 64‑bit accuracy from 8‑bit tensor‑core operations while hugging the memory roof. The key is a graceful registration of the Chinese Remainder Theorem: just as you can recover a large integer from its remainders modulo several smaller moduli, you can recover a high‑precision matrix product from a handful of low‑precision products, each contributing different digits of the answer.</p>
+<table>
+<thead>
+<tr>
+<th>Workload</th>
+<th>B300</th>
+<th>R200 (vs. native FP64)</th>
+<th>R200 (vs. Emul. DGEMM)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dense GEMM (compute-bound)</td>
+<td><strong>~380×</strong></td>
+<td><strong>~12×</strong></td>
+<td>~2×</td>
+</tr>
+<tr>
+<td>Batched GEMV (B=8)</td>
+<td><strong>~24×</strong></td>
+<td>~2.7×</td>
+<td>mem. bound</td>
+</tr>
+<tr>
+<td>Batched GEMV (B=2)</td>
+<td>~9.2×</td>
+<td>~1.0×</td>
+<td>mem. bound</td>
+</tr>
+<tr>
+<td>7-point Stencil</td>
+<td>~3.1×</td>
+<td>~1.0×</td>
+<td>mem. bound</td>
+</tr>
+<tr>
+<td>SpMV (CSR/ELL hybrid)</td>
+<td>~1.2×</td>
+<td>~1.0×</td>
+<td>mem. bound</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Ozaki II with FP8 often outperforms native FP64, sometimes by over 10x. This shows that specialized low-precision hardware can replace the traditional reliance on double precision for high-performance computing. (Source: arXiv:2606.06510)</p>
+</blockquote>
+<p>But here the dialectic begins to sizzle. The original Ozaki Scheme II papers, by Ozaki and colleagues and by Mukunoki, carry a sobering footnote: the straightforward version of the algorithm expands each high‑precision product into (3r + 1) low‑precision matrix multiplications, where r is the number of moduli—roughly 3r+1 times the number of operations compared to a native GEMM. If that multiplier held, the emulated throughput on a B300 would not be the five hundred trillion operations per second that Matsuoka projects, but something closer to a hundred trillion—still impressive, but no longer a clear dethronement of the old marble. Matsuoka’s analysis assumes a register‑level fusion trick that, in principle, could fold the extra work behind the memory wall so that it becomes essentially free. That trick, however, has never been demonstrated at scale. The companion work on FFTs using a Kulisch fixed‑point fallback on a surviving integer pipe helps, but the central projection rests on an optimization that the community has not yet seen materialize.</p>
+<table>
+<thead>
+<tr>
+<th>Workload</th>
+<th>Path</th>
+<th>R200 (TFLOPS)</th>
+<th>Relative to H100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dense GEMM (OI≥50)</td>
+<td>Native</td>
+<td>33</td>
+<td>0.49x</td>
+</tr>
+<tr>
+<td>Dense GEMM (OI≥50)</td>
+<td>Ozaki II</td>
+<td>400*</td>
+<td>5.97x</td>
+</tr>
+<tr>
+<td>bGEMV B=8 (OI≈4)</td>
+<td>Native</td>
+<td>33</td>
+<td>2.46x</td>
+</tr>
+<tr>
+<td>bGEMV B=8 (OI≈4)</td>
+<td>Ozaki II</td>
+<td>88</td>
+<td>6.57x</td>
+</tr>
+<tr>
+<td>bGEMV B=2 (OI≈1.5)</td>
+<td>Native</td>
+<td>33</td>
+<td>6.57x</td>
+</tr>
+<tr>
+<td>bGEMV B=2 (OI≈1.5)</td>
+<td>Ozaki II</td>
+<td>33</td>
+<td>6.57x</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>FP8-based computation matches or exceeds FP64-equivalent throughput across key workloads. This challenges the long-held belief that specialized FP64 hardware is essential for high-performance computing. (Source: arXiv:2606.06510)</p>
+</blockquote>
+<p>This tension does not make the paper wrong—it makes it exactly the right kind of paper for a moment of architectural upheaval. A thought experiment that forces the guild to ask whether it has been building with marble out of necessity or out of habit. The TME model Matsuoka introduces—a unification of compute multiplier, bandwidth multiplier, and reconstruction latency—is itself a valuable conceptual lens, even though the way it bundles separate cost terms into these three parameters will need experimental untangling. And the kernel-by-kernel audit demonstrates that, for the memory-bound regime that dominates so much of production HPC, the opportunity is real.</p>
+<p>What the paper does not do—and candidly cannot do—is settle the question. As the authors of “Guaranteed DGEMM Accuracy While Using Reduced Precision Tensor Cores” (Schwarz et al.) have shown, achieving correct rounding with Ozaki variants on FP8 input is a delicate business that does not yet enjoy a rigorous error bound for all cases. The emulation community is thus faced with a fork in the road. One path leads through experimental validation: implement the fused FP8 Ozaki-II on real hardware and see whether the (3r + 1) dragon can be tamed. The other path returns to the comfortable certainty of native 64‑bit silicon—chips that are increasingly a niche product for a dwindling audience of traditional HPC centers.</p>
+<p>Matsuoka’s title borrows the language of the AI revolution—“X is all you need”—to make a point that is as much philosophical as technical. The holy grail, it suggests, is not a particular bit‑width but the willingness to question which traditions serve the science and which merely serve the tradition. For decades, the HPC community treated 64‑bit hardware as an irreducible demand, a non-negotiable constant in the cosmic budget of computation. If that constant turns out to have been a variable all along—a historical accident rather than a physical law—then the real work ahead is not to defend the old cathedrals but to learn how to build with the stones we have, and to test whether the new foundations are strong enough to hold the weight of the heavens.</p>
+<p>The ghost of double‑precision may yet be exorcised—but not without a great deal more conjuring.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Satoshi Matsuoka, FP8 is All You Need (Part 1): Debunking Hardware FP64 as the HPC Holy Grail, arXiv:2606.06510</li>
+<li>Ozaki <em>et al.</em>, Ozaki Scheme II: A GEMM-oriented emulation of floating-point matrix multiplication using an integer modular technique, arXiv:2504.08009</li>
+<li>Mukunoki, DGEMM without FP64 Arithmetic - Using FP64 Emulation and FP8 Tensor Cores with Ozaki Scheme, arXiv:2508.00441</li>
+<li>Schwarz <em>et al.</em>, Guaranteed DGEMM Accuracy While Using Reduced Precision Tensor Cores Through Extensions of the Ozaki Scheme, arXiv:2511.13778</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>
