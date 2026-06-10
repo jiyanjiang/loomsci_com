@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:15:00 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Learning Without Local Minima: Gauge Freedom Makes Matrix Product States Trainable</title>
+      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09988_learning_without_local_minima_gauge_freedom_makes_matrix_product_states_trainabl.html</link>
+      <description>Gauge freedom in matrix product states creates a smooth energy landscape, eliminating poor local minima and enabling reliable quantum training.</description>
+      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09988_learning_without_local_minima_gauge_freedom_makes_matrix_product_states_trainabl.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>When Topology Learns to Dance: A Quantum Walk Through the Shape of Data</title>
+      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2404_15407_when_topology_learns_to_dance_a_quantum_walk_through_the_shape_of_data.html</link>
+      <description>A quantum walker dances through a simplicial complex, using coherent interference to reveal hidden topological holes in high-dimensional data.</description>
+      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2404_15407_when_topology_learns_to_dance_a_quantum_walk_through_the_shape_of_data.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>How Noise Taught Quantum Computers to Tame Turbulence</title>
       <link>https://www.loomsci.com/pages/2026/06/09/arxiv_2606_08349_how_noise_taught_quantum_computers_to_tame_turbulence.html</link>
@@ -33,14 +49,6 @@
       <description>Phonon vibrations in a semiconductor microcavity squeeze light below the quantum noise limit, enabling chip-scale squeezed light sources.</description>
       <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2408_09323_squeezing_light_from_semiconductor_vibrations.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Baking Quantum Bounds: A Layer Cake Approach to Error Exponents</title>
-      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2507_06232_baking_quantum_bounds_a_layer_cake_approach_to_error_exponents.html</link>
-      <description>The operator layer cake theorem proves that the pretty-good measurement is a randomized version of the optimal Holevo–Helstrom test, achieving near-optimal error exponents.</description>
-      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2507_06232_baking_quantum_bounds_a_layer_cake_approach_to_error_exponents.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

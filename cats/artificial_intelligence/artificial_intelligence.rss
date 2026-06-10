@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:15:00 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Can a VR Accelerometer Really Read Your Mind?</title>
+      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10502_can_a_vr_accelerometer_really_read_your_mind.html</link>
+      <description>Commercial VR sensors pick up tiny pupil-induced vibrations, allowing machine learning to reconstruct what a user sees — a new privacy vulnerability.</description>
+      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10502_can_a_vr_accelerometer_really_read_your_mind.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When FP8 Storms the Holy Grail of Precision</title>
       <link>https://www.loomsci.com/pages/2026/06/09/arxiv_2606_06510_when_fp8_storms_the_holy_grail_of_precision.html</link>
@@ -73,54 +81,6 @@
       <description>By integrating the cell complex's incidence structure directly into neural message passing, the cellular sheaf neural operator ensures that magnetic fields remain divergence-free by construction.</description>
       <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00937_when_a_neural_network_learns_to_respect_the_shape_of_space.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Shielding Robots from Their Own Language: A Passivity Protocol</title>
-      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00515_shielding_robots_from_their_own_language_a_passivity_protocol.html</link>
-      <description>A passivity shield and energy tank decouple a VLA robot's semantic commands from its physical authority, ensuring safe contact-rich manipulation.</description>
-      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00515_shielding_robots_from_their_own_language_a_passivity_protocol.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Coordinates Learn the Product Rule</title>
-      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2606_05131_when_coordinates_learn_the_product_rule.html</link>
-      <description>DeepMDMD learns coordinates that form a closed algebra, preserving the product rule and turning nonlinear dynamics into linear eigenfunctions.</description>
-      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2606_05131_when_coordinates_learn_the_product_rule.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When AI Outruns Blame: The Accountability Horizon</title>
-      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2604_07778_when_ai_outruns_blame_the_accountability_horizon.html</link>
-      <description>The Accountability Horizon marks a phase transition where causal chains from human decisions to AI outcomes become logically impossible to assign, reshaping governance.</description>
-      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2604_07778_when_ai_outruns_blame_the_accountability_horizon.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Entanglement Unlocks Exponential Capacity Growth in Communications</title>
-      <link>https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05412_entanglement_unlocks_exponential_capacity_growth_in_communications.html</link>
-      <description>Quantum entanglement allows distributed transmitters to coordinate in real time, turning chaotic interference into exponential capacity gains for classical communication networks.</description>
-      <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05412_entanglement_unlocks_exponential_capacity_growth_in_communications.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When AI Safety Withholds the Cure</title>
-      <link>https://www.loomsci.com/pages/2026/06/05/arxiv_2604_07709_when_ai_safety_withholds_the_cure.html</link>
-      <description>When AI safety gates life-saving medical advice, only doctors receive the full answer; patients face withheld knowledge and silent refusal.</description>
-      <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/05/arxiv_2604_07709_when_ai_safety_withholds_the_cure.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Breaking the Exponential Barrier: Clustering Non-Spherical Gaussians in Polynomial Time</title>
-      <link>https://www.loomsci.com/pages/2026/06/04/arxiv_2411_12438_breaking_the_exponential_barrier_clustering_non_spherical_gaussians_in_polynomia.html</link>
-      <description>A polynomial-time sum-of-squares projection separates overlapping non-spherical Gaussian clusters by compressing them into a cleanly separable low-dimensional space.</description>
-      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/04/arxiv_2411_12438_breaking_the_exponential_barrier_clustering_non_spherical_gaussians_in_polynomia.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:15:01 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Reconstructing the Four‑Vector of Heat from Noise Alone</title>
+      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2602_16765_reconstructing_the_four_vector_of_heat_from_noise_alone.html</link>
+      <description>Electromagnetic noise from a moving hot plasma, decoded via cross-spectral ratios, reveals both rest-frame temperature and drift velocity as a true four-vector.</description>
+      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2602_16765_reconstructing_the_four_vector_of_heat_from_noise_alone.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Cracking the Code of Symmetry-Enriched Topological Order</title>
       <link>https://www.loomsci.com/pages/2026/06/09/arxiv_2606_08558_cracking_the_code_of_symmetry_enriched_topological_order.html</link>
@@ -41,14 +49,6 @@
       <description>A simple rotation of quantum operators reveals a hidden localization transition, where wavefunctions become multifractal and the lattice mirrors a curved spacetime.</description>
       <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2601_20931_connecting_localization_and_gravity_the_hidden_transition_in_rotated_space.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Hidden Courtyard Where Electrons Turn into Molecules</title>
-      <link>https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05653_the_hidden_courtyard_where_electrons_turn_into_molecules.html</link>
-      <description>Inside a four-layer cuprate, pristine inner copper-oxygen planes shield electrons from disorder, enabling them to pair so strongly they behave as bosonic molecules, driving a BCS-to-BEC crossover.</description>
-      <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/05/arxiv_2606_05653_the_hidden_courtyard_where_electrons_turn_into_molecules.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
