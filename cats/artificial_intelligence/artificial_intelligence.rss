@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:28:21 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
@@ -57,30 +57,6 @@
       <description>In Rashomon Partition Sets, the data support a crowd of almost-right models, forcing researchers to confront what is robust and what is fragile.</description>
       <pubDate>Sun, 07 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/08/arxiv_2404_02141_learning_to_trust_a_crowd_of_almost_right_models.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Sparsity Defeats Separation: High-Dimensional Expanders Refute Steurer’s Conjecture</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html</link>
-      <description>High-dimensional expanders defeat the intuition that low average correlation forces large separated clusters, refuting a decade-old conjecture by Steurer.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>What If a Neural Network Could Simulate Physics Without Equations?</title>
-      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2509_13805_what_if_a_neural_network_could_simulate_physics_without_equations.html</link>
-      <description>A transformer-based neural network learns to simulate fluid dynamics, shock waves, and thermal convection directly from data, without any governing equations.</description>
-      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2509_13805_what_if_a_neural_network_could_simulate_physics_without_equations.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When a Neural Network Learns to Respect the Shape of Space</title>
-      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00937_when_a_neural_network_learns_to_respect_the_shape_of_space.html</link>
-      <description>By integrating the cell complex's incidence structure directly into neural message passing, the cellular sheaf neural operator ensures that magnetic fields remain divergence-free by construction.</description>
-      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00937_when_a_neural_network_learns_to_respect_the_shape_of_space.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

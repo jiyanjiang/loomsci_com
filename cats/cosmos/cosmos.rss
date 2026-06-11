@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:28:21 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Neutron Stars Collide: Listening for the Heart of Matter</title>
+      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2503_23047_when_neutron_stars_collide_listening_for_the_heart_of_matter.html</link>
+      <description>Gravitational waves from merging neutron stars reveal hidden phase transitions inside their ultra-dense cores.</description>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2503_23047_when_neutron_stars_collide_listening_for_the_heart_of_matter.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>Eavesdropping on Water’s Heavy Twin in a Distant Disk</title>
       <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10888_eavesdropping_on_water_s_heavy_twin_in_a_distant_disk.html</link>
@@ -49,14 +57,6 @@
       <description>Negative entropy in two-sided black hole calculations is rescued by non-perturbative instanton saddles, restoring positivity and consistency with quantum mechanics.</description>
       <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2509_15295_when_entropy_dares_to_be_negative.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Quasars Learn to Breathe Fire: Extreme Outflows and the Death of Galaxies</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2509_08793_when_quasars_learn_to_breathe_fire_extreme_outflows_and_the_death_of_galaxies.html</link>
-      <description>Early quasars drive outflows so powerful they can blow away a galaxy's star-forming gas, halting growth within a billion years of the Big Bang.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2509_08793_when_quasars_learn_to_breathe_fire_extreme_outflows_and_the_death_of_galaxies.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

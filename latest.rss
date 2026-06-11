@@ -7,10 +7,58 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:28:20 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Neutron Stars Collide: Listening for the Heart of Matter</title>
+      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2503_23047_when_neutron_stars_collide_listening_for_the_heart_of_matter.html</link>
+      <description>Gravitational waves from merging neutron stars reveal hidden phase transitions inside their ultra-dense cores.</description>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2503_23047_when_neutron_stars_collide_listening_for_the_heart_of_matter.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>When a Carbon Nanotube Learns to Dance Quantum Mechanics</title>
+      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2509_01858_when_a_carbon_nanotube_learns_to_dance_quantum_mechanics.html</link>
+      <description>An atomic force microscope tip controls quantum vibrations in a carbon nanotube, enabling quantum state preparation and tomography without lasers.</description>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2509_01858_when_a_carbon_nanotube_learns_to_dance_quantum_mechanics.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Jamming's Missing Identity: How Parisi and an AI Found the Proof</title>
+      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2606_03300_jamming_s_missing_identity_how_parisi_and_an_ai_found_the_proof.html</link>
+      <description>A proof linking the gap and force exponents in jammed glass was found by Parisi and Zamponi, aided by an AI language model.</description>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2606_03300_jamming_s_missing_identity_how_parisi_and_an_ai_found_the_proof.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Building a Pfaffian State with Ultracold Rubidium Atoms</title>
+      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2606_12409_building_a_pfaffian_state_with_ultracold_rubidium_atoms.html</link>
+      <description>Three ultracold rubidium atoms in an optical lattice form a Pfaffian quantum Hall state, a long-sought topological phase that could enable fault-tolerant quantum computation.</description>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2606_12409_building_a_pfaffian_state_with_ultracold_rubidium_atoms.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Quantum Tidal Locking: When a Cloud of Atoms Spins in Sync</title>
+      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2606_11919_quantum_tidal_locking_when_a_cloud_of_atoms_spins_in_sync.html</link>
+      <description>A Bose-Einstein condensate spontaneously synchronizes its internal rotation with its orbital motion, demonstrating quantum tidal locking on a microscopic scale.</description>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2606_11919_quantum_tidal_locking_when_a_cloud_of_atoms_spins_in_sync.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When an Ice Piston Slams into a Canyon</title>
+      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2411_08219_when_an_ice_piston_slams_into_a_canyon.html</link>
+      <description>A building-sized ice piston, formed by explosive ice splintering in a thunderstorm, slams into a canyon floor, leaving a clean bedrock scar.</description>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2411_08219_when_an_ice_piston_slams_into_a_canyon.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Evolution Learning to Wait: The Inverse-Time Law of Recovery</title>
       <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09040_evolution_learning_to_wait_the_inverse_time_law_of_recovery.html</link>
@@ -202,54 +250,6 @@
       <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2509_15295_when_entropy_dares_to_be_negative.html</guid>
       <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Squeezing Light from Semiconductor Vibrations</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2408_09323_squeezing_light_from_semiconductor_vibrations.html</link>
-      <description>Phonon vibrations in a semiconductor microcavity squeeze light below the quantum noise limit, enabling chip-scale squeezed light sources.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2408_09323_squeezing_light_from_semiconductor_vibrations.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Quasars Learn to Breathe Fire: Extreme Outflows and the Death of Galaxies</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2509_08793_when_quasars_learn_to_breathe_fire_extreme_outflows_and_the_death_of_galaxies.html</link>
-      <description>Early quasars drive outflows so powerful they can blow away a galaxy's star-forming gas, halting growth within a billion years of the Big Bang.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2509_08793_when_quasars_learn_to_breathe_fire_extreme_outflows_and_the_death_of_galaxies.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Sparsity Defeats Separation: High-Dimensional Expanders Refute Steurer’s Conjecture</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html</link>
-      <description>High-dimensional expanders defeat the intuition that low average correlation forces large separated clusters, refuting a decade-old conjecture by Steurer.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2606_00292_sparsity_defeats_separation_high_dimensional_expanders_refute_steurer_s_conjectu.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Connecting Localization and Gravity: The Hidden Transition in Rotated Space</title>
-      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2601_20931_connecting_localization_and_gravity_the_hidden_transition_in_rotated_space.html</link>
-      <description>A simple rotation of quantum operators reveals a hidden localization transition, where wavefunctions become multifractal and the lattice mirrors a curved spacetime.</description>
-      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2601_20931_connecting_localization_and_gravity_the_hidden_transition_in_rotated_space.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>What If a Neural Network Could Simulate Physics Without Equations?</title>
-      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2509_13805_what_if_a_neural_network_could_simulate_physics_without_equations.html</link>
-      <description>A transformer-based neural network learns to simulate fluid dynamics, shock waves, and thermal convection directly from data, without any governing equations.</description>
-      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2509_13805_what_if_a_neural_network_could_simulate_physics_without_equations.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When a Neural Network Learns to Respect the Shape of Space</title>
-      <link>https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00937_when_a_neural_network_learns_to_respect_the_shape_of_space.html</link>
-      <description>By integrating the cell complex's incidence structure directly into neural message passing, the cellular sheaf neural operator ensures that magnetic fields remain divergence-free by construction.</description>
-      <pubDate>Fri, 05 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/06/arxiv_2606_00937_when_a_neural_network_learns_to_respect_the_shape_of_space.html</guid>
-      <category>Artificial Intelligence</category>
     </item>
   </channel>
 </rss>
