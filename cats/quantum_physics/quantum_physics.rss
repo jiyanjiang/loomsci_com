@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 04:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:36:23 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Quantum Computer That Doesn't Need to Be Cold</title>
+      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12968_the_quantum_computer_that_doesn_t_need_to_be_cold.html</link>
+      <description>Apollo, a 10,000-node processor built in standard CMOS, runs quantum-inspired optimization at room temperature using probabilistic p-qubits and genuine quantum entropy.</description>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12968_the_quantum_computer_that_doesn_t_need_to_be_cold.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Unlocking Chaos with Two Quantum Copies</title>
+      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_13422_unlocking_chaos_with_two_quantum_copies.html</link>
+      <description>Two quantum copies probed via Bell measurement extract multi-point correlations from chaotic systems, achieving exponential advantage over classical methods.</description>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2606_13422_unlocking_chaos_with_two_quantum_copies.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>When a Carbon Nanotube Learns to Dance Quantum Mechanics</title>
       <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2509_01858_when_a_carbon_nanotube_learns_to_dance_quantum_mechanics.html</link>

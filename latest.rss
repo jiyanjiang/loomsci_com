@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 04:28:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:36:23 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Quantum Computer That Doesn't Need to Be Cold</title>
+      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12968_the_quantum_computer_that_doesn_t_need_to_be_cold.html</link>
+      <description>Apollo, a 10,000-node processor built in standard CMOS, runs quantum-inspired optimization at room temperature using probabilistic p-qubits and genuine quantum entropy.</description>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12968_the_quantum_computer_that_doesn_t_need_to_be_cold.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>The Orbit That Moves Heat</title>
+      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12992_the_orbit_that_moves_heat.html</link>
+      <description>Electrons' orbital angular momentum, not just spin, can carry heat, as shown by a wedge-shaped CuOx film revealing a new thermal messenger.</description>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12992_the_orbit_that_moves_heat.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Unlocking Chaos with Two Quantum Copies</title>
+      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_13422_unlocking_chaos_with_two_quantum_copies.html</link>
+      <description>Two quantum copies probed via Bell measurement extract multi-point correlations from chaotic systems, achieving exponential advantage over classical methods.</description>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2606_13422_unlocking_chaos_with_two_quantum_copies.html</guid>
+      <category>Quantum Physics</category>
+    </item>
     <item>
       <title>When Neutron Stars Collide: Listening for the Heart of Matter</title>
       <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2503_23047_when_neutron_stars_collide_listening_for_the_heart_of_matter.html</link>
@@ -226,30 +250,6 @@
       <pubDate>Sun, 07 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06597_quantum_fluctuations_strengthen_memory_in_neural_networks.html</guid>
       <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Turbulence Learns to Speak the Language of Quarks</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2511_02165_when_turbulence_learns_to_speak_the_language_of_quarks.html</link>
-      <description>A universal loop-space diffusion equation unites the chaotic swirl of turbulence with the quantum confinement of quarks, bridging two great mysteries of physics.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2511_02165_when_turbulence_learns_to_speak_the_language_of_quarks.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Gravity's Subregions Insist on Purity</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2606_03977_when_gravity_s_subregions_insist_on_purity.html</link>
-      <description>A frozen spacetime region in the gravitational path integral yields a pure quantum state, challenging the assumption that subregions must be mixed.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2606_03977_when_gravity_s_subregions_insist_on_purity.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Entropy Dares to Be Negative</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2509_15295_when_entropy_dares_to_be_negative.html</link>
-      <description>Negative entropy in two-sided black hole calculations is rescued by non-perturbative instanton saddles, restoring positivity and consistency with quantum mechanics.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2509_15295_when_entropy_dares_to_be_negative.html</guid>
-      <category>Cosmos</category>
     </item>
   </channel>
 </rss>

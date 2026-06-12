@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 04:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:36:23 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Orbit That Moves Heat</title>
+      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12992_the_orbit_that_moves_heat.html</link>
+      <description>Electrons' orbital angular momentum, not just spin, can carry heat, as shown by a wedge-shaped CuOx film revealing a new thermal messenger.</description>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12992_the_orbit_that_moves_heat.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Jamming's Missing Identity: How Parisi and an AI Found the Proof</title>
       <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2606_03300_jamming_s_missing_identity_how_parisi_and_an_ai_found_the_proof.html</link>
@@ -65,14 +73,6 @@
       <description>By transforming laser beam spatial profiles into high-speed temporal signals, FLASH achieves beam quality measurement at 100 million frames per second.</description>
       <pubDate>Sun, 07 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06862_the_speed_of_light_s_shadow_measuring_laser_beams_at_100_mhz.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Turbulence Learns to Speak the Language of Quarks</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2511_02165_when_turbulence_learns_to_speak_the_language_of_quarks.html</link>
-      <description>A universal loop-space diffusion equation unites the chaotic swirl of turbulence with the quantum confinement of quarks, bridging two great mysteries of physics.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2511_02165_when_turbulence_learns_to_speak_the_language_of_quarks.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 04:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:36:23 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
@@ -41,22 +41,6 @@
       <description>Perfect symmetry splinters into fragments of Hilbert space, leaving an accelerating cosmos as a residual quantum echo.</description>
       <pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/09/arxiv_2604_10519_when_the_universe_s_symmetry_splinters_a_quantum_gravity_path_to_dark_energy.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Gravity's Subregions Insist on Purity</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2606_03977_when_gravity_s_subregions_insist_on_purity.html</link>
-      <description>A frozen spacetime region in the gravitational path integral yields a pure quantum state, challenging the assumption that subregions must be mixed.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2606_03977_when_gravity_s_subregions_insist_on_purity.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Entropy Dares to Be Negative</title>
-      <link>https://www.loomsci.com/pages/2026/06/07/arxiv_2509_15295_when_entropy_dares_to_be_negative.html</link>
-      <description>Negative entropy in two-sided black hole calculations is rescued by non-perturbative instanton saddles, restoring positivity and consistency with quantum mechanics.</description>
-      <pubDate>Sat, 06 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/07/arxiv_2509_15295_when_entropy_dares_to_be_negative.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>
