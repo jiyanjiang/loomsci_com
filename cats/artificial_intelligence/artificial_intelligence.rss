@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 03:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:47:00 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Urysohn Machine: When Topology Becomes Arithmetic</title>
+      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2508_14143_the_urysohn_machine_when_topology_becomes_arithmetic.html</link>
+      <description>Classification becomes the art of drawing geometric boundaries — walls that separate data regions in a metric space, with reusable frontiers that amortize the cost of learning.</description>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2508_14143_the_urysohn_machine_when_topology_becomes_arithmetic.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Can a VR Accelerometer Really Read Your Mind?</title>
       <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10502_can_a_vr_accelerometer_really_read_your_mind.html</link>

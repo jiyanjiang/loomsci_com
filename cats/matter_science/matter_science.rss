@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 03:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:47:01 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Nanophotonics Learns to Obey the Rules</title>
+      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2602_03142_when_nanophotonics_learns_to_obey_the_rules.html</link>
+      <description>A learned generative manifold enforces nanophotonic design rules from the start, yielding manufacturable devices that match or exceed conventional performance with far lower computational cost.</description>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2602_03142_when_nanophotonics_learns_to_obey_the_rules.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>The Orbit That Moves Heat</title>
       <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12992_the_orbit_that_moves_heat.html</link>
@@ -65,14 +73,6 @@
       <description>A universal grammar for symmetry-enriched topological order maps anyon braiding and symmetry actions to a complete set of rules for quantum spin liquids.</description>
       <pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/09/arxiv_2606_08558_cracking_the_code_of_symmetry_enriched_topological_order.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Speed of Light's Shadow: Measuring Laser Beams at 100 MHz</title>
-      <link>https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06862_the_speed_of_light_s_shadow_measuring_laser_beams_at_100_mhz.html</link>
-      <description>By transforming laser beam spatial profiles into high-speed temporal signals, FLASH achieves beam quality measurement at 100 million frames per second.</description>
-      <pubDate>Sun, 07 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/08/arxiv_2606_06862_the_speed_of_light_s_shadow_measuring_laser_beams_at_100_mhz.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
