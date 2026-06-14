@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 07:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 07:34:31 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Physicist's Gauntlet: Why AI Couldn’t Crack Five Percent</title>
+      <link>https://www.loomsci.com/pages/2026/06/14/arxiv_2509_26574_the_physicist_s_gauntlet_why_ai_couldn_t_crack_five_percent.html</link>
+      <description>In the CritPt benchmark, the most advanced AI systems solve just 5.7% of research-level physics problems, revealing a profound gap between pattern recognition and true scientific reasoning.</description>
+      <pubDate>Sat, 13 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/14/arxiv_2509_26574_the_physicist_s_gauntlet_why_ai_couldn_t_crack_five_percent.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Bed That Learns to Listen: BCG‑FM and Ambient Cardiac Sensing</title>
+      <link>https://www.loomsci.com/pages/2026/06/14/arxiv_2606_07692_the_bed_that_learns_to_listen_bcg_fm_and_ambient_cardiac_sensing.html</link>
+      <description>A piezoelectric sensor under the mattress captures cardiac recoil, enabling BCG-FM to learn heart signatures from three million hours of sleep data.</description>
+      <pubDate>Sat, 13 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/14/arxiv_2606_07692_the_bed_that_learns_to_listen_bcg_fm_and_ambient_cardiac_sensing.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When Data Learns to Answer ‘What If?’</title>
       <link>https://www.loomsci.com/pages/2026/06/13/arxiv_2606_07865_when_data_learns_to_answer_what_if.html</link>
@@ -49,14 +65,6 @@
       <description>A position paper demonstrates that FP8 tensor cores, with a mathematical trick based on the Chinese Remainder Theorem, can fully emulate double-precision accuracy for HPC simulations.</description>
       <pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/09/arxiv_2606_06510_when_fp8_storms_the_holy_grail_of_precision.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Agents in the Labyrinth: Unlocking a Faster Nuclear Future</title>
-      <link>https://www.loomsci.com/pages/2026/06/09/arxiv_2606_07866_agents_in_the_labyrinth_unlocking_a_faster_nuclear_future.html</link>
-      <description>AI agents navigate a regulatory labyrinth of paperwork, cutting nuclear reactor licensing from years to months while preserving safety oversight.</description>
-      <pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/09/arxiv_2606_07866_agents_in_the_labyrinth_unlocking_a_faster_nuclear_future.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>
