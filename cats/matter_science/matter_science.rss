@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 07:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:43:35 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Teaching Atoms to Bond: A Molecular Hand for Mechanosynthesis</title>
+      <link>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13876_teaching_atoms_to_bond_a_molecular_hand_for_mechanosynthesis.html</link>
+      <description>A molecular tool on an STM tip donates carbon atoms to or abstracts silicon atoms from a surface, enabling atom-by-atom mechanosynthesis.</description>
+      <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13876_teaching_atoms_to_bond_a_molecular_hand_for_mechanosynthesis.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Steering the Unsteerable: AI Learns to Control Liquid Crystal Defects</title>
+      <link>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13721_steering_the_unsteerable_ai_learns_to_control_liquid_crystal_defects.html</link>
+      <description>A deep reinforcement learning agent learns to steer a self-propelled topological defect through a microfluidic maze, revealing hidden rules of active nematics.</description>
+      <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13721_steering_the_unsteerable_ai_learns_to_control_liquid_crystal_defects.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>When a Language Model Learns to Read Its Own Homework</title>
       <link>https://www.loomsci.com/pages/2026/06/14/arxiv_2606_09520_when_a_language_model_learns_to_read_its_own_homework.html</link>
@@ -81,14 +97,6 @@
       <description>Electromagnetic noise from a moving hot plasma, decoded via cross-spectral ratios, reveals both rest-frame temperature and drift velocity as a true four-vector.</description>
       <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2602_16765_reconstructing_the_four_vector_of_heat_from_noise_alone.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Cracking the Code of Symmetry-Enriched Topological Order</title>
-      <link>https://www.loomsci.com/pages/2026/06/09/arxiv_2606_08558_cracking_the_code_of_symmetry_enriched_topological_order.html</link>
-      <description>A universal grammar for symmetry-enriched topological order maps anyon braiding and symmetry actions to a complete set of rules for quantum spin liquids.</description>
-      <pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/09/arxiv_2606_08558_cracking_the_code_of_symmetry_enriched_topological_order.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

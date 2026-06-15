@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 07:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:43:35 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Language That Teaches Algorithms to Converge</title>
+      <link>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_14289_the_language_that_teaches_algorithms_to_converge.html</link>
+      <description>A single partial differential equation emerges from the operators of mutation, selection, and recombination, unifying optimization algorithms into a modular convergence proof.</description>
+      <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_14289_the_language_that_teaches_algorithms_to_converge.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>Solving the Critical LYZ Equation: A Breakthrough in Kähler Geometry</title>
       <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2511_21492_solving_the_critical_lyz_equation_a_breakthrough_in_k_hler_geometry.html</link>
@@ -25,14 +33,6 @@
       <description>The Brownian sphere, a canonical random fractal surface, is quasisymmetrically rigid — it cannot be nontrivially deformed into itself, a result proven by Miller and Tian.</description>
       <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10973_the_random_fractal_that_cannot_be_warped_brownian_sphere_s_quasisymmetric_rigidi.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>The Shape That Refused to Simplify: How a Tiny Matroid Brought Down a 25‑Year‑Old Conjecture</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_11014_the_shape_that_refused_to_simplify_how_a_tiny_matroid_brought_down_a_25_year_old.html</link>
-      <description>The Fano matroid's base polytope refuses all regular unimodular flag triangulations, toppling the 2002 Herzog-Hibi conjecture.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_11014_the_shape_that_refused_to_simplify_how_a_tiny_matroid_brought_down_a_25_year_old.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>

@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 07:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:43:35 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>A Trillion Atoms Learn to Dance: Exascale Skyrmion Simulation</title>
+      <link>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_14073_a_trillion_atoms_learn_to_dance_exascale_skyrmion_simulation.html</link>
+      <description>A trillion‑atom simulation tracks magnetic skyrmions forming from thermal chaos, revealing the atomic‑scale dance of spins and lattice vibrations at 160 kelvin.</description>
+      <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_14073_a_trillion_atoms_learn_to_dance_exascale_skyrmion_simulation.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>The Physicist's Gauntlet: Why AI Couldn’t Crack Five Percent</title>
       <link>https://www.loomsci.com/pages/2026/06/14/arxiv_2509_26574_the_physicist_s_gauntlet_why_ai_couldn_t_crack_five_percent.html</link>
@@ -57,14 +65,6 @@
       <description>Commercial VR sensors pick up tiny pupil-induced vibrations, allowing machine learning to reconstruct what a user sees — a new privacy vulnerability.</description>
       <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10502_can_a_vr_accelerometer_really_read_your_mind.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When FP8 Storms the Holy Grail of Precision</title>
-      <link>https://www.loomsci.com/pages/2026/06/09/arxiv_2606_06510_when_fp8_storms_the_holy_grail_of_precision.html</link>
-      <description>A position paper demonstrates that FP8 tensor cores, with a mathematical trick based on the Chinese Remainder Theorem, can fully emulate double-precision accuracy for HPC simulations.</description>
-      <pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/09/arxiv_2606_06510_when_fp8_storms_the_holy_grail_of_precision.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

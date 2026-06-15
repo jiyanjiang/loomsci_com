@@ -2,117 +2,141 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.loomsci.com/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/2.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/3.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/4.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/5.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/6.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/7.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/8.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/page/9.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/quantum_physics/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/artificial_intelligence/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/bioscience/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/cosmos/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/mathematics/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/matter_science/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/people/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/cats/other_sciences/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/about.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/policy.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13876_teaching_atoms_to_bond_a_molecular_hand_for_mechanosynthesis.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_14073_a_trillion_atoms_learn_to_dance_exascale_skyrmion_simulation.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13721_steering_the_unsteerable_ai_learns_to_control_liquid_crystal_defects.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_14289_the_language_that_teaches_algorithms_to_converge.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.loomsci.com/pages/2026/06/14/arxiv_2509_26574_the_physicist_s_gauntlet_why_ai_couldn_t_crack_five_percent.html</loc>
