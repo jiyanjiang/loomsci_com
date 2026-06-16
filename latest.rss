@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 05:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:53:30 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Learning to Generate Rare Events from Topological Fingerprints</title>
+      <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_15452_learning_to_generate_rare_events_from_topological_fingerprints.html</link>
+      <description>A neural network learns to generate realistic rare events by reading the hidden topological fingerprints—like loops and voids—in data's persistent homology.</description>
+      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/16/arxiv_2606_15452_learning_to_generate_rare_events_from_topological_fingerprints.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Depth That Divides: Why Every Layer of a Quantum Circuit Matters</title>
+      <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16425_the_depth_that_divides_why_every_layer_of_a_quantum_circuit_matters.html</link>
+      <description>A new hierarchy theorem proves that each additional layer of quantum gates unlocks fundamentally harder computational problems, not just gradual improvement.</description>
+      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16425_the_depth_that_divides_why_every_layer_of_a_quantum_circuit_matters.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Mapping the Seven Phases of Anderson Localization</title>
+      <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_14825_mapping_the_seven_phases_of_anderson_localization.html</link>
+      <description>Scientists map all seven transport phases of Anderson localization within a single photonic Floquet lattice, including the elusive triple coexistence of extended, critical, and localized states.</description>
+      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/16/arxiv_2606_14825_mapping_the_seven_phases_of_anderson_localization.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>What If a Space Is Not a Set of Points, but a Stack of Possibilities?</title>
+      <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16949_what_if_a_space_is_not_a_set_of_points_but_a_stack_of_possibilities.html</link>
+      <description>Noncommutative algebras reconstruct geometry as a stack of overlapping commutative perspectives, where each local window glues into a coherent atlas of quantum possibilities.</description>
+      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16949_what_if_a_space_is_not_a_set_of_points_but_a_stack_of_possibilities.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>Teaching Atoms to Bond: A Molecular Hand for Mechanosynthesis</title>
       <link>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13876_teaching_atoms_to_bond_a_molecular_hand_for_mechanosynthesis.html</link>
@@ -218,38 +250,6 @@
       <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2602_16765_reconstructing_the_four_vector_of_heat_from_noise_alone.html</guid>
       <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Can a VR Accelerometer Really Read Your Mind?</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10502_can_a_vr_accelerometer_really_read_your_mind.html</link>
-      <description>Commercial VR sensors pick up tiny pupil-induced vibrations, allowing machine learning to reconstruct what a user sees — a new privacy vulnerability.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10502_can_a_vr_accelerometer_really_read_your_mind.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Eavesdropping on Water’s Heavy Twin in a Distant Disk</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10888_eavesdropping_on_water_s_heavy_twin_in_a_distant_disk.html</link>
-      <description>For the first time, semi-heavy water ice is detected in a planet-forming disk, revealing a crucial chapter in water's cosmic journey.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10888_eavesdropping_on_water_s_heavy_twin_in_a_distant_disk.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>A White Dwarf's Final Breath: Forging the Heaviest Elements</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2602_21291_a_white_dwarf_s_final_breath_forging_the_heaviest_elements.html</link>
-      <description>A magnetized white dwarf collapses into a neutron star, ejecting neutron-rich material that forges heavy elements like gold and uranium in a kilonova-like event.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2602_21291_a_white_dwarf_s_final_breath_forging_the_heaviest_elements.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>The Random Fractal That Cannot Be Warped: Brownian Sphere's Quasisymmetric Rigidity</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10973_the_random_fractal_that_cannot_be_warped_brownian_sphere_s_quasisymmetric_rigidi.html</link>
-      <description>The Brownian sphere, a canonical random fractal surface, is quasisymmetrically rigid — it cannot be nontrivially deformed into itself, a result proven by Miller and Tian.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_10973_the_random_fractal_that_cannot_be_warped_brownian_sphere_s_quasisymmetric_rigidi.html</guid>
-      <category>Mathematics</category>
     </item>
   </channel>
 </rss>
