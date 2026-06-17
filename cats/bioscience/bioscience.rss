@@ -7,17 +7,9 @@
     <link>https://www.loomsci.com/cats/bioscience/</link>
     <description>Latest Biological Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:41:14 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/bioscience/bioscience.rss"
                rel="self"
                type="application/rss+xml" />
-    <item>
-      <title>Evolution Learning to Wait: The Inverse-Time Law of Recovery</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09040_evolution_learning_to_wait_the_inverse_time_law_of_recovery.html</link>
-      <description>Post-catastrophe evolution obeys an inverse-time law, with fitness recovery rate set by the number of independent traits under selection.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09040_evolution_learning_to_wait_the_inverse_time_law_of_recovery.html</guid>
-      <category>Biological Science</category>
-    </item>
   </channel>
 </rss>

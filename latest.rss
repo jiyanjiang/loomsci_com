@@ -7,10 +7,50 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:41:14 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When the Judge Is on Trial: Second-Order Bias in Language Models</title>
+      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17506_when_the_judge_is_on_trial_second_order_bias_in_language_models.html</link>
+      <description>When a machine is asked to judge bias, its own internal social map may tip the scales—second-order bias hides in the act of judgment itself.</description>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17506_when_the_judge_is_on_trial_second_order_bias_in_language_models.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Escaping the Incentive Collapse: Why AI Must Learn to Stumble</title>
+      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2603_27049_escaping_the_incentive_collapse_why_ai_must_learn_to_stumble.html</link>
+      <description>To prevent humans from passively trusting perfect AI, researchers propose injecting deliberate errors—"sentinels"—that reward vigilance, breaking the incentive collapse.</description>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2603_27049_escaping_the_incentive_collapse_why_ai_must_learn_to_stumble.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>How Cosmic Neutrinos Could Decide the Nature of Neutrinos</title>
+      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17132_how_cosmic_neutrinos_could_decide_the_nature_of_neutrinos.html</link>
+      <description>By comparing neutrino flavors from cosmic sources with heavy neutral lepton decays in a fixed-target experiment, physicists can reveal if neutrinos are their own antiparticles.</description>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17132_how_cosmic_neutrinos_could_decide_the_nature_of_neutrinos.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>When Hydrogen's Simplest Electron Refuses to Quench</title>
+      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17902_when_hydrogen_s_simplest_electron_refuses_to_quench.html</link>
+      <description>A hydrogen atom’s electron remains unpaired inside a boron-nitride cage, enabling ferromagnetism from s-electrons in a designed crystal.</description>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17902_when_hydrogen_s_simplest_electron_refuses_to_quench.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Reaching the Shattering Threshold in Uncrowded Hypergraphs</title>
+      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_18048_reaching_the_shattering_threshold_in_uncrowded_hypergraphs.html</link>
+      <description>The shattering threshold transforms a connected hypergraph into isolated frozen clusters, revealing the precise independence number that bridges combinatorics and statistical physics.</description>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_18048_reaching_the_shattering_threshold_in_uncrowded_hypergraphs.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>Learning to Generate Rare Events from Topological Fingerprints</title>
       <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_15452_learning_to_generate_rare_events_from_topological_fingerprints.html</link>
@@ -209,46 +249,6 @@
       <description>A Bose-Einstein condensate spontaneously synchronizes its internal rotation with its orbital motion, demonstrating quantum tidal locking on a microscopic scale.</description>
       <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2606_11919_quantum_tidal_locking_when_a_cloud_of_atoms_spins_in_sync.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When an Ice Piston Slams into a Canyon</title>
-      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2411_08219_when_an_ice_piston_slams_into_a_canyon.html</link>
-      <description>A building-sized ice piston, formed by explosive ice splintering in a thunderstorm, slams into a canyon floor, leaving a clean bedrock scar.</description>
-      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2411_08219_when_an_ice_piston_slams_into_a_canyon.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Evolution Learning to Wait: The Inverse-Time Law of Recovery</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09040_evolution_learning_to_wait_the_inverse_time_law_of_recovery.html</link>
-      <description>Post-catastrophe evolution obeys an inverse-time law, with fitness recovery rate set by the number of independent traits under selection.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09040_evolution_learning_to_wait_the_inverse_time_law_of_recovery.html</guid>
-      <category>Biological Science</category>
-    </item>
-    <item>
-      <title>Learning Without Local Minima: Gauge Freedom Makes Matrix Product States Trainable</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09988_learning_without_local_minima_gauge_freedom_makes_matrix_product_states_trainabl.html</link>
-      <description>Gauge freedom in matrix product states creates a smooth energy landscape, eliminating poor local minima and enabling reliable quantum training.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09988_learning_without_local_minima_gauge_freedom_makes_matrix_product_states_trainabl.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Topology Learns to Dance: A Quantum Walk Through the Shape of Data</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2404_15407_when_topology_learns_to_dance_a_quantum_walk_through_the_shape_of_data.html</link>
-      <description>A quantum walker dances through a simplicial complex, using coherent interference to reveal hidden topological holes in high-dimensional data.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2404_15407_when_topology_learns_to_dance_a_quantum_walk_through_the_shape_of_data.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Reconstructing the Four‑Vector of Heat from Noise Alone</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2602_16765_reconstructing_the_four_vector_of_heat_from_noise_alone.html</link>
-      <description>Electromagnetic noise from a moving hot plasma, decoded via cross-spectral ratios, reveals both rest-frame temperature and drift velocity as a true four-vector.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2602_16765_reconstructing_the_four_vector_of_heat_from_noise_alone.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

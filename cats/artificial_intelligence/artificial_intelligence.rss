@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:41:14 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When the Judge Is on Trial: Second-Order Bias in Language Models</title>
+      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17506_when_the_judge_is_on_trial_second_order_bias_in_language_models.html</link>
+      <description>When a machine is asked to judge bias, its own internal social map may tip the scales—second-order bias hides in the act of judgment itself.</description>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17506_when_the_judge_is_on_trial_second_order_bias_in_language_models.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Escaping the Incentive Collapse: Why AI Must Learn to Stumble</title>
+      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2603_27049_escaping_the_incentive_collapse_why_ai_must_learn_to_stumble.html</link>
+      <description>To prevent humans from passively trusting perfect AI, researchers propose injecting deliberate errors—"sentinels"—that reward vigilance, breaking the incentive collapse.</description>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2603_27049_escaping_the_incentive_collapse_why_ai_must_learn_to_stumble.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Learning to Generate Rare Events from Topological Fingerprints</title>
       <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_15452_learning_to_generate_rare_events_from_topological_fingerprints.html</link>

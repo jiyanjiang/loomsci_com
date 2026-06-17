@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:41:14 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Reaching the Shattering Threshold in Uncrowded Hypergraphs</title>
+      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_18048_reaching_the_shattering_threshold_in_uncrowded_hypergraphs.html</link>
+      <description>The shattering threshold transforms a connected hypergraph into isolated frozen clusters, revealing the precise independence number that bridges combinatorics and statistical physics.</description>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_18048_reaching_the_shattering_threshold_in_uncrowded_hypergraphs.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>What If a Space Is Not a Set of Points, but a Stack of Possibilities?</title>
       <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16949_what_if_a_space_is_not_a_set_of_points_but_a_stack_of_possibilities.html</link>

@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:41:14 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -41,22 +41,6 @@
       <description>An atomic force microscope tip controls quantum vibrations in a carbon nanotube, enabling quantum state preparation and tomography without lasers.</description>
       <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2509_01858_when_a_carbon_nanotube_learns_to_dance_quantum_mechanics.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>Learning Without Local Minima: Gauge Freedom Makes Matrix Product States Trainable</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09988_learning_without_local_minima_gauge_freedom_makes_matrix_product_states_trainabl.html</link>
-      <description>Gauge freedom in matrix product states creates a smooth energy landscape, eliminating poor local minima and enabling reliable quantum training.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2606_09988_learning_without_local_minima_gauge_freedom_makes_matrix_product_states_trainabl.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>When Topology Learns to Dance: A Quantum Walk Through the Shape of Data</title>
-      <link>https://www.loomsci.com/pages/2026/06/10/arxiv_2404_15407_when_topology_learns_to_dance_a_quantum_walk_through_the_shape_of_data.html</link>
-      <description>A quantum walker dances through a simplicial complex, using coherent interference to reveal hidden topological holes in high-dimensional data.</description>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/10/arxiv_2404_15407_when_topology_learns_to_dance_a_quantum_walk_through_the_shape_of_data.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

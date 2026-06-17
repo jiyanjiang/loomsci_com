@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="When a machine is asked to judge bias, its own internal social map may tip the scales—second-order bias hides in the act of judgment itself.">
+<meta property="og:title" content="When the Judge Is on Trial: Second-Order Bias in Language Models">
+<meta property="og:description" content="When a machine is asked to judge bias, its own internal social map may tip the scales—second-order bias hides in the act of judgment itself.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17506_when_the_judge_is_on_trial_second_order_bias_in_language_models.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/06/17/arxiv_2606_17506.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="When the Judge Is on Trial: Second-Order Bias in Language Models">
+<meta name="twitter:description" content="When a machine is asked to judge bias, its own internal social map may tip the scales—second-order bias hides in the act of judgment itself.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/06/17/arxiv_2606_17506.jpg">
+
+
+  <title>When the Judge Is on Trial: Second-Order Bias in Language Models — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">When the Judge Is on Trial: Second-Order Bias in Language Models</h1>
+
+  <div class="article-meta">
+    
+    <span>June 17, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2606.17506</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/06/17/arxiv_2606_17506.jpg" alt="When a machine is asked to judge bias, its own internal social map may tip the scales—second-order bias hides in the act of judgment itself." />
+    
+    <figcaption class="article-hero-caption">When a machine is asked to judge bias, its own internal social map may tip the scales—second-order bias hides in the act of judgment itself.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>What happens when we ask a machine to judge whether something is biased, and the judge itself is contaminated? Most evaluations of fairness in large language models focus on what a model <em>says</em>—whether it spits out racist text or perpetuates stereotypes. But a quieter, more unsettling question lurks in the background: what kind of bias hides in the act of judgment itself, when a model is asked to assess bias rather than produce it? A preprint (arXiv:2606.17506) from a team led by Syed Ishtiaque Ahmed at the University of Toronto, working with colleagues at the Vector Institute, EuroSafeAI, and the Max Planck Institute for Intelligent Systems in Tübingen, drags that question into the light and gives it a name: second-order bias.</p>
+<p>Imagine a courtroom where the judge, before hearing a single fact, already knows—or thinks she knows—who the defendant is, not from the case file but from a hidden map of social likelihoods painted by the data she was trained on. That mental map is not a product of malice; it is the ghost of every pattern the model ever absorbed. And when that judge is asked to rule on the acceptability of a biased statement such as “Women are bad drivers,” the map begins to whisper. The epistemically honest answer, the team argues, is a simple “Unknown,” because we have no information about the intended audience or the speaker. Yet the language models, over and over, offered a name. They inferred a demographic, filling the epistemic void with a statistical guess.</p>
+<p>This is the core of the study. Drawing on entitlement epistemology—a philosophical tradition that treats knowledge as grounded in what a person is entitled to believe—the researchers conceptualize bias not as a property of explicit content but as misplaced foundational knowledge. As they write, bias is “misplaced foundational knowledge that shapes an agent’s rational inquiry.” The agent, in this case, is a language model. And the inquiry is: to whom would a biased text be acceptable? Without any demographic scaffolding, the model should remain agnostic. Any move beyond “Unknown” is a claim of entitlement to knowledge the model does not possess, a glimpse of a shadowy second-order bias: the bias in <em>judging</em> bias.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Epistemic Entitlement (<em>People are generally trustworthy</em>)</th>
+<th>Misplaced Epistemic Entitlement (<em>Only people from group A are generally trustworthy</em>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Observable evidence</strong></td>
+<td>It appears person S kept their promise</td>
+<td>It appears person S from group A kept their promise</td>
+</tr>
+<tr>
+<td><strong>Ordinary empirical claim</strong></td>
+<td>Person S is trustworthy</td>
+<td>Person S from group A is trustworthy</td>
+</tr>
+<tr>
+<td><strong>Cornerstone proposition</strong></td>
+<td>People are generally trustworthy</td>
+<td>Only people from group A are generally trustworthy</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Justified reasoning relies on a necessary assumption; misplaced reasoning does not. This difference explains how language models may reach unwarranted conclusions. (Source: arXiv:2606.17506)</p>
+</blockquote>
+<p>The team designed a deceptively simple reasoning task. They gave models a series of biased statements, stripped of context, and asked them to decide, under logical conditions, whether any particular group would find each statement acceptable. Because no demographic information was supplied, the only warranted answer is “Unknown.” If a model instead answered “men” or “a certain ethnic group,” that inference reflected what the team calls “misplaced entitlement”—the model’s own internal social map tipping the scales. The results were both subtle and systematic. Across open and closed models, the researchers observed that models frequently inferred a target demographic, and that the inferences varied in consistent ways depending on the group being targeted. A metric they developed, a score capturing how specifically the model locates a social group, revealed that some groups triggered more granular—and thus more biased—judgments. The pattern, in essence, traced the contours of an invisible social cartography embedded in the model’s training data.</p>
+<p><img alt="fig1" src="/images/2026/06/17/arxiv_2606_17506_fig_1.jpg"></p>
+<blockquote>
+<p>A model's unbiased answer is "Unknown" when no demographic clues exist, but guessing a demographic reveals hidden bias. This test exposes how language models make unwarranted assumptions about who would accept biased statements. (Source: arXiv:2606.17506)</p>
+</blockquote>
+<p>What makes second-order bias so slippery is that it hides just beneath the radar of conventional safety mechanisms. When a model is asked to generate a sexist joke, its safety guardrails are trained to block the output. But when the model is asked to judge whether a sexist joke would be acceptable, the question itself does not violate content policies. It is a meta-question, and guardrails, tuned to the surface level, let it pass. The team found that their task consistently evaded safety filters, surfacing biases that would have been scrubbed from explicit generation. The judge, in short, was given a free pass, and the courtroom of evaluation became a mirror of the judge’s own prejudices.</p>
+<p>And yet the courtroom itself is built on contested ground. An important question raised by earlier work on LLM judging bias—such as the empirical study by Wang et al. (arXiv:2504.09946) on assessing judging bias in reasoning models, and the work by Jahara et al. (arXiv:2511.06160) on implicit biases in logic puzzles—is whether the answer “Unknown” truly indicates an unbiased, epistemically clean baseline. Models are statistical creatures, trained on patterns of co‑occurrence that are inflected, at every turn, by the real distributions of human society. A model might default to “Unknown” not because it is exercising epistemic caution, but because it has learned, from thousands of examples, that demurral is a safe move when demographic information is absent. The distinction between warranted agnosticism and mere statistical prudence is a gulf, and the paper’s framework—though it opens the door to measuring second-order bias—does not yet fully bridge it. The team acknowledges this limitation, but the conflation between epistemic warrant and statistical association remains an open wound at the heart of the method.</p>
+<p>A related challenge concerns the absence of a control condition using neutral texts. Without such a baseline, it is difficult to separate second-order bias from a more general reasoning failure: perhaps the models are simply bad at dealing with underdetermined queries, regardless of the biased content. The study’s own adversarial dialogues with prior literature underscore these concerns. Liu’s examination of whether LLMs align with human values when judging social biases (arXiv:2509.13869) hints that models may not share our normative commitments even when they appear to mimic them. When the judge’s verdict aligns with a human standard, is that alignment, or just a convergence of two different, tainted maps?</p>
+<p>These tensions do not weaken the paper so much as they sharpen its most enduring provocation. To infer who is likely to find a statement acceptable is, in a world punctuated by structural inequality, not an entirely unreasonable thing to do. The very cognitive machinery that lets us navigate a patterned social world is the same machinery that, when applied rigidly and without reflection, produces stereotyping. The fine line between warranted inference and unwarranted bias is one that human judges—and now machine judges—must walk every day. The study’s philosophical grounding forces us to confront the uncomfortable prospect that an LLM trained on human text may never fully escape the implicit social map it has internalized. Can we ever design an unbiased judge without a deep understanding of social structures, or is the very notion of epistemic purity a fantasy?</p>
+<p>This is not a weakness of the research; it is the shape of a deeper intellectual challenge. The study leaves us not with a tidy metric or a quick fix, but with a clearer picture of the problem. It asks us to be more careful about what we demand of AI judges, and more honest about the shadows that creep into any system that reasons about people. In the ethics of artificial intelligence, sometimes the most valuable step is to name the bias we didn’t know we were looking for. This paper does precisely that—and in doing so, it puts the judge itself on trial, perhaps forever.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Kommiya Mothilal <em>et al.</em>, Evaluating Second-Order Bias of LLMs Through Epistemic Entitlement, arXiv:2606.17506</li>
+<li>Wang <em>et al.</em>, Assessing Judging Bias in Large Reasoning Models: An Empirical Study, arXiv:2504.09946</li>
+<li>Jahara <em>et al.</em>, Evaluating Implicit Biases in LLM Reasoning through Logic Grid Puzzles, arXiv:2511.06160</li>
+<li>Liu <em>et al.</em>, Do LLMs Align Human Values Regarding Social Biases? Judging and Explaining Social Biases with LLMs, arXiv:2509.13869</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>
