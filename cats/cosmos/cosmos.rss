@@ -7,24 +7,32 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:01:42 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Cathedral Built from Sand: How a Simple Fermion Model May Weave Spacetime Itself</title>
+      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2603_27824_the_cathedral_built_from_sand_how_a_simple_fermion_model_may_weave_spacetime_its.html</link>
+      <description>From a simple line of interacting fermions, the competition between spin-0 and spin-1 condensates sculpts the curved spacetime of AdS₃, birthing gravity from humble quantum sand.</description>
+      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2603_27824_the_cathedral_built_from_sand_how_a_simple_fermion_model_may_weave_spacetime_its.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>The Tower of Zeta: Black Holes' Hidden Tidal Code</title>
+      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19281_the_tower_of_zeta_black_holes_hidden_tidal_code.html</link>
+      <description>Solon's closed-form formula reveals the hidden tidal code of black holes, where dynamical Love numbers are tied to a universal tower of zeta values.</description>
+      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19281_the_tower_of_zeta_black_holes_hidden_tidal_code.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>How Cosmic Neutrinos Could Decide the Nature of Neutrinos</title>
       <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17132_how_cosmic_neutrinos_could_decide_the_nature_of_neutrinos.html</link>
       <description>By comparing neutrino flavors from cosmic sources with heavy neutral lepton decays in a fixed-target experiment, physicists can reveal if neutrinos are their own antiparticles.</description>
       <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17132_how_cosmic_neutrinos_could_decide_the_nature_of_neutrinos.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When Neutron Stars Collide: Listening for the Heart of Matter</title>
-      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2503_23047_when_neutron_stars_collide_listening_for_the_heart_of_matter.html</link>
-      <description>Gravitational waves from merging neutron stars reveal hidden phase transitions inside their ultra-dense cores.</description>
-      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2503_23047_when_neutron_stars_collide_listening_for_the_heart_of_matter.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

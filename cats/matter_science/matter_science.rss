@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:01:42 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>A Gentle Squash Unravels Helices: The Hidden Grammar of Packing in Imperfect Tubes</title>
+      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19082_a_gentle_squash_unravels_helices_the_hidden_grammar_of_packing_in_imperfect_tube.html</link>
+      <description>Even a slight squash of a cylindrical tube disrupts perfect helices, forcing hard spheres into complex patterns with alternating chirality.</description>
+      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19082_a_gentle_squash_unravels_helices_the_hidden_grammar_of_packing_in_imperfect_tube.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>The Soliton That Learns to Tunnel: How Quantum Chirality Hides in Spin Chains</title>
+      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2512_08220_the_soliton_that_learns_to_tunnel_how_quantum_chirality_hides_in_spin_chains.html</link>
+      <description>A chiral soliton in a quantum spin chain tunnels between lattice sites, its hopping amplitude governed by a topological Berry phase that alternates with spin parity.</description>
+      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2512_08220_the_soliton_that_learns_to_tunnel_how_quantum_chirality_hides_in_spin_chains.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>When Hydrogen's Simplest Electron Refuses to Quench</title>
       <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17902_when_hydrogen_s_simplest_electron_refuses_to_quench.html</link>
@@ -65,38 +81,6 @@
       <description>A learned generative manifold enforces nanophotonic design rules from the start, yielding manufacturable devices that match or exceed conventional performance with far lower computational cost.</description>
       <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2602_03142_when_nanophotonics_learns_to_obey_the_rules.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Orbit That Moves Heat</title>
-      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12992_the_orbit_that_moves_heat.html</link>
-      <description>Electrons' orbital angular momentum, not just spin, can carry heat, as shown by a wedge-shaped CuOx film revealing a new thermal messenger.</description>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12992_the_orbit_that_moves_heat.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Jamming's Missing Identity: How Parisi and an AI Found the Proof</title>
-      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2606_03300_jamming_s_missing_identity_how_parisi_and_an_ai_found_the_proof.html</link>
-      <description>A proof linking the gap and force exponents in jammed glass was found by Parisi and Zamponi, aided by an AI language model.</description>
-      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2606_03300_jamming_s_missing_identity_how_parisi_and_an_ai_found_the_proof.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Building a Pfaffian State with Ultracold Rubidium Atoms</title>
-      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2606_12409_building_a_pfaffian_state_with_ultracold_rubidium_atoms.html</link>
-      <description>Three ultracold rubidium atoms in an optical lattice form a Pfaffian quantum Hall state, a long-sought topological phase that could enable fault-tolerant quantum computation.</description>
-      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2606_12409_building_a_pfaffian_state_with_ultracold_rubidium_atoms.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Quantum Tidal Locking: When a Cloud of Atoms Spins in Sync</title>
-      <link>https://www.loomsci.com/pages/2026/06/11/arxiv_2606_11919_quantum_tidal_locking_when_a_cloud_of_atoms_spins_in_sync.html</link>
-      <description>A Bose-Einstein condensate spontaneously synchronizes its internal rotation with its orbital motion, demonstrating quantum tidal locking on a microscopic scale.</description>
-      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/11/arxiv_2606_11919_quantum_tidal_locking_when_a_cloud_of_atoms_spins_in_sync.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
