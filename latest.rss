@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:28:17 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>A Quantum Emitter Teaches Optical Networks to Think</title>
+      <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2601_01690_a_quantum_emitter_teaches_optical_networks_to_think.html</link>
+      <description>The rapid scaling of deep neural networks comes at the cost of unsustainable power consumption. While optical neural networks offer an alternative, their capabilities remain constrained by the lack of efficient optical nonlinearities. To address this, we propose an ...</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/19/arxiv_2601_01690_a_quantum_emitter_teaches_optical_networks_to_think.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>The Optical Fibre Learns to Cancel Its Own Echoes</title>
+      <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2606_19724_the_optical_fibre_learns_to_cancel_its_own_echoes.html</link>
+      <description>A new CP-OFDM waveform cancels spatial inter-symbol interference in distributed acoustic sensing, eliminating phantom echoes from Rayleigh backscattered light.</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/19/arxiv_2606_19724_the_optical_fibre_learns_to_cancel_its_own_echoes.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>The Trampoline That Catches Light: A Record-Breaking Photonic Crystal Lightsail</title>
+      <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2606_20149_the_trampoline_that_catches_light_a_record_breaking_photonic_crystal_lightsail.html</link>
+      <description>A 200-nanometer-thick photonic crystal membrane deflects more than a micrometer under the pure radiation pressure of a near-infrared laser, setting a record for lightsail optomechanics.</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/19/arxiv_2606_20149_the_trampoline_that_catches_light_a_record_breaking_photonic_crystal_lightsail.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>The Cathedral Built from Sand: How a Simple Fermion Model May Weave Spacetime Itself</title>
       <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2603_27824_the_cathedral_built_from_sand_how_a_simple_fermion_model_may_weave_spacetime_its.html</link>
@@ -226,30 +250,6 @@
       <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2508_14143_the_urysohn_machine_when_topology_becomes_arithmetic.html</guid>
       <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Nanophotonics Learns to Obey the Rules</title>
-      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2602_03142_when_nanophotonics_learns_to_obey_the_rules.html</link>
-      <description>A learned generative manifold enforces nanophotonic design rules from the start, yielding manufacturable devices that match or exceed conventional performance with far lower computational cost.</description>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2602_03142_when_nanophotonics_learns_to_obey_the_rules.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Solving the Critical LYZ Equation: A Breakthrough in Kähler Geometry</title>
-      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2511_21492_solving_the_critical_lyz_equation_a_breakthrough_in_k_hler_geometry.html</link>
-      <description>A narrow ridge of critical phase in Kähler geometry is finally crossed, building a bridge of theorems across a degenerate slope.</description>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2511_21492_solving_the_critical_lyz_equation_a_breakthrough_in_k_hler_geometry.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>The Quantum Computer That Doesn't Need to Be Cold</title>
-      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12968_the_quantum_computer_that_doesn_t_need_to_be_cold.html</link>
-      <description>Apollo, a 10,000-node processor built in standard CMOS, runs quantum-inspired optimization at room temperature using probabilistic p-qubits and genuine quantum entropy.</description>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12968_the_quantum_computer_that_doesn_t_need_to_be_cold.html</guid>
-      <category>Quantum Physics</category>
     </item>
   </channel>
 </rss>

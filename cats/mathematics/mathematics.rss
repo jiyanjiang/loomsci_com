@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:28:17 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -41,14 +41,6 @@
       <description>A single partial differential equation emerges from the operators of mutation, selection, and recombination, unifying optimization algorithms into a modular convergence proof.</description>
       <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_14289_the_language_that_teaches_algorithms_to_converge.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>Solving the Critical LYZ Equation: A Breakthrough in Kähler Geometry</title>
-      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2511_21492_solving_the_critical_lyz_equation_a_breakthrough_in_k_hler_geometry.html</link>
-      <description>A narrow ridge of critical phase in Kähler geometry is finally crossed, building a bridge of theorems across a degenerate slope.</description>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2511_21492_solving_the_critical_lyz_equation_a_breakthrough_in_k_hler_geometry.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>

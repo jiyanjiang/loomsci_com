@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:28:17 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>A Quantum Emitter Teaches Optical Networks to Think</title>
+      <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2601_01690_a_quantum_emitter_teaches_optical_networks_to_think.html</link>
+      <description>The rapid scaling of deep neural networks comes at the cost of unsustainable power consumption. While optical neural networks offer an alternative, their capabilities remain constrained by the lack of efficient optical nonlinearities. To address this, we propose an ...</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/19/arxiv_2601_01690_a_quantum_emitter_teaches_optical_networks_to_think.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>The Trampoline That Catches Light: A Record-Breaking Photonic Crystal Lightsail</title>
+      <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2606_20149_the_trampoline_that_catches_light_a_record_breaking_photonic_crystal_lightsail.html</link>
+      <description>A 200-nanometer-thick photonic crystal membrane deflects more than a micrometer under the pure radiation pressure of a near-infrared laser, setting a record for lightsail optomechanics.</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/19/arxiv_2606_20149_the_trampoline_that_catches_light_a_record_breaking_photonic_crystal_lightsail.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>A Gentle Squash Unravels Helices: The Hidden Grammar of Packing in Imperfect Tubes</title>
       <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19082_a_gentle_squash_unravels_helices_the_hidden_grammar_of_packing_in_imperfect_tube.html</link>
@@ -73,14 +89,6 @@
       <description>A photonic chip emulates curved anti-de Sitter spacetime, where a light beam's geodesic sway and rapid Zitterbewegung trembling reveal Dirac dynamics in a fabricated geometry.</description>
       <pubDate>Fri, 12 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/13/arxiv_2606_09501_light_caught_trembling_in_a_curved_spacetime_on_a_chip.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Nanophotonics Learns to Obey the Rules</title>
-      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2602_03142_when_nanophotonics_learns_to_obey_the_rules.html</link>
-      <description>A learned generative manifold enforces nanophotonic design rules from the start, yielding manufacturable devices that match or exceed conventional performance with far lower computational cost.</description>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2602_03142_when_nanophotonics_learns_to_obey_the_rules.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

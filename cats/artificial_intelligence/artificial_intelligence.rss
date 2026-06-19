@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:28:17 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The Optical Fibre Learns to Cancel Its Own Echoes</title>
+      <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2606_19724_the_optical_fibre_learns_to_cancel_its_own_echoes.html</link>
+      <description>A new CP-OFDM waveform cancels spatial inter-symbol interference in distributed acoustic sensing, eliminating phantom echoes from Rayleigh backscattered light.</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/19/arxiv_2606_19724_the_optical_fibre_learns_to_cancel_its_own_echoes.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>When Robots Learn to Plan in Chapters</title>
       <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2604_03208_when_robots_learn_to_plan_in_chapters.html</link>

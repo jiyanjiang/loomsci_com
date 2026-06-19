@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:28:17 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -17,14 +17,6 @@
       <description>A new hierarchy theorem proves that each additional layer of quantum gates unlocks fundamentally harder computational problems, not just gradual improvement.</description>
       <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16425_the_depth_that_divides_why_every_layer_of_a_quantum_circuit_matters.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>The Quantum Computer That Doesn't Need to Be Cold</title>
-      <link>https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12968_the_quantum_computer_that_doesn_t_need_to_be_cold.html</link>
-      <description>Apollo, a 10,000-node processor built in standard CMOS, runs quantum-inspired optimization at room temperature using probabilistic p-qubits and genuine quantum entropy.</description>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/12/arxiv_2606_12968_the_quantum_computer_that_doesn_t_need_to_be_cold.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>
