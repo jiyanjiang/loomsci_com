@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 16:19:54 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
@@ -81,14 +81,6 @@
       <description>An LLM iteratively designs molecules by reading full quantum-mechanical explanations of its previous failures, achieving sub-thermal precision in property optimization.</description>
       <pubDate>Sat, 13 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/14/arxiv_2606_09520_when_a_language_model_learns_to_read_its_own_homework.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Light Caught Trembling in a Curved Spacetime on a Chip</title>
-      <link>https://www.loomsci.com/pages/2026/06/13/arxiv_2606_09501_light_caught_trembling_in_a_curved_spacetime_on_a_chip.html</link>
-      <description>A photonic chip emulates curved anti-de Sitter spacetime, where a light beam's geodesic sway and rapid Zitterbewegung trembling reveal Dirac dynamics in a fabricated geometry.</description>
-      <pubDate>Fri, 12 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/13/arxiv_2606_09501_light_caught_trembling_in_a_curved_spacetime_on_a_chip.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
