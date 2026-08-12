@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 00:04:10 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When Atoms Settle, Topology Awakens</title>
+      <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08917_when_atoms_settle_topology_awakens.html</link>
+      <description>Lattice relaxation in twisted semiconductor bilayers generates a pseudomagnetic field, awakening topological Chern bands from previously trivial flat bands.</description>
+      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08917_when_atoms_settle_topology_awakens.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When Excited States Refuse to Stay Still</title>
+      <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08095_when_excited_states_refuse_to_stay_still.html</link>
+      <description>Machine-learned maps redraw the shifting energy landscape as electrons and nuclei dance after light absorption.</description>
+      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08095_when_excited_states_refuse_to_stay_still.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Laying Down the Law: A Thermodynamic Ceiling for Plasmonic Solar Chemistry</title>
+      <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08492_laying_down_the_law_a_thermodynamic_ceiling_for_plasmonic_solar_chemistry.html</link>
+      <description>A thermodynamic ceiling for plasmonic solar chemistry emerges from detailed balance, hot-carrier limits, and the single-geometry penalty of a nanoparticle handling the full solar spectrum.</description>
+      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08492_laying_down_the_law_a_thermodynamic_ceiling_for_plasmonic_solar_chemistry.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Teaching Weakness to Speak: The Volume Revolution in Affinity</title>
+      <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2608_02865_teaching_weakness_to_speak_the_volume_revolution_in_affinity.html</link>
+      <description>Tethering weak-binding proteins inside a tunable DNA nanocavity raises their effective concentration, making millimolar-affinity interactions measurable and allowing spatial design to override chemical preference.</description>
+      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2608_02865_teaching_weakness_to_speak_the_volume_revolution_in_affinity.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>A Quantum Emitter Teaches Optical Networks to Think</title>
       <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2601_01690_a_quantum_emitter_teaches_optical_networks_to_think.html</link>
@@ -73,14 +105,6 @@
       <description>A deep reinforcement learning agent learns to steer a self-propelled topological defect through a microfluidic maze, revealing hidden rules of active nematics.</description>
       <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13721_steering_the_unsteerable_ai_learns_to_control_liquid_crystal_defects.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When a Language Model Learns to Read Its Own Homework</title>
-      <link>https://www.loomsci.com/pages/2026/06/14/arxiv_2606_09520_when_a_language_model_learns_to_read_its_own_homework.html</link>
-      <description>An LLM iteratively designs molecules by reading full quantum-mechanical explanations of its previous failures, achieving sub-thermal precision in property optimization.</description>
-      <pubDate>Sat, 13 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/14/arxiv_2606_09520_when_a_language_model_learns_to_read_its_own_homework.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

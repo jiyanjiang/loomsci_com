@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="When an AI agent's approval gate pauses one branch, a concurrent sibling can still leak side effects; an external reference monitor re-establishes true stop.">
+<meta property="og:title" content="When 'Stop' Doesn't Mean Stop: The Enforcement Gap in AI Agents">
+<meta property="og:description" content="When an AI agent's approval gate pauses one branch, a concurrent sibling can still leak side effects; an external reference monitor re-establishes true stop.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/08/12/arxiv_2607_14166_when_stop_doesn_t_mean_stop_the_enforcement_gap_in_ai_agents.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/08/12/arxiv_2607_14166.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="When 'Stop' Doesn't Mean Stop: The Enforcement Gap in AI Agents">
+<meta name="twitter:description" content="When an AI agent's approval gate pauses one branch, a concurrent sibling can still leak side effects; an external reference monitor re-establishes true stop.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/08/12/arxiv_2607_14166.jpg">
+
+
+  <title>When 'Stop' Doesn't Mean Stop: The Enforcement Gap in AI Agents — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">When 'Stop' Doesn't Mean Stop: The Enforcement Gap in AI Agents</h1>
+
+  <div class="article-meta">
+    
+    <span>Drafted August 11, 2026 · Published August 12, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2607.14166</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/08/12/arxiv_2607_14166.jpg" alt="When an AI agent's approval gate pauses one branch, a concurrent sibling can still leak side effects; an external reference monitor re-establishes true stop." />
+    
+    <figcaption class="article-hero-caption">When an AI agent's approval gate pauses one branch, a concurrent sibling can still leak side effects; an external reference monitor re-establishes true stop.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>But why assume that a “pause” button in a software framework actually pauses anything? Should we trust that clicking “cancel” on an AI agent’s task will reliably prevent its side effects from escaping into the world? A new preprint (arXiv:2607.14166) by independent researcher Sajjad Khan suggests the answer is a resounding no.</p>
+<p>For years, we’ve been wiring language models to tools—databases, APIs, command lines—using frameworks that promise to keep them under control. They ship with <strong>control primitives</strong>: human‑approval gates, run cancellation, execution timeouts. The names imply a simple contract. While a run is paused, cancelled, or timed out, no gated side effect executes. Khan’s work demonstrates that this contract, known as <strong>barrier semantics</strong>, fails systematically across six widely‑used open‑source frameworks. The documented barrier has holes that neither the documentation nor the user interface reveals.</p>
+<h2 id="the-sibling-leak-that-makes-stop-a-suggestion">The Sibling Leak That Makes ‘Stop’ a Suggestion</h2>
+<p>The core failure is subtle enough to survive repeated releases. An approval gate works by intercepting a specific tool call—say, a request to send an email—and waiting for a human to approve or reject it. The gate suspends only the branch that triggered it. Meanwhile, a sibling branch—another concurrent task in the same run—continues executing. If that sibling also makes a side‑effecting tool call, nothing blocks it. The email goes out before the human has even seen the approval request, defeating rejection entirely.</p>
+<p>This isn’t a deliberate backdoor; it’s a consequence of concurrent execution that the gate never sees. But the effect is indistinguishable from a privilege escalation. Khan uncovered the pattern using model‑free differential probes: automated test‑cases that compare the behavior of a gated run against the contract that the gate should enforce. The probes confirmed the sibling leak in every framework that ships a pre‑execution gate—five of six, spanning four execution models and two language runtimes. Khan also documented replay double‑execution, cancellation orphans, and timeout zombies, each a distinct way for a stopped run to leave real‑world effects behind.</p>
+<p>The hazard is reachable. Frontier models produce the plan shape that triggers the leak in up to 14% of runs. In a controlled experiment, 215 of 1,200 runs using live models driving unmodified frameworks leaked a gated effect despite a pending or rejected approval—a perfect leak rate whenever the trigger pattern appeared. On naturalistic tasks the gap lies latent, because models seldom interleave writes aggressively. But once an injection induces the interleaving, the leak occurs deterministically. A corpus of public incident reports already echoes the replay and cancellation failures.</p>
+<h2 id="why-this-isnt-just-another-race-condition">Why This Isn’t Just Another Race Condition</h2>
+<p>An important question sharpened by earlier work on time‑of‑check‑to‑time‑of‑use vulnerabilities in LLM agents (Lilienthal <em>et al.</em>, arXiv:2508.17155) is whether the sibling leak is merely another instance of TOCTOU. The distinction matters. Typical TOCTOU attacks exploit a race between check and use along the same execution path. The sibling leak is structural: the gate never sees the dangerous path at all. It’s like a traffic officer who halts one lane but doesn’t know the other lane exists, so cars whizz through unmonitored. Unlike a real officer, though, the gate’s design explicitly assumes only a single lane—an assumption that no production framework challenges.</p>
+<p>Khan’s repair, called SOUNDGATE, begins from a deceptively simple insight. If you cannot trust the framework’s internal machinery to mediate all side effects, move the mediation outside the framework entirely. SOUNDGATE is an environment‑external Rust gate through which every network egress must be admitted. This is the <strong>complete‑mediation contract</strong>: every side‑effecting path submits to a single, unforgiving checkpoint that enforces four properties: hold‑until‑decided (no effect before approval), reject‑cancels, dedup‑on‑replay, and fence‑on‑cancel. The principle is borrowed from operating‑system security, where a reference monitor must see every access to a resource. SOUNDGATE dispatches that contract through two kernel‑enforced network routes, ensuring that the gate’s logic—not the agent framework’s—becomes the ground truth.</p>
+<h2 id="the-gate-that-keeps-its-promises">The Gate That Keeps Its Promises</h2>
+<p>The admission core is mechanically verified. Khan modelled the gate's logic in TLA+, a specification language designed for concurrent systems, and let its model checker systematically explore the state space without finding a violation. The safety proof was then machine‑checked with TLA+’s proof system. To bridge the gap between the idealised model and the running Rust code, SOUNDGATE was subjected to differential conformance testing that compared the model's predictions against the deployed gate across millions of operations, yielding zero divergences. This is not a full end‑to‑end refinement proof, but the evidence that the implementation matches the verified model is strikingly consistent.</p>
+<p>The cost of all this rigour is delightfully small. SOUNDGATE adds roughly a millisecond per write—about a hummingbird's wing flap—and sustains many thousands of admissions per second. Under that contract, it blocks every measured violation on all six frameworks while releasing legitimate effects. Gated episodes on realistic benchmarks complete with zero refusals.</p>
+<p>The repair does, however, inherit a crucial boundary condition. The complete‑mediation contract is exactly that: a contract. If a tool can bypass the gate—by writing to a shared filesystem, using local inter‑process communication, or exploiting any channel not routed through SOUNDGATE—the guarantee dissolves. Khan is explicit about this scope. The verification covers the admission core’s logic, not the confinement of the entire tool runtime. This is the same tension navigated by earlier work on transactional tool use (Bindschaedler <em>et al.</em>, Atomix, arXiv:2602.14849), which proposed atomic commit semantics for agent tool calls but also had to assume that all effects are captured by a transaction coordinator. Similarly, research on concurrency anomalies in multi‑agent systems (Khan, arXiv:2606.17182) demonstrated that verification must consider every interleaving of agent actions; SOUNDGATE’s TLA+ model does precisely that, proving the gate holds for any possible event ordering—provided every event enters the gate.</p>
+<h2 id="the-philosophy-beneath-the-pause-button">The Philosophy Beneath the Pause Button</h2>
+<p>What does this reveal about our relationship with artificial agents? We delegate them authority to book meetings, move money, and run experiments. Behind every delegation is an unspoken assumption: that we can stop them when needed. Khan’s findings expose a fault line between that assumption and the messy reality of concurrent software. The gap is not a bug in one framework; it is a widespread design pattern that treats “stop” as a suggestion rather than a command—a semantic gray zone where the user interface says one thing and the runtime does another.</p>
+<p>The lesson extends beyond AI. In a world increasingly run by semi‑autonomous systems, the semantics of “stop” must be engineered as carefully as the actions themselves. This is not a question from a philosophy seminar; it is a concrete engineering challenge. Khan’s work is a blueprint for what it looks like to meet that challenge: not relying on good intentions, but building gates with formally proven contracts that survive the chaos of concurrent execution. The question it leaves us with is not whether we can make agents stop, but whether we are willing to do the hard work of ensuring that, when we say stop, something truly stops.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>S. Khan, Stop Means Stop: Measuring and Repairing the Enforcement Gap in Agent-Framework Control Primitives, arXiv:2607.14166</li>
+<li>Lilienthal <em>et al.</em>, Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents, arXiv:2508.17155</li>
+<li>Bindschaedler <em>et al.</em>, Atomix: Timely, Transactional Tool Use for Reliable Agentic Workflows, arXiv:2602.14849</li>
+<li>S. Khan, Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems, arXiv:2606.17182</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>

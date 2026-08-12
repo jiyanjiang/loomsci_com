@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 00:04:10 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>When 'Stop' Doesn't Mean Stop: The Enforcement Gap in AI Agents</title>
+      <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2607_14166_when_stop_doesn_t_mean_stop_the_enforcement_gap_in_ai_agents.html</link>
+      <description>When an AI agent's approval gate pauses one branch, a concurrent sibling can still leak side effects; an external reference monitor re-establishes true stop.</description>
+      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2607_14166_when_stop_doesn_t_mean_stop_the_enforcement_gap_in_ai_agents.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>The Optical Fibre Learns to Cancel Its Own Echoes</title>
       <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2606_19724_the_optical_fibre_learns_to_cancel_its_own_echoes.html</link>
@@ -65,38 +73,6 @@
       <description>A trillion‑atom simulation tracks magnetic skyrmions forming from thermal chaos, revealing the atomic‑scale dance of spins and lattice vibrations at 160 kelvin.</description>
       <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_14073_a_trillion_atoms_learn_to_dance_exascale_skyrmion_simulation.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Physicist's Gauntlet: Why AI Couldn’t Crack Five Percent</title>
-      <link>https://www.loomsci.com/pages/2026/06/14/arxiv_2509_26574_the_physicist_s_gauntlet_why_ai_couldn_t_crack_five_percent.html</link>
-      <description>In the CritPt benchmark, the most advanced AI systems solve just 5.7% of research-level physics problems, revealing a profound gap between pattern recognition and true scientific reasoning.</description>
-      <pubDate>Sat, 13 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/14/arxiv_2509_26574_the_physicist_s_gauntlet_why_ai_couldn_t_crack_five_percent.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Bed That Learns to Listen: BCG‑FM and Ambient Cardiac Sensing</title>
-      <link>https://www.loomsci.com/pages/2026/06/14/arxiv_2606_07692_the_bed_that_learns_to_listen_bcg_fm_and_ambient_cardiac_sensing.html</link>
-      <description>A piezoelectric sensor under the mattress captures cardiac recoil, enabling BCG-FM to learn heart signatures from three million hours of sleep data.</description>
-      <pubDate>Sat, 13 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/14/arxiv_2606_07692_the_bed_that_learns_to_listen_bcg_fm_and_ambient_cardiac_sensing.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Data Learns to Answer ‘What If?’</title>
-      <link>https://www.loomsci.com/pages/2026/06/13/arxiv_2606_07865_when_data_learns_to_answer_what_if.html</link>
-      <description>Instrumented data embeds a mechanistic model, enabling causal "what-if" queries by simulating counterfactual realities with explicit uncertainty decomposition.</description>
-      <pubDate>Fri, 12 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/13/arxiv_2606_07865_when_data_learns_to_answer_what_if.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Learning from the Brain: How Neural Echoes Sharpen Machine Logic</title>
-      <link>https://www.loomsci.com/pages/2026/06/13/arxiv_2606_11893_learning_from_the_brain_how_neural_echoes_sharpen_machine_logic.html</link>
-      <description>Neural activation signals from human deductive reasoning are used to correct and steer large language models toward more logical outputs, improving accuracy by up to 13%.</description>
-      <pubDate>Fri, 12 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/13/arxiv_2606_11893_learning_from_the_brain_how_neural_echoes_sharpen_machine_logic.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>
