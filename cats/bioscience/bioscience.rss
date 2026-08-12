@@ -7,9 +7,17 @@
     <link>https://www.loomsci.com/cats/bioscience/</link>
     <description>Latest Biological Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 00:04:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:10:45 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/bioscience/bioscience.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Making the Invisible Legible: A Symmetry That Recovers Blood Flow</title>
+      <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2608_10011_making_the_invisible_legible_a_symmetry_that_recovers_blood_flow.html</link>
+      <description>By respecting the scale symmetry of pressure waveforms, physics-informed neural operators recover blood flow and vascular state from noninvasive signals.</description>
+      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2608_10011_making_the_invisible_legible_a_symmetry_that_recovers_blood_flow.html</guid>
+      <category>Biological Science</category>
+    </item>
   </channel>
 </rss>

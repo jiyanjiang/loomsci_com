@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 00:04:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:10:45 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
@@ -97,14 +97,6 @@
       <description>A molecular tool on an STM tip donates carbon atoms to or abstracts silicon atoms from a surface, enabling atom-by-atom mechanosynthesis.</description>
       <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13876_teaching_atoms_to_bond_a_molecular_hand_for_mechanosynthesis.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Steering the Unsteerable: AI Learns to Control Liquid Crystal Defects</title>
-      <link>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13721_steering_the_unsteerable_ai_learns_to_control_liquid_crystal_defects.html</link>
-      <description>A deep reinforcement learning agent learns to steer a self-propelled topological defect through a microfluidic maze, revealing hidden rules of active nematics.</description>
-      <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13721_steering_the_unsteerable_ai_learns_to_control_liquid_crystal_defects.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
