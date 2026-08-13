@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:53:51 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
@@ -81,22 +81,6 @@
       <description>A hydrogen atom’s electron remains unpaired inside a boron-nitride cage, enabling ferromagnetism from s-electrons in a designed crystal.</description>
       <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17902_when_hydrogen_s_simplest_electron_refuses_to_quench.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Mapping the Seven Phases of Anderson Localization</title>
-      <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_14825_mapping_the_seven_phases_of_anderson_localization.html</link>
-      <description>Scientists map all seven transport phases of Anderson localization within a single photonic Floquet lattice, including the elusive triple coexistence of extended, critical, and localized states.</description>
-      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/16/arxiv_2606_14825_mapping_the_seven_phases_of_anderson_localization.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Teaching Atoms to Bond: A Molecular Hand for Mechanosynthesis</title>
-      <link>https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13876_teaching_atoms_to_bond_a_molecular_hand_for_mechanosynthesis.html</link>
-      <description>A molecular tool on an STM tip donates carbon atoms to or abstracts silicon atoms from a surface, enabling atom-by-atom mechanosynthesis.</description>
-      <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/15/arxiv_2606_13876_teaching_atoms_to_bond_a_molecular_hand_for_mechanosynthesis.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

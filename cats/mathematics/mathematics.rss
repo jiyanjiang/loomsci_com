@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:53:51 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Proving the Amplituhedron's Tiles: A Cluster Algebra Breakthrough</title>
+      <link>https://www.loomsci.com/pages/2026/08/13/arxiv_2310_17727_proving_the_amplituhedron_s_tiles_a_cluster_algebra_breakthrough.html</link>
+      <description>A new proof shows BCFW recursion tiles the amplituhedron, with tile boundaries governed by compatible cluster variables, making a geometric conjecture rigorous for scattering amplitudes.</description>
+      <pubDate>Wed, 12 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/13/arxiv_2310_17727_proving_the_amplituhedron_s_tiles_a_cluster_algebra_breakthrough.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>When a Wrinkle Is More Than a Wrinkle: Topology Emerges</title>
       <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2606_18542_when_a_wrinkle_is_more_than_a_wrinkle_topology_emerges.html</link>
@@ -25,14 +33,6 @@
       <description>The shattering threshold transforms a connected hypergraph into isolated frozen clusters, revealing the precise independence number that bridges combinatorics and statistical physics.</description>
       <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_18048_reaching_the_shattering_threshold_in_uncrowded_hypergraphs.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>What If a Space Is Not a Set of Points, but a Stack of Possibilities?</title>
-      <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16949_what_if_a_space_is_not_a_set_of_points_but_a_stack_of_possibilities.html</link>
-      <description>Noncommutative algebras reconstruct geometry as a stack of overlapping commutative perspectives, where each local window glues into a coherent atlas of quantum possibilities.</description>
-      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16949_what_if_a_space_is_not_a_set_of_points_but_a_stack_of_possibilities.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>
