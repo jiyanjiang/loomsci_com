@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:53:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:17:48 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Solving Banach's Last Puzzle: A Century of Slices</title>
+      <link>https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13536_solving_banach_s_last_puzzle_a_century_of_slices.html</link>
+      <description>A century-old conjecture is resolved by showing that a Banach space with all identical finite-dimensional slices must be a Hilbert space.</description>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13536_solving_banach_s_last_puzzle_a_century_of_slices.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>Proving the Amplituhedron's Tiles: A Cluster Algebra Breakthrough</title>
       <link>https://www.loomsci.com/pages/2026/08/13/arxiv_2310_17727_proving_the_amplituhedron_s_tiles_a_cluster_algebra_breakthrough.html</link>
@@ -25,14 +33,6 @@
       <description>Compression of a hyperelastic block triggers a topological phase transition, where wrinkles behave as protected edge states governed by a Dirac mass crossing zero.</description>
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2606_18542_when_a_wrinkle_is_more_than_a_wrinkle_topology_emerges.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>Reaching the Shattering Threshold in Uncrowded Hypergraphs</title>
-      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_18048_reaching_the_shattering_threshold_in_uncrowded_hypergraphs.html</link>
-      <description>The shattering threshold transforms a connected hypergraph into isolated frozen clusters, revealing the precise independence number that bridges combinatorics and statistical physics.</description>
-      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_18048_reaching_the_shattering_threshold_in_uncrowded_hypergraphs.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>

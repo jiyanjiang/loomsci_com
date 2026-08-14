@@ -7,10 +7,34 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:53:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:17:48 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Reading the Integer: Thermal Hall Tomography in Graphene</title>
+      <link>https://www.loomsci.com/pages/2026/08/14/arxiv_2608_12586_reading_the_integer_thermal_hall_tomography_in_graphene.html</link>
+      <description>Thermal Hall measurements directly read the topological Chern integer from chiral Majorana edge modes in rhombohedral graphene.</description>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/14/arxiv_2608_12586_reading_the_integer_thermal_hall_tomography_in_graphene.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>When Wave Chaos Learns to Optimize Itself</title>
+      <link>https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13503_when_wave_chaos_learns_to_optimize_itself.html</link>
+      <description>Chaotic microwave scattering becomes a self-optimizing physical neural network, using backward adjoint waves to tune outputs without a digital twin.</description>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13503_when_wave_chaos_learns_to_optimize_itself.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Learning a Liquid's Hidden Thermodynamic Map</title>
+      <link>https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13506_learning_a_liquid_s_hidden_thermodynamic_map.html</link>
+      <description>A machine-learned functional reads symmetric density fields and maps them to a transferable thermodynamic description of liquids across temperatures and ensembles.</description>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13506_learning_a_liquid_s_hidden_thermodynamic_map.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>When Atoms Settle, Topology Awakens</title>
       <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08917_when_atoms_settle_topology_awakens.html</link>
@@ -73,14 +97,6 @@
       <description>A chiral soliton in a quantum spin chain tunnels between lattice sites, its hopping amplitude governed by a topological Berry phase that alternates with spin parity.</description>
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2512_08220_the_soliton_that_learns_to_tunnel_how_quantum_chirality_hides_in_spin_chains.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Hydrogen's Simplest Electron Refuses to Quench</title>
-      <link>https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17902_when_hydrogen_s_simplest_electron_refuses_to_quench.html</link>
-      <description>A hydrogen atom’s electron remains unpaired inside a boron-nitride cage, enabling ferromagnetism from s-electrons in a designed crystal.</description>
-      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2606_17902_when_hydrogen_s_simplest_electron_refuses_to_quench.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

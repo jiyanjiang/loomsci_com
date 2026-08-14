@@ -7,16 +7,16 @@
     <link>https://www.loomsci.com/cats/quantum_physics/</link>
     <description>Latest Quantum Physics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:53:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:17:47 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/quantum_physics/quantum_physics.rss"
                rel="self"
                type="application/rss+xml" />
     <item>
-      <title>The Depth That Divides: Why Every Layer of a Quantum Circuit Matters</title>
-      <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16425_the_depth_that_divides_why_every_layer_of_a_quantum_circuit_matters.html</link>
-      <description>A new hierarchy theorem proves that each additional layer of quantum gates unlocks fundamentally harder computational problems, not just gradual improvement.</description>
-      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/16/arxiv_2606_16425_the_depth_that_divides_why_every_layer_of_a_quantum_circuit_matters.html</guid>
+      <title>A Lone Qubit Learns Signals Exponentially Faster</title>
+      <link>https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13521_a_lone_qubit_learns_signals_exponentially_faster.html</link>
+      <description>A single superconducting qubit learns signal properties exponentially faster than conventional Gaussian sensors, using quantum coherence as a powerful sensing resource.</description>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13521_a_lone_qubit_learns_signals_exponentially_faster.html</guid>
       <category>Quantum Physics</category>
     </item>
   </channel>

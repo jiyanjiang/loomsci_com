@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:53:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:17:48 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
@@ -89,14 +89,6 @@
       <description>To prevent humans from passively trusting perfect AI, researchers propose injecting deliberate errors—"sentinels"—that reward vigilance, breaking the incentive collapse.</description>
       <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/17/arxiv_2603_27049_escaping_the_incentive_collapse_why_ai_must_learn_to_stumble.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>Learning to Generate Rare Events from Topological Fingerprints</title>
-      <link>https://www.loomsci.com/pages/2026/06/16/arxiv_2606_15452_learning_to_generate_rare_events_from_topological_fingerprints.html</link>
-      <description>A neural network learns to generate realistic rare events by reading the hidden topological fingerprints—like loops and voids—in data's persistent homology.</description>
-      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/16/arxiv_2606_15452_learning_to_generate_rare_events_from_topological_fingerprints.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>
