@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:47:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:53:37 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
@@ -33,14 +33,6 @@
       <description>From a simple line of interacting fermions, the competition between spin-0 and spin-1 condensates sculpts the curved spacetime of AdS₃, birthing gravity from humble quantum sand.</description>
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2603_27824_the_cathedral_built_from_sand_how_a_simple_fermion_model_may_weave_spacetime_its.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>The Tower of Zeta: Black Holes' Hidden Tidal Code</title>
-      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19281_the_tower_of_zeta_black_holes_hidden_tidal_code.html</link>
-      <description>Solon's closed-form formula reveals the hidden tidal code of black holes, where dynamical Love numbers are tied to a universal tower of zeta values.</description>
-      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19281_the_tower_of_zeta_black_holes_hidden_tidal_code.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:47:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:53:37 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -25,14 +25,6 @@
       <description>A new proof shows BCFW recursion tiles the amplituhedron, with tile boundaries governed by compatible cluster variables, making a geometric conjecture rigorous for scattering amplitudes.</description>
       <pubDate>Wed, 12 Aug 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/13/arxiv_2310_17727_proving_the_amplituhedron_s_tiles_a_cluster_algebra_breakthrough.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>When a Wrinkle Is More Than a Wrinkle: Topology Emerges</title>
-      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2606_18542_when_a_wrinkle_is_more_than_a_wrinkle_topology_emerges.html</link>
-      <description>Compression of a hyperelastic block triggers a topological phase transition, where wrinkles behave as protected edge states governed by a Dirac mass crossing zero.</description>
-      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2606_18542_when_a_wrinkle_is_more_than_a_wrinkle_topology_emerges.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>

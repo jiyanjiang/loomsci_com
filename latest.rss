@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:47:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:53:36 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Pushing Crystals with Light That Is Never Absorbed</title>
+      <link>https://www.loomsci.com/pages/2026/08/17/arxiv_2608_08899_pushing_crystals_with_light_that_is_never_absorbed.html</link>
+      <description>Mid-infrared light pushes tin selenide between crystal phases without being absorbed, using a dispersive optomechanical force.</description>
+      <pubDate>Sun, 16 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/17/arxiv_2608_08899_pushing_crystals_with_light_that_is_never_absorbed.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>How Two Fixed Determinants Exhaust the Fermi Sea</title>
+      <link>https://www.loomsci.com/pages/2026/08/17/arxiv_2608_14476_how_two_fixed_determinants_exhaust_the_fermi_sea.html</link>
+      <description>A single fixed Slater determinant acts as a universal antisymmetric backbone, while smooth symmetric waves carry the full physics of the fermionic sea.</description>
+      <pubDate>Sun, 16 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/17/arxiv_2608_14476_how_two_fixed_determinants_exhaust_the_fermi_sea.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Learning to Be Modular: Language Models Mirror the Mind</title>
+      <link>https://www.loomsci.com/pages/2026/08/17/arxiv_2608_13567_learning_to_be_modular_language_models_mirror_the_mind.html</link>
+      <description>Artificial neural networks spontaneously develop specialized modules for different cognitive tasks, mirroring the human brain's functional division of labor.</description>
+      <pubDate>Sun, 16 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/17/arxiv_2608_13567_learning_to_be_modular_language_models_mirror_the_mind.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Photons Playing Electrons: A Ten-Thousand-Mode Gauge Field</title>
+      <link>https://www.loomsci.com/pages/2026/08/17/arxiv_2606_23960_photons_playing_electrons_a_ten_thousand_mode_gauge_field.html</link>
+      <description>A silicon-nitride photonic lattice imprints a synthetic magnetic field on light, realizing the integer quantum Hall effect for photons across ten thousand modes.</description>
+      <pubDate>Sun, 16 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/17/arxiv_2606_23960_photons_playing_electrons_a_ten_thousand_mode_gauge_field.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Turning Classical Noise into Quantum Channels</title>
       <link>https://www.loomsci.com/pages/2026/08/16/arxiv_2608_09903_turning_classical_noise_into_quantum_channels.html</link>
@@ -218,38 +250,6 @@
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19082_a_gentle_squash_unravels_helices_the_hidden_grammar_of_packing_in_imperfect_tube.html</guid>
       <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Soliton That Learns to Tunnel: How Quantum Chirality Hides in Spin Chains</title>
-      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2512_08220_the_soliton_that_learns_to_tunnel_how_quantum_chirality_hides_in_spin_chains.html</link>
-      <description>A chiral soliton in a quantum spin chain tunnels between lattice sites, its hopping amplitude governed by a topological Berry phase that alternates with spin parity.</description>
-      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2512_08220_the_soliton_that_learns_to_tunnel_how_quantum_chirality_hides_in_spin_chains.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Tower of Zeta: Black Holes' Hidden Tidal Code</title>
-      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19281_the_tower_of_zeta_black_holes_hidden_tidal_code.html</link>
-      <description>Solon's closed-form formula reveals the hidden tidal code of black holes, where dynamical Love numbers are tied to a universal tower of zeta values.</description>
-      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19281_the_tower_of_zeta_black_holes_hidden_tidal_code.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When a Wrinkle Is More Than a Wrinkle: Topology Emerges</title>
-      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2606_18542_when_a_wrinkle_is_more_than_a_wrinkle_topology_emerges.html</link>
-      <description>Compression of a hyperelastic block triggers a topological phase transition, where wrinkles behave as protected edge states governed by a Dirac mass crossing zero.</description>
-      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2606_18542_when_a_wrinkle_is_more_than_a_wrinkle_topology_emerges.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>When Robots Learn to Plan in Chapters</title>
-      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2604_03208_when_robots_learn_to_plan_in_chapters.html</link>
-      <description>Hierarchical planning enables a robot to compose long tasks into compressed macro-actions, achieving 70% success where flat planning fails entirely.</description>
-      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2604_03208_when_robots_learn_to_plan_in_chapters.html</guid>
-      <category>Artificial Intelligence</category>
     </item>
   </channel>
 </rss>
