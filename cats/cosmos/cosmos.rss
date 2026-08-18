@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:02:05 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
@@ -17,22 +17,6 @@
       <description>A missing partner in beta decay—a sterile neutrino—leaves a spectral shift at the recoil endpoint, detectable by ultra-sensitive transition-edge sensors in cold silicon.</description>
       <pubDate>Sat, 20 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/21/arxiv_2606_15014_the_echo_at_beta_s_quiet_edge_hunting_sterile_neutrinos.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>When a Neural Network Learns to Silence Quantum Noise</title>
-      <link>https://www.loomsci.com/pages/2026/06/21/arxiv_2606_15986_when_a_neural_network_learns_to_silence_quantum_noise.html</link>
-      <description>A neural network learns the generating functional of a quantum field theory, slashing statistical noise in lattice gauge calculations by orders of magnitude.</description>
-      <pubDate>Sat, 20 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/21/arxiv_2606_15986_when_a_neural_network_learns_to_silence_quantum_noise.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>The Cathedral Built from Sand: How a Simple Fermion Model May Weave Spacetime Itself</title>
-      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2603_27824_the_cathedral_built_from_sand_how_a_simple_fermion_model_may_weave_spacetime_its.html</link>
-      <description>From a simple line of interacting fermions, the competition between spin-0 and spin-1 condensates sculpts the curved spacetime of AdS₃, birthing gravity from humble quantum sand.</description>
-      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2603_27824_the_cathedral_built_from_sand_how_a_simple_fermion_model_may_weave_spacetime_its.html</guid>
       <category>Cosmos</category>
     </item>
   </channel>

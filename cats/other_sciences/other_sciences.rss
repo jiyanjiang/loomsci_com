@@ -7,9 +7,17 @@
     <link>https://www.loomsci.com/cats/other_sciences/</link>
     <description>Latest Other Sciences articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:02:05 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/other_sciences/other_sciences.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>The AI Layoff Trap That Outruns Cooperation</title>
+      <link>https://www.loomsci.com/pages/2026/08/18/arxiv_2603_20617_the_ai_layoff_trap_that_outruns_cooperation.html</link>
+      <description>If AI displaces human workers faster than the economy can reabsorb them, it risks eroding the very consumer demand firms depend on. We show that knowing this is not enough for firms to stop it. In a competitive task-based model of a transitioning economy, each firm ...</description>
+      <pubDate>Mon, 17 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/18/arxiv_2603_20617_the_ai_layoff_trap_that_outruns_cooperation.html</guid>
+      <category>Other Sciences</category>
+    </item>
   </channel>
 </rss>

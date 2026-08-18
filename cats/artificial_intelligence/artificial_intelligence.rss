@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/artificial_intelligence/</link>
     <description>Latest Artificial Intelligence articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:02:05 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/artificial_intelligence/artificial_intelligence.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>How Brain Static Learns to Dance</title>
+      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14754_how_brain_static_learns_to_dance.html</link>
+      <description>Non-invasive EEG signals, resembling faint brain static, are translated into continuous full-body dance motions by a generative model, expanding the vocabulary of brain-computer interfaces.</description>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14754_how_brain_static_learns_to_dance.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Learning to Be Modular: Language Models Mirror the Mind</title>
       <link>https://www.loomsci.com/pages/2026/08/17/arxiv_2608_13567_learning_to_be_modular_language_models_mirror_the_mind.html</link>
@@ -65,14 +73,6 @@
       <description>When an AI agent's approval gate pauses one branch, a concurrent sibling can still leak side effects; an external reference monitor re-establishes true stop.</description>
       <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2607_14166_when_stop_doesn_t_mean_stop_the_enforcement_gap_in_ai_agents.html</guid>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>The Optical Fibre Learns to Cancel Its Own Echoes</title>
-      <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2606_19724_the_optical_fibre_learns_to_cancel_its_own_echoes.html</link>
-      <description>A new CP-OFDM waveform cancels spatial inter-symbol interference in distributed acoustic sensing, eliminating phantom echoes from Rayleigh backscattered light.</description>
-      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/19/arxiv_2606_19724_the_optical_fibre_learns_to_cancel_its_own_echoes.html</guid>
       <category>Artificial Intelligence</category>
     </item>
   </channel>

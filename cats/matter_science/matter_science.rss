@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:02:05 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Reading a Quantum Dot's Buried Architecture</title>
+      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14962_reading_a_quantum_dot_s_buried_architecture.html</link>
+      <description>A three-dimensional atomic reconstruction reveals a lopsided core and uneven shell inside a single quantum dot, with nearly atomically abrupt internal seams.</description>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14962_reading_a_quantum_dot_s_buried_architecture.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>The AI Learning Chemical Intuition from Spectra Alone</title>
+      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14720_the_ai_learning_chemical_intuition_from_spectra_alone.html</link>
+      <description>In a multi-agent loop, an AI proposes molecular structures from raw spectra, revises them against simulated data, and learns ring-first chemical intuition.</description>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14720_the_ai_learning_chemical_intuition_from_spectra_alone.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>How Ocean Fronts Regulate the Hidden Energy Cascade</title>
+      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14955_how_ocean_fronts_regulate_the_hidden_energy_cascade.html</link>
+      <description>Submesoscale ocean fronts act as key regulators, transferring kinetic energy both upward into giant eddies and downward toward dissipation in the Agulhas Current.</description>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14955_how_ocean_fronts_regulate_the_hidden_energy_cascade.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Collective Blinking: One Quencher, a Thousand Darkened Ions</title>
+      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_16244_collective_blinking_one_quencher_a_thousand_darkened_ions.html</link>
+      <description>A single transient quencher can short-circuit the shared energy migration network of a lanthanide-doped nanocrystal, causing thousands of ions to blink on and off in perfect synchrony.</description>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_16244_collective_blinking_one_quencher_a_thousand_darkened_ions.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Pushing Crystals with Light That Is Never Absorbed</title>
       <link>https://www.loomsci.com/pages/2026/08/17/arxiv_2608_08899_pushing_crystals_with_light_that_is_never_absorbed.html</link>
@@ -89,30 +121,6 @@
       <description>Tethering weak-binding proteins inside a tunable DNA nanocavity raises their effective concentration, making millimolar-affinity interactions measurable and allowing spatial design to override chemical preference.</description>
       <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2608_02865_teaching_weakness_to_speak_the_volume_revolution_in_affinity.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>A Quantum Emitter Teaches Optical Networks to Think</title>
-      <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2601_01690_a_quantum_emitter_teaches_optical_networks_to_think.html</link>
-      <description>The rapid scaling of deep neural networks comes at the cost of unsustainable power consumption. While optical neural networks offer an alternative, their capabilities remain constrained by the lack of efficient optical nonlinearities. To address this, we propose an ...</description>
-      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/19/arxiv_2601_01690_a_quantum_emitter_teaches_optical_networks_to_think.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Trampoline That Catches Light: A Record-Breaking Photonic Crystal Lightsail</title>
-      <link>https://www.loomsci.com/pages/2026/06/19/arxiv_2606_20149_the_trampoline_that_catches_light_a_record_breaking_photonic_crystal_lightsail.html</link>
-      <description>A 200-nanometer-thick photonic crystal membrane deflects more than a micrometer under the pure radiation pressure of a near-infrared laser, setting a record for lightsail optomechanics.</description>
-      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/19/arxiv_2606_20149_the_trampoline_that_catches_light_a_record_breaking_photonic_crystal_lightsail.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>A Gentle Squash Unravels Helices: The Hidden Grammar of Packing in Imperfect Tubes</title>
-      <link>https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19082_a_gentle_squash_unravels_helices_the_hidden_grammar_of_packing_in_imperfect_tube.html</link>
-      <description>Even a slight squash of a cylindrical tube disrupts perfect helices, forcing hard spheres into complex patterns with alternating chirality.</description>
-      <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/18/arxiv_2606_19082_a_gentle_squash_unravels_helices_the_hidden_grammar_of_packing_in_imperfect_tube.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
