@@ -7,10 +7,42 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:27:00 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Leaving the Lab: A Laser Wakefield Accelerator Goes to Work</title>
+      <link>https://www.loomsci.com/pages/2026/08/20/arxiv_2608_17554_leaving_the_lab_a_laser_wakefield_accelerator_goes_to_work.html</link>
+      <description>A laser wakefield accelerator survives a 72-hour stable run and a seven-month industrial trial, using compact X-ray microtomography to inspect turbine blades.</description>
+      <pubDate>Wed, 19 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/20/arxiv_2608_17554_leaving_the_lab_a_laser_wakefield_accelerator_goes_to_work.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>How Magnetic Black Holes Become Rapid Sirens</title>
+      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2601_10552_how_magnetic_black_holes_become_rapid_sirens.html</link>
+      <description>Magnetic black holes may emit rapid gravitational-wave whispers weeks after a merger, revealing hidden monopoles and ultralight bosons.</description>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2601_10552_how_magnetic_black_holes_become_rapid_sirens.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>Learning When to Stop: Fast Readout for Atom Arrays</title>
+      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_17189_learning_when_to_stop_fast_readout_for_atom_arrays.html</link>
+      <description>Adaptive photon counting lets neutral-atom processors read out qubits in microseconds, signaling each atom only until its state is clear.</description>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_17189_learning_when_to_stop_fast_readout_for_atom_arrays.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>How a Sharp Curl Inequality Finally Found Its Optimizers</title>
+      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2607_23827_how_a_sharp_curl_inequality_finally_found_its_optimizers.html</link>
+      <description>A sharp curl inequality on the sphere is optimized by positive Killing forms, confirming Rivière's problem and proving global minimality of the Hopf map in the Faddeev-Skyrme model.</description>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2607_23827_how_a_sharp_curl_inequality_finally_found_its_optimizers.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>Reading a Quantum Dot's Buried Architecture</title>
       <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14962_reading_a_quantum_dot_s_buried_architecture.html</link>
@@ -218,38 +250,6 @@
       <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2607_14166_when_stop_doesn_t_mean_stop_the_enforcement_gap_in_ai_agents.html</guid>
       <category>Artificial Intelligence</category>
-    </item>
-    <item>
-      <title>When Excited States Refuse to Stay Still</title>
-      <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08095_when_excited_states_refuse_to_stay_still.html</link>
-      <description>Machine-learned maps redraw the shifting energy landscape as electrons and nuclei dance after light absorption.</description>
-      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08095_when_excited_states_refuse_to_stay_still.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Laying Down the Law: A Thermodynamic Ceiling for Plasmonic Solar Chemistry</title>
-      <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08492_laying_down_the_law_a_thermodynamic_ceiling_for_plasmonic_solar_chemistry.html</link>
-      <description>A thermodynamic ceiling for plasmonic solar chemistry emerges from detailed balance, hot-carrier limits, and the single-geometry penalty of a nanoparticle handling the full solar spectrum.</description>
-      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2608_08492_laying_down_the_law_a_thermodynamic_ceiling_for_plasmonic_solar_chemistry.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Teaching Weakness to Speak: The Volume Revolution in Affinity</title>
-      <link>https://www.loomsci.com/pages/2026/08/12/arxiv_2608_02865_teaching_weakness_to_speak_the_volume_revolution_in_affinity.html</link>
-      <description>Tethering weak-binding proteins inside a tunable DNA nanocavity raises their effective concentration, making millimolar-affinity interactions measurable and allowing spatial design to override chemical preference.</description>
-      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/12/arxiv_2608_02865_teaching_weakness_to_speak_the_volume_revolution_in_affinity.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The Echo at Beta's Quiet Edge: Hunting Sterile Neutrinos</title>
-      <link>https://www.loomsci.com/pages/2026/06/21/arxiv_2606_15014_the_echo_at_beta_s_quiet_edge_hunting_sterile_neutrinos.html</link>
-      <description>A missing partner in beta decay—a sterile neutrino—leaves a spectral shift at the recoil endpoint, detectable by ultra-sensitive transition-edge sensors in cold silicon.</description>
-      <pubDate>Sat, 20 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/06/21/arxiv_2606_15014_the_echo_at_beta_s_quiet_edge_hunting_sterile_neutrinos.html</guid>
-      <category>Cosmos</category>
     </item>
   </channel>
 </rss>
