@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/cosmos/</link>
     <description>Latest Cosmos articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 01:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:25:12 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/cosmos/cosmos.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>A Quantum Tower Beneath CERN: Listening for Dark Matter</title>
+      <link>https://www.loomsci.com/pages/2026/08/21/arxiv_2608_18743_a_quantum_tower_beneath_cern_listening_for_dark_matter.html</link>
+      <description>A hundred-metre atom interferometer in CERN's PX46 shaft would search for ultralight dark matter by measuring quantum interference of free-falling strontium atoms.</description>
+      <pubDate>Thu, 20 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/21/arxiv_2608_18743_a_quantum_tower_beneath_cern_listening_for_dark_matter.html</guid>
+      <category>Cosmos</category>
+    </item>
     <item>
       <title>Leaving the Lab: A Laser Wakefield Accelerator Goes to Work</title>
       <link>https://www.loomsci.com/pages/2026/08/20/arxiv_2608_17554_leaving_the_lab_a_laser_wakefield_accelerator_goes_to_work.html</link>
