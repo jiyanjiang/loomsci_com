@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 15:43:47 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Learning the Roads Proteins Rarely Travel</title>
+      <link>https://www.loomsci.com/pages/2026/09/07/arxiv_2609_04449_learning_the_roads_proteins_rarely_travel.html</link>
+      <description>A neural probability map illuminates the rare mountain passes a protein crosses, turning seldom-traveled transitions between metastable states into visible roads.</description>
+      <pubDate>Sun, 06 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/07/arxiv_2609_04449_learning_the_roads_proteins_rarely_travel.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>How an Array of Flat Lenses Learns to See Color</title>
+      <link>https://www.loomsci.com/pages/2026/09/07/arxiv_2506_04061_how_an_array_of_flat_lenses_learns_to_see_color.html</link>
+      <description>Collaborative metalenses distribute the visible spectrum across six flat sub-lenses, and a joint non-generative reconstruction algorithm recovers sharp color images.</description>
+      <pubDate>Sun, 06 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/07/arxiv_2506_04061_how_an_array_of_flat_lenses_learns_to_see_color.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Watching the Five-Dimensional Weather Inside a Fusion Reactor</title>
       <link>https://www.loomsci.com/pages/2026/09/07/arxiv_2510_07314_watching_the_five_dimensional_weather_inside_a_fusion_reactor.html</link>
@@ -129,22 +145,6 @@
       <description>A silicon-nitride photonic lattice imprints a synthetic magnetic field on light, realizing the integer quantum Hall effect for photons across ten thousand modes.</description>
       <pubDate>Sun, 16 Aug 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/17/arxiv_2606_23960_photons_playing_electrons_a_ten_thousand_mode_gauge_field.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Reading the Integer: Thermal Hall Tomography in Graphene</title>
-      <link>https://www.loomsci.com/pages/2026/08/14/arxiv_2608_12586_reading_the_integer_thermal_hall_tomography_in_graphene.html</link>
-      <description>Thermal Hall measurements directly read the topological Chern integer from chiral Majorana edge modes in rhombohedral graphene.</description>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/14/arxiv_2608_12586_reading_the_integer_thermal_hall_tomography_in_graphene.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>When Wave Chaos Learns to Optimize Itself</title>
-      <link>https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13503_when_wave_chaos_learns_to_optimize_itself.html</link>
-      <description>Chaotic microwave scattering becomes a self-optimizing physical neural network, using backward adjoint waves to tune outputs without a digital twin.</description>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/14/arxiv_2608_13503_when_wave_chaos_learns_to_optimize_itself.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
