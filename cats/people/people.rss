@@ -7,9 +7,17 @@
     <link>https://www.loomsci.com/cats/people/</link>
     <description>Latest People articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 15:43:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:29:09 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/people/people.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Splitting to Coordinate: How Roles Ignite an Information Engine</title>
+      <link>https://www.loomsci.com/pages/2026/09/09/arxiv_2609_05442_splitting_to_coordinate_how_roles_ignite_an_information_engine.html</link>
+      <description>In a collective information engine, noisy social signals ignite with feedback, splitting identical agents into leaders and followers that coordinate as a whole.</description>
+      <pubDate>Tue, 08 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/09/arxiv_2609_05442_splitting_to_coordinate_how_roles_ignite_an_information_engine.html</guid>
+      <category>People</category>
+    </item>
   </channel>
 </rss>

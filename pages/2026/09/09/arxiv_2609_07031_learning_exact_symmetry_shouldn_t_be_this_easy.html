@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="description" content="An invariant subspace and subgroup lattice reveal how exact symmetry can be learned efficiently from data.">
+<meta property="og:title" content="Learning Exact Symmetry Shouldn't Be This Easy">
+<meta property="og:description" content="An invariant subspace and subgroup lattice reveal how exact symmetry can be learned efficiently from data.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.loomsci.com/pages/2026/09/09/arxiv_2609_07031_learning_exact_symmetry_shouldn_t_be_this_easy.html">
+
+<meta property="og:image" content="https://www.loomsci.com/images/2026/09/09/arxiv_2609_07031.jpg">
+
+<meta property="og:site_name" content="LoomSci">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Learning Exact Symmetry Shouldn't Be This Easy">
+<meta name="twitter:description" content="An invariant subspace and subgroup lattice reveal how exact symmetry can be learned efficiently from data.">
+
+<meta name="twitter:image" content="https://www.loomsci.com/images/2026/09/09/arxiv_2609_07031.jpg">
+
+
+  <title>Learning Exact Symmetry Shouldn't Be This Easy — LoomSci</title>
+  <link rel="alternate" type="application/rss+xml" title="LoomSci RSS" href="/latest.rss">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo_32x32_v3.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+</head>
+<body>
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="/">
+        <img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24">
+        <span class="nav-name">LoomSci</span>
+      </a>
+      <div class="nav-links-desktop">
+        
+        <a class="nav-link"
+           href="/cats/quantum_physics/">Quantum</a>
+        
+        <a class="nav-link"
+           href="/cats/artificial_intelligence/">AI</a>
+        
+        <a class="nav-link"
+           href="/cats/bioscience/">Bioscience</a>
+        
+        <a class="nav-link"
+           href="/cats/cosmos/">Cosmos</a>
+        
+        <a class="nav-link"
+           href="/cats/mathematics/">Math</a>
+        
+        <a class="nav-link"
+           href="/cats/matter_science/">Matter</a>
+        
+        <a class="nav-link"
+           href="/cats/people/">People</a>
+        
+        <a class="nav-link"
+           href="/cats/other_sciences/">Other</a>
+        
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle">About</button>
+          <div class="nav-dropdown-menu">
+            <a class="nav-dropdown-item" href="/about.html">About</a>
+            <a class="nav-dropdown-item" href="/policy.html">Policy</a>
+            
+            <a class="nav-dropdown-item" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+            
+          </div>
+        </div>
+        <a class="nav-rss" href="/latest.rss" title="RSS Feed">📡</a>
+      </div>
+      <button class="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-drawer">
+      <div class="nav-drawer-overlay"></div>
+      <div class="nav-drawer-content">
+        <div class="nav-drawer-header">
+          <a class="nav-brand" href="/"><img class="nav-logo" src="/nav-logo.png" alt="" width="24" height="24"><span class="nav-name">LoomSci</span></a>
+          <button class="nav-drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="nav-drawer-links">
+          
+          <a class="nav-drawer-link" href="/cats/quantum_physics/">Quantum</a>
+          
+          <a class="nav-drawer-link" href="/cats/artificial_intelligence/">AI</a>
+          
+          <a class="nav-drawer-link" href="/cats/bioscience/">Bioscience</a>
+          
+          <a class="nav-drawer-link" href="/cats/cosmos/">Cosmos</a>
+          
+          <a class="nav-drawer-link" href="/cats/mathematics/">Math</a>
+          
+          <a class="nav-drawer-link" href="/cats/matter_science/">Matter</a>
+          
+          <a class="nav-drawer-link" href="/cats/people/">People</a>
+          
+          <a class="nav-drawer-link" href="/cats/other_sciences/">Other</a>
+          
+          <div class="nav-drawer-collapsible">
+            <button class="nav-drawer-collapsible-toggle">About <span>›</span></button>
+            <div class="nav-drawer-collapsible-content">
+              <a class="nav-drawer-link nav-drawer-sublink" href="/about.html">About</a>
+              <a class="nav-drawer-link nav-drawer-sublink" href="/policy.html">Policy</a>
+              
+              <a class="nav-drawer-link nav-drawer-sublink" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+              
+            </div>
+          </div>
+          <a class="nav-drawer-link" href="/latest.rss">📡 RSS Feed</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <!-- MAIN -->
+  
+<div class="article">
+  <h1 class="article-title">Learning Exact Symmetry Shouldn't Be This Easy</h1>
+
+  <div class="article-meta">
+    
+    <span>September 09, 2026</span>
+    
+    
+    <span class="card-tag" style="background: #4F46E520; color: #4F46E5;">Artificial Intelligence</span>
+    
+    
+    <span>Source: arXiv:2609.07031</span>
+    
+  </div>
+
+  
+  <figure class="article-hero">
+    <img class="article-hero-img" src="/images/2026/09/09/arxiv_2609_07031.jpg" alt="An invariant subspace and subgroup lattice reveal how exact symmetry can be learned efficiently from data." />
+    
+    <figcaption class="article-hero-caption">An invariant subspace and subgroup lattice reveal how exact symmetry can be learned efficiently from data.</figcaption>
+    
+  </figure>
+  
+
+  <div class="article-body">
+    <p>What would it mean for a machine to learn not just that a pattern is common, but that it is compulsory? That question sits at the center of a new preprint (arXiv:2609.07031) by Ashkan Soleymani at MIT's Laboratory for Information and Decision Systems, together with Behrooz Tahmasebi, Patrick Jaillet, and Stefanie Jegelka, whose affiliations span MIT's CSAIL, Harvard's Paulson School, and the Technical University of Munich. The team studies exact invariance: the requirement that a learned function not merely tolerate a symmetry but respect it without exception. A rotated molecule, a translated image, a permuted list. For an exactly invariant model, none of these transformations may move the prediction by a hair.</p>
+<p>For years the computational foundations of this demand were strangely unsettled. It was known that exact invariance could be imposed in polynomial time when the symmetry group was finite and known. But infinite groups—all possible rotations of a sphere rather than just a few allowed ones—remained beyond reach. And when the symmetry itself was not handed to the learner in advance, the problem looked harder still. The new work claims to close both gaps. Its first result is a polynomial-time algorithm for learning with exact group invariances that works uniformly for finite and infinite groups, with a runtime independent of the group itself. Its second result shows that when the invariance group is unknown, exact symmetries can be identified from data and exploited efficiently within the subgroup lattice of a finite group.</p>
+<h2 id="the-leash-and-the-map">The leash and the map</h2>
+<p>To see what is new, it helps to separate two ideas that often blur together. A group is a collection of transformations that can be composed and inverted: rotations, translations, permutations. A function is invariant under a group if, when the input is transformed, the output stays put. A function is equivariant if the output transforms in a coordinated way. Invariance is a leash that stops a model from treating rotated and unrotated versions of the same object as different things; equivariance is a map that preserves the geometry through the learning pipeline. The distinction matters because the two demand different architectures and, it turns out, different formal guarantees.</p>
+<p>The word exact is doing real work. Many popular neural networks learn approximate invariances from data. They may become nearly blind to rotation after enough samples, but nothing guarantees they will remain blind on every possible input. Exactness turns that tendency into a theorem. The difficulty is that imposing such a theorem efficiently has not been obvious, especially for infinite groups, where one cannot simply average over a finite list of transformations. Averaging over a sphere means integrating over a continuum.</p>
+<p>Here the new paper makes its first move. It treats exact invariance not as a separate training trick but as a constraint on a feature space. The learner first estimates regression coefficients from data, then projects them onto the subspace of functions satisfying the invariance constraints by solving a small convex quadratic program. Think of it as moving the entire search onto a floor where the symmetry is already built into the furniture. Unlike a physical floor, though, this projection is an abstract mathematical operation; the point is not geometry but which functions are permitted to participate.</p>
+<p>Now you are probably thinking that this should have been possible long ago. If the group is known, why not simply average over it and be done? The obstacle, familiar from the history of continuous symmetry, is that averaging over an infinite set is not a finite operation. The new result shows that one can, in effect, perform the necessary averaging implicitly through a finite-dimensional computation. That is the computational explanation behind a long-standing empirical success: architectures designed to respect symmetries often learn faster and generalize further, and now there is a formal reason to expect that this is no accident.</p>
+<h2 id="discovering-the-uninvited-symmetry">Discovering the uninvited symmetry</h2>
+<p>The second contribution is more provocative because it addresses the case in which the learner does not know the symmetry in advance. Imagine a stack of data that respects some hidden order—molecular configurations whose labels depend only on shapes up to an unseen rearrangement. Can an algorithm infer the symmetry group itself, and can it do so quickly?</p>
+<p>The team proves that, within the subgroup lattice of a finite group, the answer is yes. A subgroup lattice is essentially the family tree of all possible symmetries nested inside a larger one; identifying the right branch can feel like searching a genealogical chart for the one ancestor who was left-handed in exactly the relevant way. This is not a loose metaphor. The algorithm samples candidate elements from the reference group and tests whether each one is consistent with the data.</p>
+<p>For regression over finite-dimensional feature spaces, it provably recovers the underlying symmetry, matches the minimax-optimal sample complexity of the known-symmetry setting, and runs in polynomial time. In plainer terms: discovering the hidden law costs no more, in the large-sample sense, than being handed the law for free. The proof leans on random Cayley graphs and expander theory, mathematical objects that spread information through a network with unusual efficiency. They may be of independent interest.</p>
+<p>So, the theory is elegant—but how does it hold up to the shape of real learning problems? That question connects the paper to a broader dialogue. Earlier work on continuous symmetry discovery via infinitesimal generators asked whether exactness could be recovered for the continuous symmetries that physicists actually care about, such as rotations and translations, without discretizing them first. The new algorithm handles infinite groups when the symmetry is known, but its discovery guarantee remains tied to finite groups. This is not a loophole in the method so much as a boundary on the current map.</p>
+<p>A related tension arises from earlier studies of the loss landscape of equivariant models. Those works emphasized that invariance and equivariance shape optimization in distinct ways: an invariant model flattens certain directions, while an equivariant one preserves them. The new algorithm treats exact invariance as a convex constraint and in doing so sidesteps the famously nonconvex loss landscape in which many learned symmetries live. That is a promising strategy, but it also raises a natural question. If the true problem requires equivariance rather than mere invariance, can the same convexification carry through, or does it leave the harder geometry behind? The current paper does not answer that question; it makes it precise.</p>
+<p>A skeptic might still object that the world is rarely exactly symmetric, so why demand exactness at all? This is a fair challenge. Real molecules flex, real lattices contain defects, real images have backgrounds. But the paper is not claiming that every real symmetry is exact. It is showing that when exactness is the right idealization, it can be enforced without paying an intractable price. That distinction is more than philosophical. It tells us which part of the burden of symmetry can be delegated to algorithms rather than approximated away by training heuristics.</p>
+<h2 id="what-this-forces-us-to-reconsider">What this forces us to reconsider</h2>
+<p>Taken together, the two results constitute a subtle shift in what counts as learnable. Before this work, one could reasonably suspect that exact group invariance was a luxury affordable only for finite symmetries, or that unknown symmetries demanded computational resources growing with the enormously large size of the group. The new algorithms dismantle both suspicions. They suggest that when a symmetry is exact and real, a learner can be forced to respect it without paying an intractable price.</p>
+<p>Yet the paper also leaves a visible technical seam. In the symmetry discovery proof, the probability bounds for the randomized subset selection that drives the algorithm are not fully spelled out. Whether tightening those bounds matters for practical discovery is itself an open question. One reads it less as a cracked foundation than as a door left ajar for the next refinement.</p>
+<p>The philosophical payoff is not that machines can now discover symmetries, which they do empirically every day. It is that for the first time there is a formal explanation of why exactness and discovery can coexist with efficiency. This matters because symmetries are among the few things science trusts absolutely. They are the reason we believe the same experiment performed tomorrow will reproduce the same law it did today. If a learner can recover such a law in polynomial time, then the structure of the world is, in a precise computational sense, legible.</p>
+<p>We are left not with a closed case but with a sharper question. If exact symmetries can be learned this easily, what else about the hidden grammar of data—conservation laws, invariances we have not yet named—might also be within reach of an algorithm? The paper does not promise that every symmetry will be found. It shows, more profoundly, that the ones which exist may not be able to hide for long.</p>
+<div class="article-byline">
+<p class="byline-name">— Yanjiang</p>
+<p class="byline-bio">Yanjiang is an online editor of LoomSci.com.</p>
+</div>
+<p><strong>References</strong></p>
+<ul>
+<li>Ashkan Soleymani <em>et al.</em>, Efficient Learning and Symmetry Discovery under Exact Invariances, arXiv:2609.07031</li>
+<li>Calvo-Barlés <em>et al.</em>, Learning finite symmetry groups of dynamical systems via equivariance detection, arXiv:2503.03014</li>
+<li>Shaw <em>et al.</em>, Continuous Symmetry Discovery and Enforcement Using Infinitesimal Generators of Multi-parameter Group Actions, arXiv:2505.08219</li>
+<li>Xie <em>et al.</em>, A Tale of Two Symmetries: Exploring the Loss Landscape of Equivariant Models, arXiv:2506.02269</li>
+</ul>
+  </div>
+
+  <div class="article-copyright">
+    This article was researched, edited, and approved by LoomSci's human editorial team. AI tools were used as an assistive drafting aid. All final creative decisions were made by human editors. © 2026 LoomSci.
+  </div>
+</div>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="footer-copy">© 2026 LoomSci</span>
+        <span class="footer-sep">·</span>
+        <span class="footer-tagline">Understanding science in the age of AI</span>
+      </div>
+      <div class="footer-right">
+        <a class="footer-link" href="/about.html">About</a>
+        <a class="footer-link" href="/policy.html">Policy</a>
+        
+        <a class="footer-link" href="https://forms.gle/xaSQNF54MnnNSsvq8" target="_blank" rel="noopener">FeedBack</a>
+        
+        <a class="footer-link" href="/latest.rss">RSS</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script>
+  (function(){
+    var h=document.querySelector('.nav-hamburger'),d=document.querySelector('.nav-drawer');
+    if(!h||!d)return;
+    var o=d.querySelector('.nav-drawer-overlay'),c=d.querySelector('.nav-drawer-close'),
+        ct=d.querySelector('.nav-drawer-collapsible-toggle'),
+        cc=d.querySelector('.nav-drawer-collapsible');
+    function open(){d.classList.add('open');h.classList.add('active');document.body.classList.add('drawer-open');}
+    function close(){d.classList.remove('open');h.classList.remove('active');document.body.classList.remove('drawer-open');}
+    h.onclick=function(){d.classList.contains('open')?close():open();};
+    if(o)o.onclick=close;
+    if(c)c.onclick=close;
+    d.querySelector('.nav-drawer-links').onclick=function(e){if(e.target.tagName==='A')close();};
+    if(ct&&cc)ct.onclick=function(){cc.classList.toggle('open');};
+    document.onkeydown=function(e){if(e.key==='Escape')close();};
+    window.matchMedia('(min-width:769px)').onchange=function(e){if(e.matches)close();};
+  })();
+  </script>
+</body>
+</html>
