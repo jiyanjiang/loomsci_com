@@ -7,10 +7,26 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 03:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:10:04 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Light Learns to Tell Left from Right</title>
+      <link>https://www.loomsci.com/pages/2026/09/15/arxiv_2609_12947_light_learns_to_tell_left_from_right.html</link>
+      <description>Synthetic chiral light sculpts a three-dimensional electric field that drives left- and right-handed molecules to ionize and fragment differently.</description>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/15/arxiv_2609_12947_light_learns_to_tell_left_from_right.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>Squaring the Shadow: Hyperbolic Cubics Find Their Spectrahedral Form</title>
+      <link>https://www.loomsci.com/pages/2026/09/15/arxiv_2609_12957_squaring_the_shadow_hyperbolic_cubics_find_their_spectrahedral_form.html</link>
+      <description>A five-variable cubic hyperbolicity cone is revealed as a spectrahedral shadow, bridging real-rooted geometry and semidefinite programming.</description>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/15/arxiv_2609_12957_squaring_the_shadow_hyperbolic_cubics_find_their_spectrahedral_form.html</guid>
+      <category>Mathematics</category>
+    </item>
     <item>
       <title>Diamond's Hidden Singing: Topological Surface Phonons Observed</title>
       <link>https://www.loomsci.com/pages/2026/09/15/arxiv_2609_12362_diamond_s_hidden_singing_topological_surface_phonons_observed.html</link>
@@ -233,22 +249,6 @@
       <description>A three-dimensional atomic reconstruction reveals a lopsided core and uneven shell inside a single quantum dot, with nearly atomically abrupt internal seams.</description>
       <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14962_reading_a_quantum_dot_s_buried_architecture.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>The AI Learning Chemical Intuition from Spectra Alone</title>
-      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14720_the_ai_learning_chemical_intuition_from_spectra_alone.html</link>
-      <description>In a multi-agent loop, an AI proposes molecular structures from raw spectra, revises them against simulated data, and learns ring-first chemical intuition.</description>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14720_the_ai_learning_chemical_intuition_from_spectra_alone.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>How Ocean Fronts Regulate the Hidden Energy Cascade</title>
-      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14955_how_ocean_fronts_regulate_the_hidden_energy_cascade.html</link>
-      <description>Submesoscale ocean fronts act as key regulators, transferring kinetic energy both upward into giant eddies and downward toward dissipation in the Agulhas Current.</description>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14955_how_ocean_fronts_regulate_the_hidden_energy_cascade.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>
