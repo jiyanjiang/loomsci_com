@@ -7,10 +7,18 @@
     <link>https://www.loomsci.com/cats/matter_science/</link>
     <description>Latest Matter Science articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 05:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:59:36 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/matter_science/matter_science.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Axionic Tunneling Turns a Nanowire into a Magnet</title>
+      <link>https://www.loomsci.com/pages/2026/09/15/arxiv_2512_05057_axionic_tunneling_turns_a_nanowire_into_a_magnet.html</link>
+      <description>Voltage across an atomic-scale tunnel junction induces a reversible spin polarization in a nanowire tip above an antiferromagnetic topological insulator.</description>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/15/arxiv_2512_05057_axionic_tunneling_turns_a_nanowire_into_a_magnet.html</guid>
+      <category>Matter Science</category>
+    </item>
     <item>
       <title>Light Learns to Tell Left from Right</title>
       <link>https://www.loomsci.com/pages/2026/09/15/arxiv_2609_12947_light_learns_to_tell_left_from_right.html</link>
@@ -137,14 +145,6 @@
       <description>A laser-driven plasma wake replaces superconducting magnets, converting photons into axions and back into a telltale photon signal.</description>
       <pubDate>Thu, 20 Aug 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/21/arxiv_2504_12500_a_plasma_wakefield_joins_the_axion_hunt.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Reading a Quantum Dot's Buried Architecture</title>
-      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14962_reading_a_quantum_dot_s_buried_architecture.html</link>
-      <description>A three-dimensional atomic reconstruction reveals a lopsided core and uneven shell inside a single quantum dot, with nearly atomically abrupt internal seams.</description>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14962_reading_a_quantum_dot_s_buried_architecture.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

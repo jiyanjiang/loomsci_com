@@ -7,10 +7,50 @@
     <link>https://www.loomsci.com</link>
     <description>Latest articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 05:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:59:36 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/latest.rss"
                rel="self"
                type="application/rss+xml" />
+    <item>
+      <title>Bell Pairs Without a Pump: Teleporting Microwave to Light</title>
+      <link>https://www.loomsci.com/pages/2026/09/16/arxiv_2609_16364_bell_pairs_without_a_pump_teleporting_microwave_to_light.html</link>
+      <description>A spin mediates entanglement between microwave and optical photons, enabling pump-free teleportation for future quantum networks.</description>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/16/arxiv_2609_16364_bell_pairs_without_a_pump_teleporting_microwave_to_light.html</guid>
+      <category>Quantum Physics</category>
+    </item>
+    <item>
+      <title>Hearing the First Radio Signal from a World Beyond the Sun</title>
+      <link>https://www.loomsci.com/pages/2026/09/16/arxiv_2609_16720_hearing_the_first_radio_signal_from_a_world_beyond_the_sun.html</link>
+      <description>Astronomers detect the first direct auroral radio emission from an exoplanet, beta Pictoris b, revealing a magnetic field far stronger than Jupiter's.</description>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/16/arxiv_2609_16720_hearing_the_first_radio_signal_from_a_world_beyond_the_sun.html</guid>
+      <category>Cosmos</category>
+    </item>
+    <item>
+      <title>Teaching Machines to Do Mathematics Without a Teacher</title>
+      <link>https://www.loomsci.com/pages/2026/09/15/arxiv_2608_23691_teaching_machines_to_do_mathematics_without_a_teacher.html</link>
+      <description>Autonomous AI agents form a self-organizing mathematical research city, discovering novel geometric constructions and writing a literature without central direction.</description>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/15/arxiv_2608_23691_teaching_machines_to_do_mathematics_without_a_teacher.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Axionic Tunneling Turns a Nanowire into a Magnet</title>
+      <link>https://www.loomsci.com/pages/2026/09/15/arxiv_2512_05057_axionic_tunneling_turns_a_nanowire_into_a_magnet.html</link>
+      <description>Voltage across an atomic-scale tunnel junction induces a reversible spin polarization in a nanowire tip above an antiferromagnetic topological insulator.</description>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/15/arxiv_2512_05057_axionic_tunneling_turns_a_nanowire_into_a_magnet.html</guid>
+      <category>Matter Science</category>
+    </item>
+    <item>
+      <title>How Ideal Lattices Inherit Their Hardness</title>
+      <link>https://www.loomsci.com/pages/2026/09/15/arxiv_2609_15813_how_ideal_lattices_inherit_their_hardness.html</link>
+      <description>Algebraic symmetry does not soften lattice hardness: ideal lattices inherit the worst-case difficulty of their unstructured cousins through a dimension-preserving reduction.</description>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/15/arxiv_2609_15813_how_ideal_lattices_inherit_their_hardness.html</guid>
+      <category>Artificial Intelligence</category>
+    </item>
     <item>
       <title>Light Learns to Tell Left from Right</title>
       <link>https://www.loomsci.com/pages/2026/09/15/arxiv_2609_12947_light_learns_to_tell_left_from_right.html</link>
@@ -209,46 +249,6 @@
       <description>A laser-driven plasma wake replaces superconducting magnets, converting photons into axions and back into a telltale photon signal.</description>
       <pubDate>Thu, 20 Aug 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/21/arxiv_2504_12500_a_plasma_wakefield_joins_the_axion_hunt.html</guid>
-      <category>Matter Science</category>
-    </item>
-    <item>
-      <title>Leaving the Lab: A Laser Wakefield Accelerator Goes to Work</title>
-      <link>https://www.loomsci.com/pages/2026/08/20/arxiv_2608_17554_leaving_the_lab_a_laser_wakefield_accelerator_goes_to_work.html</link>
-      <description>A laser wakefield accelerator survives a 72-hour stable run and a seven-month industrial trial, using compact X-ray microtomography to inspect turbine blades.</description>
-      <pubDate>Wed, 19 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/20/arxiv_2608_17554_leaving_the_lab_a_laser_wakefield_accelerator_goes_to_work.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>How Magnetic Black Holes Become Rapid Sirens</title>
-      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2601_10552_how_magnetic_black_holes_become_rapid_sirens.html</link>
-      <description>Magnetic black holes may emit rapid gravitational-wave whispers weeks after a merger, revealing hidden monopoles and ultralight bosons.</description>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2601_10552_how_magnetic_black_holes_become_rapid_sirens.html</guid>
-      <category>Cosmos</category>
-    </item>
-    <item>
-      <title>Learning When to Stop: Fast Readout for Atom Arrays</title>
-      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_17189_learning_when_to_stop_fast_readout_for_atom_arrays.html</link>
-      <description>Adaptive photon counting lets neutral-atom processors read out qubits in microseconds, signaling each atom only until its state is clear.</description>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_17189_learning_when_to_stop_fast_readout_for_atom_arrays.html</guid>
-      <category>Quantum Physics</category>
-    </item>
-    <item>
-      <title>How a Sharp Curl Inequality Finally Found Its Optimizers</title>
-      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2607_23827_how_a_sharp_curl_inequality_finally_found_its_optimizers.html</link>
-      <description>A sharp curl inequality on the sphere is optimized by positive Killing forms, confirming Rivière's problem and proving global minimality of the Hopf map in the Faddeev-Skyrme model.</description>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2607_23827_how_a_sharp_curl_inequality_finally_found_its_optimizers.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>Reading a Quantum Dot's Buried Architecture</title>
-      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14962_reading_a_quantum_dot_s_buried_architecture.html</link>
-      <description>A three-dimensional atomic reconstruction reveals a lopsided core and uneven shell inside a single quantum dot, with nearly atomically abrupt internal seams.</description>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2608_14962_reading_a_quantum_dot_s_buried_architecture.html</guid>
       <category>Matter Science</category>
     </item>
   </channel>

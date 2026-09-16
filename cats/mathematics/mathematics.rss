@@ -7,7 +7,7 @@
     <link>https://www.loomsci.com/cats/mathematics/</link>
     <description>Latest Mathematics articles from LoomSci</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 05:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:59:36 GMT</lastBuildDate>
     <atom:link href="https://www.loomsci.com/cats/mathematics/mathematics.rss"
                rel="self"
                type="application/rss+xml" />
@@ -25,14 +25,6 @@
       <description>Every triangulation of real projective d-space demands exponentially many vertices in the square root of the dimension, because a free antipodal mirror cannot be tiled cheaply.</description>
       <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.loomsci.com/pages/2026/09/10/arxiv_2609_10402_triangulating_the_impossible_why_projective_space_needs_exponential_vertices.html</guid>
-      <category>Mathematics</category>
-    </item>
-    <item>
-      <title>How a Sharp Curl Inequality Finally Found Its Optimizers</title>
-      <link>https://www.loomsci.com/pages/2026/08/19/arxiv_2607_23827_how_a_sharp_curl_inequality_finally_found_its_optimizers.html</link>
-      <description>A sharp curl inequality on the sphere is optimized by positive Killing forms, confirming Rivière's problem and proving global minimality of the Hopf map in the Faddeev-Skyrme model.</description>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.loomsci.com/pages/2026/08/19/arxiv_2607_23827_how_a_sharp_curl_inequality_finally_found_its_optimizers.html</guid>
       <category>Mathematics</category>
     </item>
   </channel>
